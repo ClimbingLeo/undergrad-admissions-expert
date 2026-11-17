@@ -22,6 +22,8 @@ Notre Dame 的 Common Data Set 官方入口是院校研究办公室页面上的 
 
 **Class of 2029（2024–25 季，2025 秋入学，CDS 2025–26 口径）**
 
+> 2026-11 已与 Notre Dame 官方 CDS 2025–26 原件（发布页 [IRIS Common Data Set](https://iris.nd.edu/institutional-research/common-data-set-cds/)）逐项核对：C1、C2、C9、C10、C7 与下表及 C7 小节一致。表中链接是第三方镜像，内容与原件相同。
+
 | 指标 | 数值 | 来源 |
 | --- | --- | --- |
 | 申请 / 录取 / 入学 | 35,401 / 3,320 / 2,118（录取率约 9.4%，Yield 约 63.8%，按 CDS 计算） | [CDS 2025–26 C1](https://isduwmygvmdozhpvzaix.supabase.co/storage/v1/object/public/sources/university-of-notre-dame/2025-26/8cc4d7972006ee3d6941fc89336a8cba4662437529290d9a5e6e2641b6602d1f.pdf) |

@@ -1,35 +1,37 @@
 # 约翰斯·霍普金斯大学 Johns Hopkins University (JHU)
 
-## 📊 关键录取数据（2024–2025，Class of 2029）
+## 📊 关键录取数据（2025–26 CDS，Fall 2025 入学 / Class of 2029）
+
+> 2026-11 已与 JHU 官方 CDS 2025–26 原件（[OIRA Common Data Set 2025-26](https://oira.jhu.edu/common-data-set-2025-26/)）逐项核对。旧版本这里标「Class of 2029」，用的却是上一届（2024–25 CDS）的数字，已更正。
 
 | 指标 | 数值 |
 | --- | --- |
-| 申请总人数 | 45,895 |
-| 录取人数 | 2,954 |
-| 整体录取率 | 6.4% |
-| ED（早申约束）录取率 | 11.7%（825人录取，7,028人申请） |
-| RD（常规申请）录取率 | 约 5.5% |
-| 录取生入学人数 | 1,389 |
-| Yield 率 | 47.0%（入学率中等偏低，竞争激烈） |
-| 国际生比例 | 15.0%（占录取；23.4% 为国际申请者） |
-| 国际生录取率 | 4.5%（低于整体均值，竞争极激烈） |
+| 申请总人数 | 50,259（C1） |
+| 录取人数 | 3,072（C1） |
+| 整体录取率 | 6.1%（按 C1 计算） |
+| ED（早申约束，含 ED I 与 ED II）录取率 | 10.9%（7,639 人申请，835 人录取；C21） |
+| 非 ED 录取率 | 约 5.2%（(3,072−835)/(50,259−7,639)，按 CDS 计算） |
+| 入学人数 | 1,378（C1） |
+| Yield 率 | 约 44.9%（按 C1 计算） |
+| 国际申请者 | 10,705 人申请、404 人录取、183 人入学；国际生录取率约 3.8%，占全部录取的 13.2%（C1 按居住地拆分） |
+| 候补 | 给出 2,058 / 接受 1,359 / 最终录取 247（C2） |
 
-> 注：Class of 2029 的实际数据（基于 2024-25 CDS）。JHU 为 ED（Early Decision，具约束力）学校，ED 录取率约为 RD 的 2 倍。另有 ED II 轮次（2 月截止）。
+> JHU 是 ED 学校：ED I 11 月 1 日截止，ED II 1 月 3 日截止（C21）；ED 录取率约为非 ED 的 2 倍。ED 池里有多少带 hook 的申请人官方没有公布，不能简单理解为「ED 让录取机会翻倍」。
 
 ---
 
 ## 📚 学术硬件画像
 
-**GPA**
-- 录取生平均 unweighted GPA：3.93
-- 65.0% 的录取生拥有满绩（4.0）
-- 100% 排在高中年级前 10%
+**GPA 与排名**（C10–C12）
+- 新生平均 GPA：3.93
+- 66.1% 的新生 GPA 为 4.0
+- 报了排名的新生 100% 在高中年级前 10%
 
-**SAT / ACT**
-- SAT 中位区间：1530–1560（50th percentile）
-- SAT 数学：780–800；SAT EBRW：740–770
-- ACT 中位区间：34–36（中位 ACT composite：35）
-- 2024–25 仍为 test-optional；2025–26 政策待确认（建议提交）
+**SAT / ACT**（C9）
+- 提交比例：SAT 57%（783 人）、ACT 20%（273 人）
+- SAT 总分 25/50/75：1530 / 1550 / 1565；EBRW 750 / 760 / 780；Math 780 / 790 / 800
+- ACT 总分 25/50/75：35 / 35 / 35
+- 标化政策：C8A 写明录取使用 SAT / ACT；现行要求见 [JHU 申请要求页](https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/)（本画像「学校看重的特质」一节：标化必交）
 
 **课程难度**
 - 课程挑战性是录取"非常重要"的评估维度
@@ -74,13 +76,13 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 
 | Hook 类型 | 说明 |
 | --- | --- |
-| ED（早申约束） | 录取率约 11.7% vs 整体 6.4%，是最有效的"hook"；强烈建议确定 JHU 第一志愿者使用 |
-| ED II | 2 月截止，录取率介于 ED I 和 RD 之间，适合"想等到 1 月后确认是否喜欢 JHU"的学生 |
+| ED（早申约束） | 录取率 10.9% vs 整体 6.1%（CDS 2025–26）；确定 JHU 是第一志愿时值得使用 |
+| ED II | 1 月 3 日截止、2 月 12 日出结果（CDS C21）；录取率官方未单独公布；适合到 1 月才确认 JHU 是第一志愿的学生 |
 | Legacy（校友子女） | **JHU 明确表示 Legacy 不影响录取决定**，是美国少数不给 Legacy 优待的顶校之一 |
 | 招募运动员 | JHU 为 Division III（无体育奖学金），招募影响力有限，但部分项目（曲棍球、赛艇）确实有少量招募名额 |
-| First-Gen | 被"考虑"，但不是"非常重要"的因素 |
+| First-Gen | CDS 2025–26 C7 为 Considered |
 | 捐赠者关联 | 不公开，但规模小于顶级捐赠型学校 |
-| 国际生 | 录取率 4.5%（低于均值 6.4%），竞争激烈；JHU 不提供国际生 need-based aid（与 Harvard/Yale/Princeton 不同） |
+| 国际生 | 录取率约 3.8%（CDS 2025–26，低于整体 6.1%），竞争激烈；JHU 不提供国际生 need-based aid（与 Harvard/Yale/Princeton 不同） |
 
 ---
 
@@ -88,9 +90,9 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 
 | 轮次 | 截止日期 | 参考录取率 |
 | --- | --- | --- |
-| ED（Early Decision，约束性） | 11 月 1 日 | 11.7%（约 RD 的 2 倍） |
-| ED II（Early Decision II） | 1 月 2 日 | 约 8–9%（估计） |
-| RD（Regular Decision） | 1 月 2 日 | 约 5.5% |
+| ED（Early Decision，约束性） | 11 月 1 日 | ED I 与 ED II 合计 10.9%（约非 ED 的 2 倍） |
+| ED II（Early Decision II） | 1 月 3 日 | 官方未单独公布 |
+| RD（Regular Decision） | 1 月 2 日 | 非 ED 约 5.2% |
 
 ---
 
@@ -195,7 +197,7 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 
 - 唯一一篇补充文书（350 词）问你从自身经历中学到了什么关于 engaging across differences，以及这如何影响你对 building bridges、与他人合作的看法；招生办博客说看过程而非结果。这是 2026–27 季新题（上一季是「生命中一个重要的第一次」），能否持续还看不出来。同类「跨越分歧 / 搭桥」题本季是共性题型：NYU 唯一的补充文书几乎同题，Georgetown 的全员必答短文、Emory 的四选一中也有同类题，不是 JHU 独有。
 - 没有 Why Hopkins 题；标化必交；不提供评估性面试。
-- CDS 2025–26 C7（**来自第三方对官方 PDF 的转录，原件未能逐项核对**；另有第三方版本把 Character 列为 Very important）：Rigor、排名、GPA、标化、文书、推荐信为 Very important；课外活动、Talent/ability、Character、Volunteer work 为 Important。
+- CDS 2025–26 C7（2026-11 已与[官方原件](https://oira.jhu.edu/common-data-set-2025-26/)逐项核对；第三方版本把 Character 列为 Very important，与原件不符）：Rigor、排名、GPA、标化、文书、推荐信为 Very important；课外活动、Talent/ability、Character、Volunteer work、Work experience 为 Important；First generation、Geographical residence 为 Considered；面试、Alumni relation、州籍、宗教、Level of applicant's interest 为 Not considered。
 
 **流行说法核查**：
 

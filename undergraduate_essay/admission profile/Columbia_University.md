@@ -18,6 +18,8 @@
 
 注：CDS 原件 URL 若无法直接打开，可用存档版：[CDS 2025–26 存档](https://web.archive.org/web/20260925203048/https://opir.columbia.edu/sites/opir.columbia.edu/files/content/Common%20Data%20Set/2025-26_Columbia_College_and_Columbia_Enginnering_CDS.pdf)。CDS 2025–26 的 C2 候补名单只勾选了"有候补政策"，没有填写人数。
 
+2026-11 已下载 CDS 2025–26 官方原件逐项核对：C1（59,611 / 2,946）、C21（ED 5,868 / 819）、C9（SAT 1510 / 1540 / 1560，ACT 34 / 35 / 35，提交 50% / 17%）、C10（前 10% 94%、前 25% 99%）、C7 均与本画像一致。
+
 ## 学术硬件画像
 
 主要来自 [Columbia CDS 2025–26](https://opir.columbia.edu/sites/opir.columbia.edu/files/content/Common%20Data%20Set/2025-26_Columbia_College_and_Columbia_Enginnering_CDS.pdf)（Class of 2029 入学新生，CC + SEAS 合并）。
