@@ -17,6 +17,8 @@
 | Yield | Fall 2025：6,687 / 14,524 ≈ 46.0%（按 CDS 计算）；Fall 2026 预计入学 6,477 人（官方未公布最终 yield） | [CDS 2025–26 C1](https://docs.google.com/spreadsheets/d/1INsGFH6MhaO-MFMBZ1Dngcn84FeN-hc0BLS0-v8TL_k/edit)；[UC 顾问大会 2026](https://admission.universityofcalifornia.edu/counselors/_files/documents/2026-counselor-conference-ada-pdfs/cc-ucop-and-campus-updates_ada.pdf) |
 
 > 口径提示：UCOP 表格是「初步数据」（申请截至 2026-01-21，录取截至 2026-06-17），之后还有候补录取；CDS 2025–26 对应的是 Fall 2025（申请 126,864 / 录取 14,524），不是 Fall 2026。伯克利 CDS 的 C1 分居住地一栏写「State applicant data not yet available」，所以分居住地数字只能用 UCOP。
+>
+> 原件核对（2026-11-17）：CDS 2025–26 官方 xlsx 的 C1、C2、C7 全表、C11、C12、C13 申请费、H2A，以及 UC 2026 顾问大会 PDF 的 13,919 / 5,170 / 411 / 6,477，均已逐项比对一致。
 
 ## 学术硬件画像
 

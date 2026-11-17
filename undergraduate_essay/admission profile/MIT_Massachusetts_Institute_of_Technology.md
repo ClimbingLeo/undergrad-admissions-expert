@@ -53,7 +53,7 @@ MIT 官方统计页截至 2026-11 仍只更新到 Class of 2029，所以 Class o
 
 **标化政策**：**Test-required**（SAT 或 ACT 二选一）。MIT 于 2022-03-28 宣布恢复要求，适用于 Class of 2027（2022–23 申请季）及以后（[MIT Admissions 博客, 2022-03-28](https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/)）。不要求 ACT 写作/科学、不要求 SAT 作文；按各分项最高分（相当于 superscore）看，但要报告所有完整考试；EA 须在 11 月 30 日前考完，RA 须在 12 月 31 日前（[MIT Tests & scores](https://mitadmissions.org/apply/firstyear/tests-scores/)）。官方明确说对 SAT/ACT 没有 cutoff 或推荐分（[MIT International applicants](https://mitadmissions.org/apply/firstyear/international/)）。
 
-**CDS C7 学业因素**（MIT 官方页面表格列位置我无法直接核读，以下为 Esslo 对 MIT CDS 2025–26 的转录，属第三方转录，见 [Esslo](https://www.esslo.org/colleges/mit/llms.txt)）：
+**CDS C7 学业因素**（已与 [MIT CDS 2025–26](https://ir.mit.edu/projects/2025-26-common-data-set/) 官方原件逐项核对；该版模板把 Application essay、Recommendation 归在学业类，下表放在非学业类表中）：
 
 | 因素 | 重要性 |
 | --- | --- |
@@ -64,7 +64,7 @@ MIT 官方统计页截至 2026-11 仍只更新到 Class of 2029，所以 Class o
 
 ## 课外活动（EC）画像
 
-**CDS C7 非学业因素**（同上，为第三方转录 [Esslo](https://www.esslo.org/colleges/mit/llms.txt)，原始页面为 [MIT CDS 2025–26](https://ir.mit.edu/projects/2025-26-common-data-set/)）：
+**CDS C7 非学业因素**（已与 [MIT CDS 2025–26](https://ir.mit.edu/projects/2025-26-common-data-set/) 官方原件逐项核对）：
 
 | 因素 | 重要性 |
 | --- | --- |

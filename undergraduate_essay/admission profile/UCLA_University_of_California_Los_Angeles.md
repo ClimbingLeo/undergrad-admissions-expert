@@ -18,6 +18,8 @@
 | Yield | Fall 2025：6,553 / 13,659 ≈ 48.0%（按 CDS 计算）；Fall 2026 入学目标 6,775 人，最终 yield 官方未公布 | [CDS 2025–26 C1](https://apb.ucla.edu/file/f8f5c864-93be-4b44-b646-7807a685749f)；[UC 顾问大会 2026](https://admission.universityofcalifornia.edu/counselors/_files/documents/2026-counselor-conference-ada-pdfs/cc-ucop-and-campus-updates_ada.pdf) |
 
 > 口径提示：UCLA 招生办官网的「First-Year Profile」目前最新是 Fall 2025（申请 145,085 / 录取 13,659 / 入学 6,553），Fall 2026 的完整 profile 尚未上线；CDS 2025–26 对应 Fall 2025，其 C1 分居住地一栏为 0（未填）。分居住地数字只能用 UCOP。
+>
+> 原件核对（2026-11-17）：UC 2026 顾问大会 PDF 中 Fall 2026 的 146,700 申请、15,942 录取、各学院表（含 Engineering 30,499 / 2,279）、候补 19,293 / 11,352 / 1,036、GPA 3.95 / 4.24、first-gen 21%、入学目标 6,775，均已逐项比对一致。
 
 ## 学术硬件画像
 
