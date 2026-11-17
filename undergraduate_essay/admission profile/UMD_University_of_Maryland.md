@@ -392,99 +392,7 @@
 
 ## 📝 文书题目与字数限制（2025-2026最新版）
 
-UMD要求6篇supplemental essay，每篇**650字符限制**（约90-150词，取决于单词长度）。
-
-### 题目1：Travel（旅游/探索）
-**完整题目：** "If I could travel anywhere, I would go to… (Please describe a place you would like to visit and why.)"
-
-**字符限制：** 650字符
-
-**常见陷阱：**
-- 仅描述景点美景（流于表面）
-- 不连接到学术或个人成长
-- 过度梦幻（"我想去火星"、"我想时光旅行"）
-
-**得分内容特征：**
-- 与未来专业相关（如工程学院学生想去参观瑞典电力工程研究所）
-- 与个人价值观相连（如人文学者想去参观某个历史遗迹，理解文明冲突）
-- 具体、可实现且有个人意义
-
-### 题目2：Academic Interests（学术兴趣之外）
-**完整题目：** "In addition to my major, my academic interests include…"
-
-**字符限制：** 650字符
-
-**目的：** 了解学生的知识广度和好奇心
-
-**常见陷阱：**
-- 列举过多兴趣（显得不专注）
-- 兴趣与已选major无任何联系
-- 不解释为什么感兴趣
-
-**得分内容特征：**
-- 选1-2个兴趣深度阐述
-- 解释这些兴趣的内在逻辑（可补充major，可交叉融合）
-- 提到具体的学习或参与方式（参加课程、参赛、研究等）
-
-**例子：**
-"我主修工程，但我也对城市规划和可持续发展深感兴趣。这源于一次在家乡看到旧工业区改造的经历，我想学习如何设计既高效又宜居的城市。我参加了学校的Model City竞赛……"
-
-### 题目3：Monday（周一反思）
-**完整题目：** "My favorite thing about last Monday was…"
-
-**字符限制：** 650字符
-
-**目的：** 看学生如何观察微小时刻，展现价值观和个性
-
-**常见陷阱：**
-- 太宏大（"我打破了学校纪录"）
-- 太平凡且无意义（"我吃了早餐"）
-- 没有个人反思
-
-**得分内容特征：**
-- 选一个具体、感官化的时刻
-- 展现个人价值观或性格特质
-- 有小小的启发或转变
-
-**例子：**
-"上周一，我在编程俱乐部看到一名从未碰过代码的新生，按照我的指导敲出她的第一个'Hello World'程序。她转过身，脸上洋溢着惊喜和骄傲，问我'我真的写出来了？'那一刻，我明白了教学的力量——不是传递知识的宽度，而是点燃他人的热情。"
-
-### 题目4：Diversity（多样性）
-**完整题目：** "Because we know that diversity benefits the educational experience of all students, the University of Maryland values diversity in all of its many forms. Please describe how you have learned, grown, been inspired or developed skills through one or more components of diversity."
-
-**字符限制：** 650字符
-
-**多样性的定义（UMD明确说明）：**
-- 种族和民族
-- 社会经济背景
-- 性别认同和性取向
-- 地理来源
-- 残障状况
-- 家庭背景（第一代、农村等）
-- 宗教信仰
-- 专业或兴趣多样性
-
-**常见陷阱：**
-- 假装有你没有的身份
-- "作为多数族裔，我无法填这题"心态（错误！）
-- 仅说困难，不说成长
-
-**得分内容特征：**
-- 选择真实的多样性维度
-- 具体描述遇到了什么不同
-- 说明你如何学到了什么或如何改变了看法
-- 展现反思和同理心
-
-**例子（中国国际生）：**
-"作为来自北京的国际生，我进入美国高中时，经历过文化碰撞。我的直接沟通风格被误解为'无礼'，我习惯的老师权威制与美国的师生民主讨论差异巨大。但通过参加模拟联合国，与来自25个国家的学生协作，我学会了在保留自己文化骨骼的同时，采纳新的观点……"
-
-### 题目5-6：其他补充题目
-UMD通常还有1-2个变动的补充题目，常见包括：
-- "Something you might not know about me is…"
-- "My greatest achievement is…"
-- "What's a project or idea that excites you?"
-
-**具体题目需在申请系统中确认**
+UMD 现在只要**一篇主文书**（Common App 七个题目任选，650 词以内），没有补充短答；官网 Essay Questions 页和 Freshman 页都只列这一篇。原先列在这里的 6 篇 650 字符补充短答（Travel、Academic Interests、Monday、Diversity 等）是早年设计，已取消（2026-11 更正）。下文案例中提到的补充短答，是当年申请季的情况。
 
 ---
 
@@ -611,28 +519,9 @@ At Maryland, I want to take courses in behavioral economics and psychology becau
 
 ## 🔍 UMD文书规律总结
 
-### 1. **主题倾向**
+### 1–2. **主题倾向与字符限制**
 
-UMD在6篇补充文书中反复考察的核心主题：
-
-| 核心主题 | 在各题中的体现 | 占比 |
-|--------|------------|-----|
-| **个人成长与自我认知** | Travel、Monday、Something unique | 40% |
-| **学术热情与知识探索** | Travel、Academic interests、Research | 35% |
-| **社区贡献与他人赋权** | Diversity、Monday | 20% |
-| **跨学科思维** | Academic interests、Research | 15% |
-
-### 2. **字符限制的挑战**
-
-650字符意味着约90-150词。这很短，所以：
-
-- **必须精确** - 每个句子都要有信息密度
-- **不能list** - 列举10个兴趣反而减分
-- **故事优于概念** - 讲一个具体故事比讲哲理有力
-
-**对比：**
-- ❌ "我对计算机科学、数学和物理都感兴趣，因为它们是理解世界的基础……"
-- ✅ "我用Python写了一个程序来优化学校的课程表，让300个学生的日程冲突减少了40%。这个项目教会我，理论（算法）只有应用到现实才有价值。"
+原先这里按 6 篇 650 字符补充短答总结主题和写法；这些短答已取消，现在只有一篇 650 词主文书，这两条不再适用（2026-11 更正）。
 
 ### 3. **避免的常见错误**
 
@@ -641,7 +530,7 @@ UMD在6篇补充文书中反复考察的核心主题：
 | 过度堆砌成就 | 高 | "I won 5 competitions, published a paper, and led a club" | 选1-2个深度阐述，说明impact而不是成就数量 |
 | 名校崇拜 | 中 | "我想去UMD因为它是顶级学校" | 说具体的项目、教授、或价值观匹配 |
 | 过度修辞 | 中 | 用过多的比喻、排比 | 英文文书倾向direct和authentic |
-| 与文书重复 | 中 | 补充文书与主文书叙述同一件事 | 补充文书应补充新信息 |
+| 与文书重复 | 中 | 补充文书与主文书叙述同一件事 | 补充文书应补充新信息（UMD 现已无补充短答，2026-11 更正） |
 | 假装身份 | 低但严重 | 声称有多元背景但事实不符 | 真实性是第一位的 |
 | 太宏大 | 中 | "我想改变世界" | 具体到"我想改变某个社区的某个方面" |
 
@@ -656,6 +545,35 @@ UMD在6篇补充文书中反复考察的核心主题：
 5. **跨学科思维** - 你是否展现了融合不同学科的能力？
 
 ---
+
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。盲测中评判是靠招生理念条文的措辞认出马里兰的，不是靠特质。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 既能充实校园、也能从中受益的学生 | "Our admission process has one mission: to identify applicants, who as individuals and as a group, will enrich and benefit from the campus learning environment…" | [UMD 招生办 Admission Review Process & Factors 页, 2026](https://admissions.umd.edu/apply/admission-review-process-factors) |
+| 在机会与挑战的背景下评估学业和潜力 | "assessing academic merit, achievements and potential in the context of the opportunities and challenges the student faced." | [UMD 招生办 Admission Review Process & Factors 页, 2026](https://admissions.umd.edu/apply/admission-review-process-factors) |
+| 聪明、投入、好奇、创新 | "Our students are smart, involved, curious and innovative." | [UMD 招生办 Admission Review Process & Factors 页, 2026](https://admissions.umd.edu/apply/admission-review-process-factors) |
+| 面对逆境的坚持（四大评估类别之一） | "Persistence, and commitment to educational excellence, as evidenced by demonstrated success in facing adversity and overcoming obstacles." | [UMD 招生办 Statement of Philosophy of Undergraduate Admissions（PDF，2023 上传，声明本身未注年份）](https://umd-admissions.files.svdcdn.com/production/file/Statement_of_Philosophy.pdf?dm=1682711580) |
+
+这些都是公立旗舰校的共性说法，「in context」的表述和华盛顿大学、UC 高度相似。马里兰稍有特点的是两处表述：官网列出 23 项评审因素，并说 "These factors are flexibly applied, so the listing does not reflect order of importance."；活动表要求 "Please start by sharing the two experiences outside of academics that are most important to you."。但「重深度不重数量」几乎是所有学校的共识。
+
+**体现在申请设计中**：
+
+- 2026–27 官方 Essay Questions 页只列**一篇主文书**（Common App 七个题目任选，650 词以内，文首写明所选题目），没有补充短答。**本画像「文书题目」一节原列的 6 篇 650 字符补充短答是早年设计，官方页面已看不到，已在该节更正（2026-11；建议在 Common App 里再确认一次）。**
+- 必交 2 封推荐信（升学顾问 1 封 + 教师 1 封），可以多交；活动表先写最重要的两项；标化至 2027 年春季和秋季申请季（含）test-optional，可 superscore；无面试。
+- 所选专业不影响能否被录取："On the UMD application, you'll select a preferred major. This information will not impact whether or not you are admissible to the university." 商科、CS、工程等 Limited Enrollment Programs 在录取学校之后由专业另行审核。
+- CDS 2025–26 C7（UMD IRPA 官方 xlsx）：**Very important 只有 Rigor of secondary school record**；Important 为 Academic GPA、文书、推荐信、课外活动、才能、品格与个人特质；Considered 为排名、标化、第一代、地域、州籍、志愿服务、工作经历；面试、校友关系、宗教、兴趣程度为 Not considered。
+
+**流行说法核查**：
+
+- 「马里兰主要看成绩和专业」→ **「成绩」部分支持，「专业」不支持**。成绩：C7 中唯一的 Very important 是课程难度，GPA 只是 Important，和文书、推荐信、活动、品格同一档；官方说 23 项因素不分先后，并强调 "more to you than grades and SAT scores"。专业：官方两处明确说所选专业不影响能否被学校录取，LEP 是录取后才由专业另审，没进 LEP 的学生进入 Letters & Sciences。
+
+**对申请者的含义（归纳）**：
+
+1. 学校自填 C7 中唯一的 Very important 是课程难度，选课难度要拿得出手；GPA、文书、推荐信、活动、品格同为 Important。
+2. 专业选择不影响学校录取，但影响录取后能否进入热门专业（LEP）；报 LEP 的要有先进 Letters & Sciences 的准备。
 
 ## 💡 对中国学生申请UMD的实战建议
 
@@ -764,7 +682,7 @@ UMD的Limited Enrollment Programs (LEP) 包括：
 
 **12月至1月（EA准备）：**
 - 确保SAT成绩已取得或retake计划清晰
-- 草稿6篇supplemental essay
+- 草稿主文书（补充短答已取消，2026-11 更正）
 - 找老师/导师修改
 - 填完Common App和UMD特定信息
 
@@ -809,7 +727,7 @@ UMD允许1-3封推荐信（通常2封）
 | 国际生录取率 | 25-30% | ~3-5% | ~5% | ~1% |
 | 中位SAT | 1465 | 1540 | 1490 | 1500 |
 | 中位GPA | 4.45 | 3.95 UW | 4.0+ | 4.0 |
-| 文书数量 | 6篇650字符 | 1篇主文书 | 2篇 | 1篇主文书 |
+| 文书数量 | 1篇主文书（2026-11 更正） | 1篇主文书 | 2篇 | 1篇主文书 |
 | Yield (录取后入学率) | 21.6% | 42% | 36% | 29% |
 | 国际生学费年度 | $48,500+ | $48,000+ | $52,000+ | $48,000+ |
 

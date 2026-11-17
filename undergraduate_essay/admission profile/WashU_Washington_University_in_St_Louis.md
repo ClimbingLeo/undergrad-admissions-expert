@@ -148,7 +148,7 @@ CDS C7 非学业因素（2025–26，[来源](https://washu.edu/app/uploads/2026
 
 - 只有一篇 250 词必答题「你想在大学学什么、为什么」；官方希望申请者把对 WashU 的了解反映在这道题的「why」里。原有的可选补充文书本季取消。
 - 2026–27 季起正式考虑 demonstrated interest（校园参观、线上说明会、Bear Chats、和招生官交流等）；不提供评估性面试；可选 90 秒视频。
-- CDS 2025–26 C7：Rigor、排名、GPA、标化、文书、推荐信、Talent/ability、Character 为 Very important；课外活动为 Important；Level of applicant's interest 为 Considered。
+- CDS 2025–26 C7：Rigor、排名、GPA、标化、文书、推荐信、Talent/ability、Character 为 Very important；课外活动为 Important；Level of applicant's interest 为 Considered。注意：CDS 2025–26 已填 Considered，官网则说 2026–27 季起才考虑 demonstrated interest，两者时间口径不同（CDS 的填报年份与官网所说的申请季不一定对应），以官网现行说法为准。
 
 **流行说法核查**：
 
@@ -157,7 +157,7 @@ CDS C7 非学业因素（2025–26，[来源](https://washu.edu/app/uploads/2026
 **对申请者的含义（归纳）**：
 
 1. 唯一的文书题要同时回答「想学什么」和「为什么在 WashU 学」，把对学校的具体了解写进去；参加说明会等接触会被考虑，但官方说只占很小一部分。
-2. 申请材料里突出与同伴合作、支持他人的经历，比强调和别人竞争的名次更贴合官方表述。
+2. 申请材料里可以突出与同伴合作、支持他人的经历，这与招生页描述学生的用词（collaborative、support one another）一致。
 
 ## 对中国学生的建议
 

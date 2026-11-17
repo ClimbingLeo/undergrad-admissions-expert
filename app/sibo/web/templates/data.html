@@ -11,15 +11,24 @@
 <div class="grid g2">
 <div class="card"><h2>学校画像段落可信度</h2><table class="t">{% for t in trust_rows %}<tr><td>{{ trust(t.trust) }}</td><td class="num">{{ t.n }}</td></tr>{% endfor %}</table>
 <p class="small ink2" style="margin-top:10px">学校画像由人工 + AI 整理。只有附带公开链接的段落标为「已溯源」。画像中所有「案例」小节经抽查为综合或虚构人物，统一标为「示例画像」：保留作教学说明，但不进入 AI 检索、不得对外当作真实案例。</p></div>
-<div class="card" id="values-test"><h2>「学校看重的特质」区分度说明</h2>
-<p class="small ink2">15 所顶尖学校（HYPSM、Caltech、Penn、Columbia、UChicago、Brown、Cornell、Duke、Northwestern、Dartmouth、CMU）的画像里有一节「学校看重的特质（官方表述）」。为了验证学校之间的偏好差异是否真实存在，而不是人人都说的共性话术，2026-11 做了两轮抹名盲测：</p>
+<div class="card" id="values-test" style="grid-column:1/-1"><h2>「学校看重的特质」区分度说明</h2>
+<p class="small ink2">全部 60 所学校的画像里都有一节「学校看重的特质（官方表述）」。为了验证学校之间的偏好差异是否真实存在，而不是人人都说的共性话术，2026-11 做了抹名盲测：</p>
 <ol class="small ink2">
-<li>每校收集 12–15 条招生办、招生主任、校长的官方原话，逐字核对原网页。</li>
-<li>第 1 轮：只抹掉校名和地名，评判模型 15 所全部认出。但它说明约 10 所是靠课程制度、学院结构等事实线索认出来的，不是靠「想要什么样的人」。</li>
-<li>第 2 轮：只保留描述学生特质的句子，改写成中文、去掉标志性原词，再让另一个评判模型盲猜。结果 15 所猜对 13 所（随机猜平均对 1 所），并按把握分为三档：
-  <b>明显</b>（UChicago、Penn、Brown、MIT、Caltech、Dartmouth）、<b>中等</b>（Northwestern、Duke、Stanford、Harvard、Princeton）、<b>与同档学校基本一致</b>（Columbia、Cornell、Yale、CMU）。</li>
+<li>每校收集 10–15 条招生办、招生主任、校长的官方原话，逐字核对原网页。</li>
+<li>抹掉校名、地名、吉祥物等线索，只保留描述学生特质的句子，改写成中文，再让评判模型在同档学校里一一配对盲猜（随机猜平均对 1 所）。首批 15 所另做过一轮只抹名的对照：全部认出，但约 10 所靠的是课程制度等事实线索，所以正式结果只看特质轮。</li>
+<li>按「猜对 + 把握度 + 是否凭特质本身认出」分三档。靠班级排名、按专业录取等制度线索猜对的，不算特质差异。</li>
 </ol>
-<p class="small ink2"><b>使用边界</b>：这只证明学校<b>公开说的</b>偏好不同，不能证明录取时实际按此加权。知识库的申请者样本每校只有 20–45 个结果，检验不出这种差异。其余学校暂无这一节。</p></div>
+<table class="t small">
+<tr><th>同档组</th><th>猜对</th><th>明显</th><th>中等</th><th>与同档学校基本一致</th></tr>
+<tr><td>美国顶尖 15</td><td>13/15</td><td>UChicago、Penn、Brown、MIT、Caltech、Dartmouth</td><td>Northwestern、Duke、Stanford、Harvard、Princeton</td><td>Columbia、Cornell、Yale、CMU</td></tr>
+<tr><td>美国私立 13</td><td>11/13</td><td>NYU、USC、Notre Dame</td><td>JHU、Georgetown、WashU、Vanderbilt、Tufts</td><td>Northeastern、Rice、BC、Emory、BU</td></tr>
+<tr><td>UC 6</td><td>1/6</td><td>—</td><td>Berkeley</td><td>UCLA、UCSD、UCI、UC Davis、UCSB</td></tr>
+<tr><td>美国其他公立 13</td><td>11/13（多靠制度线索）</td><td>Georgia Tech、UNC、UW、UVA</td><td>—</td><td>Michigan、UT Austin、UIUC、UW–Madison、Maryland、Florida、Purdue、Ohio State、Rutgers</td></tr>
+<tr><td>英国 + ETH 8</td><td>8/8（半数靠排除）</td><td>LSE</td><td>Imperial、Oxford、Cambridge</td><td>UCL、Manchester、Edinburgh、ETH</td></tr>
+<tr><td>香港 5</td><td>3/5</td><td>HKU、HKUST</td><td>—</td><td>CUHK、PolyU、CityU</td></tr>
+</table>
+<p class="small ink2"><b>怎么用</b>：60 所里约一半（30 所）的特质说法与同档学校基本可以互换，差异在制度（课程、按专业录取、考试、州内名额），不在「想要什么样的人」。UC 六校共用一套审读标准，英国和香港学校主要按成绩与考试录取。</p>
+<p class="small ink2"><b>使用边界</b>：这只证明学校<b>公开说的</b>偏好不同，不能证明录取时实际按此加权。知识库的申请者样本每校只有 20–45 个结果，检验不出这种差异。</p></div>
 <div class="card"><h2>深度案例可信度</h2><table class="t">{% for t in ctrust %}<tr><td>{{ trust(t.trust) }}</td><td class="num">{{ t.n }}</td></tr>{% endfor %}</table></div>
 <div class="card"><h2>申请者画像构成</h2><p class="small muted">国家</p><table class="t">{% for c in countries %}<tr><td>{{ c.country or '未知' }}</td><td class="num">{{ c.n }}</td></tr>{% endfor %}</table>
 <p class="small muted" style="margin-top:10px">申请季</p><table class="t">{% for y in years %}<tr><td>{{ y.y or '未知' }}</td><td class="num">{{ y.n }}</td></tr>{% endfor %}</table></div>

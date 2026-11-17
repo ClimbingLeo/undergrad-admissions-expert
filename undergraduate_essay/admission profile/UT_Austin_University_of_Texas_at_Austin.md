@@ -10,17 +10,17 @@
 | 州内（In-State）录取率 | ~65% |
 | 州外（Out-of-State）录取率 | 10% |
 | 国际生录取率 | 12.9% |
-| 自动录取政策（Top 6%） | 德州高中Top 6%自动录取（2025-2026年起改为Top 5%） |
-| 自动录取人数占比 | ~75% |
+| 自动录取政策 | 德州高中前 5% 自动录取（2026、2027 申请者门槛均为前 5%，此前为前 6%；2026-11 更正） |
+| 自动录取占比 | 填满 75% 的德州州内名额，不是全部录取名额的 75%（2026-11 更正） |
 | Yield（入学率） | 未公开，但估计45%+ |
 | 国际生比例 | 约5-8% |
 
 **数据来源**：[UT Austin官方招生统计](https://admissions.utexas.edu/apply/review-decision-process/)、[Common Data Set 2024-2025](https://nextgenadmit.com/ut-austin-admission-statistics/)、[德州高等教育协调委员会](https://tea.texas.gov/academics/graduation-information/2025-eligibility-notification-automatic-college-admission.pdf)
 
 **关键解读**：
-- UT Austin的26.6%整体录取率具有欺骗性，因为约75%的录取名额已被"Top 6%法案"（自动录取）占用
+- UT Austin的26.6%整体录取率具有欺骗性，因为自动录取（现为前 5%）要填满 75% 的德州州内名额（官方原话 "Texas resident spaces"，不是全部录取名额的 75%；2026-11 更正）
 - 对于非德州学生（特别是国际生），实际竞争录取率仅为10-13%，远低于官方数字
-- 德州学生享有巨大优势，这是联邦法律要求（德州高等教育法）
+- 德州学生享有巨大优势，这是德州州法要求（德州教育法典，2026-11 更正）
 - 中国学生属于国际生范畴，申请竞争力相对最弱
 
 ---
@@ -248,7 +248,7 @@
 | **低收入/经济需求** | 中等 | 虽UT是公立大学，但经济因素在竞争激烈的申请中有所帮助 |
 | **来自代表性不足的地理区域** | 低-中等 | 如申请者来自美国农村地区或教育资源匮乏的州，会有加分 |
 | **杰出才能（艺术、音乐、STEM）** | 中等-高 | 区域级以上艺术/音乐成就或STEM研究发表可视为"才能hook" |
-| **校友关系** | 低 | UT官方称不提供"遗产优惠"，但校友推荐信可能有助 |
+| **校友关系** | 低 | UT官方称不提供"遗产优惠"（2026-11 更正：删去原「校友推荐信可能有助」一句） |
 | **特殊个人经历** | 低-中等 | 如克服重大困难、难民背景、家庭变故等，可在申请中重点说明 |
 | **国际身份** | 负面影响 | 国际生对UT没有"hook"价值；竞争反而更激烈（12.9%录取率） |
 | **中国身份** | 负面影响 | 中国是申请量最大的国际国家之一，导致中国申请者竞争最激烈 |
@@ -455,6 +455,35 @@ UT Austin的招生官在阅读文书时，会在脑中问这几个问题：
 - UT想要的：清晰、有个人声音、甚至可以有语法"不完美"但情感真实的表达
 
 ---
+
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。盲测中评判是靠班级排名和首选专业这两条制度线索认出 UT 的：差异在制度，不在特质。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 个别化整体审读，同时决定录取和专业 | "Each application receives an individualized holistic review… This process informs decisions of admission as well as major selection." | [UT 招生办 Review & Decision Process 页, 2026](https://admissions.utexas.edu/apply/review-decision-process/) |
+| 领导贡献、逆境中坚持、专业准备（推荐信应写的内容） | "Your leadership contributions to your school, family or community. Your persistence in response to challenging situations. … Your preparation for your selected first-choice major…" | [UT 招生办 FAQ, 2026](https://admissions.utexas.edu/apply/frequently-asked-questions/) |
+| 第一志愿专业要符合兴趣和长处 | "…choose a first-choice major that is aligned with your interests and strengths, not just what you hope to do as a career." | [UT 招生办 FAQ, 2026](https://admissions.utexas.edu/apply/frequently-asked-questions/) |
+| 校内外的工作和服务（审查项之一） | "Special accomplishments, work and service both in and out of school" | [UT 招生办 Review & Decision Process 页, 2026](https://admissions.utexas.edu/apply/review-decision-process/) |
+
+领导力、坚持、服务这些词和多数公立旗舰校的说法高度重合。UT 的不同在制度：法律要求 "Under the new law, the University must automatically admit enough students to fill 75 percent of available Texas resident spaces."（2026、2027 申请者门槛为德州高中前 5%）；审读同时决定专业去向，"Competitiveness of the major you applied to" 写进了正式审查项。
+
+**体现在申请设计中**：
+
+- 2026–27：一篇主文书；两道必答短答，(a) 为什么对第一志愿专业感兴趣，(b) 高中所有活动中最自豪的一项（官方注明可以是家庭责任、工作、志愿）；一道选答题说明影响学业的特殊情况。官方不读其他 Common App 补充文书（"We’ll only review what is required."）。
+- Expanded resume 选交；推荐信选交、最多 2 封；部分专业要加交材料或证明 calculus readiness；Honors 单独申请。无面试，不看 demonstrated interest（"No, UT Austin does not utilize demonstrated interest in the holistic review process."）。第二志愿：官方只说符合自动录取、但没进第一志愿的学生 "may be considered for your second-choice major"，没有承诺。
+- CDS 2025–26 C7（UT 官方 CDS 第 16 页）：**没有任何一项是 Very important 或 Important**；Rigor、排名、GPA、标化、文书、推荐信、课外活动、才能、品格、第一代、地域、州籍、志愿、工作经历全部为 Considered；面试、校友关系、宗教、兴趣程度为 Not considered。本画像其他章节的 CDS 数据引自第三方站点，没有 C7，以本节为准。
+- 与本画像其他章节的冲突：「关键录取数据」原说约 75% 的录取名额被自动录取占用，官方说法是填满 75% 的**德州州内**名额，门槛已是前 5%，已更正（2026-11）。Hooks 表原写「校友推荐信可能有助」，已删：C7 的校友关系（Alumni relation）指亲属是校友，和请校友写推荐信不是一回事；没有证据显示校友写信有额外作用。
+
+**流行说法核查**：
+
+- 「UT Austin 主要看排名和专业」→ **部分支持**。排名：对德州高中毕业生基本成立（自动录取填满 75% 州内名额）；对外州生和国际生，排名只是 C7 中 Considered 的一项，官方说除自动录取外没有哪一项单独决定结果。专业：成立，而且是官方明说的，专业竞争度是正式审查项，必答短答问为什么选这个专业。「主要」二字言过其实：审查项还包括成就、校内外的工作与服务、文书和推荐信，C7 把所有因素放在同一档。
+
+**对申请者的含义（归纳）**：
+
+1. 国际生不走自动录取，是在所报专业池里整体比较；「为什么选这个专业」短答要和课程、活动对得上。
+2. 学校自填 C7 把所有因素都放在 Considered 一档，没有哪一项被官方标为更重要；最自豪活动题可以写家庭责任和打工，官方明确承认。
 
 ## 💡 对中国学生申请的实战建议
 

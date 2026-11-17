@@ -262,7 +262,7 @@
 | **第一代大学生** | ★★★★★ | 重大hook，但中国学生几乎都不符合此条件。 |
 | **地理多样性** | ★★ | 来自欠招聘州的学生有轻微加分。中国作为国际学生，此项无关。 |
 | **特殊天赋（音乐/体育）** | ★★★ | 获得州级或国家级奖项的运动员或音乐家可能会被招生官单独跟进。但对于STEM专业，这种加分远小于学术成就。 |
-| **校友关系** | ★ | 父母或亲属是普渡校友，会在committee中被提及，但影响很小。 |
+| **校友关系** | 无 | C7 自填 Alumni relation 为 Not considered，不作加分（2026-11 更正） |
 
 ## ✍️ 申请时机
 
@@ -288,8 +288,7 @@
 | **Prompt 3: "Briefly discuss your reasons for pursuing the alternate major and campus location (Indianapolis or West Lafayette) you have selected."** | 250字 | 仅在选择双专业或双校区申请时需要 |
 
 **针对Honors College申请者额外要求**：
-- 两篇额外文书（字数限制可能因年度而异，通常250-500字）
-- 这些文书通常涉及学术热情、领导力或创新思维
+- Honors College（John Martinson）4 道题，每题 ≤200 词：跨学科经历、深入探索感兴趣的课题、想去的目的地及如何融入当地文化、领导经历（原写「两篇、250–500 字」有误，2026-11 更正）
 
 ---
 
@@ -441,6 +440,34 @@
 - 解释你的选择背后的思考过程，而非仅仅列举成就
 
 ---
+
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。盲测中评判是靠「按专业录取」这条制度线索认出普渡的：差异在制度，不在特质。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 两条核心标准：目标专业的学业准备度、名额内的竞争力 | "…your academic preparedness for success in your desired program and your competitiveness within the overall applicant pool based on available space." | [Purdue 招生办 First-Year Criteria 页, 2026](https://admissions.purdue.edu/become-student/first-year-criteria/) |
+| 与专业相关的成绩；课堂外的活动、领导和成就（评审因素清单） | "Grades related to intended major" / "Activities, leadership and achievements outside of the classroom" | [Purdue 招生办 First-Year Criteria 页, 2026](https://admissions.purdue.edu/become-student/first-year-criteria/) |
+| 课程、成绩、标化最重要 | "Courses taken, grades earned and test scores are the most important factors in our process, but not all we consider." | [Purdue 招生办 Class Profile 页, 2026](https://admissions.purdue.edu/academics/enrollment.php) |
+| 文书：用自己的声音讲清来路和去向 | "…share your story, telling us how you got to where you are today, what you like to do and where you want to go." | [Purdue 招生办 Application Guide, 2026](https://www.admissions.purdue.edu/become-student/guide) |
+
+这些说法本身是公立校的学术主导模板。按专业录取也不是普渡独有（Rutgers 按学院录取，Ohio State 先判可录取再分学院），但普渡把「目标专业的学业准备度」写成两条核心标准之一，并把专业相关科目成绩单列为评审因素。录取率下降还和校园容量有关：校长 Mung Chiang 2024 年说 "the city of West Lafayette and this campus are not built for the kind of enrollment that we have today."。
+
+**体现在申请设计中**：
+
+- 补充文书（官网 Application Guide 原题，各≤250 词，必答）："How will opportunities at Purdue support your interests, both in and out of the classroom?"；为什么选这个专业和这个校区（West Lafayette 或 Indianapolis）；填了备选专业还要说明理由，官网提醒 "only if you are truly interested in that program"。Honors College（John Martinson）4 道题，各≤200 词：跨学科经历、深入探索感兴趣的课题、想去的目的地及如何融入当地文化、领导经历。**本画像「文书题目」原写 Honors「两篇额外文书，250–500 字」，已在该节更正（2026-11）。**
+- 按专业录取，官网给出各学院、热门专业的分数区间；评审因素包括 "Space availability in the desired program" 和申请时间。无面试。
+- CDS 2025–26 C7（官方 xlsx；从 2024–25 起口径含 West Lafayette、Indianapolis、Polytechnic Statewide）：Very Important 为 Rigor、Academic GPA、**Application Essay**；Important 为标化、推荐信、课外活动、Character/personal qualities、First generation；Considered 为排名、Talent、地域、州籍、志愿服务、工作经历、Level of interest；面试、校友关系、宗教为 Not Considered。本画像 Hooks 表的校友关系一行已按 C7 更正（2026-11）。
+
+**流行说法核查**：
+
+- 「普渡主要看专业准备和成绩」→ **支持**。两条核心标准就是目标专业的学业准备度和名额内竞争力，官网明说课程、成绩、标化最重要；C7 中 Rigor 和 GPA 为 Very Important，课外活动只是 Important。补充一点：C7 把文书也列为 Very Important，但文书题考的是专业动机和对普渡资源的了解，实际上也服务于专业准备这条主线。
+
+**对申请者的含义（归纳）**：
+
+1. 所报专业的相关科目成绩和准备度是官方写明的核心标准；热门专业受名额限制，备选专业只在真有兴趣时填，官网说转专业、转校区都不保证。
+2. 两篇必答文书都围绕「为什么这个专业 / 校区」和「普渡的资源如何支持你」，要写到具体项目和课程，和专业主线对上。
 
 ## 💡 对中国学生申请的实战建议
 

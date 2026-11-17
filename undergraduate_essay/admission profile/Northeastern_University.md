@@ -545,8 +545,8 @@
 
 **体现在申请设计中**：
 
-- 官方页面没有列任何补充文书，只要 Common App 主文书；不提供校友或校园面试，但会考虑 InitialView / Vericant 提交的第三方视频面试；CAMD 鼓励交作品集。
-- CDS 2024–25 C7：Rigor、GPA、标化、推荐信为 Very important；课外活动、Talent/ability、Character、Volunteer work、Work experience 为 Important；文书只列 Considered。
+- 官方页面没有列任何补充文书，只要 Common App 主文书；不提供校友或校园面试，但会考虑通过 InitialView / Vericant 提交的第三方视频面试（中国学生可以用这个渠道补充展示自己）；CAMD 鼓励交作品集。
+- CDS 2024–25 C7：Rigor、GPA、标化、推荐信为 Very important（学校 test-optional，标化交了才看）；课外活动、Talent/ability、Character、Volunteer work、Work experience 为 Important；文书、Level of applicant's interest 只列 Considered；Interview 为 Not considered。
 
 **流行说法核查**：
 
@@ -555,7 +555,7 @@
 **对申请者的含义（归纳）**：
 
 1. 官方选人仍以学术为先；打工、动手做事的经历值得在活动表里写清，但「职业规划清晰」不是官方写出的选拔标准。
-2. 没有补充文书和面试，申请人没有专门的位置论证「为什么适合 co-op」，活动表和推荐信要承担这部分信息。
+2. 没有补充文书，也没有校友或校园面试（只考虑 InitialView / Vericant 第三方视频面试），申请人没有专门的位置论证「为什么适合 co-op」，活动表和推荐信要承担这部分信息；中国学生可以考虑用第三方视频面试补充。
 
 ## 💡 对中国学生申请的实战建议
 
@@ -692,7 +692,7 @@
 
 ### 9. 校友关系与学校参访的作用
 
-**东北大学对"demonstrated interest"的重视程度：** 中等（不如Carnegie Mellon强制性那样，但重要）
+**东北大学对"demonstrated interest"的重视程度：** 中等（不如Carnegie Mellon强制性那样，但重要）（2026-11 更正：CDS 2024–25 中 Level of applicant's interest 只列 Considered，不宜说「重要」，见「学校看重的特质」一节）
 
 **操作建议：**
 1. **Virtual Information Session + Office Hours**
@@ -702,6 +702,7 @@
 
 2. **校友面试** - 如果学校提供
    - 东北大学为符合条件的国际生提供校友面试
+   - （2026-11 更正：官方不提供校友或校园面试，只考虑 InitialView / Vericant 第三方视频面试，CDS 2024–25 中 Interview 为 Not considered，见「学校看重的特质」一节）
    - 这是展示真实自己的机会，充分准备
 
 3. **Campus Visit**（如可能）

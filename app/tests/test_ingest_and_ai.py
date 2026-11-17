@@ -151,3 +151,13 @@ def test_values_section_type():
     assert classify_section("学校看重的特质（官方表述）") == "values"
     # 旧画像里未溯源的「价值观」小节不能混进 values
     assert classify_section("UCSD的价值观和申请契合度") != "values"
+
+
+def test_every_profiled_school_has_values_section(conn):
+    missing = conn.execute("""SELECT slug FROM schools WHERE has_profile=1 AND slug NOT IN
+                              (SELECT school_slug FROM school_profile_sections WHERE section_type='values')""").fetchall()
+    assert [r[0] for r in missing] == []
+    # 每节开头都写明区分度档位
+    bad = conn.execute("""SELECT school_slug FROM school_profile_sections WHERE section_type='values'
+                          AND body_md NOT LIKE '%区分度%'""").fetchall()
+    assert bad == []

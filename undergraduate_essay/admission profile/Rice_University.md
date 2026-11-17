@@ -166,7 +166,7 @@ CDS C7 非学业因素（2025–26，[来源](https://ideas.rice.edu/wp-content/
 
 **流行说法核查**：
 
-- 「Rice 看重合作和住宿学院文化的契合（Rice-ness）」→ **部分支持**。「了解 Rice、说清会怎样贡献社区」有官方依据；但招生官方文字中没有把 collaboration 列为看重的特质，「Rice-ness」不是官方用语，住宿学院是随机分配的（"newly admitted students are randomly assigned"），住宿学院题也只是二选一，不存在「住宿学院契合度」评估。
+- 「Rice 看重合作和住宿学院文化的契合（Rice-ness）」→ **部分支持**。「了解 Rice、说清会怎样贡献社区」有官方依据；但本次检索范围内，招生官方文字中没有把 collaboration 列为看重的特质，「Rice-ness」不是官方用语，住宿学院是随机分配的（"newly admitted students are randomly assigned"），住宿学院题也只是二选一，不存在「住宿学院契合度」评估。
 
 **对申请者的含义（归纳）**：
 

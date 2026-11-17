@@ -158,7 +158,7 @@ CDS C7 非学业因素（[CDS 2025–26](https://isduwmygvmdozhpvzaix.supabase.c
 | 信仰、学术、好奇心、同情心、致力于共同善 | "This year’s class of admitted students exemplifies the faith, academic excellence, intellectual curiosity, compassion, and dedication to the common good…" | [Notre Dame 招生办新闻稿（招生副校长 Micki Kidder）, 2026](https://admissions.nd.edu/visit-engage/stories-news/university-of-notre-dame-release-regular-decision-admissions-decisions-for-class-of-2030/) |
 | 认同天主教使命、服务他人 | "Those admitted demonstrated exceptional academic preparation along with leadership, enthusiasm for Notre Dame’s Catholic mission, and commitment to serving others." | [Notre Dame 招生办新闻稿, 2026](https://admissions.nd.edu/visit-engage/stories-news/university-of-notre-dame-release-regular-decision-admissions-decisions-for-class-of-2030/) |
 | 服务他人是信仰的实践 | "Service to others is how we live out our faith. Notre Dame students bring a concern for those in need, a commitment to helping…" | [Notre Dame 招生办 Faith & Service, 2026-11 访问](https://admissions.nd.edu/why-nd/spiritual-identity/) |
-| 不要求特定宗教身份，要求尊重学校目标、愿意参与对话 | "…not a particular creedal affiliation, but a respect for the objectives of Notre Dame and a willingness to enter into the conversation…" | [Notre Dame 使命陈述, 2026-11 访问](https://www.nd.edu/about/mission/) |
+| 对全体师生不要求特定宗教身份，要求尊重学校目标、愿意参与对话（使命陈述，不是招生标准） | "…not a particular creedal affiliation, but a respect for the objectives of Notre Dame and a willingness to enter into the conversation…" | [Notre Dame 使命陈述, 2026-11 访问](https://www.nd.edu/about/mission/) |
 | 文书用来了解你的价值观和对社区的影响 | "Because we learn about the values that guide your life, how you've impacted the communities you’re a part of…" | [Notre Dame 招生办 Application Considerations, 2026-11 访问](https://admissions.nd.edu/apply/application-considerations/) |
 
 **体现在申请设计中**：
@@ -170,13 +170,13 @@ CDS C7 非学业因素（[CDS 2025–26](https://isduwmygvmdozhpvzaix.supabase.c
 **流行说法核查**：
 
 - 「圣母大学看重信仰、服务和品格」→ **支持（有限定）**，逐项如下：
-- 信仰 → **支持**。招生副校长 2026 年列出的录取生特质第一个就是 faith，CDS 中宗教为 Important。限定：使命陈述明说不要求特定宗教身份，招生页说欢迎所有信仰传统，信仰题可以不选。
+- 信仰 → **支持**。招生副校长 2026 年列出的录取生特质第一个就是 faith，CDS 中宗教为 Important。限定：使命陈述明说不要求特定宗教身份（这句话针对全体师生），招生页说欢迎所有信仰传统，信仰题可以不选。
 - 服务 → **支持**。Volunteer work 为 Very important，四选二中有一题直接问服务。
 - 品格 → **支持**，但 Character 为 Very important 在本组多数学校都是如此，本身不构成区别。
 
 **对申请者的含义（归纳）**：
 
-1. 非天主教背景不构成门槛，但要能说清自己如何看待和尊重学校的使命；服务他人在官方表述和申请设计中反复出现，写活动时要说清为谁服务、做了什么。
+1. 两方面要并列看：使命陈述说不要求特定宗教身份（针对全体师生，不是招生标准），信仰题也可以不选；但 CDS 中宗教为 Important，Class of 2030 中天主教徒占 81%。非天主教背景的申请者要能说清自己如何看待和尊重学校的使命；服务他人在官方表述和申请设计中反复出现，写活动时要说清为谁服务、做了什么。
 2. 补充文书的重心是价值观：non-negotiable 题和四选二要回答「什么在指导你的选择」，而不是罗列成就。
 
 ## 对中国学生的建议

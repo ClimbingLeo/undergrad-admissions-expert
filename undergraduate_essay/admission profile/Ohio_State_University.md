@@ -246,7 +246,7 @@
 | **地理位置（俄州本地）** | 高 | +10-15% | 中国学生完全无法获得此advantage |
 | **第一代大学生** | 中等 | +5-10% | 不适用中国学生（家庭教育背景差异大） |
 | **少数族裔（URM）** | 高 | +15-20% | 中国学生属多数族裔，此项无帮助 |
-| **传承生（Legacy）** | 中等 | +5-8% | 极少中国学生具备此资格 |
+| **传承生（Legacy）** | 无 | — | C7 自填 Alumni relation 为 Not considered，不作加分（2026-11 更正） |
 | **国际竞赛获奖** | 高 | +8-12% | **中国学生核心竞争优势所在** |
 | **创新创业/科研成果** | 高 | +8-12% | **中国学生可充分利用的hook** |
 | **强势EC垂直化** | 中等-高 | +5-12% | **中国学生应着力发展** |
@@ -331,7 +331,7 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 
 ### Morrill奖学金补充文书（仅限于申请该奖学金的学生）
 
-**题目**（官方表述）：
+**题目**（题目原文待核，2026-11）：
 "The Ohio State University Morrill Scholarship program seeks to recognize academic excellence and leadership with a commitment to diversity and inclusion. Please write an essay describing your understanding of these values and how you exemplify or would exemplify them at Ohio State."
 
 - **字数限制**：250-500词
@@ -616,6 +616,35 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。盲测中评判是靠「超出最低课程要求」这条制度线索认出 Ohio State 的：差异在制度，不在特质。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 没有单一公式，也没有单一类型的学生 | "There isn't one formula for admission — and there isn't one type of Ohio State student." | [Ohio State 招生办 Who gets in? 页, 2026](https://undergrad.osu.edu/apply/freshmen-columbus/who-gets-in) |
+| 学业准备和成功潜力 | "…every admitted student has demonstrated the academic preparation and potential to succeed at Ohio State." | [Ohio State 招生办 Who gets in? 页, 2026](https://undergrad.osu.edu/apply/freshmen-columbus/who-gets-in) |
+| 协作、毅力、韧性（整体审读清单一项，不分先后） | "Demonstrated personal qualities of collaboration, determination and resilience" | [Ohio State 招生办 Who gets in? 页, 2026](https://undergrad.osu.edu/apply/freshmen-columbus/who-gets-in) |
+| 超出最低课程要求可获额外考虑 | "…students exceeding the minimum curriculum in these subjects are given additional consideration." | [Ohio State 招生办 Who gets in? 页, 2026](https://undergrad.osu.edu/apply/freshmen-columbus/who-gets-in) |
+| 标化帮助判断能否学业成功 | "Our goal is to find and admit students who will succeed at Ohio State, and test scores provide valuable insight…" | [Ohio State News（时任教务长、现任校长 Ravi V. Bellamkonda）, 2025](https://news.osu.edu/ohio-state-shares-decision-on-test-requirements/) |
+
+「协作、毅力、韧性」在同档公立校里算是少见的具体品格词，但停留在纸面：学校自填 C7 把 Character/personal qualities 只列为 Considered，比 UF、Purdue、Rutgers 的 Important 还低，常规申请也没有任何题目考察这些品格；resilient 也出现在 Rutgers 招生副校长的话里。Ohio State 的不同在制度：课程超过最低要求可获额外考虑，2026 周期起恢复标化必交，C7 四项学术指标全是 Very Important。
+
+**体现在申请设计中**：
+
+- 常规录取**没有学校专属补充文书**，只交 Common App 主文书。需要额外写作的只有奖学金项目：Morrill Scholarship 需要 MSP essay（要点是领导力、服务、公民参与，官网写 "MSP seeks academically talented high school seniors who will contribute to and actively engage in scholarship, leadership, service and civic engagement on campus."）；Stamps Eminence 需要单独文书和视频自我介绍。**本画像「文书题目」所列 Morrill 题目以 diversity and inclusion 为主，现行题目原文未能核对，已在该节标注待核。**
+- Columbus 校区从 2026 周期起**恢复 ACT/SAT 必交**并 superscore；推荐信可选（最多 2 封）；无面试；先判断能否录取，再按目标学院分配。
+- CDS 2025–26 C7（Columbus 校区官方 PDF）：Very Important 为 Rigor、**Class rank**、Academic GPA、**Standardized test scores**；Important 为文书、推荐信、课外活动、Talent、第一代、志愿服务、工作经历；Considered 为 **Character/personal qualities**、地域、州籍；面试、校友关系、宗教、兴趣程度为 Not Considered。**本画像「申请时机」说 EA「显示诚意」，与 C7（兴趣程度为 Not Considered）不符；Hooks 表的 Legacy 一行已按 C7 更正（2026-11）。**
+
+**流行说法核查**：
+
+- 「俄亥俄州立主要看成绩」→ **支持，而且更具体：成绩、排名、课程难度加标化**。C7 中四项学术因素全部 Very Important，文书和课外活动只是 Important，品格仅为 Considered；常规录取没有补充文书，推荐信可选，不面试；2025 年恢复考试要求时，教务长把录取目标界定为找到能在 Ohio State 成功的学生。官网的整体审读说法和长串非学术条目确实存在，但在申请设计和 C7 上看不到相应分量。
+
+**对申请者的含义（归纳）**：
+
+1. 学校自填 C7 四项学术指标都是 Very Important，标化 2026 周期起必交：标化要准备好，核心科目选课最好超过最低要求。
+2. 常规录取不单独考察品格；想申 Morrill、Stamps 等奖学金，才需要另写服务、领导和品格相关的材料。
+
 ## 💡 对中国学生申请的实战建议
 
 ### 建议1：竞赛与学术成就需要深化，而非量化
@@ -708,7 +737,7 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 
 ### 建议5：Morrill奖学金的特殊策略
 
-**Morrill奖学金的要求**（官方）：
+**Morrill奖学金的要求**（官方；题目原文待核，2026-11）：
 - 学术优秀（GPA 3.8+, SAT 1400+）
 - 领导力（有实证的领导经历）
 - "Commitment to diversity and inclusion"

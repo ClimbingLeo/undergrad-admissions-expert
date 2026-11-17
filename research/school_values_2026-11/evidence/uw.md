@@ -26,3 +26,6 @@ UW, University of Washington, Washington, Washingtonians, Seattle, Pacific North
 - **偏好 1：结合背景看「机会与潜力」，处境不利和家庭责任会被计入（中等；但「克服处境」一项明文只适用于华盛顿州居民）。** 支持：quotes 3、4、7、10、11（Allen School 把 "socioeconomic disadvantage" 写进评估维度）。反面/共性：几乎所有公立校都说「结合背景」，加州 UC 的 13 项标准也有同类条目；quote 4 明确限于华盛顿州居民，对国际生不适用。体现在申请设计中：部分体现（Challenges and Circumstances 选填题，CDS 里第一代为 Important）。
 - **偏好 2：唯一一篇文书承担全部「非数字」信息（结构性特点，是同档学校中比较少见的设计）。** 支持：quotes 5、6，CDS 把 Application Essay 列为 Very important，而推荐信和标化都是 Not considered。反面：这不是在偏好某种特定的人，而是信息来源少导致的结果。体现在申请设计中：是（只有一篇 Common App 文书，没有推荐信和补充材料）。
 - **流行说法核查：「华盛顿大学主要看成绩」→ 部分支持（大体对，但有关键遗漏）。** 支持：官方原话就是 "academic preparation and performance are still primary"（quote 1）。CDS 把 Rigor 和 GPA 列为 Very important，学术维度包括成绩、课程深度和广度、高年级课程强度（quote 2）。不完整的地方：(1) 文书在 CDS 中同样是 Very important。由于不看标化和推荐信，文书是招生官「看到成绩单背后的人」的唯一渠道（quotes 5、6）。(2) 个人维度明确列出社区服务与领导力、在家庭或工作中承担重大责任、独特视角（quote 3）。课外活动、志愿服务、工作经历在 CDS 中都是 Important。(3) 州籍也是 Very important，州内生占约三分之二（Seegert 2019）。所以对国际生而言，准确的说法是：成绩和课程难度是门槛和主轴，那一篇文书是唯一的加分渠道，标化和推荐信在 UW Seattle 不起作用。
+
+## 补充核对（2026-11-17，审稿后主会话亲自打开官网）
+- 标化：官网 test-scores 页原文 "the reviewers will not see your test scores, if provided. However, high test scores (1400 SAT/31 ACT or above ) may be considered for a handful of students who may not otherwise be admitted." — https://admit.washington.edu/apply/first-year/how-to-apply/test-scores/

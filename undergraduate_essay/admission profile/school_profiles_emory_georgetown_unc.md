@@ -211,7 +211,7 @@ Emory 录取文书的共性规律：
 | 有自己的声音、求知欲、关注周围的世界 | "We're looking for students who have a voice, who are intellectually curious, and who have demonstrated an engagement with the world around them." | [Emory 招生办 First-Year Applicants, 2026](https://apply.emory.edu/apply/first-year/index.html) |
 | 用知识服务人类（使命） | "Emory University's mission is to create, preserve, teach, and apply knowledge in the service of humanity." | [Emory 使命陈述, 2026](https://www.emory.edu/about/know-emory/our-mission) |
 
-这些用词与同组学校基本一致。Emory 的差异在于把使命直接写进补充文书的选项（"service to humanity"），以及 CDS 中课外活动、Talent/ability、Character 都填为 Very important。
+这些用词与同组学校基本一致。补充文书四选一中有一题直接引用学校使命（"service to humanity"），但把使命或校训写进文书题，BC、Notre Dame、Vanderbilt 也这样做，属共性；CDS 中课外活动、Talent/ability、Character 都填为 Very important，同组 Rice、Notre Dame 也是如此。
 
 **体现在申请设计中**：
 
@@ -458,7 +458,7 @@ Georgetown 录取文书的共性规律：
 | 四项标准：学术成就、求知欲、对学校和社区的投入、全球视野 | "…seeks to admit students who display strong academic achievement, intellectual curiosity, commitment to school and community, and a global outlook." | [Georgetown 招生办 Preparing for Georgetown, 2026](https://uadmissions.georgetown.edu/apply/first-year-applicants/how-to-prepare/) |
 | 学术记录是申请的核心 | "The central part of any application to Georgetown is the student's academic record." | [Georgetown 招生办 Preparing for Georgetown, 2026](https://uadmissions.georgetown.edu/apply/first-year-applicants/how-to-prepare/) |
 | 看成绩、课程和排名，不设分数线 | "…far more concerned with school record, academic program, and rank in class than with test scores. There are no cut-off scores." | [Georgetown 大学 Bulletin（Undergraduate Admissions）, 2026](https://bulletin.georgetown.edu/admissions/undergraduate-admissions/) |
-| 把与自己不同的人视为学习的机会 | "We believe that every person we encounter who is different from us is a gift to us, to help us learn." | [校长 Robert Groves 新生开学致辞, 2025-08](https://president.georgetown.edu/messages/new-student-convocation-aug-2025/) |
+| 把与自己不同的人视为学习的机会 | "We believe that every person we encounter who is different from us is a gift to us, to help us learn." | [时任临时校长 Robert Groves 新生开学致辞, 2025-08](https://president.georgetown.edu/messages/new-student-convocation-aug-2025/) |
 | 为他人、关心共同善（教育使命层面） | "…guides Hoyas to be people for others. Our students learn to be leaders who care for the common good…" | [Georgetown 招生办 About Georgetown, 2026](https://uadmissions.georgetown.edu/about-georgetown/) |
 
 **体现在申请设计中**：
@@ -525,9 +525,9 @@ Georgetown 录取文书的共性规律：
 
 **课程难度**
 
-- 课程难度和 GPA 是 UNC **唯一**被列为"非常重要（Very Important）"的因素
+- 官方 CDS 2025–26 C7（2026-11 原件核对，https://oira.unc.edu/wp-content/uploads/sites/297/2026/06/CDS_UNCCH_2025-26_20260615.pdf ）：Very Important 共 7 项——课程难度、文书、推荐信、课外活动、才能、品格/个人特质、州居民身份；GPA 和 class rank 只是 Important，标化为 Considered（旧版本写「只有课程难度和 GPA 是 Very Important」，有误）
 - 79% 入学生在 AP/IB 课程中获得了学分；62% 获得 5 门以上 AP 学分
-- 建议：AP 课程要多且成绩要高，这是 UNC 最看重的单一指标
+- 建议：AP 课程要多且成绩要高；但 CDS 自填里文书、推荐、活动、品格与课程难度同为 Very Important，不要只押成绩
 
 ---
 
@@ -630,50 +630,57 @@ Georgetown 录取文书的共性规律：
 
 ## 📝 文书题目（2025–2026 最新版）
 
-| 题目 | 字数 | 性质 |
-| --- | --- | --- |
-| Prompt 1：描述一个让你产生正向影响的个人特质，结合一个故事或记忆 | 250 词 | 必答 |
-| Prompt 2：描述一个你在大学里迫不及待想探索的学术话题，解释为什么感兴趣 | 250 词 | 必答 |
+2026–27 起 UNC **没有补充文书**，官网 2026–2027 Prompts 页只列 Common App 主文书；原先列在这里的两道 250 词必答短答（个人特质、学术探索话题）已取消（2026-11 更正）。
 
 ---
 
 ## 📖 文书解析
 
-### 文书 #1：个人特质与社区影响
-
-**核心诉求：** 一个你真正拥有的性格特质 + 这个特质如何让某个社区变得更好
-
-**中国学生高分策略：**
-- 选择一个具体且不常见的特质（"好奇心"和"领导力"是所有人都写的，要换一个具体的词）
-- 故事必须有"before and after"的弧线——读者要清楚地看到你的介入改变了什么
-- 社区的定义可以很宽泛——家庭、在线社区、家乡社区都可以
-
-**常见失误：**
-- 特质和故事不匹配（写"坚韧"但故事里没有克服挑战的弧线）
-- 结尾没有说明你的影响是什么
-- 故事太平淡，读者无法产生情感共鸣
-
-### 文书 #2：学术探索话题
-
-**核心诉求：** 一个你真的很兴奋的学术方向 + 为什么 + 你打算在 UNC 怎么深入研究
-
-**中国学生高分策略：**
-- 不要写"我的专业"的通用版，要聚焦到一个具体的问题（如"CRISPR 基因编辑在镰状细胞病治疗中的伦理边界"而非"我喜欢生物学"）
-- 点名 UNC 的具体资源：如 Lineberger 癌症研究中心、Kenan-Flagler Business School 的具体项目、顶尖的公共卫生学院
-- 这道题可以体现你的学术 Spike，与 EC 一致性越高越好
+原先这里按两道 250 词补充短答（个人特质、学术探索话题）给写作建议；这两题已取消，相关建议不再适用（2026-11 更正）。
 
 ---
 
 ## 🔍 文书规律总结
 
-UNC 文书的核心诉求是**具体性**——250 词极短，必须用最小的词数传递最大的信息密度。
+UNC 文书的核心诉求是**具体性**。（原文以 250 词补充短答为前提，该短答已取消，现在只有一篇 Common App 主文书，2026-11 更正。）
 
 中国学生与本土学生文书的核心差距：
-1. **文书过于宏观**：中国学生习惯先铺垫大背景，但 UNC 250 词的格式不允许这样做
-2. **UNC-specific 研究不足**：很多学生的学术题文书替换成任何其他大学都成立，说明没有研究
+1. **文书过于宏观**：中国学生习惯先铺垫大背景，主文书篇幅有限，不宜这样做（原写「UNC 250 词的格式」，补充短答已取消，2026-11 更正）
+2. **UNC-specific 研究不足**：很多学生的学术题文书替换成任何其他大学都成立，说明没有研究（学术题短答已取消，这条现在只适用于主文书和活动描述，2026-11 更正）
 3. **个人特质太通用**："努力"、"坚韧"、"好奇心"在每份申请里都有，不产生记忆点
 
 ---
+
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 每届新生追求的品质：才智、好奇、领导力、善良、勇气、诚实、毅力等 | "…including intellect, talent, curiosity, and creativity; leadership, kindness, and courage; honesty, perseverance, perspective, and diversity." | [UNC 招生办 Statement on the Evaluation of Candidates（Policies and Reports 页）, 2026 访问](https://admissions.unc.edu/questions/policies-and-reports/) |
+| 但没有人人必备的清单 | "Just as there is no formula for admission, there is no list of qualities or characteristics that every applicant must present." | [UNC 招生办 Statement on the Evaluation of Candidates, 2026 访问](https://admissions.unc.edu/questions/policies-and-reports/) |
+| 严格、整体、体谅地评估每个人 | "In shaping the class, we evaluate individual candidates rigorously, holistically, and sympathetically." | [UNC 招生办 Statement on the Evaluation of Candidates, 2026 访问](https://admissions.unc.edu/questions/policies-and-reports/) |
+| 丰富彼此的教育、改善社会 | "…students who will enrich each other's education, strengthen the campus community, contribute to the betterment of society…" | [UNC 招生办 Statement on the Evaluation of Candidates, 2026 访问](https://admissions.unc.edu/questions/policies-and-reports/) |
+| 活动定义很宽：打工养家、照顾家人都算 | "Whether you're developing a new app, working to put food on the table, serving as president of an organization, playing second string on a team…" | [UNC 招生办 First-Year Application 页, 2026](https://admissions.unc.edu/apply/types-of-applications/first-year/) |
+
+「明显」来自那份品质清单：盲测评判正是凭「善良、勇气、诚实」认出 UNC，同组其他公立校的官方表述多是「学业第一 + 领导力服务 + 背景语境」。学校自填 CDS 2025–26 C7 也把 Character/Personal Qualities 列为 Very Important（GT 也这样标）。但要看到两点限制：同一份声明紧接着说没有人人必备的品质清单；kindness 也不是 UNC 独有，UVA 招生主任说过要找 "kind students"。
+
+**体现在申请设计中**：
+
+- 2026–27 **没有补充文书**，只交 Common App 主文书（250–650 词），招生办写明这篇文书 "will be evaluated not only for admission, but also for possible selection for special opportunities"；往年的两道短答题已取消。**本画像「文书题目」一节原列两道 250 词必答短答，已在该节更正（2026-11）。**
+- 1 封核心学科老师推荐信 + 学校报告；加权 GPA ≥ 2.8 时标化可不交；不面试；Common App 里可选填 Honors Carolina / special opportunities、Global Gap Year Fellowship、Carolina Global Launch；北卡居民须经 Residency Determination Service 认定身份。
+- CDS 2025–26 C7（UNC 官方 CDS）：Very Important 共 7 项，为 Rigor、Application Essay、Recommendation(s)、Extracurricular Activities、Talent/Ability、Character/Personal Qualities、State Residency；Class Rank、Academic GPA、志愿服务、工作经历为 Important；标化、第一代、校友关系为 Considered；面试、地域、宗教、兴趣程度为 Not Considered。
+
+**流行说法核查**：
+
+- 「UNC 看重公共服务和对北卡的贡献」→ **部分支持**。支持的部分：招生评审声明把「为州、国家、世界的各类机构输送领导者，丰富全体北卡人民的生活」列为塑造新生班的目标，希望学生 "contribute to the betterment of society"；使命陈述里有 "public service"；C7 中州籍为 Very Important。不支持的部分：这些是学校层面的使命，不是对个人申请者的考察项；招生办列出的品质清单里没有 service；C7 中志愿服务只是 Important，低于活动、才能、品格；取消补充文书后，申请材料里也没有题目问「你将如何服务北卡」。「对北卡的贡献」在录取中主要通过州居民名额实现。
+
+**对申请者的含义（归纳）**：
+
+1. 善良、勇气、诚实、毅力这些品格写在官方清单里，学校自填 C7 中品格也是 Very Important；取消补充文书后，它们只能从主文书、推荐信和活动里读出来。官方同时说没有人人必备的清单，不必逐条去凑。
+2. 活动不只看头衔：打工补贴家用、在队里当替补、照顾弟妹或祖父母，官方都明确算作活动。
+3. 不必在文书里刻意写「服务北卡」；对北卡的倾斜体现在州居民名额上，国际生竞争的是州外名额。
+
 
 ## 💡 对思博杂学社咨询工作的启示
 

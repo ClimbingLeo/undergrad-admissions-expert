@@ -1,0 +1,30 @@
+# gatech
+
+## identifying_terms
+Georgia Tech, Georgia Institute of Technology, GT, Tech, the Institute, Yellow Jackets, Buzz, Ramblin' Wreck, George P. Burdell, Atlanta, Georgia, Georgians, North Avenue, Progress and Service, University System of Georgia, USG, Peach State Tour, Stamps President's Scholarship, Scheller College of Business, College of Computing, Ivan Allen College, College of Design, Music Technology, Rick Clark, Mary Tipton Woolley, Katie Mattli, Ángel Cabrera, Mercury
+
+## quotes
+1. "Holistic admission is utilized to ensure enrollment of a first-year class who will be innovative thinkers and problem solvers. Enrolling a breadth of students from many backgrounds has proven to be fertile soil for creativity." — Undergraduate Admission, Application Review Process 页，2026，https://admission.gatech.edu/first-year/application-review
+2. "We also want a class who studies a variety of disciplines, so the major you put on your application and evidence of your interest in this major is an indicator of how you would fit in the upcoming class." — 同上，2026，https://admission.gatech.edu/first-year/application-review
+3. "Contribute to the intellectual, cultural, social and civic life of the Institute, state, and nation." — 同上（Competitive Admission Policy，所列新生培养目标之一），2026，https://admission.gatech.edu/first-year/application-review
+4. "At Georgia Tech, we refer to a student's activities as their contribution to their community." — Undergraduate Admission, Contribution to Community 页，2026，https://admission.gatech.edu/first-year/contribution-to-community
+5. "Some of the traits we value in this portion of the application include: Commitment; Self-motivation; Personal Responsibility; Compassion for Others; Initiative; Leadership; Entrepreneurism; Intellectual Curiosity" — 同上（原文为项目符号列表，此处用分号连接），2026，https://admission.gatech.edu/first-year/contribution-to-community
+6. "Georgia Tech is looking for students who demonstrate intellectual curiosity and aren't afraid of a challenge!" — Undergraduate Admission, Academic Preparation 页，2026，https://admission.gatech.edu/first-year/academic-preparation
+7. "In our review of your application, we look for evidence of your interest in and preparation for the major/college that you list on your application." — Undergraduate Admission, Major Selection 页，2026，https://admission.gatech.edu/first-year/major-selection
+8. "committed to developing leaders who advance technology and improve the human condition." — 使命陈述（Strategic Plan 2020–2030 页），https://strategicplan.gatech.edu/vision
+9. "Tech's motto is Progress and Service. We find that students who ultimately have a broad impact first had a significant one at home." — 2016–17 补充文书题干（学校新闻 Mercury 引用），2016，https://hg.gatech.edu/node/557291
+10. "We care about your relationships, character, and who you are in your family. These are indicators of your fit for Georgia Tech." — Rick Clark, director of undergraduate admission，学校新闻（Mercury），2016，https://hg.gatech.edu/node/557291
+11. "Fundamentally, Tech is a public good to our city, state, and our country — and that all starts with providing opportunity to diverse talent through admission." — Rick Clark, director of Undergraduate Admission，学校新闻（Mercury，EA2 放榜），2022，https://hg.gatech.edu/node/654955
+12. "This change is not intended to make our review process less rigorous, only less complex." — Mary Tipton Woolley, executive director of Undergraduate Admission，媒体报道（WSB-TV，取消补充文书），2026，https://www.wsbtv.com/news/local/atlanta/georgia-tech-simplifies-admissions-by-removing-supplemental-essay/NZEE6U6OCBGSTGF7XM625V5F34/
+
+## application_design
+- 2026–27 补充文书：**没有**。官网 Personal Essays 页只要求一篇 Common App 主文书（https://admission.gatech.edu/first-year/personal-essays ）；2026-07 宣布取消原来的 "Why this major at Georgia Tech" 短答题（quote 12 同篇报道）。2016 年曾有一道直接以 "Progress and Service" 为题干的家庭角色题（quote 9），早已不用。
+- 特殊材料：报 Music Technology 必须交作品集和文书；College of Design 部分专业建议交作品集，由学院教师评审；非英语母语国际生可选第三方面试（InitialView / Vericant），不做校友或招生官面试；申请时填第一、第二意向专业，专业是评审因素（quote 7）；州居民身份对录取率影响最大（官网原话 "One of the biggest impacts on likelihood of admission (admit rate) for a student is residency."）。
+- CDS C7（**官方 CDS 2025–26 R4**，https://irp.gatech.edu/sites/default/files/CDS/CDS_2025-2026_FINAL_R4_03JUN2026.pdf ；本地画像只写了 Rigor 为 Very Important）：Very Important = Rigor of secondary school record、Academic GPA、Character/personal qualities、State residency；Important = Application Essay、Extracurricular activities；Considered = Standardized test scores、Recommendation(s)、Talent/ability、Geographical residence、Volunteer work、Work experience；Not Considered = Class rank、Interview、First generation、Alumni/ae relation、Religious affiliation、Level of applicant's interest。CDS 备注：Music Technology 必须交作品集，Architecture、Industrial Design 等可选。
+
+## candidate_preferences
+- **偏好 1：品格（Character）被评为 Very Important，且官网把活动叫作「对社区的贡献」（中）。** 支持：quotes 4、5、10；C7 中 Character/personal qualities 与 Rigor、GPA 同为 Very Important（MIT、CMU 类理工校一般不这样标）；特质清单里有 Compassion for Others、Personal Responsibility。反面：UNC 也把 Character 标为 Very Important；特质清单本身是通用词。体现于 application_design：部分（活动栏被重新命名为 contribution to community，但没有专门文书）。
+- **偏好 2：专业匹配 + 刻意要求专业多样（中）。** 支持：quotes 2、7；第一 / 第二意向专业参与评审。反面：UIUC、Purdue、Michigan 也按专业或学院审；GT 特别之处是明说要 "a variety of disciplines"，不是只要工科。体现于 application_design：是（专业选择是评审因素），但 2026–27 取消了 Why Major 文书，专业匹配现在只能从课程、活动和主文书里看。
+- **流行说法核查「佐治亚理工看重进步与服务（Progress and Service）和理工实力」：部分支持。**
+  - 「进步与服务」：它是校训，写进使命和战略规划（quote 8），招生负责人多次引用；2016 年还专门出过以校训为题干的补充文书，Clark 当时说这是在看「你在家庭中的角色和品格」（quotes 9、10）。但 2026 年的招生官网各评审页面没有提这个校训，2026–27 也取消了所有补充文书，所以它现在只是一种价值背景，不是可单独展示的评审项。比较准确的说法是：GT 看重「对身边社区的实际贡献 + 品格」，这和校训一致（quotes 4、5，C7 Character = Very Important）。
+  - 「理工实力」：支持一半。Rigor 和 GPA 为 Very Important，官网要求展示 "the most rigorous curriculum available"（Academic Preparation 页），并看专业准备（quote 7）。但官网同时强调要专业多样、要商科设计文科学生（quote 2），标化只是 Considered。所以是「看学业难度和专业准备」，而不是只看理工竞赛成绩。

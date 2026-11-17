@@ -316,7 +316,7 @@
 | Hook类型 | 具体说明 | 加分幅度 | 对中国学生的适用性 |
 |---------|--------|--------|-----------------|
 | **州内户籍（In-State）** | 新泽西州居民，享受州内学费优惠和录取倾斜 | **+15-25%录取率** | ❌ 不适用（除少数赴美工作家庭） |
-| **校友子女（Legacy）** | 父母/直系亲属为Rutgers校友 | **+5-10%录取率** | ❌ 中国申请者极少具备 |
+| **校友子女（Legacy）** | 父母/直系亲属为Rutgers校友 | **无** | C7 自填 Alumni relation 为 Not considered，不作加分（依据 CDS 2023–24，2026-11 更正） |
 | **第一代大学生（First-Gen）** | 父母均未获得学士学位 | **+5-8%录取率** | ❌ 不适用（中国申请者多为中产背景） |
 | **特殊才艺** | 运动、音乐、艺术达到可招募水平 | **+20-40%录取率（运动员）** | ✅ 中等适用（需NCAA认可） |
 | **地域多样性** | 来自代表性不足的地区或国家 | **+3-5%录取率** | ✅ 中等适用（取决于申请者数量） |
@@ -406,7 +406,7 @@
 
 1. Rutgers主要通过Common App essay评估申请者
 2. 与学校补充文书无关，无需额外提及为什么选择Rutgers
-3. 所有EC、推荐信、学术记录在通用应用中体现
+3. 所有EC、学术记录在通用应用中体现；Rutgers 不用推荐信，官网说推荐信 "not used for admissions consideration"，并要求申请人不要寄（2026-11 更正）
 
 ### Common App Essay Prompts（适用Rutgers）
 
@@ -757,6 +757,35 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。盲测中评判是靠残留措辞和排除法认出罗格斯的，不是靠特质。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 学术潜力是首要重点 | "Decisions are based upon a comprehensive review of each application. Primary emphasis is placed on the student's academic promise…" | [Rutgers 招生办 How We Make Decisions 页（New Brunswick）, 2026](https://admissions.newbrunswick.rutgers.edu/node/128) |
+| 质性因素：升学准备项目、家庭义务、社会经济背景（原文为列表） | "We also consider such qualitative factors as: Personal essay; Participation in programs designed for college preparation… Family obligations; Socioeconomic background" | [Rutgers 招生办 How We Make Decisions 页（New Brunswick）, 2026](https://admissions.newbrunswick.rutgers.edu/node/128) |
+| 对学术项目有准备 | "Rutgers, The State University of New Jersey, welcomes applications from students who demonstrate preparedness for our academic programs." | [Rutgers 招生办 2026 Admissions Profile（PDF）, 2026](https://admissions.rutgers.edu/sites/default/files/2026-08/2026%20Admissions%20Profile.pdf) |
+| 整体审读，学院选择也是评审项 | "We conduct a holistic review of each student's application, including academic strength and performance, the essay, extracurricular activities, school choice, and more." | [Rutgers 招生办 2026 Admissions Profile（PDF）, 2026](https://admissions.rutgers.edu/sites/default/files/2026-08/2026%20Admissions%20Profile.pdf) |
+
+「学业为主、兼看背景」是大型公立校的共性；社会经济背景、家庭负担这类条目在 UF 的选答题和 Ohio State 的评审清单里也有。招生副校长 Courtney McAnuff 历年说的 "best and brightest"、"resilient and intelligent" 等是泛化赞语，看不出特定的人格偏好。罗格斯的不同在制度：按学院录取，"school choice" 是评审项，落选可自动转到其他校区或学院。
+
+**体现在申请设计中**：
+
+- **没有补充文书**，官网原话 "Please note there are no supplemental essays required for the Common App."；只要一篇 Common App 主文书（≤650 词）或 Rutgers Application 文书（≤3,800 字符）。想进 Honors College 要在 12/1 前勾选并回答 honors 短文（"A short statement is required"），同时用作奖学金评审。
+- 标化至 2027 年（含）test-optional；STARS 自报成绩；按 school/college 录取，可通过 Maximum Admission Consideration 转到其他校区或学院；Mason Gross 艺术类需作品集或试镜；新泽西居民可勾选 EOF。**不收推荐信。**
+- CDS C7（官方最新公开版是 New Brunswick CDS 2023–24，2024–25 和 2025–26 尚未挂出）：Very Important 为 Rigor、Academic GPA；Important 为文书、课外活动、Character/personal qualities；Considered 为排名、标化、面试和 Talent（这两项仅限 Mason Gross 才艺评估）、第一代、地域、州籍、志愿服务、工作经历；推荐信、校友关系、宗教、兴趣程度为 Not Considered。
+- 与本画像其他章节的冲突：「文书题目」「实战建议」原有推荐信内容、Hooks 表原把校友子女列为有利因素，均已按官网和 C7 更正（2026-11）。
+
+**流行说法核查**：
+
+- 「罗格斯主要看成绩」→ **支持**。官网原话把学术潜力列为 "Primary emphasis"，学术证据是课程难度、成绩和趋势、加权 GPA、排名；C7 中只有 Rigor 和 GPA 是 Very Important。标化可选且 C7 中只是 Considered，所以准确地说是「主要看在校成绩和课程难度」，不是看考试。文书、活动、品格为 Important，但没有补充文书、不收推荐信，非学术信息的输入渠道很少。
+
+**对申请者的含义（归纳）**：
+
+1. 主要看在校成绩和课程难度；标化可选，C7 中只是 Considered。
+2. 没有补充文书、不看推荐信，非学术信息只来自主文书和活动表；申请时选哪个学院本身是评审项，要结合名额和自己的条件选。
+
 ## 💡 对中国学生申请Rutgers的实战建议
 
 ### 建议1：早期选择应聚焦而非泛泛（关键）
@@ -889,14 +918,13 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 | **主故事与主EC一致** | 文书讲数学热情，但EC中没有数学竞赛或志愿讲师 | ✓ 文书中提及的主要活动必须在EC列表中可见 |
 | **EC的时间跨度合理** | 文书讲"多年的热情"，但EC中活动只参加1年 | ✓ 对应EC的时间长度应该≥2年（除非有合理解释） |
 | **EC的领导职位与故事相符** | 文书讲"我创立了项目"，但EC中没有领导者或founder身份 | ✓ 在EC中明确标注"Founded" 或 "President" 等 |
-| **推荐信的焦点应该呼应** | 文书主题是"教学热情"，但推荐信讲"考试成绩突出" | ✓ 与推荐人沟通，让他们的焦点与你的文书主题对齐 |
+| **推荐信** | — | Rutgers 不用推荐信，并要求申请人不要寄，这一项不适用（2026-11 更正） |
 | **GPA、SAT、EC、文书的综合叙事** | 各部分讲的好像是不同申请者的故事 | ✓ 在脑海中讲述"这个申请者的故事"，各部分应该拼成一个整体 |
 
 **王思语的成功在于：**
 - 文书讲垃圾分类项目 → EC中有"Created campus waste sorting project"
 - 文书讲"后来做了研究" → EC中有"Environmental Science Research Group Leader"
 - 文书讲想学环境科学 → 课程选择中有biology/chemistry/earth science等
-- 推荐信（如果存在）会讲"她的行动力和对环保的执着"
 - **结果：** 整个申请包讲的是同一个"环保导向"的申请者故事
 
 ---

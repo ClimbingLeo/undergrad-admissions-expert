@@ -174,7 +174,7 @@
 | Hook类型 | 影响程度 | 录取率提升 | 对中国学生的说明 |
 |---------|---------|---------|-----------------|
 | **NCAA D1招生运动员** | 极强（+25-30%） | 约75-80%录取率 | 极难获得。需在U16/U18国家队或明确被教练招募。大多数中国学生无此条件 |
-| **校友子女（Legacy）** | 中等（+10-15%） | 约55-60%录取率 | 对中国学生帮助有限，除非有美国居民背景。威斯康星州校友子女获益更大 |
+| **校友子女（Legacy）** | 无 | — | C7 自填 Alumni relation 为 Not considered，不作加分（2026-11 更正） |
 | **第一代大学生（First Gen）** | 弱-中等（+5-8%） | 约50%录取率 | 中国学生多为高学历家庭，难以利用此hook |
 | **地理多样性（Underrepresented State）** | 弱（+2-5%） | 约47%录取率 | 中国学生多来自加州、德州、纽约等热门州，此优势小 |
 | **种族多样性（URG）** | 强（+15-20%） | 约60-65%录取率 | 亚裔学生不在URG范围内。实际上亚裔学生面临slight penalty |
@@ -413,6 +413,35 @@ As the child of Chinese physicists, I grew up around discussions of scientific m
 - **改进方向：** 用清晰、direct的英文。简单句往往比复杂句更有力。英文写作的黄金法则是clarity > elegance
 
 ---
+
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。盲测中 UW–Madison 和密歇根被评判互相认错，只能靠排除法区分。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 先学术，再看领导力和社区贡献 | "First, we focus on academic excellence and preparation. Beyond academics, we look for qualities such as leadership; contributions to your community…" | [UW–Madison 招生办 What We Look for in Our Applicants 页, 2026](https://admissions.wisc.edu/can-i-get-in-to-uw-madison/) |
+| 背景多元、对威斯康星社区的潜在贡献 | "We’re also seeking diversity in personal background and experience and your potential for positive contribution to the Wisconsin community." | [UW–Madison 招生办 What We Look for in Our Applicants 页, 2026](https://admissions.wisc.edu/can-i-get-in-to-uw-madison/) |
+| 难课里拿高分 | "We look for you to be earning top grades—mostly As—in challenging courses, including honors, IB, and/or AP, when available." | [UW–Madison 招生办 What We Look for in Our Applicants 页, 2026](https://admissions.wisc.edu/can-i-get-in-to-uw-madison/) |
+| 活动对你本人的正面影响 | "We also review your extracurriculars and the positive impact they have had on you as a student." | [UW–Madison 招生办 What We Look for in Our Applicants 页, 2026](https://admissions.wisc.edu/can-i-get-in-to-uw-madison/) |
+
+「学业第一 + 领导力与社区贡献 + 背景多元」是同组公立校的共同模板。学校身份上的特色是 Wisconsin Idea：招生办说 "While the Wisconsin Idea is about our students giving back, the Wisconsin Experience is how we, as a university, give back to our students."，但招生评估页列出的评估项里没有出现 Wisconsin Idea，文书也不问服务经历。官方对学术优先的表态也很早：时任教务长 Paul M. DeLuca Jr. 2014 年的声明写 "UW–Madison considers academic credentials as the most important factor."
+
+**体现在申请设计中**：
+
+- 2026–27 两篇文书：Common App 个人陈述（或 UW 系统申请中「你会带到校园的独特经历、才能、投入或兴趣」）；所有人必答 Why UW–Madison 加为什么选所报专业（未定专业的写可能的学术兴趣）。
+- 必交 1 封学术推荐信，可另交 1 封；标化至 2028 春季学期（含）test-optional；无面试。商学院、工程学院和音乐、舞蹈实行 direct entry，音乐和舞蹈另交申请并试演。
+- CDS 2025–26 C7（官方 xlsx，Fall 2025 数据）：Very important 只有 Rigor、Academic GPA；Important 为文书、推荐信、课外活动、Character/personal qualities、州籍；Considered 为排名、标化、Talent、第一代、地域、志愿服务、工作经历；面试、校友关系、宗教、兴趣程度为 Not considered。本画像其他章节只写到课程难度 Very important。
+- 与本画像其他章节的冲突：「申请时机」说 EA「表明真正的兴趣，有利于竞争」，C7 中兴趣程度是 Not considered，以本节为准；Hooks 表的校友子女一行已按 C7（校友关系 Not considered）更正（2026-11）。
+
+**流行说法核查**：
+
+- 「威斯康星看重服务社会的 Wisconsin Idea」→ **部分支持**。Wisconsin Idea 是学校核心使命，招生办把它说成学生回馈社会，评估页也说要看社区贡献，校长 Jennifer Mnookin 2023 年开学典礼还把「不袖手旁观」和「所以选中你们」连在一起说。但评估页的评估项里没有 Wisconsin Idea，官方明确先看学术，C7 中志愿服务只是 Considered，文书也不问服务经历。它是学校价值观和宣传语言；官方没有说在 Why UW 文书里提它有助于说明契合度，也没有证据说明它单独加权。
+
+**对申请者的含义（归纳）**：
+
+1. 官网把学术写在第一位，学校自填 C7 中只有课程难度和 GPA 为 Very important：难课加高分是基础。
+2. Why UW–Madison 文书要写到学校和所报专业的具体内容；官方没有说提 Wisconsin Idea 有用，也不要指望靠服务经历单独加分。
 
 ## 💡 对中国学生申请的实战建议
 

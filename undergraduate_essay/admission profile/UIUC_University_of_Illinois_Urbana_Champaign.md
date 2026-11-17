@@ -330,7 +330,7 @@ UIUC招生办强调：**不看数量，看深度与影响力**。录取的学生
 | **低收入背景** | 中 (+15-20%) | 家庭年收入<$65K（根据FAFSA）。中国学生中稀有。 |
 | **少数族裔** | 低 (平衡) | UIUC无官方AAO政策，但在追求campus diversity背景下，某些underrepresented group可能有微弱加分。中国学生属overrepresented，无此advantage。 |
 | **运动员招募** | 中-高 (+25-40%) | 学校运动队（NCAA Division I）的recruited athlete。UIUC无全额运动奖学金但有部分。中国学生中极少。 |
-| **校友子女** | 低-中 (+5-15%) | 父母或近亲是UIUC校友。帮助有限。 |
+| **校友子女** | 无 | 官网 Factors Not Considered 页列有 "Legacy or donor status"，不作加分；UIUC 的 CDS C7 本次未能核对（2026-11 更正） |
 
 ### 对中国申请者的战略建议
 
@@ -684,6 +684,36 @@ Your perspective as someone who grew up in a different education system or solve
 - "My dual exposure to Chinese and Western problem-solving approaches..."
 
 ---
+
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。盲测中评判是靠「专业契合」这条制度线索认出 UIUC 的：差异在制度（按专业分池评审），不在特质。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 学业有挑战、在已有机会中取得成就、投入活动和服务 | "…identify students who have challenged themselves academically, demonstrated achievement within the context of available opportunities, and shown commitment to activities and service" | [UIUC 招生办 Admission Review Policy 页, 2026 访问](https://www.admissions.illinois.edu/admission-review-policy/) |
+| 学业为核心，也看个人经历和视角 | "Academics are central: We also consider your story, experiences, and perspective" | [UIUC 招生办 How Admission Works 页, 2026](https://www.admissions.illinois.edu/how-admission-works/) |
+| 背景、兴趣、目标与所选专业契合 | "We consider how your background, interests, and goals align with the major you selected." | [UIUC 招生办 How Admission Works 页, 2026](https://www.admissions.illinois.edu/how-admission-works/) |
+| 按所报专业分池比较 | "Applicants are reviewed within the context of the academic community or program to which they apply, rather than against the full pool of university applicants." | [UIUC 招生办 Admission Review Policy 页, 2026 访问](https://www.admissions.illinois.edu/admission-review-policy/) |
+| 活动看重的品质（原文为列表），重深度不重数量 | "We look for qualities like: Curiosity; Leadership; Creativity; Motivation; Perseverance. Depth matters more than quantity…" | [UIUC 招生办 How Admission Works 页, 2026](https://www.admissions.illinois.edu/how-admission-works/) |
+
+活动部分列的 Curiosity、Leadership、Creativity、Motivation、Perseverance 和 "leadership, or service" 都是通用词；校长、教务长讲的服务伊利诺伊州、机会公平（"Illinois is committed to creating as much opportunity for as many as we can"）也是公立旗舰校共性。UIUC 的不同在制度：按专业分池评审，补充文书全部考专业，官网还明列一批「不考虑」的因素。Purdue、Michigan、GT 也按专业或学院评审，但 UIUC 的补充文书完全没有「为什么选本校 / 你是什么样的人」类题目，专业导向更彻底。
+
+**体现在申请设计中**：
+
+- 2026–27 补充文书 2–3 篇，每篇约 150 词，全部围绕专业：近 3–4 年与第一志愿专业相关的一段经历；毕业后的目标以及所选专业如何帮你实现；报了第二志愿再加一篇；Undeclared 改答职业 / 学术目标和考虑中的专业。另需 Common App 主文书。
+- 官网 Factors Not Considered 明列 "Demonstrated interest; Social media presence; Counselor or teacher recommendations"，以及校友 / 捐赠关系和经济需求：**不看推荐信，也不看 demonstrated interest**。标化可选；部分专业有先修课要求。
+- CDS C7：官方 CDS 2025–26 是 DAIR 网站上的 xlsx 文件，本次无法读取，**未能核对**；本画像也没有列 C7。
+- 与本画像其他章节的冲突：「申请时机」说 EA「显示择校意愿强」，官网明列不考虑 demonstrated interest，以本节为准；Hooks 表的校友子女一行已按官网更正（2026-11）。
+
+**流行说法核查**：
+
+- 「UIUC 主要看成绩和专业匹配」→ **支持**。官网原话 "Academics are central"，按所报专业分池评审，评审因素明列 "Interest in the intended major or academic program and the rationale provided by the applicant"，补充文书只考专业。补充两点：「成绩」指在校成绩和课程难度，并结合学校条件看，标化可选；活动和服务也在评审因素里，但没有推荐信，非学术信息只来自活动表和文书。C7 未能核对，这一判断主要基于官网文字。
+
+**对申请者的含义（归纳）**：
+
+1. 所报专业要和课程、活动、毕业目标连成一条线，两篇补充文书都在考这一点；这是评审制度决定的，不代表学校偏好某类性格的学生。
+2. 没有推荐信、不看到访和联系记录，非学术信息只能靠活动表和文书传达，活动描述要写清具体做了什么。
 
 ## 💡 对中国学生申请UIUC的实战建议
 

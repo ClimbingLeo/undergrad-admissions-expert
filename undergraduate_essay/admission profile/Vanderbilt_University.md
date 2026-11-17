@@ -125,7 +125,7 @@ CDS C7 非学业因素（2025–26，[来源](https://cdn.vanderbilt.edu/vu-wpfs
 | 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
 |---|---|---|
 | 主要审读：学业、社区参与和领导力、文书、推荐信 | "Our process primarily includes review of applicants' academic achievement, community engagement and leadership, personal essay, short answer, and letters of recommendation." | [Vanderbilt 招生办 FAQ, 2026-11 访问](https://admissions.vanderbilt.edu/faq/) |
-| 投入时间精力，并有较强的领导能力 | "we are looking in every case for both commitment of time and effort, and strong leadership skills." | [Vanderbilt 招生办官方博客（Carolyn Pippen）, 2014](https://admissions.vanderbilt.edu/vandybloggers/2014/02/what-we-look-for-in-an-application/) |
+| 投入时间精力，并有较强的领导能力（2014 年旧文） | "we are looking in every case for both commitment of time and effort, and strong leadership skills." | [Vanderbilt 招生办官方博客（Carolyn Pippen）, 2014](https://admissions.vanderbilt.edu/vandybloggers/2014/02/what-we-look-for-in-an-application/) |
 | 深度优于广度 | "We’d much rather see a genuine commitment to one or a few activities than superficial participation that doesn’t offer a significant contribution." | [Vanderbilt 招生办 Expert Advice, 2026-11 访问](https://admissions.vanderbilt.edu/apply/expert-advice/) |
 | 看影响，不看头衔 | "If you made a real difference on your campus or in your community through one of your activities, emphasize that impact…" | [Vanderbilt 招生办 Expert Advice, 2026-11 访问](https://admissions.vanderbilt.edu/apply/expert-advice/) |
 | 带来多样的才能和视角，营造投入的社区 | "…who bring a wide array of talent and perspectives to campus, and who will foster a welcoming and highly engaged Vanderbilt community." | [Vanderbilt 招生办 FAQ, 2026-11 访问](https://admissions.vanderbilt.edu/faq/) |
@@ -139,7 +139,7 @@ CDS C7 非学业因素（2025–26，[来源](https://cdn.vanderbilt.edu/vu-wpfs
 **流行说法核查**：
 
 - 「范德堡看重领导力、社区参与和全面发展」→ **部分支持**，逐项如下：
-- 领导力和社区参与 → **支持**。FAQ 把 "community engagement and leadership" 列为主要审读内容之一；招生办博客公布 Class of 2030 ED 录取生 "received one or more significant honors or held major leadership positions: 100%"。官方同时说领导力不等于头衔。
+- 领导力和社区参与 → **支持**。FAQ 把 "community engagement and leadership" 列为主要审读内容之一；招生办博客公布 Class of 2030 ED 录取生 "received one or more significant honors or held major leadership positions: 100%"，但这是「获重要荣誉」和「任主要领导职务」二选一的合并统计，单凭它不能说明人人都有领导经历。新旧表述要分开看：2014 年旧博客说要看 strong leadership skills；现行招生页则强调不看头衔、看实际影响，以现行说法为准。
 - 全面发展 → 如理解为「什么都参加」，**不支持**：官方建议 "Depth over breadth"；如理解为「学业之外也有课外和社区投入」，则属各校共性。
 
 **对申请者的含义（归纳）**：

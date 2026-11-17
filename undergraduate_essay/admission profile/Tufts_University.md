@@ -924,13 +924,13 @@ studies" as exotic—feels like home.
 **体现在申请设计中**：
 
 - 2026–27 短答题 1（75–150 词）问你在选校过程中如何了解和接触 Tufts；题 2（100–200 词）按学院不同：文理学院问过去两年最喜欢的一项学校作业，工程学院问你参与构建或设计的一个项目，SMFA 谈作品集中的一件作品。本季没有专门的公民参与题。
-- 不提供面试；SMFA 需作品集；推荐信为 1 封 counselor + 1 封核心学科老师。
+- 本季官方页面已不列面试（CDS 2025–26 仍把面试列为 Considered），待核；SMFA 需作品集；推荐信为 1 封 counselor + 1 封核心学科老师。
 - CDS 2025–26 C7：Rigor、排名、GPA、文书、推荐信、Character 为 Very important；课外活动、Talent/ability 为 Important；Volunteer work 和 Level of applicant's interest 为 Considered。
 
 **流行说法核查**：
 
 - 「塔夫茨喜欢有点古怪、有活力、重视公民参与的学生」→ **部分支持**，逐项如下：
-- 重视公民参与 → **支持**。使命陈述写入 civic engagement，招生主任 2024–2026 年连续三年描述录取生都用到 civic-minded / civically engaged。
+- 重视公民参与 → **支持**。使命陈述写入 civic engagement，招生主任在 2024、2026 两年描述录取生时分别用到 civic-minded、civically engaged。
 - 有活力 → **部分支持**。官方用的是 "active learners"、"active members of their school and local communities"，指积极参与，不是性格上的活力。
 - 有点古怪（quirky）→ **官方页面未见**。2026–27 短答题已换成「了解 Tufts 的经历 + 最喜欢的作业或项目」。
 

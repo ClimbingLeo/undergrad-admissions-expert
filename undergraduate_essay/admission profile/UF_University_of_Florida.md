@@ -246,7 +246,7 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 | 第一代大学生（First-Gen） | ★★★ | 列为"重要"因素，但影响有限 |
 | 少数族裔身份 | ★★★ | 在多样性审查中有帮助，但不如传统STEM竞争激烈 |
 | 女性申请STEM专业 | ★★ | 作为女性进入男性主导领域（工程、计算机科学）有小幅优势 |
-| Legacy（校友子女） | ★★ | UF的legacy hook较弱，不是主要加分因素 |
+| Legacy（校友子女） | 无 | C7 自填 Alumni relation 为 Not considered，不作加分（2026-11 更正） |
 | 地理位置多样性 | ★★ | 来自代表不足地区的申请者有小幅优势 |
 
 **重要说明**：UF官方强调"holistic review"，没有任何单一因素决定录取。Hook可能帮助边界案例，但无法弥补重大硬件或文书劣势。
@@ -257,6 +257,7 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 
 | 轮次 | 截止日期 | 材料截止 | 录取通知日期 | 录取率 | 建议 |
 | --- | --- | --- | --- | --- | --- |
+| **Early Decision (ED)**（2026-11 补充） | 10月15日 | — | 12月11日前 | 未公布 | 有约束力，录取后必须入学；从 Fall 2027 入学（2026–27 申请季）起实行 |
 | **Early Action (EA)** | 11月1日 | 11月8日 | 1月23日 | ~38% | **强烈建议**：EA申请者占2029年级录取生的57.85%（10,510/18,169），显示EA优势显著 |
 | **Regular Decision (RD)** | 1月15日 | 1月22日 | 3月13日 | ~15-18% | RD录取率仅为EA的一半，严重不利 |
 
@@ -269,7 +270,7 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 **时间规划建议**（针对中国学生）：
 - 7月-8月：完成Common Application和UF主申请
 - 8月-9月：准备UF补充文书、Honors申请（如适用）
-- 10月中旬：完成所有材料、获取推荐信
+- 10月中旬：完成所有材料（UF 不收推荐信，不必准备，2026-11 更正）；如申 ED，10月15日截止
 - 10月25日：提交EA（确保有缓冲时间）
 - 10月底：跟踪申请状态、确保材料完整
 
@@ -581,6 +582,36 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。盲测中评判是靠「品行记录、违纪」这条制度线索认出 UF 的：差异在制度，不在特质。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 在既有机会与挑战中取得的成就，预测能否在 UF 成功 | "…we are considering a candidate's chance of success at UF based on what the student has accomplished within distinct opportunities and challenges." | [UF 招生办 Our Decision Process 页, 2026](https://admissions.ufl.edu/apply/freshman/our-decision-process) |
+| 持续的课外投入，以及对学校、社区和家庭的贡献 | "Consistent involvement throughout high school that demonstrates a student's interests and passions, as well as how applicants contributed to their school, community and/or family." | [UF 招生办 Our Decision Process 页, 2026](https://admissions.ufl.edu/apply/freshman/our-decision-process) |
+| 在高强度学术环境中成功的潜力和意愿 | "We search for students who show the potential and desire to succeed in a rigorous academic environment." | [UF 招生办 Our Decision Process 页, 2026](https://admissions.ufl.edu/apply/freshman/our-decision-process) |
+| 品行记录（资格条件） | "A record of good conduct. Major or continuing difficulty with school or other officials may render an applicant ineligible regardless of academic qualifications." | [UF 招生办 Freshman Requirements 页, 2026](https://admissions.ufl.edu/apply/freshman/requirements) |
+
+「在既有机会内的成就」和承认家庭责任是公立旗舰校的通用说法（Ohio State 写 family responsibilities，Rutgers 写 Family obligations）；服务只有首席招生策略官 Mary Parker 2022 年播客这一处来源，而且描述的是已录取学生（"Not only were they highly academically qualified, but they also had service."，[UF News 播客, 2022](https://news.ufl.edu/2022/02/from-florida-episode-8/)），官网评审标准没有单列 service。UF 稍不同的是学校自填 C7：Extracurricular activities 和 Talent/ability 与 Rigor、GPA 同为 Very Important（同组 UNC 也是），同组的 Purdue、Ohio State、Rutgers 课外活动都只是 Important。
+
+**体现在申请设计中**：
+
+- 2026–27 周期首次新增**绑定式 Early Decision**（10/15 截止，12/11 出结果），保留 EA、RD。**本画像「申请时机与轮次」一节原只列 EA、RD，已补上（2026-11）。**
+- UF Supplement（题目原文需登录 Common App 才能看到，以下据 College Essay Guy 2026/27 转录；官网只说有 "a few additional short-answer questions"）：必答一题（≤250 词），写高中期间最有意义的课堂外投入，题面点名工作、志愿、学术活动、家庭责任等；选答三题（各≤250 词）：工作或家庭义务是否限制了课外活动、是否参加过升学辅导项目、其他特殊情况。Honors Program 另有一篇（≤400 词），Innovation Academy 另有文书。
+- 无面试、**不收推荐信**（C7 中 Recommendations 为 Not Considered）；STARS 自报成绩；SAT/ACT/CLT **必交**并 superscore；艺术类专业需试镜。**本画像「实战建议」原有一节「推荐信的策略」，已更正（2026-11）。**
+- CDS 2025–26 C7（UF Main Campus 官方 PDF）：Very Important 为 Rigor、Academic GPA、**Extracurricular activities**、**Talent/ability**；Important 为标化、文书、Character/personal qualities、志愿服务、工作经历；Considered 为第一代、地域、州籍；Class rank、推荐信、面试、校友关系、宗教、兴趣程度为 Not Considered。本画像 Hooks 表的 Legacy 一行已按 C7 更正（2026-11）。
+
+**流行说法核查**：
+
+- 「佛罗里达大学主要看成绩」→ **部分支持**。支持的一面：C7 中 Rigor 和 GPA 都是 Very Important，官网核心表述是 "potential and desire to succeed in a rigorous academic environment"，学业门槛很高。不支持的一面：课外活动和特长与成绩同为 Very Important，标化只是 Important，推荐信完全不看，唯一必答文书问的是课堂外投入。更准确的说法是：CDS C7 自填把成绩、课程难度与课外活动同列 Very Important（同组 UNC 也是）。
+
+**对申请者的含义（归纳）**：
+
+1. 学校自填 C7 把成绩、课程难度与课外活动、特长同列 Very Important（同组 UNC 也是），唯一必答文书又问课堂外投入，所以要写出一项长期投入的深度，而不是罗列活动。
+2. 打工、照顾家庭在 UF 是正当的课外内容，必答题题面和两道选答题都提到。
+3. 不看推荐信，标化必交；新增的 ED 有约束力，决定前要想清楚。
+
 ## 💡 对中国学生申请UF的实战建议
 
 ### 1. 及早规划，优先选择Early Action
@@ -707,17 +738,9 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 - 看UF有哪些学生俱乐部与你的兴趣相关
 - 在supplemental essay中提及至少2-3个具体的项目或机会
 
-### 9. 推荐信的策略
+### 9. 推荐信
 
-**选择推荐人**：
-- 选择真正了解你的老师（最好是英文或理科老师，招生官看重academic recommendations）
-- 告诉他们UF对你很重要，提供你的background信息帮助他们写出personalized的信
-- 国际学生：确保至少一封来自美国学校的老师（如果可能）
-
-**给推荐人的建议**：
-- 提供你的简历和一个简短的statement说明UF对你的意义
-- 给他们足够的提前期（至少3周）
-- 确认他们会通过Counselor letter或directly提交给UF
+UF 不收推荐信：官网材料清单里没有推荐信，CDS C7 中 Recommendations 为 Not Considered。原先这里的推荐信策略不适用，不必准备（2026-11 更正）。
 
 ### 10. 最后冲刺：提交前的Checklist
 
@@ -727,8 +750,8 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 - ✅ Common App essay经过至少3轮修改和feedback
 - ✅ UF supplemental essays经过feedback和修改
 - ✅ 所有essay已通过grammarly或native speaker检查（但保持你的声音）
-- ✅ 推荐信已从老师那里收集
-- ✅ 所有deadline已标记在日历上（EA: 11月1日，RD: 1月15日）
+- ✅ （UF 不收推荐信，这一项不需要，2026-11 更正）
+- ✅ 所有deadline已标记在日历上（ED: 10月15日，EA: 11月1日，RD: 1月15日；ED 为 2026-11 补充）
 - ✅ 你理解UF的application system并知道如何追踪状态
 
 ---
@@ -800,7 +823,7 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 - 7月1日前完成Common App account setup
 - 8月中旬完成Common App main essay第一稿，9月底前定稿
 - 9月中旬完成UF supplemental essays草稿
-- 10月中旬final版本完成并让老师修改推荐信
+- 10月中旬final版本完成（UF 不收推荐信，2026-11 更正）
 - 10月25-28日提交（距离11月1日deadline有2-3天缓冲）
 
 ### 战略三：利用"Academic Trajectory"故事
@@ -862,7 +885,7 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 **9月-10月**：
 - 最终定稿Common App essay
 - 开始UF supplemental essays（第一稿）
-- 给推荐人发邮件，提供deadline和background信息
+- （UF 不收推荐信，不必联系推荐人，2026-11 更正）
 - 确认高中成绩单可以在11月初之前发送
 
 **10月中-下旬**：

@@ -44,7 +44,7 @@
 - UW采取**完全test-optional政策**，延续至2025-26周期
 - 仅15%的入学学生提交SAT成绩
 - 仅4%的入学学生提交ACT成绩
-- **SAT/ACT不作为录取必需项**，但有成绩会对申请有正面帮助，特别是对国际学生
+- **SAT/ACT不作为录取必需项**；审读者看不到分数，仅极少数边缘申请者的高分（SAT 1400 / ACT 31 以上）可能被考虑，官网原话 "may be considered for a handful of students"（2026-11 更正）
 
 ### GPA成绩分布
 
@@ -305,7 +305,7 @@ UW采用**多维度评价模式**，主要看：
 | **代表性不足的少数族裔** | URM（非洲裔、拉美裔、Native American）申请人 | **强** | 中国学生不属于URM，亚裔学生在顶校竞争加剧的情况下可能面临反向歧视 |
 | **性别多样性** | 女性工程学；男性人文学 | **中** | 因专业而异；女性申请工程学会有slight advantage |
 | **特殊才能** | 运动员、音乐家、艺术家、演员 | **非常强** | 需要职业级别或全州/全国竞争力。大多数中国学生不具备 |
-| **父母校友** | Legacy（父母均为UW毕业生）或兄弟姐妹就读UW | **中强（但已淡化）** | 普通中国学生无此优势；少数2代华人可能有 |
+| **父母校友** | Legacy（父母为UW毕业生）或兄弟姐妹就读UW | **无** | C7 自填 Alumni relation 为 Not considered，不作加分（2026-11 更正） |
 | **学术特别成就** | 国家级STEM奖项（如ISEF、USAMO）；科研发表 | **非常强** | 此hook对中国学生最友好；国际科学竞赛如IOI、IMO、IPhO奖牌极有价值 |
 | **非典型的克服困难** | 健康挑战、家庭悲剧、教育资源匮乏但成绩优异 | **中强** | 需要在可选essay中authentically呈现；不要过度美化痛苦 |
 | **跨学科研究** | 跨越两个或以上学科领域的研究或项目 | **中** | 例如数据科学+生物医学；环保+政策；此hook适合有野心的申请人 |
@@ -365,27 +365,13 @@ UW采用**多维度评价模式**，主要看：
 
 ### 申请文书概览
 
-UW 2025-26申请周期的文书要求发生了重大改变：**取消了多选题，现在仅有1个必填题+1个可选题**
+UW 只要求一篇 **Common App 个人陈述**，另有两篇选填短文（2026-11 更正）。
 
 ### 文书题目详解
 
-#### 题目1：个人陈述（Personal Statement）- 必填项
+#### 题目1：Common App 个人陈述 - 必填项
 
-**提示（Prompt）**
-> "Tell a story from your life, describing an experience that either demonstrates your character or helped to shape it."
-
-**字数限制**：650 words（hard limit，不要超过）
-
-**核心理解**
-- UW想要的是**故事**，而非论文或自传
-- "demonstrate character"和"shape who you are"两个方向选其一即可
-- 强调的是**个人叙述视角**而非客观事实列举
-
-**UW官方提供的四个切入点**（可选其一，也可自创方向）
-1. 一个改变了你的时刻或经历（A moment or experience that changed you）
-2. 一个关于你如何发展文化认知的故事（A story about how you developed cultural awareness）
-3. 一个你经历的挑战（A challenge you experienced）
-4. 一个你成功克服的个人困难或障碍（A significant personal hardship or barrier you overcame）
+UW 只要 Common App 个人陈述（650 词以内，七个题目任选，官方不偏好任何题目），没有自己的个人陈述题；原先列在这里的 UW 专属题目和「四个切入点」不适用（2026-11 更正）。
 
 #### 题目2：可选补充信息（Optional Response）- 可选项
 
@@ -395,7 +381,7 @@ UW 2025-26申请周期的文书要求发生了重大改变：**取消了多选�
 > - Your activities have been limited because of work or family obligations
 > - You have experienced unusual limitations or opportunities unique to the schools you attended"
 
-**字数限制**：200 words maximum（truly optional - 如无特殊情况可留空）
+**字数限制**：官网现为两篇选填短文，Challenges and Circumstances 250 词、Additional Information 300 词（原写 200 词有误，2026-11 更正）；上面的提示原文未逐字核对。如无特殊情况可留空。
 
 **核心理解**
 - 这不是第二篇主essay，而是**补充/解释区**
@@ -420,13 +406,13 @@ UW 2025-26申请周期的文书要求发生了重大改变：**取消了多选�
 | 要素 | 个人陈述 | 可选补充 | Honors(可选) |
 |-----|--------|--------|------------|
 | 是否必填 | **是** | 否 | 否（仅限申请者） |
-| 字数限制 | 650 words | 200 words max | 450 words |
+| 字数限制 | 650 words | 250 / 300 words（2026-11 更正） | 450 words |
 | 核心目的 | 展现个性/成长 | 解释特殊情况 | 展现学术热情 |
 | 推荐话题 | 改变时刻；文化认知；克服困难；个性展现 | GPA下降解释；健康问题；家庭责任；学校限制 | 跨学科兴趣；不同思维方式；延伸学习 |
-| Common App可用性 | 可以repurpose，但需调整 | 不相关 | 不相关 |
+| Common App可用性 | 就是 Common App 文书（2026-11 更正） | 不相关 | 不相关 |
 
 **重要提醒**
-- UW不接受Common App essay作为替代
+- UW 只要 Common App 文书，不另设个人陈述题（2026-11 更正）
 - UW不要求推荐信（letters of recommendation）
 - UW不进行面试（no interviews）
 - UW不考虑demonstrated interest
@@ -667,6 +653,37 @@ UW 2025-26申请周期的文书要求发生了重大改变：**取消了多选�
 ✅ **改进**：end with a concrete realization about yourself or the world
 
 ---
+
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 学业准备和表现仍是首要 | "While we look at many factors in reviewing applications for admission, academic preparation and performance are still primary." | [UW 招生办 First-year Holistic review 页, 2026](https://admit.washington.edu/apply/first-year/holistic-review/) |
+| 服务与领导；在家庭、社区、工作中承担重大责任（原文为列表） | "Demonstrating a commitment to community service and leadership / Exercising significant responsibility in a family, community, employment situation or through activities" | [UW 招生办 First-year Holistic review 页, 2026](https://admit.washington.edu/apply/first-year/holistic-review/) |
+| 克服社会经济劣势（仅限华盛顿州居民） | "Attaining a college-preparatory education despite socio-economic or other disadvantage (Washington state residents only)" | [UW 招生办 First-year Holistic review 页, 2026](https://admit.washington.edu/apply/first-year/holistic-review/) |
+| 看潜力和机会，而不是优渥背景 | "…it allows us to emphasize potential and opportunity rather than privilege." | [UW Magazine（招生主任 Paul Seegert 署名文章）, 2019](https://magazine.washington.edu/feature/uw-takes-pride-in-a-fair-and-rigorous-admissions-process) |
+| 文书用来看成绩单背后的人 | "At the UW, we consider the college essay as our opportunity to see the person behind the transcripts and the numbers." | [UW 招生办 First-year writing section 页, 2026](https://admit.washington.edu/apply/first-year/how-to-apply/writing-section/) |
+
+盲测评判凭「社会经济劣势、潜力而非优渥背景」认出 UW。几乎所有公立校都说「结合背景」，UC 的 13 项标准也有同类条目；UW 把这一条明确写进评审清单，Allen School 的直录标准也写进了 "socioeconomic disadvantage"。但要注意，「克服劣势」一项明文只适用于华盛顿州居民，对国际生不适用。另一个特点是制度上的：不看标化和推荐信，除活动表外，一篇文书是最主要的文字材料。
+
+**体现在申请设计中**：
+
+- 2026–27 官方 writing section 页只要求 **Common App 个人陈述**（650 词以内，七选一，不偏好任何题目）；Challenges and Circumstances（250 词）和 Additional Information（300 词）选填，用来说明特殊的学业进程、课程不足等。**本画像「文书题目详解」原写 UW 有自己的个人陈述题、不接受 Common App 文书，已在该节更正（2026-11）；Honors 文书未核实。**
+- 不收推荐信、作品集或其他补充材料，不面试，不考虑 demonstrated interest：官网原话 "We will learn everything we need to know about you through your essay responses."
+- CS、计算机工程、工程学院和 Foster 商学院实行 Direct to Major / Direct to College，按第一志愿审核。
+- CDS 2025–26 C7（UW Seattle 官方 PDF 第 16 页）：Very important 为 Rigor、Academic GPA、Application Essay、State residency；Important 为课外活动、才能、第一代、志愿服务、工作经历；Considered 为品格与个人特质；班级排名、**标化**、**推荐信**、面试、校友关系、地域、宗教、兴趣程度为 Not considered。**本画像「学术硬件」的 SAT 说法和 Hooks 表的父母校友一行，已按 C7 更正（2026-11）。**
+
+**流行说法核查**：
+
+- 「华盛顿大学主要看成绩」→ **部分支持**。官方原话就是学业 "still primary"，C7 中 Rigor 和 GPA 为 Very important。但有关键遗漏：文书在 C7 中同样是 Very important，而且由于不看标化和推荐信，它是招生官看到「成绩单背后的人」最主要的文字渠道；个人维度明列社区服务与领导力、在家庭或工作中承担重大责任、独特视角；州籍也是 Very important，州内生约占三分之二（Seegert 2019）。
+
+**对申请者的含义（归纳）**：
+
+1. 对国际生，成绩和课程难度是主轴，那一篇 Common App 文书是最主要的文字渠道（活动表仍在，C7 中课外活动、志愿服务、工作经历均为 Important），学校自填 C7 也把它列为 Very important，值得重点投入。
+2. 「克服处境」条款只适用于华盛顿州居民；国际生可以写的是官方清单里的另几项：在家庭、社区、工作中承担的实际责任，以及独特视角。
+3. 标化和推荐信在 UW Seattle 的 C7 中都是 Not considered，不要指望靠它们补短板。唯一例外：官网 test-scores 页说审读者看不到分数，但 SAT 1400 / ACT 31 以上的分数 "may be considered for a handful of students"，只涉及极少数学生。
 
 ## 💡 对中国学生申请UW的实战建议（Top 5）
 

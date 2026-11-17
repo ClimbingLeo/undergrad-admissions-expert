@@ -146,7 +146,7 @@
 
 - **文书主题**
   - Common App: 讨论对计算机科学的热情，从小学起就喜欢建造东西，现在通过代码创建解决方案
-  - UVA补充文书: 强调为什么选择UVA工程学院，以及学校的honor code如何吸引自己
+  - UVA补充文书: 强调为什么选择UVA工程学院，以及学校的honor code如何吸引自己（注：Honor Code 是校园文化，不是招生办公布的录取标准；且补充文书已于 2025–26 季取消（2026-11 更正））
 
 **录取结果**: ED轮次录取
 **分析**
@@ -179,7 +179,7 @@
 
 - **文书主题**
   - Common App: 讲述第一代学生身份如何激励自己追求科学，家庭如何支持自己的志向
-  - UVA补充: 解释为什么UVA的研究机会和honor code吸引自己，计划研究方向
+  - UVA补充: 解释为什么UVA的研究机会和honor code吸引自己，计划研究方向（见上注）
 
 **录取结果**: RD轮次录取
 **分析**
@@ -336,7 +336,7 @@ to the University community."
    - 如何计划回馈社区或帮助相似背景的学生
 
 4. **UVA价值观对齐**
-   - 提及honor code如何吸引自己
+   - 提及honor code如何吸引自己（见上注）
    - 说明UVA哪些项目能帮助实现目标
 
 **⚠️ 中国学生需要注意**:
@@ -366,7 +366,7 @@ to the University community."
    - 多文化背景如何影响你的学业兴趣(如对语言学、国际关系、比较文学的兴趣)
    - 如何参与到跨文化社区建设中
 
-4. **UVA Honor Code与Inclusive Community**
+4. **UVA Honor Code与Inclusive Community**（见上注）
    - 强调对UVA开放多元社区的期待
    - 解释你会如何为UVA带来多元声音
 
@@ -480,7 +480,7 @@ to the University community."
    - 可以讲述失败、困惑、成长中的挑战
 
 2. **贡献意识(Contribution & Community)**
-   - UVA的Honor Code强调community，文书需展现你会如何为集体做贡献
+   - UVA的Honor Code强调community，文书需展现你会如何为集体做贡献（见上注）
    - 不是"我想从UVA获得什么"而是"我能为UVA带来什么"
    - 这在"Why UVA"部分(如果需要)特别重要
 
@@ -525,7 +525,7 @@ to the University community."
 - **常见现象**: "UVA是一所很好的大学，我想去那里学习工程"
 - **问题**: 这对任何大学都成立，没有展现为什么是UVA specifically
 - **改进**:
-  - 深入研究UVA的honor code、learning environment、specific programs
+  - 深入研究UVA的honor code、learning environment、specific programs（见上注）
   - 提及2-3个具体的因素(如特定教授、课程、学生组织、地理位置的意义)
   - 解释这些因素如何与你的目标和价值观align
 
@@ -540,6 +540,34 @@ to the University community."
   - 避免"我的文化很酷"，而是"这个背景如何影响了我作为一个人"
 
 ---
+
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 公民意识、善良、会表达也会倾听，同时学业很好 | "We are looking for civic minded, thoughtful, creative, kind students who are empathetic speakers and generous listeners, who also happen to be very good students" | [The Cavalier Daily（招生主任 Gregory Roberts 书面回复）, 2022](https://www.cavalierdaily.com/article/2022/09/u-va-welcomes-4053-first-years-to-grounds) |
+| 向他人学习，愿意挑战别人也愿意被挑战 | "…learning from others, expanding one's views, challenging others but a willingness to be challenged at the same time" | [The Cavalier Daily（Gregory Roberts）, 2022](https://www.cavalierdaily.com/article/2022/09/u-va-welcomes-4053-first-years-to-grounds) |
+| 培养负责任的公民领袖（学校使命） | "It serves the Commonwealth of Virginia, the nation, and the world by developing responsible citizen leaders and professionals" | [UVA 使命陈述（Board of Visitors 通过）, 2013](https://www.virginia.edu/mission/) |
+
+说明：admission.virginia.edu 等招生官网本次被人机验证拦截，以上原话来自校报、学校新闻和使命陈述，年份较旧。「明显」主要来自 Roberts 2022 年那句话：盲测评判正是凭「公民意识、倾听与对话」认出 UVA，同组其他公立校的官方表述多是「学业第一 + 领导力服务 + 背景语境」。但证据偏薄：只有这一条 2022 年校报引语；近两年的招生新闻（2025–2026）都是通用赞语，如 "These students will bring something meaningful and unique to the college they choose"；UNC 的招生声明也列了 kindness。
+
+**体现在申请设计中**：
+
+- 2025–26 季已取消补充文书，只交 Common App 主文书（据 UVA Magazine 2026-02 报道）；2026–27 季因招生官网无法打开，未能核实。往年的「UVA 社区 / 背景」类短答题已取消。招生主任说的这些特质，现在只能从主文书和推荐信里体现。
+- 无面试（第三方转述招生办博客，官网未能核对）；ED / EA / RD 三轮；州内约占三分之二名额（Class of 2030 目标 3,988 人，"roughly two-thirds of whom will be from Virginia"）。
+- CDS C7：官方 CDS 页面本次被拦截，只能确认本画像所写课程难度为 Very Important，其他项未能核对。
+
+**流行说法核查**：
+
+- 「UVA 看重荣誉准则（Honor）和学生自治」→ **不支持（作为录取标准）；作为校园文化成立**。使命把 honor 列为 "distinctive foundational values" 之首，校长 Scott Beardsley 2026 年开学典礼要求新生 "seek honor, truth and public service" 并签 Honor Pledge，但这些都发生在入学之后。本次找到的招生办表述都没有提 honor 或学生自治，申请材料里也没有相关题目；「招生官看重你和 Honor Code 的契合」只见于咨询公司网站。本画像「文书解读」「文书规律总结」两节把 Honor Code 当作文书切入点（如「UVA的Honor Code强调community」），没有官方招生出处，已在这些地方加注（2026-11）。限制：招生官网被拦截，无法排除官网介绍页提到荣誉制度，但那是宣传校园文化，不等于评审标准。
+
+**对申请者的含义（归纳）**：
+
+1. 招生主任描述的是「会表达、会倾听、愿意被挑战」的人（2022 年说法）；在只剩一篇主文书的情况下，这类特质只能靠主文书里的真实经历和老师推荐信体现。
+2. 不必在文书里刻意写荣誉准则或学生自治，那是入学后的规范，不是招生办公布的评审项。
+3. 约三分之二名额给弗吉尼亚州居民，州外和国际申请者竞争的是剩下的三分之一。
 
 ## 💡 对中国申请者的实战建议
 
@@ -596,13 +624,13 @@ to the University community."
 **建议**:
 - **深入研究UVA** (花费5-10小时研究):
   - 读几篇学生写的Medium posts或Reddit AMA
-  - 看UVA的honor code，理解其精神
+  - 看UVA的honor code，理解其精神（见上注）
   - 研究你专业所在学院，查找有兴趣的courses和professors
   - 如果可能，virtual tour或contact current students
 
 - **识别2-3个UVA specific reasons**:
   - 例如(仅示例，不要copy):
-    - "UVA的honor code强调intellectual integrity，这与我对科学诚实的理解一致"
+    - "UVA的honor code强调intellectual integrity，这与我对科学诚实的理解一致"（见上注）
     - "Dr. Smith在材料科学的研究与我的研究兴趣完全吻合，我想在他的lab工作"
     - "UVA的Engineering Corps program (建造小水坝帮助developing countries)符合我想用工程技能帮助社区的目标"
 
@@ -780,4 +808,4 @@ to the University community."
 
 *本文档基于2024-2025申请周期UVA官方数据、招生官指南、真实学生案例和教育资源编制。信息可能随年份变化，建议持续关注官方渠道以获最新动态。*
 
-*对中国申请者特别说明: UVA确实欢迎国际学生，但竞争极其激烈。成功申请需要不仅仅是成绩优异，更需要展现独特个人故事、clear专业方向、以及对UVA价值观(honor code, intellectual integrity)的genuine理解。祝申请顺利！*
+*对中国申请者特别说明: UVA确实欢迎国际学生，但竞争极其激烈。成功申请需要不仅仅是成绩优异，更需要展现独特个人故事、clear专业方向、以及对UVA价值观(honor code, intellectual integrity)的genuine理解（见上注）。祝申请顺利！*

@@ -38,3 +38,9 @@
 # 第二批结果：A 私立 13
 11/13（随机 1）；错：Emory↔BU 互换（0.35 / 0.25）。预测 6–8，低估；预测好认的 Rice（0.2）、Northeastern（0.3）实际不好认。
 分档：明显 NYU 0.85、USC 0.6、Notre Dame 0.6；中等 JHU 0.55、Georgetown 0.4、WashU 0.4、Vanderbilt 0.4、Tufts 0.4；基本一致 Northeastern、Rice、BC、Emory、BU。
+
+# 第二批结果：C 其他公立 13
+11/13（随机 1）；错：UW–Madison↔Michigan 互换（0.55 / 0.65）。预测 4–6，按「猜对」计低估；但评判自述 7 所靠残留制度线索（班级排名、按专业录取、品行条款、课程要求）认出，凭特质认出的只有 4 所，与预测的「好认」名单部分吻合（UVA、GT 对；UW–Madison 错；UNC、UW 未预测到）。
+分档规则在本组加一条：猜对但评判明说靠制度线索或措辞认出的，不算特质差异，归「基本一致」。
+  明显：Georgia Tech 0.9、UNC 0.9、UW 0.8、UVA 0.7
+  基本一致：UT Austin、UF、Ohio State、Purdue、UIUC、Maryland、Rutgers、Michigan、UW–Madison

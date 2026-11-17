@@ -140,6 +140,34 @@ CDS C7 非学业因素（[CDS 2025–26](https://obp.umich.edu/wp-content/upload
 
 **Ross Portfolio（仅 Ross 申请人）**：500 词 Business Case Discussion（官方说明不是研究型题目，不需要引用文献）+ 1 件 artifact 及 250 词说明（[Ross Admissions Portfolio](https://michiganross.umich.edu/undergraduate/bba/admissions/first-year-applicants/admissions-portfolio)；[Ross Blog, 2026-10-19](https://michiganross.umich.edu/undergraduate/bba/admissions/admissions-blog/2026/10/19/7-helpful-tips-applying-michigan-ross)）。具体 Business Case 题目每年在 SlideRoom 公布，本文未抄录。
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。盲测中评判只能靠制度线索猜校，还把密歇根和 UW–Madison 互相认错：差异在制度，不在特质。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 学业动力、自我驱动、愿意挑战自己 | "We're looking for evidence that the student will have the academic drive and personal motivation to challenge themselves…" | [Your Teen 采访时任招生主任 Erica L. Sanders, 2020](https://yourteenmag.com/teens-college/admissions/what-do-colleges-want-to-see) |
+| 热情、接受学术难度、参与社区 | "We look for evidence of passion and enthusiasm. We look for students who push themselves, embrace academic rigor, and are involved in their communities." | [Your Teen 采访 Erica L. Sanders, 2020](https://yourteenmag.com/teens-college/admissions/what-do-colleges-want-to-see) |
+| 对所报专业领域的兴趣证据 | "What we actually look at is the evidence of interest for the field of study an applicant seeks to pursue…" | [Your Teen 采访 Erica L. Sanders, 2020](https://yourteenmag.com/teens-college/admissions/what-do-colleges-want-to-see) |
+| 能给新生班带来什么：领导力、活动、奖项、服务 | "What are they adding to the class in terms of leadership, extracurricular activities, awards and service…" | [The Michigan Daily 采访 Erica Sanders, 2019](https://www.michigandaily.com/news/administration/admissions-officers-discuss-incoming-freshman-class-admissions-process/) |
+
+说明：本次核对时 admissions.umich.edu 等整个 umich.edu 域被人机验证拦截，无法当场核对官网；本画像前文「官方表述」引用的招生官网页面（Essay Questions、Selection Process）是此前访问的版本。以上原话来自校报 / 媒体采访，年份较旧（2019–2020）。这些说法是公立旗舰校的通用模板：学业第一，再看活动、服务和背景（时任分管招生的副教务长 Kedra Ishop 2019 年说 "It's about the context from which that student is coming…"）。稍具体的一点是「兴趣」的含义：Sanders 说看的是对所报领域的兴趣证据，这和按学院录取、Essay 2 专考学院匹配是一回事；UIUC、Purdue 等按专业录取的公立校同样如此。
+
+**体现在申请设计中**：
+
+- 补充文书两篇（取自本画像「文书题目」一节，本次无法打开官网核对）：Essay 1 题干开头是 "we are focused on developing leaders and citizens who will challenge the present and enrich the future"，问你如何为这些目标做贡献；Essay 2 写所报学院的课程如何支持你的兴趣。另需 Common App 主文书。
+- 按学院录取（LSA、工程、Ross 等）；Ross 申请人交 Ross Admissions Portfolio；艺术、建筑需作品集；部分音乐戏剧舞蹈申请者需试镜或面试；2026–27 继续 test-optional。
+- CDS 2025–26 C7（本画像引自 CDS 2025–26）：Very important 只有 Rigor、Academic GPA；Important 为标化、文书、推荐信、Character/personal qualities、First generation；Considered 为课外活动、Talent、志愿、工作经历、Level of interest、地域与州籍；Class rank、Interview、Alumni relation、Religion 为 Not considered。
+
+**流行说法核查**：
+
+- 「密歇根看重领导力和多元背景」→ **部分支持**。领导力：Essay 1 题干用了 leaders and citizens，招生主任也把 leadership 列为评审信息之一，但它和活动、奖项、服务并列，C7 中课外活动只是 Considered，不是区别于同档学校的重点。多元背景：据 Michigan Daily 2019 年报道，密歇根自 2006 年州宪法修正案 Proposal 2 起不能在录取中考虑种族、性别、出身国；官方能考虑的是第一代大学生（C7 Important）、社会经济和学校环境，不是种族意义上的多元。
+
+**对申请者的含义（归纳）**：
+
+1. 学校自填的 C7 只把课程难度和 GPA 列为 Very important，活动只是 Considered；成绩单是第一关。
+2. Essay 2 要写清所报学院的课程和你兴趣的对应关系，这就是招生主任所说的「兴趣证据」；Essay 1 的 leaders and citizens 是题干措辞，不必硬写成领导头衔。
+
 ## 对中国学生的建议
 
 1. **先算钱再申请**：密歇根对国际本科生基本不提供资助（CDS H6 写明无机构奖助），家庭必须能承担全额州外费用；这和 Notre Dame 等 need-blind 私校是两条赛道。

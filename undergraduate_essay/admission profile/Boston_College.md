@@ -581,7 +581,7 @@ Instead of abstract "I resisted stereotype," a stronger version would:
 |---|---|---|
 | 综合考量成绩、标化、课外、推荐和写作 | "…we consider grades, standardized test scores, what you do outside of school, teachers’ and others’ appraisals, and how you express yourself through writing." | [BC 招生办申请页, 2026](https://www.bc.edu/bc-web/admission/apply.html) |
 | 向内反思、向外行动，把成长转化为对共同善的贡献 | "…look inward and act outwardly—to take advantage of the many opportunities for reflection and translate your growth into contributions to the common good." | [BC 招生办首页, 2026](https://www.bc.edu/bc-web/admission.html) |
-| 文书要自我揭示，而非自我夸耀 | "tell us a story about yourself. It should be self-revealing, not self-glorifying." | [BC Magazine（招生副教务长 John Mahoney）, 2022](https://www.bc.edu/bc-web/sites/bc-magazine/summer-2022/features/inside-bc-admissions-.html) |
+| 文书要自我揭示，而非自我夸耀 | "tell us a story about yourself. It should be self-revealing, not self-glorifying." | [BC Magazine（时任招生副教务长 John Mahoney）, 2022](https://www.bc.edu/bc-web/sites/bc-magazine/summer-2022/features/inside-bc-admissions-.html) |
 
 选拔标准的用词与同组学校基本一致。BC 的差异在申请设计：补充文书 5 题中有 2 题直接使用 Jesuit 语汇（three Be's、Common Good），另有 1 题引用 BC 神学教授的话。
 
@@ -593,7 +593,7 @@ Instead of abstract "I resisted stereotype," a stronger version would:
 
 **流行说法核查**：
 
-- 「波士顿学院看重 Jesuit 价值观、为他人服务」→ **部分支持**。Jesuit 身份贯穿招生首页、使命陈述（"live in service to others"）和补充文书题目；但官方的重心是「反思与成长 → 贡献 common good」，不是服务时长。Volunteer work 只是 Important，宗教背景只是 Considered；招生副教务长的说法是 "we’re hoping that students have some understanding of and appreciation for what Jesuit education is about"，是期望，不是门槛。
+- 「波士顿学院看重 Jesuit 价值观、为他人服务」→ **部分支持**。Jesuit 身份贯穿招生首页、使命陈述（"live in service to others"）和补充文书题目；但官方的重心是「反思与成长 → 贡献 common good」，不是服务时长。Volunteer work 只是 Important，宗教背景只是 Considered；时任招生副教务长 Mahoney 2022 年的说法是 "we’re hoping that students have some understanding of and appreciation for what Jesuit education is about"，是期望，不是门槛。
 
 **对申请者的含义（归纳）**：
 

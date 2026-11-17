@@ -169,13 +169,13 @@
 | **第一代大学生** | 中（1.5-2倍） | 约12%录取生为第一代；有明确倾斜 |
 | **女性** | 中等（1.3倍） | 女性录取率19%，男性12%；工程中女性尤其倾向 |
 | **国际生** | 弱（0.3-0.5倍） | 国际生面临极严格评审；竞争激烈 |
-| **Legacy（校友子女）** | 弱-中等 | 是一个考虑因素，但权重相对较低 |
+| **Legacy（校友子女）** | 无 | C7 自填 Alumni relation 为 Not considered，不作加分（2026-11 更正） |
 | **少数族裔背景** | 中（1.5-2倍） | 44%录取生认同为AHANA（非白人亚裔）；重视多样性 |
 | **STEM论文/专利** | 极强（仅限有此成就者） | 发表论文或持有专利的申请者录取率明显提升 |
 | **开源/编程产品** | 极强（仅CS/工程方向） | 真实的开源项目、App、产品相当于"活的作品集" |
 | **极限兴趣+领导** | 强 | 一项活动达到区域/州/国际水平，配合领导力 |
 
-**中国学生现实：** 国际生没有任何传统Hook（非本州、非recruited athlete、非legacy），因此必须在学术硬件（GPA/SAT）和活动深度上无可挑剔。
+**中国学生现实：** 国际生没有任何传统Hook（非本州、非recruited athlete；GT 本来就不考虑校友关系，2026-11 更正），因此必须在学术硬件（GPA/SAT）和活动深度上无可挑剔。
 
 ---
 
@@ -197,7 +197,7 @@
 **中国学生战术：**
 1. **优先EA2：** 8.1%的录取率虽然仍是个位数，但相比RD的12.7%更好
 2. **准备充足：** 国际学生需要在9月底前完成所有材料（包括可能的英语补充测试）
-3. **Demonstrated Interest：** 虽然不是必须，但参加校友面试（Interview）会让你在竞争激烈的国际生池中脱颖而出
+3. **Demonstrated Interest / 面试：** GT 不做校友或招生官面试，C7 中 Interview 和 Level of interest 都是 Not Considered，没有靠面试或表达兴趣脱颖而出的渠道（2026-11 更正）
 
 ---
 
@@ -219,28 +219,7 @@
 
 ### Georgia Tech 补充文书
 
-**唯一必需的补充文书：**
-
-**题目：** "Why do you want to study your chosen major, and why do you want to study that major at **Georgia Tech**?"
-
-**字数限制：** 300字以内
-
-**结构建议：**
-- **前125-150字（40-50%）：** 为什么选择这个专业
-  - 具体的触发事件（个人经历、项目、比赛）
-  - 对该领域的深度认知
-  - 长期职业目标或学术兴趣
-
-- **后125-150字（40-50%）：** 为什么选择Georgia Tech
-  - **具体资源：** 特定的课程、教授、研究中心、项目
-  - **校园特色：** Co-op项目、InVenture Challenge、VIP项目等
-  - **避免陷阱：** 不要提"小班教学"、"美丽校园"等泛泛而谈
-
-**关键要点：**
-- Georgia Tech **不关心** 你对校园生活的感受或位置
-- Georgia Tech **关心** 你的专业匹配度和学术雄心
-- **重点是"学术"和"机会"，不是"社区"**
-- 用具体事例（如教授名字、项目名称、课程代号）展示research
+2026–27 起没有补充文书：原来唯一的「为什么选这个专业、为什么在 GT 读」短答题（300 字）已于 2026-07 取消，官网只列 Common App 主文书；专业兴趣和准备改由课程、活动和主文书体现（2026-11 更正）。
 
 ---
 
@@ -263,7 +242,7 @@
 
 **💡 对中国学生的教学意义：**
 1. **国际生优势：** 国际学生不需要通过美国本地资源展示兴趣（如美国实验室），可以利用自身国家的资源
-2. **研究背景转化：** 如果你有论文、专利、竞赛经历，写文书时**必须直接链接到Georgia Tech的具体资源**
+2. **研究背景转化：** 如果你有论文、专利、竞赛经历，写文书时**必须直接链接到Georgia Tech的具体资源**（这是旧 Why major 题的要求，该题已于 2026-07 取消，2026-11 更正）
 3. **避免的错误：**
    - 不要说"我想去Georgia Tech学工程"（太空泛）
    - 要说"我想在Dr. XX的实验室研究Y问题，用Georgia Tech的Z设备"
@@ -365,6 +344,38 @@
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，与同组 12 所美国公立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 创新思考者、问题解决者 | "Holistic admission is utilized to ensure enrollment of a first-year class who will be innovative thinkers and problem solvers." | [GT 招生办 Application Review Process 页, 2026](https://admission.gatech.edu/first-year/application-review) |
+| 活动＝对社区的贡献 | "At Georgia Tech, we refer to a student's activities as their contribution to their community." | [GT 招生办 Contribution to Community 页, 2026](https://admission.gatech.edu/first-year/contribution-to-community) |
+| 活动部分看重的品质（原文为列表） | "Some of the traits we value in this portion of the application include: Commitment; Self-motivation; Personal Responsibility; Compassion for Others; Initiative; Leadership; Entrepreneurism; Intellectual Curiosity" | [GT 招生办 Contribution to Community 页, 2026](https://admission.gatech.edu/first-year/contribution-to-community) |
+| 对所报专业的兴趣和准备 | "…we look for evidence of your interest in and preparation for the major/college that you list on your application." | [GT 招生办 Major Selection 页, 2026](https://admission.gatech.edu/first-year/major-selection) |
+| 新生班要专业多样 | "We also want a class who studies a variety of disciplines…" | [GT 招生办 Application Review Process 页, 2026](https://admission.gatech.edu/first-year/application-review) |
+
+「明显」体现在三处，都有证据：一是官网把活动栏直接叫作「对社区的贡献」，品质清单里有 Compassion for Others、Entrepreneurism，盲测评判正是凭创新、创业、在家中的影响认出 GT；二是学校自填 CDS 2025–26 C7 把 Character/personal qualities 和 Rigor、GPA 同列 Very Important（同组 UNC 也这样标）；三是明说要专业多样，不是只要工科。「在家中的影响」有历史来源：2016 年补充文书题干是 "Tech's motto is Progress and Service. We find that students who ultimately have a broad impact first had a significant one at home."，时任招生主任 Rick Clark 当年说 "We care about your relationships, character, and who you are in your family."（2016）。这道题早已不用。
+
+**体现在申请设计中**：
+
+- 2026–27 没有补充文书，只要一篇 Common App 主文书；2026-07 宣布取消原来的 "Why this major at Georgia Tech" 短答题，招生办执行主任 Mary Tipton Woolley 说 "This change is not intended to make our review process less rigorous, only less complex."（WSB-TV, 2026）。**本画像「文书题目」一节原列这道 Why major 题，已在该节更正（2026-11）。**
+- 申请时填第一、第二意向专业，专业是评审因素；Music Technology 必须交作品集和文书，College of Design 部分专业建议交作品集。
+- 面试：只有非英语母语国际生可选第三方面试（InitialView / Vericant），不做校友或招生官面试，C7 中 Interview 为 Not Considered。**本画像「申请时机与策略」原说参加校友面试能脱颖而出，已在该节更正（2026-11）。**
+- 州籍是影响录取率最大的因素之一：官网原话 "One of the biggest impacts on likelihood of admission (admit rate) for a student is residency."
+- CDS 2025–26 C7（官方 R4 版）：Very Important 为 Rigor、Academic GPA、Character/personal qualities、State residency；Important 为文书、课外活动；Considered 为标化、推荐信、Talent、地域、志愿、工作经历；Class rank、Interview、First generation、Alumni relation、Religion、Level of interest 为 Not Considered。本画像其他章节只写到 Rigor 为 Very Important；Hooks 表的第一代写成中等加分，与 C7（Not Considered）不符，以本节为准；Legacy 一行已按 C7 更正（2026-11）。
+
+**流行说法核查**：
+
+- 「佐治亚理工看重进步与服务（Progress and Service）和理工实力」→ **部分支持**。校训写进了使命和战略规划，2016 年还出过以校训为题干的文书；但 2026 年招生官网各评审页面没有提这个校训，2026–27 也取消了所有补充文书，它现在是价值背景，不是可以单独展示的评审项。更准确的说法是「看重对身边社区的实际贡献 + 品格」。理工实力只对一半：Rigor 和 GPA 为 Very Important，也看专业准备；但官网同时要专业多样，标化只是 Considered，不是只看理工竞赛成绩。
+
+**对申请者的含义（归纳）**：
+
+1. 活动描述要写清你对身边社区（包括家庭）的实际贡献，这是官网对活动栏的定义；品格在学校自填 C7 中与成绩同为 Very Important。
+2. Why major 文书取消后，专业兴趣和准备只能从课程、活动和主文书里看出来，第一、第二意向专业要和这些对得上。
+3. 不必只押理工竞赛：官方明说要专业多样，标化在 C7 中只是 Considered。
+
 ## 💡 对中国学生申请的实战建议
 
 ### 1. **硬件是基础，深度是决胜**
@@ -387,7 +398,7 @@
 ### 3. **国际生身份：从劣势转化为优势**
    - **客观劣势**：
      - 无州籍优势（佐州学生录取率30%，国际生实际约2-3%）
-     - 无recruited athlete、legacy等传统hook
+     - 无recruited athlete等传统hook（GT 不考虑 legacy，2026-11 更正）
      - 财政援助为零（Georgia Tech不对国际本科生提供奖学金）
 
    - **可利用的优势**：
@@ -436,24 +447,14 @@
 
    - **实施建议**：
      - 在个人陈述中简要提一下触发专业兴趣的EC经历
-     - 在Georgia Tech补充文书中详细说明：这个EC的结果 → 推动我选择这个专业 → Georgia Tech这所学校/这些资源如何能让我进一步深化
+     - 补充文书已于 2026-07 取消，这条链条只能靠活动描述和主文书体现（2026-11 更正）
      - 例子：
        - EC：领导学校STEM俱乐部，组织编程竞赛
        - 个人陈述：短暂提及"这次经历让我意识到我对教学和技术的双重热情"
-       - Georgia Tech补充：详述想在教育技术领域做贡献，通过Georgia Tech的教育技术课程和VIP项目实现
+       - （原「Georgia Tech 补充文书」一步已不适用，见上）
 
-### 6. **面试（Interview）：国际生的逆袭机会**
-   - **现状**：Georgia Tech 鼓励但不强制面试，采用InitialView或Vericant等第三方平台
-   - **对国际生的意义**：
-     - 你可以用英文向招生官展示自己的"真实样子"和沟通能力
-     - 通过深思熟虑的回答展现对Georgia Tech的了解和热情
-     - 弥补文书中可能的表达不够natural的问题
-
-   - **建议**：
-     - **务必参加面试**（尤其是国际生）；这是展示personality的机会
-     - 准备3-5个高质量的故事，能够自然地融入各种问题的回答
-     - 准备2-3个关于Georgia Tech的具体问题，展示你的研究深度
-     - 不要背稿，但要自信和authentic
+### 6. **面试（Interview）**
+   - GT 不做校友或招生官面试，官网原话 "We do not conduct alumni or admission staff interviews"，C7 中 Interview 为 Not Considered；只有非英语母语的国际生可以选交 InitialView / Vericant 等第三方面试。不要把面试当作加分机会（2026-11 更正）。
 
 ### 7. **文书"本地化"：用English来写，但要有中文思维的优势**
    - **中国学生的常见问题**：
@@ -525,10 +526,10 @@
 | **SAT/GPA** | 极高 | 1450+ / 4.0及以上是基本；数学必须750+ |
 | **专业选择** | 极高 | 不同专业录取率差别巨大；CS最难；理科相对友好 |
 | **课外活动深度** | 极高 | 2-3个活动的4年进阶比10个活动的参与者更有说服力 |
-| **文书具体性** | 极高 | 必须提及Georgia Tech的具体资源、教授、项目 |
-| **国际生身份** | 中等 | 劣势是没有州籍/legacy/recruited athlete hook；优势是国际竞赛、论文、专利 |
+| **文书具体性** | 极高 | 主文书要具体；Why major 补充文书已于 2026-07 取消，不再有专门写 GT 资源的题目（2026-11 更正） |
+| **国际生身份** | 中等 | 劣势是没有州籍/recruited athlete hook（GT 不考虑 legacy，2026-11 更正）；优势是国际竞赛、论文、专利 |
 | **申请时机** | 中等 | EA2录取率8.1% vs RD 12.7%；国际生推荐EA2 |
-| **面试** | 中等 | 不强制，但国际生应参加以展现personality |
+| **面试** | 无 | GT 不做校友或招生官面试，C7 中 Interview 为 Not Considered（2026-11 更正） |
 
 **最后的话：** Georgia Tech 的录取率极低（12.7%），国际生实际录取率可能仅有2-3%。这意味着你不仅需要完美的硬件，更需要在"故事叙述"、"深度追求"和"专业匹配度"上无可挑剔。与其把精力分散在多个活动上，不如在2-3个与申请专业紧密相关的活动上做到"深度"和"创新"。记住：Georgia Tech 是一所工程师和问题解决者的摇篮，它需要的是有清晰目标、有实际产出、有跨学科思维的学生。
 

@@ -624,7 +624,7 @@
 
 | 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
 |---|---|---|
-| 跨学科追求学术与职业目标 | "USC students pursue ambitious intellectual and professional goals by studying across disciplines and taking advantage of the diversity of programs available." | [USC 招生办 What We Look For, 2026](https://admission.usc.edu/prospective-students/how-to-apply/what-we-look-for/) |
+| 跨学科追求学术与职业目标（页面描述的是在校生） | "USC students pursue ambitious intellectual and professional goals by studying across disciplines and taking advantage of the diversity of programs available." | [USC 招生办 What We Look For, 2026](https://admission.usc.edu/prospective-students/how-to-apply/what-we-look-for/) |
 | 关心世界和其他文化，用全球视角看问题 | "They are interested in the world and in other peoples and cultures, and enjoy examining important issues from a global perspective." | [USC 招生办 What We Look For, 2026](https://admission.usc.edu/prospective-students/how-to-apply/what-we-look-for/) |
 | 成长的同时服务社区 | "They seek to grow to their fullest potential, and they work to serve others in the community along the way." | [USC 招生办 What We Look For, 2026](https://admission.usc.edu/prospective-students/how-to-apply/what-we-look-for/) |
 | 真心想来 USC，而不是只看排名 | "We're looking for students who genuinely want to be here, who feel excited when they picture themselves at USC." | [USC 招生办官方博客（国际生短答指南）, 2026-06](https://www.admissionblog.usc.edu/p/writing-the-usc-short-answer-as-an) |
@@ -639,13 +639,13 @@
 **流行说法核查**：
 
 - 「USC 看重跨学科和创业精神，以及 Trojan Family 社群」→ **部分支持**，逐项如下：
-- 跨学科 → **支持**。招生办描述成功学生的第一句就是 studying across disciplines。
+- 跨学科 → **有官方原话，但只是对在校生的描述**。原话在招生办页面「Successful USC Students」一段，说的是 USC 在校生的样子，不是写明的录取标准；目前只找到这一句。
 - 创业精神 → **不支持**（作为录取标准）。只有 1993 年通过的使命陈述里有 "proud of our entrepreneurial heritage"，说的是学校自身的气质；招生办 What We Look For 页和 2026 年招生博客都没有把创业列为看重点。
 - Trojan Family → **部分支持**。招生页说想看你如何贡献于 "community, tradition and spirit"，但 Trojan Family 在官方语境中主要是校友网络和归属感的宣传概念，不是录取标准。
 
 **对申请者的含义（归纳）**：
 
-1. 短答是官方唯一确认的补充题，要把学术兴趣写成跨学科的具体打算，并说清为什么要在 USC 做；官方明说不想要只冲着排名来的学生。
+1. 短答是官方唯一确认的补充题，要写清学术兴趣，并说清为什么要在 USC 做；确有跨学科兴趣可以写（短答允许同时谈第一、第二志愿专业），但不必硬凑；官方明说不想要只冲着排名来的学生。
 2. 没有奖项和领导头衔不是硬伤（官方说每年都录取没得过奖的学生），活动重点写影响和主动性；「创业经历」不是官方提到的录取看重点。
 
 ## 💡 对中国学生申请USC的实战建议
