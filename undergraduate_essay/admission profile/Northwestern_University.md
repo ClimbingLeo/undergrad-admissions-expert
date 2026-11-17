@@ -152,6 +152,32 @@
 
    考点：你的视角能为课堂带来什么；与必答题容易重复，选答时要换角度。
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 跨学科 | "Northwestern fosters a distinctively interdisciplinary culture. We believe discovery and innovation thrive at the intersection of diverse ideas, perspectives, and academic interests." | [Northwestern 招生办 Application Materials 页（2026–27 文书题干）, 2026](https://admissions.northwestern.edu/apply/requirements.html) |
+| 协作：各自所长在社区中相互碰撞 | "… when their individual strengths collide in a community as deeply collaborative and interdisciplinary as Northwestern’s." | [Northwestern Now（招生副校长 Stacey Kostell）, 2025](https://news.northwestern.edu/stories/2025/04/northwestern-welcomes-new-admits) |
+| 「契合」是你讲出来的故事，而不是天生有或没有 | "Instead, fit is a story you tell us about how you see yourself thriving on campus." | [Northwestern 招生办 The Fit Factor, 2026-11 访问](https://admissions.northwestern.edu/apply/advice/the-fit-factor.html) |
+| 个人经历如何塑造你在本校的参与方式 | "areas we consider most important to our holistic review: how their personal experiences have shaped various ways they see themselves engaging at Northwestern …" | [Northwestern 招生办 Writing Supplements FAQ, 2026-11 访问](https://admissions.northwestern.edu/faqs/writing-supplements/) |
+
+**体现在申请设计中**：
+
+- 2026–27 季 Common App 主文书改为可选；必答题问你背景中的哪些方面最影响你如何参与 Northwestern 社区。
+- 选答题中有专门的跨学科题：在 Northwestern 的跨学科文化下你会设计什么课程、研究或创作项目，理想合作者是谁。
+- 可交 Schoolhouse.world Dialogues 作品集；不再提供校友面试；CDS 2025–26 C7 中 Level of applicant's interest 为 Considered。
+
+**流行说法核查**：
+
+- 「西北看重跨学科、协作和对学校的兴趣（demonstrated interest）」→ **部分支持**。跨学科、协作都有文书题干和招生负责人原话支持；demonstrated interest 需改写：招生办 2019 年通讯承认会记录到访和宣讲，但说 "our process doesn’t necessarily favor applicants who’ve made more total contacts"，官方更看重文书里讲出的具体契合。
+
+**对申请者的含义（归纳）**：
+
+1. 「为什么适合」要写成具体的故事：你的哪些经历会让你以什么方式参与 Northwestern、对接哪些资源。
+2. 跨学科选答题是展示这项特质的现成位置；靠多发邮件、多参加活动刷存在感作用有限：招生办 2019 年通讯称不一定偏向接触次数更多的人（"doesn't necessarily favor"），但会记录到访，CDS 中 Level of interest 为 Considered。
+
 ## 对中国学生的建议
 
 1. **能 ED 就认真考虑 ED**：Class of 2029 的 ED 录取率 20.4%，非 ED 约 5.8%，且新生一半以上来自 ED。但 ED 是绑定的，且对国际生 need-aware、资助有限，需要资助的家庭要先用 Net Price Calculator 和家庭预算算清楚再决定。

@@ -110,6 +110,7 @@ cd app
 - **学生数据**：会以代号形式发送给 Anthropic API 处理。请在机构服务协议中告知家长。
 - **藤校 + 顶尖私校画像（2026-11 新增）**：Harvard、Yale、Princeton、MIT、Columbia、Penn、Caltech、UChicago、Duke、Brown、Cornell、Dartmouth、Northwestern 共 13 所，由调研 agent 逐条对照官方来源（招生办新闻稿、Common Data Set、官方 class profile、2026–27 官方文书题目）编写，每个数字附原始链接，未编写任何学生案例；官方未公布的数据（如多数学校的国际生录取率、早申分轮次数据）明确写「官方未公布」。每年 9–11 月新数据发布后需要更新。
 - **热门公立 / 私校画像（2026-11 第二批）**：CMU、UC Berkeley、UCLA、Michigan、Rice、Vanderbilt、WashU、Notre Dame 共 8 所，编写规则同上；UC 系列按 test-blind 和 PIQ 写，CMU / Berkeley / Michigan / UCLA 单列了学院或专业差异。Fable 独立抽查约 60 处，未发现编造的数字或人物；已改正 CMU「ED 只能报一个学院」、Michigan ED 录取率不可比等问题。至此 US News 全国大学排名前 30 都有画像；顶尖文理学院（Williams、Amherst、Pomona、Harvey Mudd 等）和其余学校仍未覆盖，诊断报告会提示"材料未覆盖，需顾问补充核实"。
+- **「学校看重的特质（官方表述）」（2026-11，15 所顶校）**：每校 12–15 条官方原话（招生办、招生主任、校长），逐字核对原网页。用两轮抹名盲测验证区分度：只保留特质描述、意译成中文后，评判模型 15 所猜对 13 所（随机约 1 所），分为「明显 / 中等 / 与同档学校基本一致」三档并写在每节开头。只证明学校公开说法不同，不证明录取实际加权。证据和盲测材料在仓库 `research/school_values_2026-11/`。
 - **官方原件核对**：Princeton、Brown、Columbia 的 2025–26 CDS 和 Yale Class of 2030 官方 profile 已下载逐项比对，数字一致。部分官方页面（Tableau、Cloudflare 防护、403）无法自动读取，相关数字保留来源链接，待人工下载原件后复核。
 
 ## 开发

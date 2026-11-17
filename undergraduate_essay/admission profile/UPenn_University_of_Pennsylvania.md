@@ -148,6 +148,35 @@ Penn 从 2022 年起不再公布早申/常规轮的分轮录取率，所以 Clas
 
 协调双学位与专门项目（Huntsman、M&T 等）的项目文书请看同一页面；本画像不展开。
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 学以致用、服务社会（以创始人 Franklin 为榜样） | "Our ideal candidates are inspired to emulate our founder Benjamin Franklin by applying their knowledge in “service to society” …" | [Ask Penn Admissions FAQ, 2025](https://ask.admissions.upenn.edu/support/solutions/articles/157000361106-what-does-penn-look-for-in-its-first-year-applicants-) |
+| 开放好奇、有创意又务实、跨领域连接、不完美但持续改进、致力于公益 | "… open-minded and curious, inventive and practical, making connections across fields, imperfect but self-improving, and relentlessly focused on enhancing social good." | [Penn 招生办 What Penn Looks For, 2026-11 访问](https://admissions.upenn.edu/what-penn-looks-for) |
+| 关注他人：开放、乐于接纳、慷慨（感谢便条题） | "The thank-you notes helped us see the students’ openness, receptivity, and generosity," | [Daily Pennsylvanian（招生院长 Whitney Soule）, 2023](https://www.thedp.com/article/2023/03/penn-regular-decision-admissions-results-class-of-2027) |
+| 学术之外，致力于为更大的社区做贡献 | "As we read applications this year, we looked not only for academic excellence, but for students committed to contributing to a larger community." | [招生院长 Whitney Soule 官方博客, 2025](https://admissions.upenn.edu/visit-connect/penn-perspectives/blog/hurrah-2030-early-decision-quakers) |
+
+**体现在申请设计中**：
+
+- 全体必答「给一个你还没感谢过的人写一张感谢便条」（50–200 词），这个题型在同档学校中少见；另一道必答问你会如何在 Penn 探索社区、Penn 和你如何相互塑造。
+- 申请时须选定本科学院并按学院答题：Wharton 题要求用商业方法和经济理论处理现实问题，Nursing 题问职业设想，College 题问你好奇的东西。
+- CDS 2025–26 C7：课程难度、GPA、文书、推荐信、Character/personal qualities 为 Very important，课外活动只是 Important；自 2025–26 季起取消校友面试。
+
+**流行说法核查**：
+
+- 「宾大非常看重 leadership，喜欢有想法、偏实用（pre-professional）的人」→ **部分支持**，逐项如下：
+- 「非常看重 leadership」→ **官方招生页未见**（What Penn Looks For 页没有 lead 字样；这不等于录取中完全不看）。招生办的 What Penn Looks For、FAQ、Writing 页和 2021–2026 年招生院长的博客、声明都没有把 leadership 列为评价标准，反复出现的是 service to society、community、curiosity、character；leadership 只出现在学校历史页对 Franklin 办学目标的描述和 Engineering、Huntsman 的题干里。
+- 「偏实用」→ **支持（有限定）**。官方原话有 "inventive and practical"、"applying their knowledge"，申请按学院分题；但官方同样强调 "liberal arts-based"、"curiosity-driven"，不宜直接等同于 pre-professional。
+- 「有想法」→ **部分支持**。官方用词是 open-minded、curious、inventive，属同档学校共性用语。
+
+**对申请者的含义（归纳）**：
+
+1. 学院选择和文书要说清「学了要用在什么问题上、怎样服务社区」；领导头衔本身不是官方强调的东西，写活动时重点放在为他人和社区做了什么。
+2. 感谢便条题是招生办观察你如何看待他人的窗口，要写出具体的感谢对象和理由。
+
 ## 对中国学生的建议
 
 1. **ED 是 Penn 最大的结构性杠杆，但要算清资助这笔账。** Class of 2029 的 ED 录取率 13.3%，RD 推算约 3.7%；Class of 2030 有 52% 的新生来自 ED。但 Penn 对国际生是 need-aware，ED 又有约束力：需要大额资助的家庭，在 ED 前要先用 Penn 的资助计算器评估能不能承受，不要因为录取率高就盲目 ED。

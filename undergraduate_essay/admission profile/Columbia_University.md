@@ -145,6 +145,35 @@ Class Profile 原话："Academic preparation is the primary factor in Columbia's
 
 考什么：学术兴趣的来源与具体程度，以及与所选学院（CC 或 SEAS）的课程、项目是否对得上。
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+（说明：Columbia 招生办官网无法自动读取，下表原话来自学生媒体转引的招生院长声明和学校声明，不是招生办「看重什么」页面原文。）
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 富于冒险精神的智识追求，致力于更好的社会 | "amazed and humbled us with their exceptional accomplishments in and out of the classroom, their adventurous intellectualism and their commitment to a better society." | [Bwog 转载招生院长 Jessica Marinaccio 录取声明, 2016](https://bwog.com/2016/03/cc-and-seas-admissions-decisions-released/) |
+| 关心社区、待人善意 | "These students are interdisciplinary change-makers, caring community members, and individuals who lead with genuine kindness," | [Columbia Spectator（招生院长 Jessica Marinaccio）, 2024](https://www.columbiaspectator.com/news/2024/03/28/columbia-admits-2319-students-to-class-of-2028-acceptance-rate-drops-slightly-to-385-percent/) |
+| 能在高强度本科课程中成功 | "… strong students who will advance knowledge and learning at its highest levels and who will be successful in our rigorous undergraduate curriculum" | [学校发言人致 Columbia Spectator 声明, 2025](https://www.columbiaspectator.com/news/2025/10/23/columbia-is-the-last-ivy-league-university-to-remain-indefinitely-test-optional/) |
+
+这些特质的用词与同档学校基本相同；Columbia 的差异主要在制度：Columbia College 的 Core Curriculum（学院手册称其为 "the heart of the Columbia College education"，[Columbia College Bulletin, 2026](https://bulletin.columbia.edu/columbia-college/core-curriculum/)），以及申请时区分 Columbia College 与 Columbia Engineering。另注：本节原话来自招生院长在学生媒体中的引语、学校声明和学院手册，招生办官网页面本次未能打开核对。
+
+**体现在申请设计中**：
+
+- 清单题：只列出课外对你智识成长有贡献的书、期刊、网站、播客、展览等标题，不加说明；这一题型在同档学校中少见。
+- Why Columbia 题，以及「为什么想在 Columbia College 或 Columbia Engineering 学你选的领域」。
+- 2025–26 季新增「一次与人意见不合的经历」题，并接受 Schoolhouse.world Dialogues 证书；CDS 2025–26 C7 中标化只是 Considered，Talent/ability 为 Important。
+
+**流行说法核查**：
+
+- 「哥大看重对核心课程（Core）和纽约城市的热爱」→ **支持（作为「了解 Columbia」这一考察项）**。招生办 [Understanding the Process](https://undergrad.admissions.columbia.edu/apply/process) 页把 Knowledge of Columbia 列为考察内容，举例就是 "knowledge of and enthusiasm for the Core Curriculum, our traditional campus in an urban setting"。但这是对学校的了解与契合，不是对学生人格特质的偏好；招生院长的录取声明（2016–2024）里没有提到 Core 或纽约。
+
+**对申请者的含义（归纳）**：
+
+1. 招生办明确考察对 Core 和城市校园的了解与热情（[Understanding the Process](https://undergrad.admissions.columbia.edu/apply/process)）：阅读清单和 Why Columbia 题是展示的主要位置，内容要能和 Core 的阅读、讨论传统对上。
+2. 写城市校园可以，但要说清它和你的学习计划有什么关系，而不是泛泛地写纽约。
+
 ## 对中国学生的建议
 
 1. **ED 是最大的杠杆，但要用对**：Class of 2029 的 ED 录取率 14.0%，非 ED 约 4.0%。如果 Columbia 是确定的第一志愿、家庭也能接受绑定，ED 值得认真考虑；但 ED 池的构成（如有多少招募运动员等有 hook 的申请人）官方未公布，普通申请人的实际优势可能小于数字显示的差距。

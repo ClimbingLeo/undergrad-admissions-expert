@@ -10,7 +10,7 @@
 <div class="grid" style="grid-template-columns: repeat({{ cols|length }}, minmax(0,1fr))">
 {% for c in cols %}<div class="card"><h2><a href="/library/schools/{{ c.s.slug }}">{{ c.s.name_zh or c.s.name_en }}</a></h2>
 <p class="small muted">知识库样本：{{ c.stat.n }} 条申请结果（{{ c.stat.acc or 0 }} 录 / {{ c.stat.rej or 0 }} 拒）{% if c.sat %}；这些录取者自报 SAT 均值 {{ c.sat|round|int }}（n={{ c.stat.acc or 0 }}）{% endif %}。<br>来自 Clastify 自报样本，非官方统计，样本少时只能看方向。</p>
-{% for t, label in [('data','录取数据'),('academic','学术画像'),('ec','活动画像'),('hooks','加分因素'),('essay','文书')] %}
+{% for t, label in [('data','录取数据'),('academic','学术画像'),('ec','活动画像'),('hooks','加分因素'),('values','看重的特质'),('essay','文书')] %}
 <h3 style="margin-top:14px">{{ label }} {% if c.secs[t] %}{{ trust(c.secs[t].trust) }}{% endif %}</h3>
 {% if c.secs[t] %}<div class="prose small" style="max-height:340px;overflow-y:auto;font-size:13px">{{ c.secs[t].body_md|md|safe }}</div>{% else %}<p class="muted small">无</p>{% endif %}
 {% endfor %}</div>{% endfor %}

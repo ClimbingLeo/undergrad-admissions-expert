@@ -141,6 +141,33 @@ Princeton 自 2021 年起不在放榜时公布申请/录取人数，只在新生
 
 **另需**：Graded Written Paper（见上节，不是文书题，但属必交写作材料）。
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 求知欲与学术卓越（共性） | "We look for students with intellectual curiosity, who have pursued and achieved academic excellence." | [Princeton 招生办 Helpful Tips, 2026-11 访问](https://admission.princeton.edu/apply/before-you-apply/helpful-tips) |
+| 服务与公民责任 | "Princeton has a longstanding commitment to understanding our responsibility to society through service and civic engagement. How does your own story intersect with these ideals?" | [Princeton-specific Questions（2026–27）, 2026](https://admission.princeton.edu/apply/princeton-specific-questions) |
+| 在乎什么、做了什么承诺、如何付诸行动 | "We want to know what you care about, what commitments you have made and what you’ve done to act on those commitments." | [Princeton 招生办 Helpful Tips, 2026-11 访问](https://admission.princeton.edu/apply/before-you-apply/helpful-tips) |
+| 走出舒适区，向他人学习 | "… a willingness to step outside of one’s comfort zone and a true desire to learn about and from others." | [招生主任 Karen Richardson 官方博客, 2025](https://admission.princeton.edu/blogs/testing-rigor-ai-and-what-are-we-really-looking-your-questions-answered-dean-richardson) |
+| 论点清晰的分析性写作 | "… we are most interested in seeing expository, thesis-driven analytical writing rather than science research, creative writing, personal narratives …" | [Princeton 招生办 Graded Written Paper 说明, 2026-11 访问](https://admission.princeton.edu/apply/graded-written-paper) |
+
+**体现在申请设计中**：
+
+- 必交 Graded Written Paper：一篇英语、社科或历史课上有分数和老师评语的论说文，同档学校中独有。
+- 必答文书之一直接问服务与公民参与如何与你的经历交汇；Your Voice 题问在重视尊重性对话的社区里你会带来什么。
+- CDS 2025–26 C7：课程难度、排名、GPA、标化等学术项均为 Very important，Volunteer work 只是 Considered。
+
+**流行说法核查**：
+
+- 「普林斯顿看重服务（service）」→ **部分支持（偏支持）**。服务是被做成必答文书题眼的价值之一（另一道 Your Voice 必答题以尊重性对话为题眼），校长讨论录取 merit 时第一个例子是 "a commitment to service and citizenship"；但招生办自述的第一句是求知欲和学术卓越，校长的清单里服务只是多项并列之一，CDS 中 Volunteer work 只是 Considered。
+
+**对申请者的含义（归纳）**：
+
+1. 服务题问的是公民责任和对社会的责任，比「做志愿者」宽；它是被标举的维度之一，不能替代学术。
+2. 论说文写作要提前准备：在英语、社科或历史课上留下一篇论点清晰的分析文章，比科研论文或创意写作更符合官方要求。
+
 ## 对中国学生的建议
 
 1. **把握最后一个可选标化季**：2026–27 季仍可不交分，但新生交分者 SAT 中位数 1530、数学 75 分位 800，且 CDS 把考试成绩列为 Very important。手里有 1530+ 的建议提交；分数明显偏低再考虑不交。2027–28 季起必须交分，低年级学生要提早规划。

@@ -9,7 +9,7 @@
 {% if sections %}
 <div class="notice info small">可信度标签：{{ trust('verified_source') }} 段内有公开出处链接　{{ trust('unsourced') }} 未附出处，对外引用前需核实　{{ trust('composite') }} 为综合 / 虚构的示例人物，仅作教学说明，<b>不得当作真实案例对外引用</b>，AI 也不会引用。</div>
 {% for sec in sections %}
-<details class="card sec section-{{ sec.trust }}" id="sec-{{ sec.ord }}" {{ 'open' if sec.section_type in ('data','academic','hooks') and sec.trust != 'composite' }}>
+<details class="card sec section-{{ sec.trust }}" id="sec-{{ sec.ord }}" {{ 'open' if sec.section_type in ('data','academic','hooks','values') and sec.trust != 'composite' }}>
   <summary><h3>{{ sec.heading }}</h3>{{ trust(sec.trust) }}</summary>
   {% if sec.trust == 'composite' %}<div class="notice bad small">以下为示例画像（非真实案例）：人物与细节经综合 / 虚构，仅用于说明申请逻辑。</div>{% endif %}
   <div class="prose">{{ sec.body_md|md|safe }}</div>

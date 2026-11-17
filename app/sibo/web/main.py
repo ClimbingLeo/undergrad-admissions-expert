@@ -731,7 +731,7 @@ def school_compare(request: Request):
             continue
         secs = {t: conn.execute("SELECT * FROM school_profile_sections WHERE school_slug=? AND section_type=? "
                                 "AND trust NOT IN ('composite','simulated') ORDER BY ord LIMIT 1", (slug, t)).fetchone()
-                for t in ("data", "academic", "ec", "hooks", "essay")}
+                for t in ("data", "academic", "ec", "hooks", "values", "essay")}
         stat = conn.execute("""SELECT COUNT(*) n, SUM(result='accepted') acc, SUM(result='rejected') rej
                                FROM applicant_decisions WHERE school_slug=?""", (slug,)).fetchone()
         sat = conn.execute("""SELECT AVG(a.sat_total) FROM applicant_decisions d JOIN applicants a ON a.id=d.applicant_id

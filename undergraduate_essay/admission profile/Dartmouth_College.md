@@ -130,6 +130,33 @@ CDS C7 非学业因素（[CDS 2025–26](https://www.dartmouth.edu/oir/pdfs/cds_
 
 考什么：A/E 看真实的智识热情；B 看行动和影响；C 看阅读带来的共情与自我认知；D 看能否与不同观点的人对话、找到共同点；F 看你如何对待自己的「不同」。
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 善良，与好奇心、创造力、学术成就并列 | "And I've always seen kindness as a really essential ingredient alongside curiosity, alongside creativity, alongside academic achievement." | [Dartmouth 招生办播客 Admissions Beat（招生院长 Lee Coffin）, 2023](https://admissions.dartmouth.edu/node/35426) |
+| 小而自给的社区需要彼此照顾 | "… our campus is in a college town surrounded by nature, this self-sustaining community needs to take care of itself." | [Dartmouth 招生办播客 Admissions Beat（Lee Coffin）, 2023](https://admissions.dartmouth.edu/node/35426) |
+| 你在团队、社区和课堂里是什么样的成员 | "What kind of a member of a team or a community are you? What's your presence in a classroom? …" | [Dartmouth 招生办播客 Admissions Beat（Lee Coffin）, 2025](https://admissions.dartmouth.edu/node/55226) |
+| 让课堂活起来的好奇心 | "People can get an A without being curious, and when curiosity is there, it animates the classroom in a really powerful way" | [The Dartmouth（Lee Coffin）, 2019](https://www.thedartmouth.com/article/2019/09/class-of-2023-saw-record-yield-rate-increased-socioeconomic-diversity) |
+| 愿意倾听、质疑、考虑反方论点 | "… a willingness to listen, question and consider counterarguments — is essential to the kind of intellectual community we are cultivating at Dartmouth." | [The Dartmouth（招生副院长 Kathryn Bezella）, 2026](https://www.thedartmouth.com/article/2026/04/weaverbell-dartmouth-offers-admission-to-1687-applicants-for-the-class-of-2030) |
+
+**体现在申请设计中**：
+
+- 同伴推荐信（peer recommendation）strongly encouraged，同档学校中少见。
+- 必答六选一文书中有「一次艰难对话或遇到不同观点、如何找到共同点」和「差异如何成为你身份的一部分」两个选项。
+- CDS 2025–26 C7：Character/personal qualities 为 Very important，Talent/ability 只是 Important；校友面试可选，官方称 "both informative and evaluative"。
+
+**流行说法核查**：
+
+- 「达特茅斯看重社区感、户外和本科教学」→ **部分支持**。社区感支持：招生院长多年以社区为选拔框架，申请设计有同伴推荐信；本科教学部分支持：使命写 "a faculty dedicated to teaching"，但招生办没有说偏好看重本科教学的申请者；户外只作为校园特质成立，没有官方表述把户外经历当加分项。
+
+**对申请者的含义（归纳）**：
+
+1. 品格要能被别人看见：同伴推荐信和文书里写你在团队、课堂里如何对待他人，比自述「我很善良」更有说服力。
+2. 户外经历可以作为「为什么适合 Dartmouth」的素材，但不是门槛。
+
 ## 对中国学生的建议
 
 1. **申请资助不影响录取**：Dartmouth 对国际生 need-blind 并满足全部需求，有资助需求的家庭不必为了录取而放弃申请资助。这一点与 Duke 等对国际生 need-aware 的学校相反，选校时可作为重要考量。

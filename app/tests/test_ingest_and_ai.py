@@ -144,3 +144,10 @@ def test_crosscheck_flags_reversed_decisions(conn):
     w = citations.crosscheck(f"该生被 {rej} 录取 [A:{aid}]。", conn)
     assert w and "录取，档案为拒绝" in w[0]
     assert citations.crosscheck(f"录取率 5% 的 {rej} [A:{aid}]。", conn) == []   # "录取率"不是录取结论
+
+
+def test_values_section_type():
+    from sibo.ingest.parsers import classify_section
+    assert classify_section("学校看重的特质（官方表述）") == "values"
+    # 旧画像里未溯源的「价值观」小节不能混进 values
+    assert classify_section("UCSD的价值观和申请契合度") != "values"

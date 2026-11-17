@@ -131,6 +131,36 @@
 - Option 3：**"Reflect on an element of your personal experience that you feel will enrich your college. How has it shaped you?"**
   - 考什么：个人经历如何塑造你，以及你能给校园带来什么。
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 学术潜力是第一考量（共性） | "Yale’s first and most important consideration is academic potential." | [Yale 招生办 What Yale Looks For, 2026-11 访问](https://admissions.yale.edu/what-yale-looks-for) |
+| 为他人投入：同侪情谊、同理心、尊重差异、感恩、关心公共利益 | "What Brewster called “moral concern and consideration for others” includes collegiality; empathy; respect for differences; gratitude; and concern for the common good." | [Yale 招生办 What Yale Looks For, 2026-11 访问](https://admissions.yale.edu/what-yale-looks-for) |
+| 广泛好奇，不只盯着一个领域 | "A student should be really broadly curious about many different areas, not just fixated on one field or one topic." | [Inside the Yale Admissions Office 官方播客, 2026](https://admissions.yale.edu/posts/2026-09-01-what-yale-looks-for-part-1-academic-strength) |
+
+注意：「广泛好奇」不等于排斥专精，官网同时写道 "Some successful applicants demonstrate exceptional ability in a particular endeavor"（[What Yale Looks For](https://admissions.yale.edu/what-yale-looks-for)）。
+
+这些特质的用词与同档学校基本一致；Yale 的差异主要在申请设计：本季取消 Why Yale 题，学术方向最多可选 3 个，评估性面试只邀请部分申请人。
+
+**体现在申请设计中**：
+
+- 三选一长文中有两题直接对应「为他人投入」：与持相反观点的人讨论重要议题；你所属并认同的一个社区。
+- short takes 问「大学期间想成长的一个方面」和「如果能开一门课、写一本书或创作一件作品会是什么」。
+- CDS 2025–26 C7：课程难度、排名、GPA、文书、推荐信、课外活动、Talent/ability、Character/personal qualities 共 8 项 Very important，标化和面试为 Considered。
+
+**流行说法核查**：
+
+- 「耶鲁看重领导力和协作，偏人文」→ **部分支持**。协作支持：官方三个维度之一是为他人投入，招生官把 robotics 团队当作正面例子；领导力弱支持：只在使命和官网中作为「在耶鲁成长为领导者」的培养目标出现，不是录取门槛；偏人文不支持：招生办强调广泛的文理兴趣，[YaleNews 2026-09](https://news.yale.edu/2026/09/02/yale-college-welcomes-new-first-year-transfer-and-adult-students) 显示约一半新生首选 STEM 专业。
+- 「申请要突出自己和别人的不同，创办组织比参与更加分」→ **不支持**。招生官在官方播客中说："But starting from a place in your application about what makes you different from others is not a good strategy when applying to Yale." 又说："there is nothing special in our process about creating something rather than just participating in something that already exists"（[Inside the Yale Admissions Office 官方播客, 2025](https://admissions.yale.edu/posts/episode-47)）。
+
+**对申请者的含义（归纳）**：
+
+1. 不要把申请主线建立在「我和别人有什么不同」上；创办组织本身也不比深度参与多加分（招生官原话是 "nothing special"）。重点写学术准备、跨领域的好奇心，以及你如何支持身边的人。
+2. 团队协作类经历是招生官认可的素材；领导头衔本身不是录取门槛。
+
 ## 对中国学生的建议
 
 1. **2026–27 季必须准备 SAT/ACT**：耶鲁本季结束 test-flexible，AP/IB 不能再替代。只看过 Class of 2029、2030 数据（当时可以只交 AP）的顾问要更新认识；CDS 中 SAT 中位数 1540，数学中位数 780。

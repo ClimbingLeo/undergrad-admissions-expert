@@ -158,6 +158,33 @@ CMU 申请时直接报学院（工程学院还要直接报到具体系，除非�
 
 官方提醒：文书要多写自己，不要写成家人、导师、榜样的故事（[Admission Consideration](https://www.cmu.edu/admission/admission/admission-consideration)）。
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 同理心、包容、影响、协作、诚信、创造力 | "Our admission process reflects Carnegie Mellon's values and core competencies, including empathy and compassion, inclusivity, impact, collaboration, integrity, and creativity, …" | [CMU 招生办 Admission Consideration 页, 2026-11 访问](https://www.cmu.edu/admission/admission/admission-consideration) |
+| 领导力、动力、热情与坚持、关心并维护他人 | "We also consider leadership, motivation, passion and perseverance, concern and advocacy for others, and other experiences when making admission decisions." | [CMU 招生办 Admission Consideration 页, 2026-11 访问](https://www.cmu.edu/admission/admission/admission-consideration) |
+| 社会责任感 | "By looking at this non-academic information, we develop a sense of your personality, motivation and social responsibility." | [CMU 招生办 Admission Consideration 页, 2026-11 访问](https://www.cmu.edu/admission/admission/admission-consideration) |
+
+这些品质词与同档学校基本一致；CMU 的差异主要在制度：按学院直接申请（ED 只能报一个学院），工程和计算机申请者可选交 VIVA 项目视频，CFA 以外不接受作品集等补充材料。
+
+**体现在申请设计中**：
+
+- 三道必答文书中第一道问选择这个专业的热情或启发从何而来；官方鼓励用文书讲学术兴趣和目标。
+- 工程和 SCS 申请者可选交 VIVA（上传高中做过的项目或研究，并录制回答提问的视频）；CFA 以外不收简历、作品集、网站。
+- CDS 2026–27 C7：Volunteer work 与课程难度、排名、GPA、课外活动、Character/personal qualities 同为 Very important（同档学校多为 Considered）；文书和推荐信只是 Important。
+
+**流行说法核查**：
+
+- 「CMU 喜欢动手做东西、技术与艺术交叉的人」→ **部分支持**。「技术与艺术交叉」作为学校身份有官方支持（"Technology and creativity meet in IDeATe"），但招生办的录取考量页没有说偏好跨界者，CFA 以外的申请者连作品都不能交；「动手做」只在工程和计算机方向有 VIVA 这一可选通道。
+
+**对申请者的含义（归纳）**：
+
+1. 专业动机要有来历：文书讲清楚对这个专业的兴趣从哪里来、想往哪里走。
+2. 志愿服务和关心他人的经历在 CMU 的 CDS 中是 Very important，值得认真写，不要把篇幅全部给技术项目。
+
 ## 对中国学生的建议
 
 1. **没有任何资助，预算先算清楚**：CMU 官方明确不给国际生资助，一年学费加食宿超过 8.7 万美元（2025–26）。好处是申请时不存在「申请资助影响录取」的问题；前提是家庭能全额负担。

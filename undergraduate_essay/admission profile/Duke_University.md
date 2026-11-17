@@ -141,6 +141,33 @@ CDS C7 非学业因素（2025–26，[来源](https://ir.provost.duke.edu/sites/
 
 官方说明：可选题只在「能补充申请中尚未体现的有意义内容」时才建议作答。
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 有野心、好奇、坚持、有人情味 | "We like ambition and curiosity, talent and persistence, energy and humanity." | [Duke 招生办 What We Look For, 2026-11 访问](https://admissions.duke.edu/what-we-look-for/) |
+| 全面型和偏科型（well-lopsided）都欢迎 | "At Duke, we appreciate well-rounded and well-lopsided students that will make impact on our campus and in our community." | [Duke 招生办 What We Look For, 2026-11 访问](https://admissions.duke.edu/what-we-look-for/) |
+| 过了学术门槛后，看你以什么方式为学校贡献 | "… academic ability that you need to be a successful Duke student, but then we think about all the different ways in which students can contribute …" | [Duke Today（时任招生院长 Christoph Guttentag）, 2015](https://today.duke.edu/2015/08/buildingaclass) |
+| 热爱学习本身 | "That enjoyment for being in the classroom; an enthusiasm for learning, we look for that." | [Duke Today（Christoph Guttentag）, 2018](https://today.duke.edu/2018/10/be-yourself-how-navigate-college-admissions-process) |
+| 能与不同意见共处（校长讲话，属共性话术） | "… learn together, challenge each other, trust each other to talk honestly and listen carefully, and entertain the possibility that you might, just might be wrong" | [Duke Today（校长 Vincent Price 开学讲话）, 2024](https://today.duke.edu/2024/08/dukes-100th-class-talented-and-diverse-collection) |
+
+**体现在申请设计中**：
+
+- 官网列出最先看的五项：课程难度、学术课成绩、两位老师和一位顾问的推荐信、课外活动、文书的思考与表达质量。
+- CDS 2025–26 C7：课外活动和 Talent/ability 都是 Very important，文书只是 Important。
+- 可选三选一文书中有 Difference of Opinion（与在乎的人的一次分歧）；可交艺术补充材料；2026–27 季仍 test-optional，在中国就读的学生被特别鼓励做 InitialView。
+
+**流行说法核查**：
+
+- 「杜克喜欢有野心、跨学科、全面发展（含体育氛围）的人」→ **部分支持**。「有野心」有官网原话；「跨学科」只出现在学术介绍页，不在选拔标准和文书题里；「全面发展」要改成全面型和偏科型都欢迎；「体育氛围」在招生办的官方表述中找不到依据（体育只关系到招募运动员）。
+
+**对申请者的含义（归纳）**：
+
+1. 偏科不是劣势，关键是说清你在哪一方面能为 Duke 贡献，并用课外活动和才能来证明。
+2. 文书里展示对学习本身的热情，比罗列成就更贴合官方说法。
+
 ## 对中国学生的建议
 
 1. **申请资助就是更难的赛道**：Duke 对外国公民 need-aware，官方明说申请资助的外国公民录取率通常不到整体的一半，而且首次申请没申请资助，以后就不能再拿。家庭需要在申请前就把资助需求想清楚。

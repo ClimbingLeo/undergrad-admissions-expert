@@ -122,6 +122,33 @@
 5. **"Top 3 things your roommates might like to know about you."**（150 words）
    - 考什么：生活里的性格和与人相处的方式。轻松、具体、有画面感即可。
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 在校期间对社区、毕业后对社会的贡献 | "We seek promising students who will contribute to the Harvard community during their college years, and to society throughout their lives." | [Harvard College First-Year Applicants 页, 2026-11 访问](https://college.harvard.edu/admissions/apply/first-year-applicants) |
+| 把手里的机会和资源用到极致（官方用 "Most of all" 修饰） | "Most of all we look for students who make the most of their opportunities and the resources available to them …" | [Harvard College Guide to Preparing for College, 2026-11 访问](https://college.harvard.edu/guides/preparing-college) |
+| 单项极其出众也可以（well-lopsided） | "Still other successful applicants are "well-lopsided" with demonstrated excellence in one particular endeavor." | [Harvard College FAQ, 2026-11 访问](https://college.harvard.edu/resources/faq) |
+| 智识与伦理上的投入，而非刻意包装 | "We don’t want you to game things … We’re looking for intellectual and ethical engagement." | [The Harvard Crimson（招生主任 William Fitzsimmons）, 2016](https://www.thecrimson.com/article/2016/2/11/fitzsimmons-supports-admissions-report) |
+| 愿意尊重地与不同观点交流 | "… the willingness to respectfully engage with differing ideas and opinions …" | [Harvard College First-Year Applicants 页, 2026-11 访问](https://college.harvard.edu/admissions/apply/first-year-applicants) |
+
+**体现在申请设计中**：
+
+- 5 道必答短答（每题 ≤150 词），包括「一次与他人观点强烈分歧的经历」和「你希望将来如何使用哈佛教育」。
+- 可在 Applicant Portal 上传本人为主要作者的学术论文、研究、创意写作等。
+- CDS 2025–26 C7 没有任何一项是 Very important（全部填 Considered 或 Not Considered），无法用 CDS 判断权重。
+
+**流行说法核查**：
+
+- 「哈佛要的是未来领袖、要能 make a difference」→ **部分支持**。使命陈述确实写 "educate the citizens and citizen-leaders for our society"，招生页也反复讲对社会的贡献；但招生办列评估标准时 leadership 只是并列项之一，官方用 "Most of all" 修饰的是充分利用机会，CDS 也看不出领导力被单独加权。
+
+**对申请者的含义（归纳）**：
+
+1. 在自己的条件下把机会和资源用到了什么程度，是官方在学术潜力（"the heart of the matter will always lie in academic promise"）之外用 "Most of all" 强调的；活动描述和背景说明要让读者看清这一点。
+2. 不必刻意凑「领袖」头衔或包装项目；单项做到很深同样被认可。
+
 ## 对中国学生的建议
 
 1. **标化必须交，而且要高**：哈佛恢复了强制 SAT/ACT。官方说只要能合理参加就应该考，替代成绩只用于确实无法参加的特殊情况；大陆学生通常去港澳或海外考，不要指望用 AP/A-Level 替代。最新 CDS 中 SAT 数学中位数 770，EBRW 中位数 750；数学 730 以下就处在下 25%。

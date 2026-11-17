@@ -178,6 +178,33 @@ Cornell 的官方数据有两个来源。一是 IR&P 的 University Factbook，�
 - 只限 DC Start 申请人（350 词）：*Please describe why you are interested in being considered for the Brooks School DC Start program.*
 - 考什么：政策兴趣是怎么来的、价值观是什么。官方还强调写作和量化课程（经济、统计、微积分）的成绩。
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 求知欲、开放、坚持、主动、协作、领导力 | "Intellectual curiosity, open-mindedness, persistence, initiative, collaboration, leadership. Your values are important to Cornell." | [Cornell 文理学院（A&S）招生页, 2026-11 访问](https://admissions.cornell.edu/first-year-arts-sciences-applicants) |
+| 投入的事对身边人和社区的影响 | "What interests or special commitments have you developed, and what impact have they had on the people or communities around you?" | [Cornell 文理学院（A&S）招生页, 2026-11 访问](https://admissions.cornell.edu/first-year-arts-sciences-applicants) |
+| 与所申学院的使命匹配 | "You’re not just applying to Cornell; you’re applying to [a] specific part of campus, with a unique academic approach and mission," | [Cornell Daily Sun（本科招生主任 Pamela Tan）, 2026](https://cornellsun.com/article/2026/08/cornell-removes-universitywide-essay-question-for-fall-2027-applicants) |
+
+这些品质词与同档学校基本相同；Cornell 的差异主要在制度：按本科学院录取，2026–27 季取消全校统一文书、只保留各学院自己的文书，部分专业（建筑、美术、景观建筑）必交作品集。
+
+**体现在申请设计中**：
+
+- 各学院文书都围绕学院使命出题，例如 CALS 问与 purpose-driven science 定位的契合，Human Ecology 的评价要点写明要理解专业如何帮助 "addressing contemporary human challenges"。
+- Engineering 短答直接把家庭责任列为可写的投入；AAP 建筑和美术、CALS 景观建筑必交作品集。
+- CDS 2025–26 C7：课程难度、文书、推荐信、课外活动、Talent/ability、Character/personal qualities 为 Very important，GPA 和排名只是 Important，Level of applicant's interest 为 Not considered。
+
+**流行说法核查**：
+
+- 「康奈尔按学院看匹配度，『任何人、任何学科』」→ **前半句支持，后半句部分支持**。按学院看匹配度有招生主任 2026 年的直接表态和取消全校文书为证；校方确实反复使用 "any person" 的说法，但官方语境是入学机会与多元化，不是「什么背景都容易进」或「招生不挑人」。
+
+**对申请者的含义（归纳）**：
+
+1. 文书的重心是讲清你要进的那个学院、那个专业为什么适合你，并和学院使命对得上。
+2. 打工、家庭责任可以算作投入，重点写它对身边人和社区产生了什么影响。
+
 ## 对中国学生的建议
 
 1. **先看国际生的真实录取率，再定位。** Fall 2025 国际生整体录取率约 3.6%（664/18,566），远低于全校约 8.4%。不要用全校数字或分学院数字去估计中国学生的机会；Cornell 不再是常说的「藤校保底」。

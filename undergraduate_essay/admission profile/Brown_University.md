@@ -166,6 +166,33 @@ Class of 2030 有三个官方口径，差别在于是否计入候补录取、统
 
 注：官方页面的 PLME 和 BRDD 段落写的是"in addition to the three essays required of all first-year applicants"，与上方"Four essays are required"不一致，应以 4 篇为准，提交前请在 Common App 中再核对一次。
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 能做「自己教育的设计师」 | "… students whose strengths, experiences, accomplishments, and perspectives will enable them to be architects of their own educational journey." | [Brown 招生办 Apply 页, 2026-11 访问](https://admission.brown.edu/apply) |
+| 开辟自己的学术道路，并对社区产生影响 | "… united by a commitment to carving their own academic path and making a meaningful impact within the Brown community …" | [Brown News（招生院长 Logan Powell）, 2026](https://www.brown.edu/news/2026-03-26/admitted-students-class-2030) |
+| 敢于智识冒险的创造性思考者 | "A Brown education pushes students to be creative thinkers, intellectual risk-takers and entrepreneurial problem-solvers." | [Brown 招生办 Academics 页, 2026-11 访问](https://admission.brown.edu/explore/academics) |
+| 好奇、创造力、谦逊、合作、对新观点开放 | "… intellectual curiosity, creativity, and humility. A commitment to collaboration. An openness to new ideas and perspectives." | [校长 Christina Paxson 开学典礼致辞, 2025](https://president.brown.edu/president/remarks-browns-262nd-opening-convocation) |
+| 学业表现和准备度是首要考量（共性） | "The most important consideration in the admission process is a student’s high school performance and preparedness …" | [Brown 招生办 2026–27 Counselor Newsletter, 2026](https://admission.brown.edu/sites/default/files/2026-07/2026-27%20Brown%20University%20Counselor%20Newsletter.pdf) |
+
+**体现在申请设计中**：
+
+- 第一道必答文书直接引用上表校长 Paxson 那段话，问你会如何用这些（或其他）特质规划自己的 Open Curriculum；另有「如果能开一门课」「什么带给你快乐」两道短题。
+- CDS 2025–26 C7：课程难度、排名、GPA、标化、文书、推荐信、Talent/ability、Character/personal qualities 均为 Very important，课外活动只是 Important。
+- 可选 90 秒视频介绍，可上传学术论文或研究摘要；不提供校友面试。
+
+**流行说法核查**：
+
+- 「布朗要能自我驱动、自己设计学习路径的人」→ **支持（有限定）**。招生评估原话就是让学生成为 "architects of their own educational journey"，招生办页面、招生院长（2024、2026）和校长（2025）口径一致，且有必答文书对应；限定是这建立在学术门槛之上，辅导员通讯明说最重要的是高中学业表现。
+
+**对申请者的含义（归纳）**：
+
+1. 先过学术门槛，再说清楚：拿到完全自由的课表，你打算学什么、怎么学、为什么。
+2. 官方说的「自驱」更多指智识冒险和主动探索，文书展示愿意跨出熟悉领域去学，比强调自律更贴合。
+
 ## 对中国学生的建议
 
 1. **标化必须交，而且要冲高分。** Brown 从 Class of 2029 起恢复 test-required，CDS 把 Test scores 列为 Very important；入学新生 SAT 中位数 1520、Math 中位数 770。中国学生建议以中位数（总分 1520、Math 770）以上为目标；这是建议，不是官方门槛。

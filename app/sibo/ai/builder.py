@@ -57,7 +57,7 @@ def build(conn: sqlite3.Connection, report_type: str, student=None, params: dict
         sections.append(("相似申请者画像", "\n\n".join(R.applicant_brief(conn, a, targets=targets) for a in apps)))
         missing = []
         for slug in targets[:8]:
-            types = ("data", "academic", "ec", "hooks") if report_type == "diagnosis" else ("ec", "hooks")
+            types = ("data", "academic", "ec", "hooks", "values") if report_type == "diagnosis" else ("ec", "hooks", "values")
             txt = R.school_sections(conn, slug, types=types, max_chars=1600 if len(targets) > 5 else 2200)
             if txt:
                 sections.append((f"学校档案 {R.school_name(conn, slug)}", txt))
@@ -94,7 +94,7 @@ def build(conn: sqlite3.Connection, report_type: str, student=None, params: dict
                          or "（暂无样本，可参考通用写作原则，但请明确告知顾问样本缺失。）"))
         if slug:
             sections.append((f"{R.school_name(conn, slug)} 文书写作指南", R.supp_guides(conn, slug)))
-            sections.append((f"{R.school_name(conn, slug)} 档案（文书相关）", R.school_sections(conn, slug, types=("essay",), max_chars=2500)))
+            sections.append((f"{R.school_name(conn, slug)} 档案（文书相关）", R.school_sections(conn, slug, types=("essay", "values"), max_chars=2500)))
         task = f"# 本次文书\n- 学校：{R.school_name(conn, slug) if slug else '通用 / Common App'}\n- 题目：{prompt_text or '未提供'}\n- 字数限制：{params.get('word_limit') or '未提供'}"
         if report_type == "essay_review":
             draft = prompts.anonymize(params.get("draft", ""), student)

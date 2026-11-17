@@ -152,6 +152,33 @@
 "Caltech cares about context. Is there anything about your academic preparation, coursework, school context, or learning experiences that would help us better understand your readiness for Caltech?"
 - 考什么：解释课程设置上的限制，例如学校不开微积分或物理、课程冲突等。
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 在理工上有超常热情，要「深」不求「全」 | "Here at Caltech we instead look for ellipses: students with outsized passion for science, engineering and math who we believe can achieve great things." | [Caltech 招生办 Faculty & the Admissions Process（录取委员会主席 Omer Tamuz）, 2026-11 访问](https://admissions.caltech.edu/apply/what-we-look-for/faculty-the-admissions-process) |
+| 看投入深度，不按活动、竞赛、科研职位或头衔计数 | "We do not evaluate these experiences by counting activities or rewarding a particular collection of programs, competitions, research positions, or leadership titles." | [Caltech 招生办 How We Review, 2026-11 访问](https://admissions.caltech.edu/apply/what-we-look-for/how-we-review) |
+| 科学驱动力不是为简历参加 STEM 活动 | "Scientific Drive is more than participation in STEM extracurriculars for résumé building." | [Caltech 招生办 What We Look For, 2026-11 访问](https://admissions.caltech.edu/apply/what-we-look-for) |
+| 发现的乐趣，以及与科学探究的长期关系 | "We seek students whose applications reveal unusual promise, intellectual vitality, strong character, a sense of joy in discovery, and a meaningful relationship with scientific inquiry." | [Caltech 招生办 What We Look For, 2026-11 访问](https://admissions.caltech.edu/apply/what-we-look-for) |
+| 带动一起学习的人，持续回到科学问题 | "… students who will engage difficult ideas, elevate the people learning alongside them, and keep returning to scientific questions" | [Caltech 招生办 What We Look For, 2026-11 访问](https://admissions.caltech.edu/apply/what-we-look-for) |
+
+**体现在申请设计中**：
+
+- 补充文书 5 篇里 4 篇围绕 STEM：必答学术兴趣题，加 Scientific Drive 三选二（Learning / Pursuing / Making，提示教授会读、可以写得很技术）；Scholarly Character 二选一中有 Collaboration 选项。
+- 两封老师推荐信必须是 1 封 STEM + 1 封人文/社科；教授参与审读最有竞争力的申请；不面试。
+- CDS 2025–26 C7：标化与课程难度、文书、推荐信、Character/personal qualities 同为 Very important（2026–27 季起标化改为按单科分档审读，见本画像学术部分），Talent/ability 只是 Considered。
+
+**流行说法核查**：
+
+- 「加州理工只看科研和 STEM 深度」→ **部分支持**。STEM 深度是核心标准；但官方写明研究等补充材料 "are not required to prove scientific interest or potential"，也不按科研职位计数，Scientific Drive 可以是造机器、写代码、修设备、自学；而且品格、文书、推荐信都是 Very important，还必须有 1 封人文/社科推荐信。
+
+**对申请者的含义（归纳）**：
+
+1. STEM 部分写自己主动去追的问题和做到的深度，不必是科研，也不必堆竞赛和项目数量。
+2. 人文/社科推荐信和合作、品格类材料同样被认真看，不能只准备理工部分。
+
 ## 对中国学生的建议
 
 1. **先确认课程门槛**：微积分、物理、化学是硬要求；IB 必须 HL Math，A-Level 必须 Maths。国内体制内学生要提前确认成绩单能体现这些课，否则要按官方的"unresolvable course conflict"流程用考试成绩证明，并用可选短答题说明。

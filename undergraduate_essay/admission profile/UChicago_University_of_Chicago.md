@@ -176,6 +176,33 @@
 
    考点：自选往年题或自拟题。自由度最高，但「自己出题」本身也会被评价，题目要有思考价值。
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 用自己的声音呈现自己，不迎合「招生官想看的」 | "We care about you and who you really are, not what you think we want to see in an application." | [UChicago 招生办 Application 页, 2026](https://collegeadmissions.uchicago.edu/apply/application/) |
+| 面对陌生、开放问题时的创造力和思维灵活性 | "the goal is to open up their minds and see if they have a level of creativity or flexibility and exploration …" | [UChicago News（前文书题目委员会主席 Grace Chapin James）, 2021](https://news.uchicago.edu/story/unique-uchicago-essay-questions-spark-students-creativity) |
+| 新颖的思考方式和解决问题的方式 | "It also signals to prospective students that we are an institution that values and celebrates novel ways of thinking and solving problems" | [UChicago News（本科招生主任 Peter Wilson）, 2021](https://news.uchicago.edu/story/unique-uchicago-essay-questions-spark-students-creativity) |
+| 作为写作者和思考者敢冒点险、乐在其中 | "Draw on your best qualities as a writer, thinker, visionary … take a little risk, and have fun!" | [UChicago 招生办 Essay Questions 页, 2026](https://collegeadmissions.uchicago.edu/apply/essay/) |
+| 认同「心智生活」的思辨文化 | "You made a choice to take a path toward cultivating a life of the mind" | [UChicago News（校长 Paul Alivisatos 开学致辞）, 2026](https://news.uchicago.edu/story/class-2030-new-students-embark-uchicago-experience) |
+
+**体现在申请设计中**：
+
+- Extended Essay 必答（六选一，题目由在校生和校友投稿，刻意出人意料）；官方说这些题可以用 "utter seriousness, complete fancy, or something in between" 的方式回答，文书没有硬性字数上限。
+- 可选 2 分钟视频（官方称 highly recommended，不交不扣分）；不提供面试。
+- CDS 2025–26 C7：Very important 为课程难度、文书、推荐信、课外活动、Talent/ability、Character/personal qualities；GPA、排名、标化都只是 Considered。
+
+**流行说法核查**：
+
+- 「芝大喜欢古怪、爱思考的知识分子型学生」→ **部分支持**。「爱思考」有官方原话和必答 Extended Essay 支撑；「古怪」说的是题目而不是学生，招生办明确提醒不要写 "what you think we want to see"；CDS 把课外活动、才能、品格都列为 Very important，并非只看思辨。
+
+**对申请者的含义（归纳）**：
+
+1. 把怪题当成值得想透的问题来写：官方看的是面对陌生问题时的思考过程和写作质量，刻意装怪与「不迎合」的要求相反。
+2. 学业项里只有课程难度是 Very important，选课要有挑战。CDS 把 GPA、标化填为 Considered，不代表成绩门槛低（新生 SAT 中位数仍在 1540 左右，见本画像学术部分）。
+
 ## 对中国学生的建议
 
 1. **课程难度比 GPA 数字更关键**：CDS 只把 Rigor 列为 Very Important，GPA、排名、标化都是 Considered。选课时优先确保在本校体系里选到最难的组合（AP/IB HL/A-Level 的数理与人文都要有），而不是为了保绩点避开难课。

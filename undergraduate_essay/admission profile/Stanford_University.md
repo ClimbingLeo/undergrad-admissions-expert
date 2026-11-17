@@ -186,6 +186,35 @@
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 学业卓越是首要标准（共性） | "The primary criterion for admission to Stanford is academic excellence, which means flawless or nearly flawless grades in rigorous courses." | [Stanford 招生办 Holistic Admission 页, 2026](https://admission.stanford.edu/apply/selection/index.html) |
+| intellectual vitality（智识活力）与学术引领 | "We look for students who will make a strong contribution to the Stanford community by demonstrating intellectual vitality and academic leadership." | [Stanford 招生办 Decision FAQs, 2026-11 访问](https://admission.stanford.edu/faqs/decision.html) |
+| 好奇、开放、想象力 | "Stanford students are brimming with curiosity, openness, and imagination." | [Stanford 招生办 Holistic Admission 页, 2026](https://admission.stanford.edu/apply/selection/index.html) |
+| 深度优先于广度 | "In fact, an exceptional depth of experience in one or two activities may demonstrate your passion more than minimal participation in five or six clubs." | [Stanford 招生办 Holistic Admission 页, 2026](https://admission.stanford.edu/apply/selection/index.html) |
+| 在工作、家庭、学校和社区中产生的影响 | "In general, we want to understand the impact you have had at your job, in your family, in your school, and in the larger community." | [Stanford 招生办 Holistic Admission 页, 2026](https://admission.stanford.edu/apply/selection/index.html) |
+
+**体现在申请设计中**：
+
+- 一篇「让你对学习真正兴奋的想法或经历」短文，即传统的 intellectual vitality 题；另有给未来室友的信、「你会如何做出 distinctive contribution」两篇短文，以及 5 道短问答。
+- 可选 Arts Portfolio（艺术系教师酌情评审）和可选校友面试；没有创业、商业或科研作品集通道。
+- CDS 2025–26 C7：课程难度、排名、GPA、标化、文书、推荐信、课外活动、Talent/ability、Character/personal qualities 共 9 项 Very important。
+
+**流行说法核查**：
+
+- 「斯坦福看重 intellectual vitality 和创业精神」→ **部分支持**。Intellectual vitality 支持：它是招生页四个评估小节之一，Decision FAQ 明写，并有固定文书题对应；创业精神不支持：招生页、文书页、FAQ 都没有出现 entrepreneur、startup、founder 等词，申请中也没有创业作品通道，它更多是校园文化和硅谷形象。
+
+**对申请者的含义（归纳）**：
+
+1. 官网把学业卓越和 intellectual vitality 并列；后者不能替代成绩。
+2. 课外活动写一两项的深度和你带来的影响；官方招生页没有提到创业，创业经历同样要用深度和影响来讲。
+
+---
+
 ## 💡 对思博杂学社咨询工作的启示
 
 1. **Stanford 不是"刷题学校"的目的地**：GPA/SAT 满分是门票，但根本无法解释 3.6% 录取率——真正的筛选在于"你是否真的是一个有原创贡献潜力的人"。要从初二初三就开始规划 Tier 1 活动，而不是高二临时堆砌。

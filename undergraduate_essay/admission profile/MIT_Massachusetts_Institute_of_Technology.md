@@ -146,6 +146,33 @@ MIT 官方统计页截至 2026-11 仍只更新到 Class of 2029，所以 Class o
 - "What's a topic, academic or non-academic, that you could talk about for hours?"：看好奇心能钻多深。
 - "MIT values both "generalists" with varied interests and "specialists" who focus deeply on one or a few passions. Which do you think best describes you, and why?"：看自我认知，两种都可以，关键是说清楚。
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 动手解决问题（hands-on creativity，呼应校训 mens et manus） | "In other words, you shouldn’t just enjoy thinking about problems, you should be excited about doing something to help solve them." | [MIT 招生办 What we look for, 2026-11 访问](https://mitadmissions.org/apply/process/what-we-look-for/) |
+| 协作与互助，明说总想独自工作的人可能不适应 | "If you enjoy working alone all the time, that’s completely valid, but you might not be particularly happy at MIT." | [MIT 招生办 What we look for, 2026-11 访问](https://mitadmissions.org/apply/process/what-we-look-for/) |
+| 敢于冒险和失败，并懂得建立支持系统 | "… applicants who are not only planning to succeed but who are also not afraid to fail—and who know how to build a support system …" | [MIT 招生办 What we look for, 2026-11 访问](https://mitadmissions.org/apply/process/what-we-look-for/) |
+| 要彼此互补的团队，而不是同一模子的「完美攀登者」 | "We are emphatically not looking for a batch of identical perfect climbers; we are looking for a richly varied team of capable people …" | [MIT 招生办 infinite MIT 页, 2026-11 访问](https://mitadmissions.org/infinitemit/) |
+| 分数是门槛，过线后不再加分 | "We do not prefer people with perfect scores; … we do not consider an applicant’s scores at all beyond the point where preparedness has been established" | [招生主任 Stu Schmill 官方博客, 2022](https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/) |
+
+**体现在申请设计中**：
+
+- CDS 2025–26 C7 中唯一的 Very important 是 Character/personal qualities；课程难度、GPA、标化、文书、推荐信、面试、课外活动、才能都只是 Important。
+- 短文问「你做过哪件出乎预期、不走寻常路的事」和「如何应对一个意料之外的处境或挑战」；短答问你更像 generalist 还是 specialist。
+- 活动表只有 4 格、不收简历；可选 Creative Portfolio（含 maker 和研究）；2022 年起恢复强制 SAT/ACT。
+
+**流行说法核查**：
+
+- 「MIT 要动手做东西、会协作的人，不要只会刷分的人」→ **支持（「不要刷分」需修正）**。动手和协作都是招生页上的独立维度，并有作品集和文书对应；但 MIT 2022 年起重新强制 SAT/ACT，准确说法是分数必须过门槛、过线后不再加分，而不是「不看分」。
+
+**对申请者的含义（归纳）**：
+
+1. 活动表只有 4 格，写清楚为解决某个问题动手做了什么、和谁一起做，比罗列数量更贴合官方口径。
+2. 文书可以正面写失败和求助：官方要的是敢于失败、会建立支持系统的人，CDS 中品格是唯一的 Very important 项。
+
 ## 对中国学生的建议
 
 1. **国际生名额极窄，要按 2% 的录取率来规划**：Class of 2029 国际生 6,926 人申请只录 136 人（约 2.0%），远低于美国申请人的约 5.4%。MIT 不应当作"冲一冲"的普通选项，申请组合必须有足够的稳妥校。

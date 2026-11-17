@@ -11,6 +11,15 @@
 <div class="grid g2">
 <div class="card"><h2>学校画像段落可信度</h2><table class="t">{% for t in trust_rows %}<tr><td>{{ trust(t.trust) }}</td><td class="num">{{ t.n }}</td></tr>{% endfor %}</table>
 <p class="small ink2" style="margin-top:10px">学校画像由人工 + AI 整理。只有附带公开链接的段落标为「已溯源」。画像中所有「案例」小节经抽查为综合或虚构人物，统一标为「示例画像」：保留作教学说明，但不进入 AI 检索、不得对外当作真实案例。</p></div>
+<div class="card" id="values-test"><h2>「学校看重的特质」区分度说明</h2>
+<p class="small ink2">15 所顶尖学校（HYPSM、Caltech、Penn、Columbia、UChicago、Brown、Cornell、Duke、Northwestern、Dartmouth、CMU）的画像里有一节「学校看重的特质（官方表述）」。为了验证学校之间的偏好差异是否真实存在，而不是人人都说的共性话术，2026-11 做了两轮抹名盲测：</p>
+<ol class="small ink2">
+<li>每校收集 12–15 条招生办、招生主任、校长的官方原话，逐字核对原网页。</li>
+<li>第 1 轮：只抹掉校名和地名，评判模型 15 所全部认出。但它说明约 10 所是靠课程制度、学院结构等事实线索认出来的，不是靠「想要什么样的人」。</li>
+<li>第 2 轮：只保留描述学生特质的句子，改写成中文、去掉标志性原词，再让另一个评判模型盲猜。结果 15 所猜对 13 所（随机猜平均对 1 所），并按把握分为三档：
+  <b>明显</b>（UChicago、Penn、Brown、MIT、Caltech、Dartmouth）、<b>中等</b>（Northwestern、Duke、Stanford、Harvard、Princeton）、<b>与同档学校基本一致</b>（Columbia、Cornell、Yale、CMU）。</li>
+</ol>
+<p class="small ink2"><b>使用边界</b>：这只证明学校<b>公开说的</b>偏好不同，不能证明录取时实际按此加权。知识库的申请者样本每校只有 20–45 个结果，检验不出这种差异。其余学校暂无这一节。</p></div>
 <div class="card"><h2>深度案例可信度</h2><table class="t">{% for t in ctrust %}<tr><td>{{ trust(t.trust) }}</td><td class="num">{{ t.n }}</td></tr>{% endfor %}</table></div>
 <div class="card"><h2>申请者画像构成</h2><p class="small muted">国家</p><table class="t">{% for c in countries %}<tr><td>{{ c.country or '未知' }}</td><td class="num">{{ c.n }}</td></tr>{% endfor %}</table>
 <p class="small muted" style="margin-top:10px">申请季</p><table class="t">{% for y in years %}<tr><td>{{ y.y or '未知' }}</td><td class="num">{{ y.n }}</td></tr>{% endfor %}</table></div>
