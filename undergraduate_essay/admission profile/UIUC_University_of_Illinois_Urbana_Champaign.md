@@ -187,7 +187,7 @@ UIUC招生办强调：**不看数量，看深度与影响力**。录取的学生
 - **关键词**：problem-solving, persistence, collaboration, innovation
 
 **录取结果及分析**
-- 结果：UIUC CS专业录取 + $8,000/年Merit奖学金
+- 结果：UIUC CS专业录取 + $8,000/年Merit奖学金（示例画像，奖学金结果不可参考，2026-11 注）
 - 核心因素：
   - ✅ USACO Platinum级+FIRST全国赛资格形成强Hook
   - ✅ 多个CS相关EC形成整体画像，内聚性强
@@ -245,7 +245,7 @@ UIUC招生办强调：**不看数量，看深度与影响力**。录取的学生
 - TOEFL/IELTS成绩优异（虽未详述，但申请中应包含）
 
 **录取结果及分析**
-- 结果：Early Action录取，工程学院（Environmental Engineering专业）+ $15,000/年国际奖学金
+- 结果：Early Action录取，工程学院（Environmental Engineering专业）+ $15,000/年国际奖学金（示例画像，奖学金结果不可参考，2026-11 注）
 - 核心因素：
   - ✅ Early Action提交，择校意愿明确强
   - ✅ 机器人俱乐部创始人身份是强Hook
@@ -403,9 +403,9 @@ UIUC招生办强调：**不看数量，看深度与影响力**。录取的学生
 
 ### 官方题目与字数限制
 
-UIUC 2025-2026年度申请包含以下supplemental essays（需选择性作答）：
+UIUC 2026-27 申请包含 2–3 篇 Illinois essays，每篇 "about 150 words"，外加一篇 Common App 主文书（250–650 词）（来源 https://www.admissions.illinois.edu/essays/ ，2026-11 按官网更正）：
 
-#### 第一题：专业经验叙述（150 words）
+#### 第一题：专业经验叙述（约 150 words）
 
 **题目原文**：
 "Explain, in detail, an experience you've had in the past 3 to 4 years related to your first-choice major. This can be an experience from an extracurricular activity, in a class you've taken, or through something else."
@@ -420,7 +420,7 @@ UIUC 2025-2026年度申请包含以下supplemental essays（需选择性作答�
 - ✅ 具体细节（不要笼统说"我参加了机器人竞赛"，要说"我在2024年春季制造了一个自动臂，用PID控制算法...）
 - ✅ 因果链（经历→学到什么→如何改变了你的想法）
 - ✅ 与专业的直接关联（如申CS，应涉及编程、算法、系统设计等概念）
-- ✅ 150词是严格限制，每句都应服务于核心叙述
+- ✅ 官网写 "about 150 words"（约 150 词），每句都应服务于核心叙述（2026-11 更正）
 - ❌ 避免：过于宽泛的成就列表、模糊的感受陈述、与专业关系牵强的故事
 
 **参考框架**：
@@ -429,10 +429,10 @@ UIUC 2025-2026年度申请包含以下supplemental essays（需选择性作答�
 3. 解决方案与学到的内容（4-5句）：你采取了什么行动、运用了什么专业知识
 4. 反思与影响（2-3句）：这个经历如何深化了你对专业的理解或兴趣
 
-#### 第二题：专业与职业目标（150 words）
+#### 第二题：专业与职业目标（约 150 words）
 
 **题目原文**：
-"Describe your personal and/or career goals after graduating from UIUC and how your selected first-choice major will help you achieve them."
+"Describe your personal and/or career goals after graduating from Illinois and how your selected first-choice major will help you achieve them."（2026-11 按官网更正：原文是 Illinois 不是 UIUC）
 
 **中文理解**：
 阐述你从UIUC毕业后的短期和/或长期目标，以及你选择的第一专业如何帮助你实现这些目标。
@@ -450,14 +450,14 @@ UIUC 2025-2026年度申请包含以下supplemental essays（需选择性作答�
 3. UIUC这个专业如何支撑（4-5句）：具体课程、研究机会、校友网络等如何帮你达成目标
 4. 长期愿景（1-2句）：3-5年后的进阶目标或impact（可选）
 
-#### 第三题（可选）：第二专业或学术目标（150 words）
+#### 第三题（仅报第二志愿专业时）：第二专业或学术目标（约 150 words）
 
 **题目原文**：
-"You have selected a second-choice major. Please explain your interest in that major or your overall academic or career goals."
+"Please explain your interest in your second-choice major or your overall academic or career goals."（2026-11 按官网更正）
 
 **仅在以下情况出现**：
 - 你申请时同时选择了first major和second major（如同时选CS和Data Science）
-- 或申请为"Undeclared"（未定专业）
+- 申请 Undeclared（未定专业）的人不答本题，而是用两道题替换上面第一、二题（2026-11 按官网更正）："What are your future career or academic goals? You may include courses you took in high school and how these impacted your goals." 和 "What are your academic interests? Please include 2-3 majors you're considering at Illinois and why."
 
 **写作逻辑**：
 - 如果有second major：简述为何secondary major补足或扩展primary major的学习
@@ -880,7 +880,7 @@ UIUC CS录取率仅7%，而中国申请者众多（占国际生的~30%）。实�
    - Example: "As a first-generation student from a rural province who taught myself to code on a 2004 laptop..."
    - Example: "Growing up in Shanghai with both Chinese and international education gives me a bicultural perspective..."
 2. **语言authenticity**：用你natural的英文voice写，不要让成年人或中介过度polish（authentic imperfection > polished perfection）
-3. **Financial transparency**：如果你需要financial aid，be honest in FAFSA。UIUC is need-blind for admissions but need-aware for aid，honesty is better than fudging numbers
+3. **资助预期**：UIUC 不给国际本科生 need-based 资助，官网原话："Illinois does not provide need-based financial aid for international undergraduate students."；FAFSA 只适用于美国公民和永久居民（"If you are a U.S. citizen or permanent resident, you should apply."）（https://admissions.illinois.edu/Invest/financial-aid）。国际生可能被学院或系的奖学金考虑，一般不用另外申请（"You may be eligible for scholarships awarded by colleges or departments." https://www.osfa.illinois.edu/?p=588），但名额少，应按自费准备（2026-11 更正）
 
 ### 建议7：**对不同专业方向的targeting**
 
@@ -954,3 +954,11 @@ UIUC是一所excellent public university with world-class engineering and CS pro
 - 数据来源：UIUC官方招生网、多家教育咨询机构、学生申请论坛
 - 特别感谢：Collegeboard数据、各院校招生透明性报告
 - 案例均为composite profiles，融合多真实申请者特征以保护隐私
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- 第二专业题：原写 "You have selected a second-choice major..."，是转学申请的题面

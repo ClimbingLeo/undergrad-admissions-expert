@@ -2,7 +2,7 @@
 
 > 数据来源：CDS 2024–2025、CollegeVine、CollegeTransitions、Reddit r/ApplyingToCollege、College Confidential
 > 生成日期：2026年4月
-> 适用申请季：2025–2026（Class of 2030）
+> 适用申请季：录取数据节为 2025–2026（Class of 2030）；三校文书节已按 2026–27（Class of 2031）更新（2026-11 更正）
 
 ---
 
@@ -147,7 +147,9 @@
 
 ---
 
-## 📝 文书题目（2025–2026 最新版）
+## 📝 文书题目（2026–27 申请季）
+
+> 2026-11 按官网核对：Emory 招生办博客「Emory's Short Answer Questions 2026-27」（2026-08-01，https://blog.emoryadmission.com/?p=13759 ）称沿用上一季题目，与下表一致；第二题四个选项此处为中文概括。
 
 | 题目 | 字数 | 性质 |
 | --- | --- | --- |
@@ -252,7 +254,7 @@ Emory 录取文书的共性规律：
 | 国际学生（含研究生） | 4,300+ 人，来自 125+ 国家 |
 | US News 排名 | #22 全国 |
 
-> ⚠️ 重要提示：Georgetown **不设 ED**，EA 为非约束性早申，且 EA/RD 录取率差距极小（11% vs 12%）。Georgetown 是 T20-25 中**少数坚持 Test Required** 的学校，SAT/ACT 必须提交，这是与 Emory 的核心差异。Georgetown 即将从 2025-2026 起切换至 Common App 系统，此前使用独立申请系统。
+> ⚠️ 重要提示：Georgetown **不设 ED**，EA 为非约束性早申，且 EA/RD 录取率差距极小（11% vs 12%）。Georgetown 是 T20-25 中**少数坚持 Test Required** 的学校，SAT/ACT 必须提交，这是与 Emory 的核心差异。申请平台：Georgetown Application 或 Common Application 任选其一；不要求 Common App 个人陈述，改答 Georgetown 自己的个人陈述题（2026-11 按官网 uadmissions.georgetown.edu/apply/first-year-applicants/ 更正）。
 
 ---
 
@@ -335,7 +337,7 @@ Emory 录取文书的共性规律：
 - EC：模拟股票交易俱乐部主席、会计事务所暑期实习、高中数学辅导老师
 - 面试：据自述准备不足，回答较简短，面试官没有追问
 - 文书：Why Georgetown 写得较通用，提到"Georgetown 的 DC 地理位置和商学院排名"
-- **分析**：Georgetown 面试是正式评估环节（所有申请人必须参加），面试表现差是关键减分项。EC 和文书均缺乏与 Georgetown 价值观（服务、多元、国际视野）的共鸣。教训：Georgetown 申请比其他 T25 多了一个不能忽视的面试维度
+- **分析**：Georgetown 面试是正式评估环节（被分配到面试的申请人必须完成；部分海外学生可能分不到，官方说不影响录取，2026-11 按官网更正），面试表现差是关键减分项。EC 和文书均缺乏与 Georgetown 价值观（服务、多元、国际视野）的共鸣。教训：Georgetown 申请比其他 T25 多了一个不能忽视的面试维度
 
 ---
 
@@ -368,7 +370,7 @@ Emory 录取文书的共性规律：
 | EA（非约束性） | 统计上与 RD 差距不大，但 EA 申请者整体质量更高，建议仍然 EA |
 | 运动员招募 | Georgetown 为 D1 联赛，有实质性 Hook，但竞争激烈 |
 | Legacy | 存在加成，但 Georgetown 不像 Ivies 那样依赖 |
-| 校友面试 | **⚠️ 必须认真准备**，面试是所有申请人必须参加的正式环节 |
+| 校友面试 | **⚠️ 必须认真准备**，面试是正式评估环节，分配到即须完成（部分海外学生可能分不到，不扣分；2026-11 按官网更正） |
 | Jesuit/服务价值观 | 与 Georgetown 使命高度契合者有软性加成 |
 | SFS 特殊申请 | SFS 申请人竞争极激烈，需有真实的外交政策研究兴趣，不能只是"向往华盛顿" |
 
@@ -379,31 +381,36 @@ Emory 录取文书的共性规律：
 | 轮次 | 截止日期 | 约略录取率 | 备注 |
 | --- | --- | --- | --- |
 | EA | 11月1日 | ~11% | 非约束性，可同时申其他学校 |
-| RD | 1月10日 | ~12% | 与 EA 率差距极小 |
+| RD | 1月1日（2026-11 按官网更正） | ~12% | 与 EA 率差距极小 |
 
 ---
 
-## 📝 文书题目（2025–2026 最新版）
+## 📝 文书题目（2026–27 申请季）
 
-Georgetown 文书体系较复杂，因申请学院不同而有差异：
-
-**所有申请人必答（3 篇）：**
+来源（2026-11 按官网更正）：[Georgetown Application Requirements and Forms](https://uadmissions.georgetown.edu/apply/first-year-applicants/application-requirements-and-forms/)。Georgetown 要求 **2 篇短文 + 2 篇长文**（2026-11 更正）。用 Georgetown Application 的在 Application Supplement 里交，用 Common App 的在 Writing Supplement 里交；不要求 Common App 个人陈述。
 
 | 题目 | 字数 | 性质 |
 | --- | --- | --- |
-| 个人背景/身份/才能自我描述 | 约 1 页单倍行距 | 必答（类 Common App 主文书） |
-| 你想突出的特殊才能或技能 | 250 词 | 必答 |
-| 学院特定问题（见下方） | 约 1 页单倍行距 | 必答（按申请学院） |
+| **Short Essay 1**：Briefly discuss the significance to you of the school or summer activity in which you have been most involved. | 250 词 | 必答 |
+| **Short Essay 2**：In all our lives, we interact with people who hold different viewpoints than our own. Describe such an event you experienced. What did you learn from the experience? | 250 词 | 必答 |
+| **Essay 1**：As Georgetown is a diverse community, the Admissions Committee would like to know more about you in your own words. Please submit a brief personal or creative essay which you feel best describes you and reflects on your personal background and individual experiences, skills, and talents.（官网：若 Common App 个人陈述契合此题可直接用） | 650 词 | 必答 |
+| **Essay 2**：学院专属题（见下表） | 500 词 | 必答（按申请学院） |
 
-**各学院专属文书：**
+**各学院专属文书（官网原文的核心问句）：**
 
 | 学院 | 专属问题 |
 | --- | --- |
-| College of Arts & Sciences | 描述你在 CAS 学习的兴趣（建议提到具体课程/教授/研究方向） |
-| Walsh School of Foreign Service (SFS) | 描述你研究全球事务的具体兴趣，以及 Georgetown SFS 的独特吸引力 |
-| McDonough School of Business | 描述影响你追求商学教育的具体经历 |
-| School of Nursing | 描述影响你选择护理的因素 |
-| School of Health | 描述你对健康事业的兴趣来源 |
+| College of Arts & Sciences | Describe your interest in studying in the College of Arts & Sciences. Applicants interested in the sciences, mathematics, or languages are encouraged to make specific reference to their choice of major. |
+| McCourt School of Public Policy | Describe your primary motivations for studying public policy at Georgetown University and dedicating your undergraduate studies toward a future related to public service. |
+| Earth Commons Institute（与 CAS 合办） | Describe your primary motivations for studying environment and sustainability at Georgetown University to effect positive change in the world. |
+| Berkley School of Nursing | Describe the factors that have influenced your interest in studying Nursing at Georgetown University. |
+| School of Health | Describe the factors that influenced your interest in studying health care at Georgetown University, specifically addressing your intended related major: Global Health, Health Care Management & Policy, or Human Science. |
+| Walsh School of Foreign Service (SFS) | Describe your primary motivations for studying international affairs at Georgetown University and dedicating your undergraduate studies toward a future in global service. |
+| McDonough School of Business | Describe your primary motivations for studying business at Georgetown University. |
+
+（各题前面另有一段学院介绍导语，见官网原页。）
+
+**其他材料（官网）**：SAT 或 ACT 必交；推荐信 2 封（1 封升学顾问 + 1 封核心学科老师），可另加 1 封老师推荐；校友面试为正式评估环节，被分配到须完成，部分海外学生可能分不到，不影响录取；面试可能在写作补充提交前就安排。EA 11 月 1 日、RD 1 月 1 日截止。
 
 ---
 
@@ -440,7 +447,7 @@ Georgetown 文书体系较复杂，因申请学院不同而有差异：
 Georgetown 录取文书的共性规律：
 1. **服务精神贯穿全文**：Georgetown 的 Jesuit 传统让他们特别关注"你为他人做了什么"
 2. **世界观成熟**：SFS 申请者尤其需要展示对国际事务的深度思考，而非表面兴趣
-3. **面试文书一致性**：面试官会读过你的文书摘要，面试中要保持叙事连贯
+3. **面试文书一致性**：面试中的叙事要和申请材料连贯（官网说面试可能在写作补充提交前就安排，面试官不一定读过你的文书，2026-11 更正）
 
 中国学生最大差距：
 - Model UN 经历在国内泛滥，在 Georgetown 眼中已经不稀缺
@@ -525,7 +532,7 @@ Georgetown 录取文书的共性规律：
 
 **课程难度**
 
-- 官方 CDS 2025–26 C7（2026-11 原件核对，https://oira.unc.edu/wp-content/uploads/sites/297/2026/06/CDS_UNCCH_2025-26_20260615.pdf ）：Very Important 共 7 项——课程难度、文书、推荐信、课外活动、才能、品格/个人特质、州居民身份；GPA 和 class rank 只是 Important，标化为 Considered（旧版本写「只有课程难度和 GPA 是 Very Important」，有误）
+- 官方 CDS 2025–26 C7（2026-11 原件核对，https://oira.unc.edu/wp-content/uploads/sites/297/2026/06/CDS_UNCCH_2025-26_20260615.pdf ）：Very Important 共 7 项——课程难度、文书、推荐信、课外活动、才能、品格/个人特质、州居民身份；GPA 和 class rank 只是 Important，标化为 Considered（2026-11 更正）
 - 79% 入学生在 AP/IB 课程中获得了学分；62% 获得 5 门以上 AP 学分
 - 建议：AP 课程要多且成绩要高；但 CDS 自填里文书、推荐、活动、品格与课程难度同为 Very Important，不要只押成绩
 
@@ -628,7 +635,7 @@ Georgetown 录取文书的共性规律：
 
 ---
 
-## 📝 文书题目（2025–2026 最新版）
+## 📝 文书题目（2026–27 申请季）
 
 2026–27 起 UNC **没有补充文书**，官网 2026–2027 Prompts 页只列 Common App 主文书；原先列在这里的两道 250 词必答短答（个人特质、学术探索话题）已取消（2026-11 更正）。
 
@@ -645,7 +652,7 @@ Georgetown 录取文书的共性规律：
 UNC 文书的核心诉求是**具体性**。（原文以 250 词补充短答为前提，该短答已取消，现在只有一篇 Common App 主文书，2026-11 更正。）
 
 中国学生与本土学生文书的核心差距：
-1. **文书过于宏观**：中国学生习惯先铺垫大背景，主文书篇幅有限，不宜这样做（原写「UNC 250 词的格式」，补充短答已取消，2026-11 更正）
+1. **文书过于宏观**：中国学生习惯先铺垫大背景，主文书篇幅有限，不宜这样做（2026-11 更正）
 2. **UNC-specific 研究不足**：很多学生的学术题文书替换成任何其他大学都成立，说明没有研究（学术题短答已取消，这条现在只适用于主文书和活动描述，2026-11 更正）
 3. **个人特质太通用**："努力"、"坚韧"、"好奇心"在每份申请里都有，不产生记忆点
 
@@ -692,3 +699,13 @@ UNC 文书的核心诉求是**具体性**。（原文以 250 词补充短答为�
 ---
 
 *文档结束 | 思博杂学社内部资料 | 请勿对外传播*
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- Georgetown 文书：原写「3 篇、约 1 页单倍行距」及「特殊才能或技能」题
+- UNC C7：原写「只有课程难度和 GPA 是 Very Important」
+- UNC 文书规律：原写「UNC 250 词的格式」，补充短答已取消

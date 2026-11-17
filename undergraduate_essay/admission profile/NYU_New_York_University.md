@@ -220,8 +220,10 @@ NYU招生官重视：
 | 轮次 | 截止日期 | 推测录取率 | 建议 |
 | --- | --- | --- | --- |
 | **早申I（ED I）** | 11月1日 | ~30% | 如果NYU是First Choice，强烈建议；给ED申请者约4倍RD优势 |
-| **早申II（ED II）** | 1月5日 | ~25-28% | 保留选项，但优势略小于ED I |
+| **早申II（ED II）** | 1月1日（2026-11 更正） | ~25-28% | 保留选项，但优势略小于ED I |
 | **常规（RD）** | 1月5日 | 7.7% | 最具竞争力的轮次；需要最强申请 |
+
+> 截止日据 NYU Decision Information 页（https://www.nyu.edu/admissions/undergraduate-admissions/high-school-counselors/decision-information.html ）的搜索摘要：ED II 1 月 1 日、RD 1 月 5 日；nyu.edu 本次打不开（405），当季日期待核（2026-11）。
 
 **数据**：
 - 2024-2025 ED申请：22,000+
@@ -236,26 +238,26 @@ NYU招生官重视：
 
 ---
 
-## 📝 文书题目（2025-2026最新版）
+## 📝 文书题目（2026–27 申请季）
 
 ### 主题：Bridge Builders（建桥人）
 
-NYU 2025-2026的核心理念：学生如何跨越差异、促进理解、推动协作
+官网题干导语（2026-11 按官网更正，来源 meet.nyu.edu/advice/application-tips/inside-the-2026-2027-common-application-for-nyu/）：*We are looking for students who want to be bridge builders—students who can connect people, groups, and ideas to span divides, foster understanding, and promote collaboration within a dynamic, interconnected, and vibrant global academic community. We are eager for you to tell us how your experiences have helped you understand what qualities and efforts are needed to bridge divides so that people can better learn and work together. Please consider one or more of the following questions in your essay:*
 
 ### 题目与字数限制
 
 | 题目编号 | 题目内容 | 字数限制 |
 | --- | --- | --- |
-| **核心问题** | Tell us about a time you encountered a perspective different from your own. What did you learn—about yourself, the other person, or the world? | **250字** |
-| **扩展问题1** | Tell us about an experience you've had working with others who have different backgrounds or perspectives. What challenges did your group face? | **250字** |
-| **扩展问题2** | Tell us about someone you've observed who does a particularly good job helping people think or work together. How does this person set the stage for common exploration or work? How do they react when difficulties or dissensions arise? | **250字** |
-| **MLK Scholars项目** | [仅如果选择参加MLK Scholars] 分享你如何体现马丁·路德·金的"Beloved Community"理想（通过学术、研究或服务） | **250字** |
+| **问题1** | Tell us about a time you encountered a perspective different from your own. What did you learn—about yourself, the other person, or the world? | 合计 **250词** |
+| **问题2** | Tell us about an experience you’ve had working with others who have different perspectives. What role did you try to play in helping people to work together, and what did you learn from your efforts? | 同上 |
+| **问题3** | Tell us about someone you’ve observed who does a particularly good job helping people think or work together. How does this person set the stage for common exploration or work? How do they react when challenges arise? What qualities do you admire in this person? | 同上 |
+| **MLK Scholars项目** | 官网两篇文书说明均未提及 MLK Scholars 专属题目（题目原文待核，2026-11 更正） | — |
+
+> 注：问题2、问题3 的题干 2026-11 按官网更正。
 
 **申请说明**：
-- 可选择回答一个或多个核心问题
-- 三个主要问题合计不超过250字（即需在一个回答中涵盖多个视角）
-- MLK Scholars问题仅在申请者明确选择参加该项目时出现
-- Common App与NYU portal两处需填写相同内容
+- 整篇文书为**可选**（官网："an optional component of the first-year NYU Common Application"），写一篇、可涉及一个或多个问题，全文 250 词以内（2026-11 按官网更正）
+- MLK Scholars 专属题、「Common App 与 NYU portal 两处填写相同内容」两条官网未见，待核（2026-11）
 
 ---
 
@@ -298,7 +300,7 @@ NYU 2025-2026的核心理念：学生如何跨越差异、促进理解、推动�
 
 ### 文书案例2：机器人团队中的包容性领导
 
-**题目选择**：第二题（与不同背景的人合作的挑战）
+**题目选择**：第二题（与不同观点的人合作；2026–27 题目问的是你在其中扮演的角色和学到什么，2026-11）
 
 **核心内容**：申请者是高中机器人队（FIRST Robotics）队长。新赛季加入了8名一年级新生，但经验丰富的编程手和新手之间产生了紧张关系。资深成员抱怨新手拖累进度，新手感到被排斥。申请者提议了导师配对计划和"新手专项"（为一年级学生设计一个相对独立的子项目——机器人导航系统）。结果，一位最初很害羞的新手最终编写了导航代码，整队士气大幅提升。
 
@@ -537,10 +539,9 @@ EC展示：不是"参加Model UN"，而是"创办学校第一届亚太地区议�
 
 ### 5. Financial Aid vs. Admission的权衡
 
-**事实**：NYU对国际生的financial aid非常有限（约10%的国际生获得任何aid）
+**事实**：NYU 官网（nyu.edu）本次打不开，国际生资助政策待核（2026-11）。无出处的旧说法已删除（2026-11 更正）
 
 **实战建议**：
-- 如果你需要substantial financial aid，这会严重影响录取率（官方说"need-blind for US citizens"，但international students是need-aware）
 - ED decision时要三思：ED意味着一旦被录取，必须接受，即使financial aid不足
 - 很多中国学生EDO或ED II是为了提高录取率，但后来发现无法承担——这是悲剧
 - 现实建议：如果需要aid，考虑RD并同时申请其他给international aid的学校
@@ -710,3 +711,12 @@ NYU的7.7%录取率意味着即使你做了所有正确的事情，你仍有92.3
 **文档完成日期**：2026年4月3日
 **面向对象**：中国高中学生、家长及留学顾问
 **更新周期**：建议每年9月（新申请季开始时）更新数据
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- MLK Scholars：原写有专属 250 字题
+- 国际生资助：「约 10% 的国际生获得 aid」「官方说 need-blind for US citizens / 国际生 need-aware」，无可核对出处

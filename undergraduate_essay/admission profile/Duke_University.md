@@ -107,7 +107,7 @@ CDS C7 非学业因素（2025–26，[来源](https://ir.provost.duke.edu/sites/
 | 艺术补充材料 | 可选，经 SlideRoom 提交（电影、舞蹈、音乐、摄影、戏剧、视觉艺术） |
 | CSS Profile | 申请资助需提交 CSS Profile（美国学生另需 FAFSA）；外国公民交 CSS Profile 及国际生资助表（[CDS H7](https://ir.provost.duke.edu/sites/default/files/CDS_PDF_2025-2026-20260622-website-published-version.pdf)） |
 | 英语成绩 | **建议但不强制**；期望最低：TOEFL 100（2026-01-21 后新版 5.0）、IELTS 7、Duolingo 130、Cambridge 180、PTE 70 |
-| 国际生资助 | **对外国公民 need-aware**：必须在首次申请时申请资助，否则以后任何时候都不能获得 need-based 资助；官方原话："the admit rate for foreign citizens seeking financial aid is usually less than half of the overall admit rate." |
+| 国际生资助 | **对外国公民 need-aware**：必须在首次申请时申请资助，否则以后任何时候都不能获得 need-based 资助；官方原话："the admit rate for foreign citizens seeking financial aid is usually less than half of the overall admit rate."（https://admissions.duke.edu/apply/，2026-11 补 URL） |
 
 ## 文书题目（2026–27 申请季）
 
@@ -140,6 +140,8 @@ CDS C7 非学业因素（2025–26，[来源](https://ir.provost.duke.edu/sites/
 考什么：真实的兴趣和热情，是展示个性的机会。
 
 官方说明：可选题只在「能补充申请中尚未体现的有意义内容」时才建议作答。
+
+**Duke Embark 意向（选填，150 词）**：官网原文 "Applicants interested in Duke Embark may indicate their interest in the application and complete a 150-word response."（Embark 为大一秋季在 Duke Marine Lab 的住宿学习项目；勾选意向不等于申请该项目，录取入学后再另行申请。具体题目原文官网未列出。）（2026-11 按官网补充）
 
 ## 学校看重的特质（官方表述）
 

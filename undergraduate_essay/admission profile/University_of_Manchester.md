@@ -348,7 +348,7 @@
 | 因素 | 影响程度 | 说明 | 中国学生常见情况 |
 |------|--------|------|-----------------|
 | **成绩起伏不稳定** | ⭐⭐⭐⭐ | 如高一优秀但IB Year 2成绩下滑，或A-Level一科特别低 | IB预科成绩高，Year1突然下降 |
-| **UCAT/BMAT成绩低** | ⭐⭐⭐⭐⭐ | 医学、牙医、兽医申请中，低于70th percentile基本无希望 | 医学申请者UCAT 630分左右 |
+| **UCAT成绩低（BMAT 已停考，2026-11 更正）** | ⭐⭐⭐⭐⭐ | 医学、牙医、兽医申请中，低于70th percentile基本无希望 | 医学申请者UCAT 630分左右 |
 | **个人陈述平庸/重复** | ⭐⭐⭐⭐⭐ | 千篇一律的申请文书，无法体现个性与深度思考 | 「我想学医因为医生帮助人」 |
 | **推荐信平淡/模板化** | ⭐⭐⭐⭐ | 推荐信未能提供具体例证，仅用通用形容词 | 推荐信仅说「该学生聪明勤奋」 |
 | **无课外活动/实习经历** | ⭐⭐⭐⭐ | 对医学、法律、商科申请特别有害 | 只有成绩，无实习无竞赛 |
@@ -591,7 +591,7 @@
 - 个人陈述初稿完成后，找英文很好的人（preferably native speaker）审阅
 - 避免复杂的语句，而是用清晰、简洁的英文表达深刻的思想
 
-#### 差距5：医学/竞争专业的UCAT/BMAT疏忽
+#### 差距5：医学/竞争专业的UCAT疏忽（BMAT 已停考，2026-11）
 
 **表现**：
 - 很多申请医学的中国学生，重点全在A-Level或IB成绩
@@ -610,34 +610,34 @@
 
 ---
 
-## ✍️ 申请流程与时间线（2024-2025年度）
+## ✍️ 申请流程与时间线（2026-27年度，2027入学）
 
 ### UCAS申请关键日期
 
+（2026-11 按曼大官网 https://www.manchester.ac.uk/study/undergraduate/applying/how-to-apply/ 更正：原表把标准截止写成「1月29日」、说医学牙医「3月31日最终截止」，均有误；面试和出结果时间未在官网核对，待核）
+
 | 时间 | 事项 | 截止日期 |
 |------|------|---------|
-| **9月初** | UCAS申请系统开放（2025年9月，为2026年入学） | 持续开放 |
-| **10月1日前** | 医学、牙医、兽医专业的UCAT必须完成 | 递交报名后3周内考试 |
-| **1月29日 午夜** | UCAS标准截止日期（推荐遵守） | 强烈建议 |
-| **1月末-2月初** | 各大学开始发放面试邀请 | 不同学校时间不同 |
-| **2月-4月** | 面试期间（医学多在1月-3月） | 因学校而异 |
-| **3月中旬** | 医学、牙医申请的最终截止（若1月未申请） | 3月31日 |
-| **5月14日前** | 各大学发放最终录取决定（Offer或Rejection） | 曼大目标是5月14日 |
-| **6月4日 午夜** | 学生需确认录取决定（Firm choice 和 Insurance choice） | 时间紧张 |
+| **2026年9月1日** | UCAS可提交2027入学申请 | 持续开放 |
+| **2026年9月下旬前** | 医学、牙医申请人须考完UCAT（2027入学考期约7月中旬至9月24日） | 以 UCAT 官网为准 |
+| **2026年10月15日 18:00** | 医学、牙医截止（官网："for courses leading to a professional qualification in medicine or dentistry, the closing date for 2027 entry is 15 October 2026 at 6pm (GMT)"） | 硬性截止 |
+| **2027年1月13日 18:00** | 其他专业同等考虑截止（官网："the closing date for receipt of applications to be given equal consideration is 13 January 2027 at 6pm (GMT)"） | 强烈建议 |
+| **2027年1月13日后至6月30日** | 仍有空位的课程可继续申请 | 视空位 |
+| **2027年5月前后** | 各大学发放最终录取决定（待核） | - |
 | **8月中旬** | A-Level成绩发布；UCAS Clearing期间开始 | - |
-| **8月下旬** | 最后的Clearing截止 | - |
 
-**曼大具体时间表**（根据官方说法）：
-- 1月29日前递交的申请，会在**5月14日前收到回复**
-- 医学/牙医专业通常在2月中旬-4月初进行面试
-- 其他专业面试（如biosciences）通常在3月-4月
+**曼大具体时间表**（面试安排待核）：
+- 医学/牙医专业面试多在冬春进行
+- 其他多数专业不面试，部分课程要求能力测试、作品集或面试
 
-**参考来源**：[Manchester - Application Timeline](https://www.manchester.ac.uk/study/international/admissions/undergraduate-application-process/); [Upgrad - Admissions 2025](https://www.upgrad.com/study-abroad/university/uk/the-manchester-university-50/admission/)
+**参考来源**：[Manchester - How to apply](https://www.manchester.ac.uk/study/undergraduate/applying/how-to-apply/)
 
 ### 各专业的特殊要求与截止日期
 
+（本小节各专业的面试比例、补充问卷、subject-specific statement、实验技能评估等说法均未在曼大官网找到依据，待核，2026-11。官网 How to apply 页只说部分课程有能力测试、作品集或面试）
+
 #### 医学（MBChB）
-- **UCAT**：必须在10月1日前完成；建议9月完成
+- **UCAT**：须在申请前考完（2027 入学 UCAT 考期截至 2026 年 9 月 24 日，2026-11 更正）；医学申请 10 月 15 日截止
 - **面试**：1月-3月，通常邀请率25-30%（1000-1200名申请者中）
 - **特殊PS**：曼大医学需额外提交补充问卷（Supplementary Questionnaire）
 
@@ -669,6 +669,8 @@
 ## 📝 个人陈述关键写作框架
 
 虽然曼大没有规定PS的结构，但成功申请者的PS往往遵循以下框架：
+
+注：2026 入学起 UCAS 个人陈述改为三题（Why do you want to study this course or subject? / How have your qualifications and studies helped you to prepare for this course or subject? / What else have you done to prepare outside of education, and why are these experiences useful?），每题最少 350 字符、合计 4,000 字符；下面的 5 段框架需要按这三题重新归位。个人陈述发给全部 5 个志愿，第 5 段「为什么选择曼大」不宜写（2026-11 按 UCAS 官网补充）
 
 ### 推荐结构（650-900字）
 
@@ -922,3 +924,10 @@
 **数据来源**：University of Manchester官方网站、UCAS系统、教育媒体（2024-2025年度）
 **特别声明**：本文档信息基于公开来源编译，申请者应定期检查曼彻斯特大学官方网站获取最新政策更新。
 
+---
+
+## 更正记录（2026-11）
+
+正文只保留现行事实与来源。以下是 2026-11 核对时从正文移出的旧写法，**均为错误或无出处的说法，仅供核对，不可引用**。
+
+- 〔✍️ 申请流程与时间线（2026-27年度，2027入学）〕「UCAT ：须在申请前考完（2027 入学 UCAT 考期截至 2026 年 9…」处：原写「10月1日前」

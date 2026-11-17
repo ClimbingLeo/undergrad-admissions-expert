@@ -268,19 +268,21 @@ LSE接受以下国际高中资格：
 
 ## ✍️ UCAS申请流程与关键时间线
 
-### 2026年入学的关键日期(2025年申请周期)
+### 2027年入学的关键日期(2026–27申请周期)
+
+（2026-11 按 LSE 官网更正：原表日期为 2025 年、「UCAS一般截止日期 2025年1月29日」并不存在、TMUA 考期写成「2024年10月-2025年11月自选」均有误。来源：How to Apply https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply ；TMUA 页 https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Test-of-Mathematics-for-University-Admission-TMUA ；Entry requirements 页（LNAT））
 
 | 事件 | 日期 | 重要性 | 备注 |
 |------|------|--------|------|
-| **UCAS报名开放** | 2024年9月3日 | ⭐⭐ | 可以开始注册UCAS账户 |
-| **LSE等同等竞争力大学截止日期** | **2025年1月14日(18:00 GMT)** | ⭐⭐⭐⭐⭐ | **极其关键**，晚1秒视为逾期 |
-| **UCAS一般截止日期** | 2025年1月29日(18:00 GMT) | ⭐⭐⭐⭐ | 非精英大学可延伸至此，但LSE已截止 |
-| **TMUA考试** | 2024年10月-2025年11月 | ⭐⭐⭐⭐ | 经济学必考，考试时间灵活 |
-| **LNAT考试** | 2025年9月1日-2025年12月31日 | ⭐⭐⭐⭐ | 法律必考，必须在此时间段内完成 |
-| **LSE通知决定** | 2025年3月-4月 | ⭐⭐⭐⭐ | 分批发放offer和拒信 |
-| **A-Level考试** | 2025年5月-6月 | ⭐⭐⭐⭐ | 条件offer学生参加，需达到条件成绩 |
-| **条件成绩确认截止** | 2025年8月 | ⭐⭐⭐⭐ | 必须在此前达到条件要求 |
-| **课程开始** | 2025年9月 | ⭐⭐⭐⭐⭐ | 正式入学 |
+| **UCAS开放提交** | 2026年9月 | ⭐⭐ | |
+| **TMUA 第一场** | 2026年10月12-16日（9月28日报名截止） | ⭐⭐⭐⭐ | 官网强烈建议考这一场 |
+| **TMUA 第二场** | 2027年1月4-8日（12月21日报名截止） | ⭐⭐⭐⭐ | 每个申请季只认第一次考试成绩 |
+| **LNAT（仅 LLB）** | 2026年9月1日-12月31日 | ⭐⭐⭐⭐ | 8月1日起报名；须在12月31日前考完 |
+| **LSE截止日期** | **2027年1月13日 18:00 (GMT)** | ⭐⭐⭐⭐⭐ | 官网："The last date for the receipt of applications to LSE to qualify for full and equal consideration is 13 January 2027, 18.00 (GMT)." LSE 不参加 UCAS Extra 和 Clearing |
+| **LSE通知决定** | 2027年春（待核） | ⭐⭐⭐⭐ | 分批发放offer和拒信 |
+| **A-Level考试** | 2027年5月-6月 | ⭐⭐⭐⭐ | 条件offer学生参加，需达到条件成绩 |
+| **条件成绩确认** | 2027年8月 | ⭐⭐⭐⭐ | 必须在此前达到条件要求 |
+| **课程开始** | 2027年9月 | ⭐⭐⭐⭐⭐ | 正式入学 |
 
 ### UCAS应用的五个核心步骤
 
@@ -298,35 +300,34 @@ LSE允许每位学生选择最多5个课程。策略建议：
   - 学术兴趣：约70-75%
   - 课外活动：约15-20%
   - 为何选择该大学/课程：可适度融入学术段落，但不必单独成段
-- **截止日期**：与UCAS提交同时截止(2025年1月14日)
+- **格式**：2026 入学起 UCAS 个人陈述改为三题（Why do you want to study this course or subject? / How have your qualifications and studies helped you to prepare for this course or subject? / What else have you done to prepare outside of education, and why are these experiences useful?），每题最少 350 字符，合计 4,000 字符（2026-11 按 UCAS 官网补充）
+- **截止日期**：与UCAS提交同时截止(2027年1月13日，2026-11 更正)
 
 #### **步骤3：TMUA/LNAT考试(秋季完成)**
-- **TMUA**：经济学、数学与经济学必考
-  - 考试时间：2024年10月-2025年11月，自选时间
-  - 分数发送至UCAS的时间很重要——应在1月14日前完成
+- **TMUA**：2027 入学 BSc Economics、BSc Econometrics and Mathematical Economics **必考**；BSc Mathematics and Economics 等 9 项数学/数据/精算类专业**推荐但不强制**（官网标题写 "eight programmes"，实列 9 项：BSc Mathematics and Economics、Mathematics with Economics、Financial Mathematics and Statistics、Mathematics with Data Science、Mathematics, Statistics, and Business、Data Science、Economics and Data Science、Actuarial Science、Actuarial Science (with a placement year)；2026-11 核对 [LSE TMUA 页](https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Test-of-Mathematics-for-University-Admission-TMUA)）（2026-11 按 LSE 官网更正）
+  - 考试时间：2026年10月12-16日 或 2027年1月4-8日，只认第一次考试的成绩
 - **LNAT**：法律必考
-  - 考试时间：2025年9月1日-2025年12月31日
-  - 同样需在1月14日前完成
+  - 考试时间：2026年9月1日-12月31日，须在 2026年12月31日前考完（LSE 官网）
 
 #### **步骤4：学校/考试中心的支持**
-- **学校参考信(School Reference)**：由班主任或升学指导老师撰写
+- **学校参考信(School Reference)**：UCAS 1 份，由班主任或升学指导老师撰写
 - **预测成绩(Predicted Grades)**：学校预测你A-Level/IB的成绩
   - 预测成绩极其重要，会直接影响是否获得条件offer
   - 中国学生建议争取最高预测成绩
 
 #### **步骤5：UCAS提交与等待**
-- 2025年1月14日前在UCAS平台一次性提交所有材料
+- 2027年1月13日 18:00 (GMT) 前在UCAS平台一次性提交所有材料
 - 确保：个人陈述完成、学校确认参考信已上传、考试成绩已链接
 - 之后进入等待期(约6-8周)
 
 ### 对中国学生的特别提醒
 
 1. **时区问题**：LSE截止时间是英国时间(GMT/UTC+0)，中国是UTC+8，因此中国时间需提前8小时准备
-   - 英国时间2025年1月14日18:00 = 中国时间2025年1月15日凌晨2:00
+   - 英国时间2027年1月13日18:00 = 中国时间2027年1月14日凌晨2:00
 
 2. **考试安排**：
    - TMUA可在中国内地参加(通过授权考点)
-   - LNAT可在中国参加(线上形式)
+   - LNAT可在中国参加，须到考点机考，不是线上考（LNAT 官网："sit at a numbered desk with a computer terminal"；LSE 要求 2026-12-31 前考完；2026-11 更正）
    - 务必提前3个月确认和报名
 
 3. **学校参考信**：如就读国际学校，确保升学指导老师熟悉LSE要求，而非简单的模板信
@@ -589,7 +590,7 @@ LSE允许每位学生选择最多5个课程。策略建议：
 **体现在申请设计中**：
 
 - 不面试，没有补充文书，UCAS 三题个人陈述是唯一的文字材料。LSE 逐题指引：第 1 题只谈学术兴趣、不谈职业规划；第 3 题可继续深化学术反思，只写 350 字符的最低要求也 "entirely acceptable"。
-- 笔试：2027 年入学 BSc Economics 和 Econometrics & Mathematical Economics 必考 TMUA，另有 8 个专业推荐考 TMUA；法学 LLB 必考 LNAT。
+- 笔试：2027 年入学 BSc Economics 和 Econometrics & Mathematical Economics 必考 TMUA，另有 9 项专业推荐考 TMUA（官网标题称 8 个，实列 9 项，含精算带实习年版本，2026-11）；法学 LLB 必考 LNAT。
 - 官方提醒 "a successful personal statement for UK universities is very unlikely to be successful for US universities (and vice-versa)."（同上 Personal Statement 页）
 
 **流行说法核查**：
@@ -617,11 +618,11 @@ LSE允许每位学生选择最多5个课程。策略建议：
 2. **高二-高三初期**：
    - 系统学习TMUA官方资料和历年真题
    - 发现TMUA与竞赛数学的差异：TMUA更强调实时问题求解和reading comprehension，竞赛数学更强调技巧
-   - 在TMUA准备中，第二部分(应用问题)需要特别关注——这是区分 "数学好"与"数学思维强"的地方
+   - 在TMUA准备中，第二部分(Mathematical Reasoning，数学推理与基础逻辑；2026-11 更正)需要特别关注——这是区分 "数学好"与"数学思维强"的地方
 
 3. **报名与参考**：
    - 数学竞赛：争取至少参加一次全国级别的竞赛(即使未获奖也是有价值的参赛经历)
-   - TMUA：报名时间通常在秋季(10月)，考试在10月-11月之间，务必在1月14日申请截止前完成
+   - TMUA：10月场 2026年9月28日报名截止、10月12-16日考；1月场 12月21日报名截止、2027年1月4-8日考；只认第一次成绩（2026-11 按 LSE 官网更正）
 
 4. **在PS中的呈现**：
    - 不要简单地说"我获得了数学竞赛一等奖"
@@ -699,17 +700,17 @@ LSE允许每位学生选择最多5个课程。策略建议：
 ### 建议3：LNAT/TMUA准备的时间安排与策略
 
 **关键日期**：
-- 考试报名截止：通常在秋季的9月中旬
-- 考试时间窗口：10月-12月(TMUA)，9月-12月(LNAT)
-- 申请截止：2025年1月14日前必须完成考试并获得成绩
+- 考试报名截止：TMUA 10月场 9月28日、1月场 12月21日；LNAT 8月1日起报名
+- 考试时间窗口：TMUA 2026年10月12-16日 或 2027年1月4-8日；LNAT 2026年9月1日-12月31日
+- 申请截止：2027年1月13日 18:00 (GMT)（2026-11 按 LSE 官网更正）
 
 **TMUA准备策略(针对经济学申请者)**：
 
 | 准备阶段 | 时间 | 重点 | 资源 |
 |---------|------|------|------|
-| **诊断与分析** | 7月-8月初 | 做一套完整官方模拟题，找出弱点：Part 1(纯数学)vs Part 2(应用) | TMUA官网模拟题 |
-| **Part 1强化(纯数学)** | 8月中-9月初 | 针对弱点(通常是不等式、函数、三角等)进行专项练习 | 官网资料库、A-Level复习材料 |
-| **Part 2突破(应用问题)** | 9月中-10月 | 这是区分优秀与一般的部分；每天2-3道题，分析出题逻辑 | 官网资料库、往年真题分析 |
+| **诊断与分析** | 7月-8月初 | 做一套完整官方模拟题，找出弱点：Paper 1（Applications of Mathematical Knowledge）vs Paper 2（Mathematical Reasoning）（2026-11 更正） | TMUA官网模拟题 |
+| **Paper 1强化(数学知识应用)** | 8月中-9月初 | 针对弱点(通常是不等式、函数、三角等)进行专项练习 | 官网资料库、A-Level复习材料 |
+| **Paper 2突破(数学推理)** | 9月中-10月 | 这是区分优秀与一般的部分；每天2-3道题，分析出题逻辑 | 官网资料库、往年真题分析 |
 | **全真模拟** | 10月中旬 | 按官方时间进行3套完整模拟，检测真实表现 | 官网模拟或报名机构 |
 | **冲刺微调** | 10月底-考试日 | 错题回顾、时间管理训练、心理建设 | - |
 
@@ -906,3 +907,13 @@ LSE允许每位学生选择最多5个课程。策略建议：
 - [LNAT官方信息](https://blogs.lse.ac.uk/studentsatlse/2023/12/05/everything-you-need-to-know-about-the-lnat-for-2024-entry/)
 - [个人陈述指导](https://personalstatement-examples.com/by-university/lse/economics)
 - [LSE国际学生信息](https://www.lse.ac.uk/study-at-lse/international-students)
+
+---
+
+## 更正记录（2026-11）
+
+正文只保留现行事实与来源。以下是 2026-11 核对时从正文移出的旧写法，**均为错误或无出处的说法，仅供核对，不可引用**。
+
+- 〔✍️ UCAS申请流程与关键时间线〕「TMUA ：2027 入学 BSc Economics、BSc Economet…」处：原写「数学与经济学必考」
+- 〔💡 对中国学生申请LSE的实战建议〕「在TMUA准备中，第二部分(Mathematical Reasoning，数学推…」处：原写「应用问题」
+- 〔💡 对中国学生申请LSE的实战建议〕「诊断与分析 7月 8月初 做一套完整官方模拟题，找出弱点：Paper 1（App…」处：原写「Part 1 纯数学 / Part 2 应用」

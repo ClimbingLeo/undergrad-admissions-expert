@@ -256,7 +256,7 @@
 - 描述无法参加付费暑期项目的障碍
 - 说明如何在有限资源下追求学术卓越
 
-**结果：** RD被UMD录取，获得$25,000/年merit奖学金 + 可能被考虑Honors College
+**结果：** RD被UMD录取，获得$25,000/年merit奖学金 + 可能被考虑Honors College（示例画像，奖学金结果不可参考，2026-11 注）
 
 **申请亮点分析：**
 ✅ **独特的多元背景** - 第一代大学生、低收入家庭、来自低资源高中
@@ -274,6 +274,8 @@
 ---
 
 #### 案例3：国际生型（RD录取）
+
+> 注：本案例结果中「中国籍国际生获 $20,000/年 merit 奖学金」与 UMD 官网不符。官网原话："U.S. citizens and eligible non-citizens are considered for the university's merit scholarship."（https://admissions.umd.edu/freshman-merit-scholarships）；"As a publicly funded institution, UMD is unable to provide financial assistance to international students."（https://admissions.umd.edu/financial-certification）。持 F-1 签证的中国学生拿不到 UMD merit 奖学金，此处奖学金部分不可参考（2026-11 更正）。
 
 **申请者背景：**
 - 姓名：Liu Wei（虚拟化名）
@@ -392,13 +394,15 @@
 
 ## 📝 文书题目与字数限制（2025-2026最新版）
 
-UMD 现在只要**一篇主文书**（Common App 七个题目任选，650 词以内），没有补充短答；官网 Essay Questions 页和 Freshman 页都只列这一篇。原先列在这里的 6 篇 650 字符补充短答（Travel、Academic Interests、Monday、Diversity 等）是早年设计，已取消（2026-11 更正）。下文案例中提到的补充短答，是当年申请季的情况。
+UMD 现在只要**一篇主文书**（Common App 七个题目任选，650 词以内），没有补充短答；官网 Essay Questions 页和 Freshman 页都只列这一篇。早年的补充短答已取消（2026-11 更正）。下文案例中提到的补充短答，是当年申请季的情况。
 
 ---
 
 ## 📖 真实录取文书解析（带详细评论）
 
 ### 文书样本1：学术竞赛突破型（Tier 1活动）
+
+注：此例所答题目不在 2026–27 题目中（UMD 补充短答已取消，2026-11）
 
 **文书题目：** "If I could travel anywhere, I would go to…"
 
@@ -441,6 +445,8 @@ But more than that, sitting in that audience would remind me that mathematics is
 
 ### 文书样本2：多元背景型（社区视角）
 
+注：此例所答题目不在 2026–27 题目中（UMD 补充短答已取消，2026-11）
+
 **文书题目：** "My favorite thing about last Monday was…"
 
 **原文（虚拟但基于真实反馈）：**
@@ -477,6 +483,8 @@ After she left, I sat there thinking: this is why I want to study education and 
 ---
 
 ### 文书样本3：学术兴趣型（多学科融合）
+
+注：此例所答题目不在 2026–27 题目中（UMD 补充短答已取消，2026-11）
 
 **文书题目：** "In addition to my major, my academic interests include…"
 
@@ -640,7 +648,7 @@ At Maryland, I want to take courses in behavioral economics and psychology becau
 | 劣势 | 原因 | 对策 |
 |-----|------|------|
 | **录取率低** | 国际生竞争激烈（25-30% vs 45% 整体） | SAT一定要1450+；活动一定要有national/international level |
-| **奖学金少** | UMD是公立大学，国际生奖学金有限 | 心理预期full pay；或同时申请merit aid强的私校 |
+| **没有奖学金或资助** | UMD 的 merit 奖学金只考虑美国公民和 eligible non-citizen；官网原话："As a publicly funded institution, UMD is unable to provide financial assistance to international students."（https://admissions.umd.edu/financial-certification）（2026-11 更正） | 按 full pay 准备预算；需要资助的同学把有国际生资助的学校放进清单 |
 | **GPA理解困难** | 美国高中和国际课程体系差异 | 主动解释你的课程体系；提供成绩单说明 |
 | **英文质量** | 即使英文好，还是native speaker的英文有微妙差异 | 找native speaker帮你polish文书；但不要过度修改 |
 | **地理不利** | UMD主要招美国东部学生，亚洲学生代表性过强 | 强调"为什么UMD"时，要说明具体项目或教授，不要通用申辞 |
@@ -699,7 +707,7 @@ UMD的Limited Enrollment Programs (LEP) 包括：
 
 ### 8. **推荐信的策略选择**
 
-UMD允许1-3封推荐信（通常2封）
+UMD 要求两封推荐信：官网原话 "Two letters of recommendation are required: one from your school counselor and one from a teacher."（2026-11 按官网更正）
 
 **对中国学生的建议：**
 
@@ -738,7 +746,7 @@ UMD允许1-3封推荐信（通常2封）
 4. 地理位置佳（距DC近，internship机会多）
 
 **UMD的劣势：**
-1. 国际生奖学金有限（相比私立大学）
+1. 不给国际生任何经济资助或 merit 奖学金（"UMD is unable to provide financial assistance to international students."，https://admissions.umd.edu/financial-certification）（2026-11 更正）
 2. 国际生yield低（9.3%），说明很多学生用作safety
 3. 对多元背景的hook较弱（国际生无法利用多数优惠）
 
@@ -781,3 +789,12 @@ UMD允许1-3封推荐信（通常2封）
 - [UMD Financial Aid & Enrollment Data](https://irpa.umd.edu/CampusCounts/)
 
 **注：本文档中的真实申请案例基于通常的UMD录取档案和公开学生访谈数据整合，具体名字和部分细节已虚拟化以保护隐私。**
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- 文书题目：原列 6 篇 650 字符补充短答（Travel、Academic Interests、Monday、Diversity 等），为早年设计
+- 推荐信：原写「允许1-3封，通常2封」

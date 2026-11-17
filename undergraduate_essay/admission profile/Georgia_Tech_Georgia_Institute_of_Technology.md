@@ -184,15 +184,15 @@
 | 轮次 | 截止日期 | 录取率 | 建议 |
 | --- | --- | --- | --- |
 | **EA1（Early Action 1）** | 10月15日 | ~33%（仅佐州） | 不适用国际生；仅限Georgia州籍高中毕业生 |
-| **EA2（Early Action 2）** | 10月15日 | ~8.1% | **强烈推荐国际生选择EA**；国际学生在此轮与州外美国学生混评 |
-| **Regular Decision** | 1月中旬 | ~12-14% | 备选方案；EA被defer/reject后的救命稻草 |
+| **EA2（Early Action 2）** | 11月2日（2026–27，2026-11 按官网更正） | ~8.1% | **强烈推荐国际生选择EA**；国际学生在此轮与州外美国学生混评 |
+| **Regular Decision** | 1月6日（2026–27，2026-11 按官网更正） | ~12-14% | 备选方案；EA被defer/reject后的救命稻草 |
 
-**关键时间表（2025-2026申请周期）：**
-- 10月15日 EA2截止
-- 12月中旬 EA2决定公布
-- 2024年12月 RD提交开放
-- 2025年1月中旬 RD截止
-- 2025年3月-4月 RD决定公布
+**关键时间表（2026-27申请周期）：**
+- 8月1日 申请开放（EA1 / EA2 / RD 同时开放）
+- 10月15日 EA1（佐州学生）截止，12月初出结果
+- 11月2日 EA2（非佐州学生，含国际生）截止，文件截止 11月16日，1月下旬出结果
+- 1月6日 RD截止，3月中旬出结果
+（以上为 2026–27 官网日期，2026-11 按 https://admission.gatech.edu/first-year/deadlines 更正）
 
 **中国学生战术：**
 1. **优先EA2：** 8.1%的录取率虽然仍是个位数，但相比RD的12.7%更好
@@ -208,14 +208,14 @@
 | --- | --- |
 | 从Common App 官方7个题目中选1个 | 650字以内 |
 
-**官方7个Common App提示（示例）：**
-1. 某个经历如何改变了你的世界观
-2. 失败与学到的教训
-3. 挑战你信念的想法
-4. 对你有意义的话题
-5. 你的背景与身份
-6. 你想讨论的任何话题
-7. 自由选择话题
+**Common App 2026–27 七个题目（要点；2026-11 按 https://www.commonapp.org/apply/essay-prompts 更正）：**
+1. 背景、身份、兴趣或才能（"Some students have a background, identity, interest, or talent that is so meaningful…"）
+2. 面对挑战、挫折或失败及其教训
+3. 质疑或挑战某个信念或想法
+4. 别人为你做的、让你意外地快乐或感激的事
+5. 引发个人成长和新认识的成就、事件或领悟
+6. 让你忘记时间的话题、想法或概念
+7. 任意话题（"Share an essay on any topic of your choice."）
 
 ### Georgia Tech 补充文书
 
@@ -479,8 +479,8 @@
      - 8月：确认SAT/ACT目标，开始备考或刷分
      - 9月初：完成SAT/ACT，拿到最终成绩
      - 9月中：开始EA2申请（文书、成绩单、推荐信）
-     - 10月初：完成所有EA2材料并提交
-     - 12月中：EA2结果公布
+     - 11月2日前：完成所有EA2材料并提交（2026-11 按官网更正截止日）
+     - 1月下旬：EA2结果公布（2026-11 按官网更正）
 
    - **国际生的特殊要求**：
      - 可能需要英语语言补充测试（如Duolingo、TOEFL）：留出1-2个月时间
@@ -546,3 +546,12 @@
 - [College Essay Guy - Georgia Tech Essays Guide](https://www.collegeessayguy.com/blog/georgia-tech-supplemental-essays)
 - [PrepScholar - Georgia Tech Essay Examples](https://blog.prepscholar.com/georgia-tech-essays-examples-prompts)
 
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- EA2 截止日：原写 10月15日
+- 时机表：原写「EA2 10月15日截止、12月中旬出结果、RD 1月中旬截止」
+- Common App 七题：原列「示例」顺序和内容与官方不符，漏了感恩题

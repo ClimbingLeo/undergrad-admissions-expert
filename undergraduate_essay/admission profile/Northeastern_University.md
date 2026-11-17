@@ -272,7 +272,7 @@
 | **国际背景多样性** | ⭐⭐⭐ | 来自偏远国家/前殖民地学生加分；中国学生的这一优势有限 |
 | **男性申请数学/CS** | ⭐⭐⭐ | 女性CS申请者有小幅加分，男性则无特殊优势 |
 | **创业/社会企业** | ⭐⭐⭐⭐ | 高度重视，需证实（注册、收入、用户反馈） |
-| **与东北大学校友关系** | ⭐⭐⭐ | 校友面试、校友推荐有一定加分 |
+| **与东北大学校友关系** | ⭐⭐⭐ | 校友推荐有一定加分（东北不提供校友或校园面试，2026-11 按官网更正） |
 
 **中国学生特殊分析：**
 
@@ -310,7 +310,7 @@
 
 ---
 
-## 📝 2025-2026申请系统与文书要求
+## 📝 2026–27 申请系统与文书要求（2026-11 按官网 admissions.northeastern.edu/application-information/required-materials/ 核对）
 
 ### 申请平台
 
@@ -320,34 +320,30 @@
 
 **提交材料清单：**
 1. 高中官方成绩单
-2. 推荐信：2封（通常为英文/数学老师）
+2. 推荐信：1封任课老师推荐 + 1封升学顾问推荐（必需），另可自愿加交1–2封（2026-11 按官网更正）
 3. 学校报告/学校支持材料
 4. 标准化成绩（可选）：SAT或ACT
-5. 简历（可选但强烈建议提交）
+5. 简历（官网材料清单未列，非官方要求；2026-11）
+6. 不提供校友或校园面试；国际生可交 InitialView / Vericant 第三方视频面试；CAMD（艺术、媒体与设计学院）申请者鼓励交作品集（2026-11 按官网补）
 
 ### 核心文书要求
 
 **1. Common App主文书**
-- **题目数量：** 6个提示中选1个
-- **字数限制：** 650字
-- **题目概览：**
-  - 个人故事/背景
-  - 解决问题的经历
-  - 智识兴趣的追求
-  - 思维方式改变的时刻
-  - 人生目标与东北的契合
+- **题目数量：** 7个题目中选1个（2026-11 按 Common App 官网更正）
+- **字数限制：** 650词
+- **题目概览：** 背景/身份/兴趣/才能；挑战与挫折；质疑某个信念；意外的感激；带来成长的成就或领悟；让你忘记时间的话题；自选题目。（2026-11 更正）
 
 **2. 学校补充材料**
 - **当前状态：** 东北大学**不要求**补充论文（Supplemental Essays）
 - **替代方式：** 建议在Common App主文书或简历中突出对东北大学的理解
 
 **3. 推荐信**
-- **数量：** 最少2封，最多3封
+- **数量：** 必需 1 封任课老师推荐 + 1 封升学顾问推荐，可另加 1–2 封（2026-11 按官网更正）
 - **来源：** 学术科目任课教师（英文/数学优先）
 - **重点内容：** 学术热情、课堂贡献、成长潜力
 - **对国际生的建议：** 选择了解你的英文老师，因为他能更准确评估大学阶段的英文学术能力
 
-**4. 简历（可选但很重要）**
+**4. 简历（官网材料清单未列，非官方要求；如在申请系统中有上传入口可参考以下写法，2026-11 更正）**
 - **长度：** 1页
 - **结构建议：**
   - 顶部：快速自我介绍（2-3句）
@@ -368,7 +364,7 @@
 
 **对国际生的额外关注：**
 - 英文学术能力评估（通过推荐信和论文）
-- 财务需求（东北提供国际生有限的奖学金，约10-15%国际生能获Merit）
+- 财务需求：国际新生通过入学申请自动参评 merit 奖学金，官方没有公布获奖比例，只说竞争极激烈、不覆盖全部费用（"Merit scholarships are extremely competitive, however, and do not cover the full cost of attendance."，https://admissions.northeastern.edu/international/）（2026-11 更正）
 - 居住地多样性贡献
 
 ---
@@ -659,7 +655,7 @@
 
 **国际生的劣势：**
 - 财务审查更严格（学校需要证实你能支付学费）
-- Merit奖学金有限（仅约10-15%国际生获得）
+- Merit 奖学金竞争极激烈，且不覆盖全部费用；官方未公布国际生获奖比例（https://admissions.northeastern.edu/international/）（2026-11 更正）
 - 环境不熟悉（可能在论文中无法充分表达自己）
 
 **国际生的优势（如果利用得当）：**
@@ -700,10 +696,9 @@
    - 如果可能，参加office hours并与admissions officer交流
    - 记录他们的名字，在邮件中提及
 
-2. **校友面试** - 如果学校提供
-   - 东北大学为符合条件的国际生提供校友面试
-   - （2026-11 更正：官方不提供校友或校园面试，只考虑 InitialView / Vericant 第三方视频面试，CDS 2024–25 中 Interview 为 Not considered，见「学校看重的特质」一节）
-   - 这是展示真实自己的机会，充分准备
+2. **面试**（2026-11 更正）
+   - 东北大学不提供校友或校园面试，只考虑 InitialView / Vericant 第三方视频面试，CDS 2024–25 中 Interview 为 Not considered（见「学校看重的特质」一节）
+   - 如交第三方视频面试，把它当作展示真实自己的机会，充分准备
 
 3. **Campus Visit**（如可能）
    - 如果你在美国或能够出国，参访东北波士顿校园
@@ -716,7 +711,7 @@
 
 **财务规划步骤：**
 1. **提前咨询学校财务援助办公室**
-   - 给他们你的家庭财务情况（FAFSA/CSS Profile数据）
+   - 给他们你的家庭财务情况（FAFSA/CSS Profile数据；FAFSA 只适用于美国公民/永久居民。国际生走的是 merit 这条路："international students may qualify for merit-based scholarships."，https://studentfinance.northeastern.edu/applying-for-aid/international-students/）（2026-11 更正）
    - 咨询"estimated aid package"是多少
    - 这不是binding，但能给你预期
 
@@ -724,7 +719,7 @@
    - 东北学费：$65,000+/年（2024-25）
    - 加上房间、宿舍、生活费：约$85,000/年
    - 总计4年：$340,000+
-   - 国际生平均Merit奖学金：$15,000-25,000/年
+   - 国际生 merit 奖学金：官方只给上限，没有平均数（"Awards range up to $28,000 annually but do not cover the total cost of attendance."，https://studentfinance.northeastern.edu/applying-for-aid/international-students/）（2026-11 更正）
 
 3. **确认家庭能力**
    - 如果全额自费能支付，ED很好
@@ -754,7 +749,7 @@
 | 6/6维度优秀 | 45-55% | 8-12% | **强烈ED** |
 | 5/6维度优秀 | 30-40% | 3-5% | **ED或ED II** |
 | 4/6维度优秀 | 15-25% | 1-2% | **考虑ED，有风险；RD基本无望** |
-| <4维度优秀 | <10% | <0.5% | **考虑其他学校（如NEU的NUin或Global Scholar项目）** |
+| <4维度优秀 | <10% | <0.5% | **考虑其他学校（如NEU的NUin或Global Scholars路径项目）** |
 
 ---
 
@@ -764,9 +759,9 @@
 
 1. **NUin项目** - 如果主校园ED/RD没有被录取，可考虑NUin（东北大学的路径项目），第一年在伦敦/温哥华/香港学习，第二年转入波士顿。录取率约20-30%。
 
-2. **Global Scholar Program** - 为国际学生设计的奖学金项目，尤其对STEM学生有额外支持。
+2. **Global Scholars（路径项目，不是奖学金）** - 第一年不在波士顿本校区，而在伦敦或纽约等校区就读，之后转回本校区。官方原话："For the 2025-2026 academic year, Global and London Scholars students will study either in London, England or in New York City"（https://undergraduate.northeastern.edu/explore/how-the-program-works/getting-started/support-for-nu-bound-students）（2026-11 更正）
 
-3. **赛桥基金** - 一些中国财团与东北合作，为优秀中国学生提供额外奖学金。
+3. **国际生 merit 奖学金** - 国际新生自动参评，不用另外申请；每年最高 $28,000，不覆盖全部费用（"Incoming, first-year international students are automatically considered for merit-based scholarships through their application for undergraduate admission."，https://studentfinance.northeastern.edu/applying-for-aid/international-students/）。（2026-11 更正）
 
 ### 风险与规避
 
@@ -807,7 +802,7 @@
 
 **高三春季（1月之后）：**
 - 等待决定
-- 如有interview请求，充分准备
+- （东北不安排面试；国际生如需补充可在截止日前交 InitialView / Vericant 视频面试，2026-11 按官网更正）
 - 继续保持GPA，不要出现senior slump
 
 ### 最关键的三个决定
@@ -839,3 +834,11 @@
 **最后更新：** 基于Northeastern University 2024-2025申请季数据
 **字数统计：** 约2,800字（不含表格）
 
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- Common App 题目概览：原列「人生目标与东北的契合」，不是 Common App 题目
+- 国际生奖学金：原写「赛桥基金」，东北官方奖学金页和国际生资助页都找不到

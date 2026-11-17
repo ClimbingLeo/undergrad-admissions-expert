@@ -122,19 +122,19 @@ Cornell 的官方数据有两个来源。一是 IR&P 的 University Factbook，�
 - 申请时直接选定 1 个学院或学校（共 8 个学院，SC Johnson 下分 Dyson 和 Nolan）
 - 推荐信：1 封 counselor 推荐 + **2 封任课老师推荐**。申 Engineering 的，其中 1 封必须来自数学、科学或计算机老师；国际生和 ESL 学生最好让第 2 位老师能谈到你的英语水平（[Engineering 申请页](https://admissions.cornell.edu/first-year-duffield-engineering-applicants)）
 - SAT 或 ACT 必交；申请费 85 美元，可以减免
-- 作品集：AAP 的建筑和美术专业必交（SlideRoom，ED 11 月 1 日 / RD 1 月 2 日截止，逾期不收）（[AAP 申请页](https://admissions.cornell.edu/first-year-cornell-aap-applicants)）；CALS 的景观建筑专业也要交作品集（[CALS 申请页](https://admissions.cornell.edu/first-year-cals-applicants)）
+- 作品集：AAP 的建筑和美术专业必交（SlideRoom，ED 11 月 1 日 / RD 1 月 2 日截止，逾期不收）（[AAP 申请页](https://admissions.cornell.edu/first-year-cornell-aap-applicants)）；CALS 的景观建筑专业也要交作品集（[CALS 申请页](https://admissions.cornell.edu/first-year-cals-applicants)）；Human Ecology 的 Design + Environmental Analysis、Fashion Design、Fashion Design Management 必交 design supplement（SlideRoom，ED 11 月 1 日 / RD 1 月 2 日，逾期不收）（[CHE 申请页](https://admissions.cornell.edu/first-year-human-ecology-applicants)）（2026-11 按官网补充）
 - Music supplement 可选：ED 11 月 6 日，RD 1 月 7 日
 - **面试**：Engineering 官方明确不要求也不提供面试（[Duffield FAQ](https://www.duffield.cornell.edu/admissions/admissions-faqs/)）；首年申请流程页没有把面试列为材料，但 CDS C7 把 Interview 列为 Considered，其他学院的具体安排官方没有统一说明
 
 **国际生**
 - **对国际生是 need-aware**，申请资助本身会被作为录取因素之一；如果预计读书期间任何时候需要资助，必须在申请入学时同时申请，否则整个本科期间都不能再申请（[First-Year Applicants](https://admissions.cornell.edu/how-to-apply/first-year-applicants)）
 - 资助要交 CSS Profile，国际生一般不能申请 CSS 费用减免（[Cornell 国际生资助页](https://finaid.cornell.edu/first-year-and-transfer-students-international)）
-- 印度学生有 Tata Scholarship，UWC 学生有 Levitan 奖学金（[First-Year Applicants](https://admissions.cornell.edu/how-to-apply/first-year-applicants)）
+- 印度学生有 Tata Scholarship；Levitan 奖学金不是 UWC 专属，面向所有在美国境外读高中、需要大额 need-based 资助的国际录取生（每年 5 人），中国学生也有资格。官网列出的条件："Have attended secondary school in a country outside the United States; Be offered admission to Cornell as an undergraduate student; and Be eligible for and require significant need-based financial aid."（[First-Year Applicants](https://admissions.cornell.edu/how-to-apply/first-year-applicants)）（2026-11 更正）
 - 英语（[标化政策页](https://admissions.cornell.edu/policies/standardized-testing-policy)）：母语为英语、或过去 4 年以英语授课的可以豁免；否则，有竞争力的分数为旧版 TOEFL 100（2026 年 1 月前的考试）、新版 TOEFL 至少 5.0（建议 5.5）、IELTS 7.5、Duolingo 130、Cambridge C1/C2 191
 
 ## 文书题目（2026–27 申请季）
 
-**变化**：Cornell 从 2026–27 季起**取消了全校统一的 350 词文书**，只保留各学院自己的文书（[Cornell Daily Sun, 2026-08](https://cornellsun.com/article/2026/08/cornell-removes-universitywide-essay-question-for-fall-2027-applicants)）。以下题目来自各学院的官方申请页（页面本身没有标注年份；结合上面的报道，视为当前季题目）。
+**变化**：Cornell 从 2026–27 季起**取消了全校统一的 350 词文书**，只保留各学院自己的文书（[Cornell Daily Sun, 2026-08](https://cornellsun.com/article/2026/08/cornell-removes-universitywide-essay-question-for-fall-2027-applicants)）；官网 First-Year Applicants 页对 Cornell Supplement 的描述也只写 "includes the college- or school-specific essay(s)"（[First-Year Applicants](https://admissions.cornell.edu/how-to-apply/first-year-applicants)，2026-11 核对）。以下题目来自各学院的官方申请页（页面本身没有标注年份；结合上面的报道，视为当前季题目）。
 
 **College of Arts and Sciences**（650 词）（[A&S](https://admissions.cornell.edu/first-year-arts-sciences-applicants)）
 *At the College of Arts and Sciences, your education is yours to shape. Describe an intellectual passion, question, or idea that has captured your attention—whether it emerges from your studies or extends beyond your coursework. What specific aspects of our liberal arts curriculum would you draw on to explore and connect your varied interests?*

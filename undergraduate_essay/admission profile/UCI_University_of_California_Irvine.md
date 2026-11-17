@@ -209,7 +209,7 @@ UCI高度看重学生所选课程的难度：
 
 | 轮次 | 截止日期 | 决定发放日期 | 录取率估算 | 建议 |
 |------|---------|----------|---------|------|
-| **统一轮次** | 2025年11月30日 | 2026年3月13日 | 28.94%（整体） | **UC系统无Early Action/ED**。所有学生同一截止、同一轮评审。11月初提交比11月中旬无优势 |
+| **统一轮次** | 2025年11月30日（2026–27 周期为 2026年11月30日，2026-11 注） | 2026年3月13日 | 28.94%（整体） | **UC系统无Early Action/ED**。所有学生同一截止、同一轮评审。11月初提交比11月中旬无优势 |
 | **转校申请** | 2025年11月30日 | 2026年5月中旬 | 39.51%（转校） | 转校录取率更高，但要求完成至少30学分 |
 | **社区大学路线** | 同上 | 同上 | 39.51% | **对国际学生**：转校途径可能更现实（GPAssistant更容易达到、更低成本） |
 
@@ -241,7 +241,7 @@ UCI高度看重学生所选课程的难度：
 ---
 
 **第2题：创意表达**
-> Every person has a creative side. Describe how you express your creative side.
+> Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.（2026-11 按官网补全）
 
 **中文意思**：每个人都有创意的一面。描述你如何表达自己的创意
 
@@ -672,6 +672,8 @@ UCI高度看重学生所选课程的难度：
 ---
 
 ## 📋 申请时间规划表（2025-2026周期）
+
+> 注（2026-11）：下表为 2025–26 周期日期。2026–27 周期（2027 秋季入学）按 UC 官网为 2026 年 10 月 1 日—11 月 30 日提交、3 月 1—31 日放榜、5 月 1 日确认入学（[来源](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html)），各项顺延一年；提交后申请内容基本不能再修改。
 
 | 时间 | 行动 | 优先级 |
 |------|------|--------|

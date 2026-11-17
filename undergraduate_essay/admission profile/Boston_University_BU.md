@@ -251,7 +251,7 @@ BU宣布将继续保持test-optional政策至2028-2029申请季。**重点：** 
 
 **文书表现：**
 - Common App Essay: 写了创办"教育无疆界"项目的初心和运营过程中的挑战。强调了在帮助弱势学生的过程中，自己也收获了对教育公平性的思考。故事具体、有细节（如与学生的对话）
-- BU Supplement: 选择Prompt 1（社区议题）
+- BU Supplement: 选择Prompt 1（社区议题；据公开指南该题 2026–27 已取消，2026-11 注）
   - 开头：谈及对教育不平等的关注
   - 中间：详述自己的项目经历和具体成果
   - 结尾：表达对波士顿及全球教育议题的持续关注
@@ -324,25 +324,28 @@ BU宣布将继续保持test-optional政策至2028-2029申请季。**重点：** 
 
 | 轮次 | 截止日期 | 录取率 | 招生计划 | 建议 |
 |------|---------|--------|--------|------|
-| **ED I (Early Decision I)** | 11月1日 | 29-30% | 1,000-1,200人 | 若GPA 3.85+, SAT 1450+，且BU是genuine first choice，优先ED I |
-| **ED II (Early Decision II)** | 1月1日 | 28-29% | 500-700人 | 若2024年10-12月才准备完整申请，选ED II。流程相同 |
-| **Regular Decision (RD)** | 1月1日 | 9-10% | 5,000-6,000人 | 竞争最激烈。仅适合GPA/SAT顶级或有明确原因不能ED的申请者 |
+| **ED I (Early Decision I)** | 11月2日（2026-11 更正） | 29-30% | 1,000-1,200人 | 若GPA 3.85+, SAT 1450+，且BU是genuine first choice，优先ED I |
+| **ED II (Early Decision II)** | 1月5日（2026-11 更正） | 28-29% | 500-700人 | 若2024年10-12月才准备完整申请，选ED II。流程相同 |
+| **Regular Decision (RD)** | 1月5日（2026-11 更正） | 9-10% | 5,000-6,000人 | 竞争最激烈。仅适合GPA/SAT顶级或有明确原因不能ED的申请者 |
 | **Waitlist** | 5月1日 | 1-3% | 200-400人 | 极低。BU近年waitlist acceptance rate持续下降 |
 
-**2025-2026申请季的具体截止日期：**
-- **ED I**: 2025年11月1日
-- **ED II**: 2026年1月1日
-- **RD**: 2026年1月1日
+**2026–27 申请季的具体截止日期（2026-11 按官网 bu.edu/admissions/apply/deadlines 更正）：**
+- **ED I**: 2026年11月2日
+- **ED II**: 2027年1月5日
+- **RD**: 2027年1月5日
+- **需要申请的 merit 奖学金**：2026年12月1日，早于 ED II / RD 的 1月5日（官网原话 "Please note: some merit scholarships require you to apply by December 1."，https://www.bu.edu/admissions/apply/deadlines/ ，2026-11 更正）
+- 放榜：ED I 12月14日，ED II 2月8日（同上页）
+- 申请戏剧学院（School of Theatre）、音乐学院需另行安排试演或面试；其余专业无面试
 
 **对中国学生的建议：**
 1. 若确定BU为首选，**ED I是最佳选择**。ED录取率比RD高3倍
 2. 中国学生由于竞争激烈，硬件需要比整体平均更高（GPA 3.9+, SAT 1480+）才有RD竞争力
 3. 若参加暑期课程或访校，应在申请前完成，并在补充文书中提及
-4. 国际学生如需financialaid，BU仅向符合criteria的学生提供。建议优先ED I（financial commitment），除非特别困难
+4. BU 不给国际生 need-based 资助，只有部分 merit 奖学金对国际生开放（见下文「财务援助」）；想争取 merit 的要赶 12月1日（2026-11 更正）
 
 ---
 
-## 📝 文书题目（2025-2026最新版）
+## 📝 文书题目（2026–27 申请季；BU 官网未公布题目原文，题目原文待核，2026-11）
 
 ### Common Application Essay (650字以内)
 
@@ -359,9 +362,11 @@ BU宣布将继续保持test-optional政策至2028-2029申请季。**重点：** 
 
 ### Boston University Supplemental Essays
 
-**要求**: 1篇必答题，300字以内
+**要求**: 1篇必答题，300词以内（官网只写明须交 Common App 个人陈述 + 1 篇 BU supplemental essay，题目原文需在 Common App 账户里看）
 
-**Prompt 1 (社区/社会议题)：**
+> 注（2026-11）：BU 官网未公布题目原文。2025–26 季为下面两题二选一；公开指南称 2026–27 已取消 Prompt 1（社会议题），只剩 Prompt 2（最让你兴奋的地方 + 如何贡献校园社区），300 词以内：College Transitions（2026-08-13，"For 2026-27, that choice is gone."，https://www.collegetransitions.com/blog/boston-university-supplemental-essay-prompts/ ）、College Essay Guy 2026/2027 指南（https://www.collegeessayguy.com/blog/boston-university-supplemental-essay ）。两家转录的题干写作 "at BU"。均为非官方，动笔前务必在 Common App 账户里核对（2026-11 补来源）。
+
+**Prompt 1 (社区/社会议题；据公开指南 2026–27 已取消，待核)：**
 > "Reflect on a social or community issue that deeply resonates with you. Why is it important to you, and how have you been involved in addressing or raising awareness about it?"
 
 **翻译：** 思考一个深深触动你的社会或社区议题。为什么它对你很重要？你如何参与解决或提高对这个议题的认识？
@@ -375,7 +380,7 @@ BU宣布将继续保持test-optional政策至2028-2029申请季。**重点：** 
 
 ### Kilachand Honors College 补充文书（仅限申报者）
 
-**要求**: 1篇，300字以内。选答其中一个题目
+**要求**: 1篇，选答其中一个题目。字数：College Essay Guy 2026/2027 指南称 600 词以内（https://www.collegeessayguy.com/blog/boston-university-supplemental-essay ，非官方；官网 bu.edu/khc 未列题目与字数，题目原文待核，2026-11 更正）
 
 **Option A:**
 > "What about the Kilachand Honors College resonates with you, and how would Kilachand's curriculum fulfill your academic, creative, intellectual, and/or professional goals?"
@@ -462,6 +467,8 @@ BU宣布将继续保持test-optional政策至2028-2029申请季。**重点：** 
 ### BU Supplemental Essay案例
 
 #### **案例3a：王思宇 - Prompt 1回答**
+
+注：据公开指南，此例所答题目（社会议题）不在 2026–27 题目中（官网未公布原文，待核，2026-11）
 
 **题目回顾：** Reflect on a social or community issue that deeply resonates with you...
 
@@ -582,7 +589,7 @@ BU反复强调："Urban Research University"和"Engaged Citizens"。申请者应
 - **最晚8月底** 完成BU Supplement初稿，邀请English teacher或升学顾问反馈
 - **最晚9月中旬** 完成所有文书最终版本
 - **10月初** 填报通用申请系统，准备推荐信
-- **11月1日前提交** ED I申请
+- **11月2日前提交** ED I申请（2026-11 更正）
 
 **为什么这个时间表：**
 ED I录取率是RD的3倍（29% vs 10%）。对于硬件非顶级的申请者（GPA 3.85-3.95, SAT 1450-1480），ED I可以弥补硬件的不足。
@@ -761,21 +768,22 @@ ED I录取率是RD的3倍（29% vs 10%）。对于硬件非顶级的申请者（
 - [ ] 填报Common Application系统
 - [ ] 推荐信最终提交
 
-### **10月中旬 - 11月1日**
+### **10月中旬 - 11月2日**
 
-- [ ] ED I递交完成（BU截止：11月1日）
+- [ ] ED I递交完成（BU截止：11月2日，2026-11 更正）
 - [ ] 同时准备ED II和RD申请（其他学校）
 
-### **11月底 - 1月1日**
+### **11月底 - 1月5日**
 
+- [ ] 想争取需申请的 merit 奖学金：12月1日前递交 BU 申请（2026-11 更正）
 - [ ] 根据ED I结果调整策略
 - [ ] 准备ED II或RD申请
-- [ ] 1月1日前提交BU ED II或RD申请（如ED I未录取）
+- [ ] 1月5日前提交BU ED II或RD申请（2026-11 更正；适用于没有申 BU ED I 的学生）
 
 ### **1月-3月**
 
 - [ ] 等待招生决定
-- [ ] 参加面试（如BU通知）
+- [ ] （BU 除戏剧、音乐专业的试演/面试外不安排面试，2026-11 按官网更正）
 - [ ] 准备其他学校的campus visit或面试
 
 ### **3月 - 5月**
@@ -813,13 +821,13 @@ BU Common App中有"Additional Information"可选栏。如果你有以下情况�
 ## 💰 财务援助相关信息
 
 **BU对国际学生的财务援助政策：**
-- BU **不是** need-blind for international students
-- 但BU承诺对符合criteria的国际学生提供aid
-- 申请financial aid可能会影响录取概率（通常降低3-5%）
+- BU 不给国际生 need-based 资助，官网原话："Need-based financial aid from BU is not currently available to international students."
+- 国际生只能参评部分 merit 奖学金，官网原话："International students may be eligible for select merit scholarships offered by BU."
+- 来源：https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/ （2026-11 更正）
 
 **建议：**
-- 如果你的家庭能够负担BU费用（年度总cost: ~$80,000），建议勾选"I will not need financial aid from BU"
-- 如果必须申请，在"Additional Information"中清晰说明情况
+- 按全额自费（年度总 cost 约 $80,000）准备预算；不存在「申请 need-based 资助」这条路
+- 想争取 merit 的同学：需要申请的 merit 奖学金截止日为 12 月 1 日（https://www.bu.edu/admissions/apply/deadlines/ ），早于 ED II / RD 的 1 月 5 日；哪几项对国际生开放见上面的官方页面（2026-11 更正）
 
 ---
 
@@ -868,3 +876,12 @@ BU Common App中有"Additional Information"可选栏。如果你有以下情况�
 - [Empowerly - Class of 2029](https://empowerly.com/applications/boston-university-acceptance-rate-2029/)
 - [Ivy Scholars - BU Guide](https://www.ivyscholars.com/boston-university-guide/)
 - [Top Tier Admissions - BU Overview](https://toptieradmissions.com/resources/college-admissions-summaries/boston-university-admissions/)
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- 财务援助：「BU 承诺对国际生提供 aid」「申请资助降低录取率 3-5%」，与官网不符或无出处，已删
+- Kilachand Honors 文书字数：原写 300 字

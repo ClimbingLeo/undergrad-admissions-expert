@@ -40,7 +40,7 @@
 - 数学、物理/化学/生物、教学用语言或外语有证明
 - 最后两年平均成绩≥70%
 
-**重要提示**：中国高考（Gaokao）持有者**需要参加ETH入学考试**，无法直接录取。
+**重要提示**：中国高中毕业证持有者**需要参加ETH入学考试**，无法直接录取：有国内认可大学相近专业录取证明的考缩减考试，否则考全面考试（2026/27 录取条件 PDF，2026-11 补充）。
 
 #### 路径2：参加ETH入学考试（Chinese students通常需要）
 
@@ -55,8 +55,8 @@
 
 | 考试类型 | 适用于 | 考试科目 | 语言要求 |
 |---------|--------|---------|---------|
-| **缩减考试（Reduced）** | 资格接近Swiss Matura的学生 | 数学、物理、化学、生物 | 德语C1或更高 |
-| **全面考试（Comprehensive）** | 大部分非瑞士学生 | 数学、物理、化学、生物、德语、历史、地理 | 德语C1或更高 |
+| **缩减考试（Reduced）** | 资格接近Swiss Matura的学生 | 数学、物理、化学、生物 | 考试用德语；本科德语要求须在 3 月 31 日申请截止前满足，不能用 TOEFL/IELTS 代替（具体等级与认可证书待核（2026-11 更正）） |
+| **全面考试（Comprehensive）** | 大部分非瑞士学生 | 数学、生物、化学、物理；德语、外语、历史、地理（原漏「外语」，2026-11 按官网考试内容 PDF 更正） | 考试用德语 |
 
 **考试具体科目要求**
 - **数学**：包括微积分、线性代数、复数等
@@ -67,7 +67,7 @@
 - **历史**（全面考试）：欧洲历史重点
 - **地理**（全面考试）：自然地理、人文地理
 
-**允许工具**：仅允许使用"Formeln, Tabellen, Begriffe. Mathematik – Physik – Chemie"（2025年7月第9版）
+**允许工具**：数学、物理笔试可用指定计算器（TI-30 eco RS 或 Casio FX-82 / FX-82 Solar II）和指定公式集 "Formeln, Tabellen, Begriffe: Mathematik - Physik - Chemie"（或其英文版 "Formulae, Tables and Concepts"），公式集不得有手写内容（2026-11 按官网考试内容 PDF 更正）
 
 ### 硕士申请要求
 
@@ -138,6 +138,8 @@
 
 ### 案例1：中国大陆本科直申ETH Computer Science硕士
 
+> 注（2026-11 更正）：ESOP 不是「50% 学费减免」。官方原话："The scholarship covers the full study and living costs during the Master’s degree course."，即每学期 CHF 12'000（HS27 起 CHF 13'500）生活学习费用加免学费（[官网](https://ethz.ch/en/studies/financial/scholarships/excellencescholarship.html)）。
+
 **申请者背景**
 - 学校：北京大学计算机科学与技术专业，4年制
 - GPA：92/100（排名前3%，约3.9/4.0美制）
@@ -153,7 +155,7 @@
 
 **申请结果**
 - **录取**（2025年3月收到offer）
-- 奖学金：参加ETH Excellence Scholarship计划，获得50%学费减免（每学期1,095 CHF）
+- 奖学金：~~参加ETH Excellence Scholarship计划，获得50%学费减免（每学期1,095 CHF）~~（官方无「50% 减免」，ESOP 为全额学习生活费加免学费，见案例开头注）
 - 入学时间：2025年秋季学期
 
 **亮点分析**
@@ -180,8 +182,8 @@
 - 数学/物理竞赛：全国高中数学竞赛三等奖
 
 **申请过程**
-- 申请时间：2025年12月申请，2026年1月参加入学考试
-- 入学考试安排：2026年1月20-28日，ETH Zurich主校区
+- 申请时间：2025年12月申请，2026年1月参加入学考试（注：按官网流程，要参加 2026 年 1 月考试须在 2025 年 3 月 31 日前申请、2025 年 10 月 15 日前报名考试；此处时间线不成立，2026-11）
+- 入学考试安排：2026年1月考试周，ETH Zurich Main Building（官方为每年 1 月第 3、4 周，2026-11 更正）
 - 考试科目：全面考试（数学、物理、化学、生物、德语、历史、地理）
 - 德语证书：Goethe C1证书（89分），2025年11月考取
 - 考试准备：参加ExamPrep.ch在线备考课程（60小时）
@@ -194,13 +196,13 @@
 - 德语：92/100
 - 历史：79/100
 - 地理：81/100
-- **综合成绩：83.1/100（超过70%通过线）**
+- **综合成绩：83.1/100**（「70 分通过线」及百分制计分无官方出处，2026-11 更正）
 
 **申请结果**
 - **录取**（2026年3月收到决定）
 - 专业：Bachelor in Physics
 - 入学时间：2026年秋季学期
-- 奖学金：无（竞争极激烈）
+- 奖学金：无（2026-11 更正：原因不是「竞争激烈」。ESOP 只给硕士生，国际本科生没有资格；官方原话 "International Bachelor students may apply for financial aid after passing the first year exams (Basisprüfung)."，[官网](https://ethz.ch/students/en/studies/financial/scholarships/cost-of-living/international-students.html)）
 
 **亮点分析**
 ✅ 主要科目（数学、物理）成绩突出
@@ -217,6 +219,8 @@
 ---
 
 ### 案例3：中国硕士申请ETH MBA/工程管理类项目
+
+> 注（2026-11 更正）：没有「ETH Opportunity Programme 25% 学费减免」。Opportunity Programme 就是 ESOP 的一部分（"The Excellence Scholarship & Opportunity Programme (ESOP) supports students with a scholarship,"），待遇是全额学习加生活费用并免学费，只给硕士生（[官网](https://ethz.ch/en/studies/financial/scholarships/excellencescholarship.html)）。
 
 **申请者背景**
 - 学校：清华大学电子工程系，本科4年，GPA：3.8/4.0（89/100）
@@ -235,7 +239,7 @@
 - **录取**（2025年4月收到offer）
 - 项目学制：2年
 - 入学时间：2025年秋季学期
-- 奖学金：参评ETH Opportunity Programme，获得25%学费减免
+- 奖学金：~~参评ETH Opportunity Programme，获得25%学费减免~~（官方无此待遇，见案例开头注）
 
 **亮点分析**
 ✅ 工作经验体现实践能力（MBA项目偏好有工作经验的申请者）
@@ -307,51 +311,35 @@
 
 ### 本科申请流程（适用于中国学生）
 
-**第一步：资格评估（申请前3-6个月）**
-- 确认自己是否需要参加ETH入学考试（中国高中毕业生：**100%需要**）
-- 准备TOEFL/IELTS或德语C1证书
-- 理想准备时间：高考后立即开始
+（本节 2026-11 按 ETH 官网更正。来源：申请流程 https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/how-to-apply.html ；入学考试 https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/eth-entrance-examination.html ；2026/27 录取条件 PDF https://ethz.ch/content/dam/ethz/main/education/admission/bachelor/andere-qual/ETH-ZulassungsbedingungenHS2026_EN.pdf 。原文的主要错误：说本科可用 TOEFL/IELTS（本科教学语言是德语）；把「12 月申请、次年 1 月考试、同年秋季入学」写成一条线（实际要考试的人须提前一年多申请）；考场写成 Hönggerberg（官方是 Main Building）；全面考试漏了外语科）
 
-**第二步：语言准备（6-12个月）**
+**第一步：资格评估**
+- 中国高中毕业证（高中）：官方 2026/27 录取条件写明，持高中毕业证 + 国内认可大学所报相近专业的录取证明者考**缩减考试（Reduced）**；"Otherwise: Comprehensive Entrance Examination ETHZ"（否则考**全面考试**）
+- 是否要考、考哪种，ETH 要在收到完整申请后才判定（"We can only ascertain whether you need to sit an ETH entrance examination (reduced or comprehensive) after receiving your complete application in eApply."）
 
-| 语言 | 难度 | 准备时间 | 考试次数建议 |
-|------|------|--------|----------|
-| **德语C1** | 高 | 12-18个月 | 2-3次 |
-| **TOEFL** | 中 | 6-9个月 | 2次 |
-| **IELTS** | 中 | 6-9个月 | 2次 |
+**第二步：德语准备**
+- 官网："The main teaching language in all ETH Zurich Bachelor's degree programmes is German"，德语要求须在申请截止日（3 月 31 日）前满足；ETH 不提供语言课
+- 本科不能用 TOEFL / IELTS 代替德语（2026-11 更正）
+- 入学考试也用德语进行（"The examination is in German."）
 
-- 德语路径：高中二年级开始自学 → 高考后参加培训班（4-6个月）→ 高三/大一参加Goethe C1考试
-- 英语路径：利用现有英语基础，TOEFL/IELTS准备3-6个月
+**第三步：在线申请（eApply）**
+- 外国高中证书申请期：每年 12 月 1 日至 3 月 31 日 23:59（欧洲中部时间），只能报一个本科专业，只在秋季入学
+- 上传：照片、护照、德文 CV、高中毕业证与成绩单、语言证书等
+- **需要考试的人**：要在 2027 年秋入学，必须在 **2026 年 3 月 31 日前**申请；2027 年 1 月在 eApply 收到考试安排
+- 申请处理最长约 8 周
 
-**第三步：入学考试准备（3-6个月）**
-- 参加专业备考课程（ExamPrep.ch、在线课程）
-- 高中数学、物理、化学复习与深化
-- 模拟考试：至少做5套完整题目
-- 预期耗时：150-200小时
+**第四步：报名入学考试**
+- 报名期 9 月 15 日至 10 月 15 日（2027 入学：2026 年 10 月 15 日截止），在 eApply 刷卡缴费
+- 考试费：缩减考试 CHF 550，全面考试 CHF 800
 
-**第四步：在线申请（2025年12月-2026年3月）**
-- 登录ETH eApply系统
-- 上传：高中毕业证、成绩单、德语/英语证书、身份证件
-- 支付申请费：CHF 150
-- 申请最后期限：**2026年3月31日**
+**第五步：考试阶段（2027 年 1 月 18–28 日）**
+- 每年第 3、4 周在 ETH Zurich Main Building 举行（2026-11 更正）
+- 第一周周一至周三笔试，之后口试；个人口试时间表考前一周邮件通知
+- 缩减考试：数学、生物、化学、物理；全面考试：第 1 组数学、生物、化学、物理，第 2 组德语、外语、历史、地理（据官网考试内容 PDF）
+- 成绩在考试结束后不久公布（2026-11 更正）
 
-**第五步：考试阶段（2026年1月20-28日）**
-- ETH Zurich主校区集中考试
-- 考试地点：Zurich, Hönggerberg Campus
-- 住宿自理（建议提前2-3周预订）
-- 考试成绩：2026年3月公布
-
-**第六步：录取通知（2026年3月-4月）**
-- 通过eApply系统收到录取或拒绝
-- 录取者获得：Offer Letter + 入学通知 + 租房指南
-- 需确认是否接受（通常有2-4周时间）
-
-**第七步：入学手续（2026年7月-8月）**
-- 办理学生签证（中国学生需要）
-- 预订宿舍
-- 参加新生周活动
-- 正式注册
-- **入学时间：2026年秋季（9月中旬）**
+**第六步：入学**
+- 通过考试后 2027 年 9 月入学；办理学生签证、住宿
 
 ### 硕士申请流程
 
@@ -401,7 +389,9 @@
 
 | 申请类型 | 申请开始 | 申请截止 | 考试/面试 | 结果通知 | 入学时间 |
 |---------|--------|--------|---------|--------|--------|
-| **本科（非瑞士）** | 2025年12月 | 2026年3月31日 | 2026年1月20-28日 | 2026年3月 | 2026年秋季 |
+| **本科（非瑞士，需考试者）** | 2025年12月1日 | 2026年3月31日 | 报名考试 2026年9月15日-10月15日；考试 2027年1月18-28日 | 考试结束后不久 | 2027年秋季 |
+
+> 本科行（2026-11 更正）：官网 "You must apply by 31 March 2026 at the latest."（适用于 2027 秋入学需考试者，[官网](https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/eth-entrance-examination.html)）。按同一规则推算（非官网原话）：2026 年 12 月至 2027 年 3 月才申请且需考试的人，考试在 2028 年 1 月，最早 2028 年秋入学。
 | **硕士（国际学位）** | 2025年11月1日 | 2025年11月30日 | 2025年12月-2026年2月 | 2026年3月 | 2026年秋季 |
 | **硕士（瑞士学位）** | 2026年4月1日 | 2026年4月30日 | 2026年5月-6月 | 2026年7月 | 2026年秋季 |
 
@@ -785,7 +775,7 @@
 
 | 时期 | 任务 | 小时数 |
 |------|------|-------|
-| **第1个月** | 德语C1证书准备（或英语确认） | 100h |
+| **第1个月** | 德语证书准备（本科不能用英语成绩代替，2026-11 更正） | 100h |
 | **第2-3个月** | 数学、物理、化学复习与深化 | 120h |
 | **第4个月** | 生物、历史、地理集中学习 | 80h |
 | **第5-6个月** | 全套模拟考试 + 薄弱科目强化 | 100h |
@@ -799,6 +789,7 @@
 | **⭐⭐⭐** | 物理 | 中国学生优势科，容易高分 | 高强度，100h+ |
 | **⭐⭐** | 化学 | 难度中等，需要系统复习 | 中强度，80h |
 | **⭐⭐** | 德语 | 满分较难，但C1证书已涵盖大部分 | 中强度，60h |
+| **⭐⭐** | 外语（如英语） | 全面考试第 2 组科目，原表漏列（2026-11 补） | 中强度 |
 | **⭐** | 生物 | 难度较低，短期突击可行 | 低强度，50h |
 | **⭐** | 历史 | 最薄弱环节，但占比小 | 中强度，70h |
 | **⭐** | 地理 | 混合学科，平衡难度 | 中强度，60h |
@@ -825,28 +816,17 @@
 
 ### 考试当天与结果
 
-**考试地点**：ETH Zurich Main Building, Hönggerberg Campus
+**考试地点**：ETH Zurich Main Building（位于市中心 Zentrum，不在 Hönggerberg，2026-11 更正）
 
-**考试日期**：2026年1月20-28日（具体日期待定）
+**考试日期**：2027年1月18-28日（官网 "18–28 January 2027"，2026-11 更正）
 
-**日程安排**（典型）
-```
-第1天（周一）：数学、物理
-第2天（周二）：化学、生物
-第3天（周三）：德语、历史
-第4天（周四）：地理、备用
-```
+**日程安排**：官网写第一周周一至周三笔试，之后口试；个人口试时间表考前一周邮件通知（原「每天考哪两科」的日程无官方出处，已删，2026-11 更正）
 
-**计分与通过标准**
-- 满分：100分（各科平均）
-- 通过线：70分
-- 优秀：85分以上
-- 非常优秀：90分以上
+**计分与通过标准**：待核（2026-11 更正：旧说法无官方出处，已删）。
 
 **结果公布**
-- 预计2026年3月15日发布
+- 考试结束后不久公布（2026-11 更正）
 - 通过eApply系统查询
-- 同时收到ETH的录取或拒绝决定
 
 ---
 
@@ -860,7 +840,7 @@
 |------|------|------|
 | **入学考试成绩** | 40% | 最关键，80分以下基本无戏 |
 | **高中/高考成绩** | 20% | 参考，但入学考试权重更大 |
-| **语言证书** | 15% | C1德语或TOEFL 100+ 是基础门槛 |
+| **语言证书** | 15% | 德语要求须在 3 月 31 日前满足；本科不接受 TOEFL/IELTS 代替（2026-11 更正）。注：本表各项权重均无官方出处 |
 | **个人陈述** | 10% | 有但不决定性 |
 | **竞赛/奖项** | 10% | 数学竞赛获奖加分明显 |
 | **其他** | 5% | 国际交流、特殊背景等 |
@@ -970,7 +950,7 @@ ETH 本科官方没有任何「看重什么样的学生」的表述，只按证�
 **第一阶段（Pre-prep）：评估与规划（1-2个月）**
 1. 做一套往年真题（模拟现在的水平）
 2. 预期考试分数：____ / 100
-3. 目标分数：80分（通过线），最好85分（安全线）
+3. 目标分数：官方计分方式与通过标准待核（2026-11 更正：旧说法无出处，已删）
 4. 识别薄弱科目（通常是历史、地理、德语中的1-2个）
 
 **第二阶段（Foundation）：分科复习（3-4个月）**
@@ -1113,13 +1093,15 @@ ETH 本科官方没有任何「看重什么样的学生」的表述，只按证�
 
 | 奖学金 | 对象 | 金额 | 竞争度 | 申请时间 |
 |--------|------|------|--------|--------|
-| **Excellence Scholarship & Opportunity Programme (ESOP)** | 所有学生 | 25%-50%学费减免 | 高 | 与申请同时 |
-| **Federal Scholarships** | 特定国家（非中国） | 全额 | 极高 | 通过瑞士大使馆 |
+| **Excellence Scholarship & Opportunity Programme (ESOP)** | **只给硕士生**，本科申请人无资格："ETH Zurich supports excellent Master's students (no MAS) with the following scholarship programme:" | 全额：每学期 CHF 12'000（HS27 起 CHF 13'500）生活学习费用 + 免学费 | 高（2027/28 入学约 60 个名额） | 硕士第一申请窗口，2026-11-01 至 11-30（[官网](https://ethz.ch/en/studies/financial/scholarships/excellencescholarship.html)） |
+| **国际本科生 financial aid** | 国际本科生，须先通过第一年考试："International Bachelor students may apply for financial aid after passing the first year exams (Basisprüfung)." | 需求型资助 | — | 第一年考试通过后（[官网](https://ethz.ch/students/en/studies/financial/scholarships/cost-of-living/international-students.html)） |
+| **Swiss Government Excellence Scholarships (SGES)** | 研究者，不资助本科："Highly qualified researchers who have completed a master’s degree in any academic field"。中国**在**国家名单内（Research Fellowship） | 研究资助 | 极高 | 中国：2026-11-30 截止（[SBFI](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance)） |
 | **ETH Funds** | 特殊背景（难民等） | 变动 | 极高 | 单独申请 |
 
 **中国学生的现实**
-- ESOP奖学金对中国学生极为竞争激烈（录取率<5%）
-- 联邦奖学金（Swiss Federal Scholarships）**不适用**于中国学生
+- 本科申请人：ESOP 没有资格；入学第一年没有 ETH 的资助，需求型资助要通过 Basisprüfung 后才能申请（2026-11 更正）
+- 硕士申请人：ESOP 竞争激烈（2027/28 约 60 个名额），官方没有公布对中国学生的录取率（2026-11 更正）
+- SGES：中国在名单内，但只面向已有硕士学位的研究者，不资助本科（2026-11 更正）
 - 大部分中国学生需要自费支付学费
 
 **资金准备建议**
@@ -1181,19 +1163,20 @@ ETH 本科官方没有任何「看重什么样的学生」的表述，只按证�
 ```
 2024年：
 - 6月-9月：高考后，开始评估是否申请ETH本科
-- 9月-12月：决策确认，开始德语学习或TOEFL准备
+- 9月-12月：决策确认，开始德语学习（本科不能用 TOEFL 代替德语，2026-11 更正）
 
 2025年：
-- 1月-3月：德语B1-B2阶段强化
-- 3月-6月：德语B2-C1冲刺，准备考试
-- 6月-10月：参加Goethe C1考试
-- 11月-12月：准备入学考试（数学、物理、化学、生物重点）
+- 1月-3月：德语强化，3 月 31 日前满足德语要求并在 eApply 提交申请（申请期 2024-12-01 至 2025-03-31）
+- 9月15日-10月15日：报名入学考试并缴费
+- 11月-12月：准备入学考试
 
 2026年：
-- 1月：参加ETH入学考试（20-28日）
-- 3月：收到录取或拒绝决定
+- 1月第 3、4 周：参加ETH入学考试
+- 考试结束后不久：收到结果
 - 4月-8月：办理签证、预订宿舍
 - 9月中旬：秋季学期开始
+
+（2026-11 更正：原时间轴把德语证书放在 2025 年 6-10 月考，晚于 3 月 31 日的德语截止，且未写申请步骤。按官网，需考试者须在入学前一年多的 3 月 31 日前申请并满足德语要求。）
 ```
 
 ### 硕士申请（国际学位）时间轴
@@ -1257,8 +1240,9 @@ A：有可能，但概率<10%。ETH综合评估，GPA仍是基础门槛。科研
 - [ExamPrep.ch - 考试备考课程](https://examprep.ch/)
 
 **奖学金**
-- [ETH Excellence Scholarship](https://www.ethz.ch/en/studies/excellence-scholarship.html)
-- [Swiss Government Excellence Scholarships](https://www.eda.admin.ch/eda/en/home/topics/education/scholarships.html)
+- [ETH Excellence Scholarship & Opportunity Programme (ESOP)](https://ethz.ch/en/studies/financial/scholarships/excellencescholarship.html)（2026-11 更正：原链接 404）
+- [国际学生资助（本科须通过 Basisprüfung 后申请）](https://ethz.ch/students/en/studies/financial/scholarships/cost-of-living/international-students.html)
+- [Swiss Government Excellence Scholarships（SBFI）](https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships)（2026-11 更正：原 EDA 链接已失效）
 
 **中国学生支持**
 - ETH Student Association - China Chapter
@@ -1276,3 +1260,20 @@ A：有可能，但概率<10%。ETH综合评估，GPA仍是基础门槛。科研
 **更新频率**：建议每年10月更新，因录取标准和政策存在变化
 
 **免责声明**：本文档基于公开信息和实际案例编制，不构成官方招生指导。最新的招生政策、考试要求和deadline，请以[ETH Zurich官方网站](https://ethz.ch)为准。
+
+---
+
+## 更正记录（2026-11）
+
+正文只保留现行事实与来源。以下是 2026-11 核对时从正文移出的旧写法，**均为错误或无出处的说法，仅供核对，不可引用**。
+
+- 〔📚 学术硬件画像与资格认可〕「允许工具 ：数学、物理笔试可用指定计算器（TI 30 eco RS 或 Casi…」处：原写「仅允许使用公式集」
+- 〔🏆 申请者画像与典型案例分析〕「入学考试安排：2026年1月考试周，ETH Zurich Main Buildi…」处：原写「20-28日」
+- 〔✍️ 申请流程与时间线对比〕「本科不能用 TOEFL / IELTS 代替德语（2026 11 更正）…」处：原写「TOEFL/IELTS 或德语 C1」
+- 〔✍️ 申请流程与时间线对比〕「每年第 3、4 周在 ETH Zurich Main Building 举行（2…」处：原写 Hönggerberg Campus
+- 〔✍️ 申请流程与时间线对比〕「成绩在考试结束后不久公布（2026 11 更正）…」处：原写「3 月公布」
+- 〔🏫 本科入学考试详细说明〕「计分与通过标准 ：待核…」处：原写「满分 100、通过线 70 分」无官方出处
+- 〔🏫 本科入学考试详细说明〕「考试结束后不久公布（2026 11 更正）…」处：原写「3 月 15 日」
+- 〔💡 对中国学生的实战申请建议（5+条）〕「3. 目标分数：官方计分方式与通过标准待核…」处：原写「80 分通过线、85 分安全线」无出处
+- 〔💡 对中国学生的实战申请建议（5+条）〕「硕士申请人：ESOP 竞争激烈（2027/28 约 60 个名额），官方没有公布…」处：删除「<5%」
+- 〔💡 对中国学生的实战申请建议（5+条）〕「SGES：中国在名单内，但只面向已有硕士学位的研究者，不资助本科（2026 11…」处：原写「不适用于中国学生」

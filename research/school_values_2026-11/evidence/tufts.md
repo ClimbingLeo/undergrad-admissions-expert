@@ -35,3 +35,6 @@ Tufts, Tufts University, Jumbo, Jumbos, true-Jumbo-at-heart, the Hill, Medford, 
   - 重视公民参与：**支持**，证据最强（使命 + 三年招生主任表述）。
   - 有活力：弱支持，官方用的是 "active learners""active members of their school and local communities"（quote 10、11）这类「积极参与」的说法，不是性格上的「活力」。
   - 有点古怪（quirky）：**未找到官方支持**。官方原话里没有 quirky/古怪一类表述；这个印象很可能来自往年那组有个性的补充题，而 2026–27 的短答题已经换成「了解 Tufts 的经历 + 最喜欢的作业/项目」这种中规中矩的题。唯一沾边的是 Duck 对「钩针编织」的观察（见补充），它只是对申请池的描述。
+
+## 补充核对（2026-11-18）
+- "Tufts Admissions does not offer interviews as a component of the admissions process." — Tufts Admissions, Application FAQ, 2026 现行页面, https://admissions.tufts.edu/apply/applying-to-tufts/application-faq/

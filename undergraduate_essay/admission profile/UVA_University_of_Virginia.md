@@ -280,6 +280,8 @@
 
 ### 重大变化: UVA取消补充文书
 
+（题目原文待核，2026-11：本轮 admission.virginia.edu 返回 403 人机验证，2026–27 是否仍无补充文书、护理学院题目原文均未能在官网复核）
+
 从2025-2026申请周期开始，**UVA取消了大部分补充文书提示**。这是重大简化，目的是减轻申请负担。
 
 | 申报学院 | 补充文书要求 | 字数限制 |
@@ -710,14 +712,11 @@ to the University community."
 ### 7. 财务援助沟通(国际生特别提醒)
 
 **当前现实**:
-- UVA is "need-aware" for international students，meaning financial need会影响录取
-- 不是全部分数后考虑财务(like top LACs)
+- UVA 官网（sfs.virginia.edu、admission.virginia.edu）本次打不开，国际生资助政策待核（2026-11）。申请前请到 UVA Student Financial Services 官网确认国际生是否有资助（2026-11 更正）
 - 中国学生需要明确沟通财务expectations
 
 **建议**:
-- **在FAFSA和CSS Profile中诚实报告**:
-  - 准确填写expected family contribution
-  - 不要夸大financial difficulty也不要隐瞒
+- FAFSA 是美国联邦资助申请，只适用于美国公民和永久居民，中国籍国际生不填；是否需要 CSS Profile 以 UVA 官网核实结果为准（2026-11 更正）
 
 - **若选ED，需确保财务可行**:
   - ED是binding，需确保财务援助package可接受
@@ -809,3 +808,12 @@ to the University community."
 *本文档基于2024-2025申请周期UVA官方数据、招生官指南、真实学生案例和教育资源编制。信息可能随年份变化，建议持续关注官方渠道以获最新动态。*
 
 *对中国申请者特别说明: UVA确实欢迎国际学生，但竞争极其激烈。成功申请需要不仅仅是成绩优异，更需要展现独特个人故事、clear专业方向、以及对UVA价值观(honor code, intellectual integrity)的genuine理解（见上注）。祝申请顺利！*
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- 国际生资助：「UVA 对国际生 need-aware」，没有可核对的官方出处
+- 实战建议：「在 FAFSA 和 CSS Profile 中诚实报告」（中国籍国际生不填 FAFSA）

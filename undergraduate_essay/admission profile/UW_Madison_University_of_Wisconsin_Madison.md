@@ -178,7 +178,7 @@
 | **第一代大学生（First Gen）** | 弱-中等（+5-8%） | 约50%录取率 | 中国学生多为高学历家庭，难以利用此hook |
 | **地理多样性（Underrepresented State）** | 弱（+2-5%） | 约47%录取率 | 中国学生多来自加州、德州、纽约等热门州，此优势小 |
 | **种族多样性（URG）** | 强（+15-20%） | 约60-65%录取率 | 亚裔学生不在URG范围内。实际上亚裔学生面临slight penalty |
-| **财务需求奖学金需求者** | 弱（-5-10%） | 约40-42%录取率 | 国际生need-aware录取。需要奖学金会降低录取可能性 |
+| **财务需求奖学金需求者** | — | — | 官方没有「对国际生 need-aware」的表述，原先的加减分和录取率无出处，已删除。国际生没有联邦或州资助；主要的国际新生 need-based 奖学金 King-Morgridge 只收来自非洲、加勒比、拉美、南亚、东南亚学校的学生（"from an institution in Africa, the Caribbean, Latin America, South Asia, and Southeast Asia"，https://admissions.wisc.edu/international-scholarships/），中国学生没有资格；同页另有一次性 $1,000 的 Western Union Scholarship，金额可忽略（2026-11 更正） |
 | **杰出学术研究/竞赛** | 强（+10-15%） | 约55%录取率 | 中国学生的强项。IMO/IBO/Physics Olympiad金牌明显加分 |
 | **艺术特长（音乐/美术）** | 中等（+5-10%） | 约50-52%录取率 | 需要是state/national级别，不是单纯参加俱乐部 |
 | **创新创业** | 中等（+8-12%） | 约53%录取率 | 越来越受重视。创办企业/非营利组织有明显优势 |
@@ -208,16 +208,16 @@
 ### 申请方式选择
 UW-Madison接受两种申请方式：
 1. **Common Application** （通用申请）
-2. **UW System Application** （威斯康星系统申请）
+2. **Universities of Wisconsin Application**（原 UW System Application，威斯康星系统申请）
 
 两种方式都需要提交补充文书。
 
 ### 补充文书题目
 
-#### 题目1：个人故事（UW System Application Only）
+#### 题目1：个人故事（仅 Universities of Wisconsin Application 申请者；用 Common App 的人改写 Common App 七题之一）（2026-11 按官网 required-materials 页核对，系统申请现名 Universities of Wisconsin Application）
 **题目：** Each student is unique. Please tell us about the particular life experiences, talents, commitments, and/or interests you will bring to our campus.
 
-**字数限制：** 650字，建议300-500字
+**字数限制：** 650字，建议300-500字（官网 required-materials 页未列字数，字数待核，2026-11）
 
 **题目分析：**
 - 这个题目要求申请者展现个人独特性
@@ -229,7 +229,7 @@ UW-Madison接受两种申请方式：
 #### 题目2：为什么选择UW麦迪逊（所有申请者必答）
 **题目：** Tell us why you would like to attend the University of Wisconsin–Madison. In addition, please include why you are interested in studying the major(s) you have selected. If you selected undecided, please describe your areas of possible academic interest.
 
-**字数限制：** 650字，建议300-500字
+**字数限制：** 650字，建议300-500字（官网 required-materials 页未列字数，字数待核，2026-11）
 
 **题目分解：**
 - **Part A：** 为什么选择UW Madison（学校层面）

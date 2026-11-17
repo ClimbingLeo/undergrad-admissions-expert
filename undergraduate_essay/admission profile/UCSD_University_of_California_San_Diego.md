@@ -171,6 +171,8 @@ UCSD采用综合评审制度，强调"depth over breadth"（深度而非广度�
 
 ### 案例3：国际生理科型+ 社区贡献（已录取）
 
+> 注：本案例结果写国际生「因社区贡献获得部分奖学金」，与 UCSD 官网不符之处：Regents 奖学金只给 "United States citizens, permanent residents, or California Dream Act students"（https://fas.ucsd.edu/types/scholarships/regents-scholarships-for-entering-freshmen.html），国际生没有资格；Triton Scholars Award 面向 non-resident 新生（"The Triton Scholars Award is a renewable scholarship for incoming first-year non-resident students"，https://fas.ucsd.edu/types/scholarships/entering-freshmen.html），通过 UC 申请自动参评；官网没有写明 non-resident 是否包含国际生，待核（2026-11 更正）。
+
 **基础数据：**
 - GPA：4.12/4.0（加权）、3.92/4.0（非加权）
 - 核心课程：数学、物理、化学全A，英语A-
@@ -255,16 +257,18 @@ UCSD使用UC系统统一的8道PIQ，申请者必须选择其中4道来回答，
 
 ### 8道PIQ题目
 
-| 题号 | 题目 | 字数限制 | 重点考查 |
-| --- | --- | --- | --- |
-| 1 | 描述一次你展现领导力、积极影响他人、解决争端或为团队做出贡献的经历。 | 350词 | 领导力、团队合作、影响力 |
-| 2 | 每个人都有创意的一面，包括问题解决、创新思维、艺术表达等。描述你如何表达自己的创意。 | 350词 | 创意、原创性、自我表达 |
-| 3 | 什么是你最大的天赋或技能？你如何发展并展现过这一天赋？ | 350词 | 天赋、发展历程、具体体现 |
-| 4 | 描述你如何利用过一个重要的教育机会，或如何克服过一个教育障碍。 | 350词 | 主动性、克服困难、学习成长 |
-| 5 | 描述你经历过的最大挑战、采取的克服步骤，以及这如何影响了你的学业成就。 | 350词 | 韧性、反思、成长 |
-| 6 | 思考一个你持有的价值观或观点。这个观点如何塑造你的价值观或行为？ | 350词 | 价值观、自我意识、道德思考 |
-| 7 | 用你想要的任何方式描述一个社区——它可以是你的邻里社区、学校社区或任何其他社区。你对这个社区的贡献是什么？ | 350词 | 社区意识、贡献、归属感 |
-| 8 | 从你的角度，什么是一个重要的话题或想法，值得讨论？为什么这个议题对你重要？ | 350词 | 思辨能力、社会意识、热情 |
+> 以下 8 题为 UC 官网原文（2026-11 按官网更正；来源：[UC Admissions – Personal insight questions](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/personal-insight-questions.html)）。8 选 4，每题最多 350 词；官网说明 "All questions are equal. All are given equal consideration in the application review process, which means there is no advantage or disadvantage to choosing certain questions over others."
+
+1. **领导力**：Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes or contributed to group efforts over time.
+2. **创意**：Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+3. **天赋或技能**：What would you say is your greatest talent or skill? How have you developed and demonstrated that talent over time?
+4. **教育机会或障碍**：Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.
+5. **最大挑战**：Describe the most significant challenge you have faced and the steps you have taken to overcome this challenge. How has this challenge affected your academic achievement?
+6. **学科兴趣**：Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.
+7. **学校或社区**：What have you done to make your school or your community a better place?
+8. **其他优势**：Beyond what has already been shared in your application, what do you believe makes you a strong candidate for admissions to the University of California?
+
+（2026-11 更正：本节旧表格的第 6、7、8 题「价值观」「描述一个社区」「值得讨论的话题」均不是 UC 现行题目。）
 
 ### 选题策略
 
@@ -277,7 +281,7 @@ UCSD使用UC系统统一的8道PIQ，申请者必须选择其中4道来回答，
    - 目的：展现学术卓越、学习热情、克服困难的能力
 
 2. **创意型/文科型学生**
-   - 选题建议：2（创意）+ 7（社区贡献）+ 6（价值观）+ 1（或5，视具体经历）
+   - 选题建议：2（创意）+ 7（学校或社区）+ 6（学科兴趣）+ 1（或5，视具体经历）
    - 目的：展现原创性、社会意识、深度思考
 
 3. **社区领袖型学生**
@@ -285,7 +289,7 @@ UCSD使用UC系统统一的8道PIQ，申请者必须选择其中4道来回答，
    - 目的：展现影响力、社会责任感、克服逆境
 
 4. **全面发展型学生**
-   - 选题建议：1（领导）+ 3（天赋）+ 5（挑战）+ 6（价值观）或7（社区）
+   - 选题建议：1（领导）+ 3（天赋）+ 5（挑战）+ 6（学科兴趣）或7（学校或社区）
    - 目的：展现多维度能力和深层自我认识
 
 ---
@@ -400,6 +404,8 @@ UCSD使用UC系统统一的8道PIQ，申请者必须选择其中4道来回答，
 ---
 
 ### 文书 #3：Prompt 5 - 挑战：语言障碍到学术领导者
+
+> 注：本范例结果写国际生「UCSD + Merit 奖学金」，与 UCSD 官网不符之处：Regents 奖学金只给 "United States citizens, permanent residents, or California Dream Act students"（https://fas.ucsd.edu/types/scholarships/regents-scholarships-for-entering-freshmen.html），国际生没有资格；Triton Scholars Award 面向 non-resident 新生（"The Triton Scholars Award is a renewable scholarship for incoming first-year non-resident students"，https://fas.ucsd.edu/types/scholarships/entering-freshmen.html），通过 UC 申请自动参评；官网没有写明 non-resident 是否包含国际生，待核（2026-11 更正）。
 
 **背景申请者信息：**
 - 申请者：来自非英语国家的国际学生，初中才开始学英语
@@ -655,10 +661,10 @@ UCSD使用UC系统统一的8道PIQ，申请者必须选择其中4道来回答，
 - 然后选择能**补充而非重复**这些信息的PIQ：
   - 如果你的EC强调竞赛成功，选择Prompt 5（挑战）来讲述你如何处理失败
   - 如果你的EC强调学术，选择Prompt 2（创意）来展现你的艺术或创意一面
-  - 如果你的EC强调领导，选择Prompt 6（价值观）来深入讨论你的哲学思考
+  - 如果你的EC强调领导，可选 Prompt 3（天赋或技能）或 Prompt 8（其他优势）补充活动列表里看不到的一面（2026-11 更正：UC 没有「价值观」题）
 - **案例：**
   - **重复（浪费）：** 在Prompt 1中讲述你是学生会主席（已在EC中列明）
-  - **补充（有效）：** 在Prompt 6中讲述你的领导哲学，为什么你相信"以他人为中心"的领导
+  - **补充（有效）：** 在 Prompt 1 中讲一次具体的协调或化解分歧，而不是复述头衔
 
 **为什么有效：**
 - 让招生官获得新的信息，加深对你的理解

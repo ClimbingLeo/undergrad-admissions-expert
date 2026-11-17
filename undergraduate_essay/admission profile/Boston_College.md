@@ -216,8 +216,8 @@ BC极其重视EC的质量而非数量，录取办公室明确倡导"做深而非
 | 轮次 | 截止日期 | 录取率 | 申请量 | 建议 |
 |------|---------|-------|-------|------|
 | **ED I** | 11月1日 | ~31% | 约1/3申请量 | ⭐⭐⭐⭐⭐ 强烈建议。若BC是首选校，ED I最优。录取率3倍于RD。需确保11月1日前完成申请所有步骤。 |
-| **ED II** | 1月15日 | ~31% | 约1/3申请量 | ⭐⭐⭐⭐ 次优选择。给予更多时间完善申请，但录取率与ED I相同。适合1月才能确认BC为首选的学生。 |
-| **RD** | 1月15日 | ~11% | 约1/3申请量 | ⭐⭐ 不推荐作为首选策略。录取率仅为ED的1/3。仅当：(1)还在考虑多所学校；(2)需要完整经济援助信息后决策。 |
+| **ED II** | 1月4日（2026-11 按官网更正） | ~31% | 约1/3申请量 | ⭐⭐⭐⭐ 次优选择。给予更多时间完善申请，但录取率与ED I相同。适合1月才能确认BC为首选的学生。 |
+| **RD** | 1月4日（2026-11 按官网更正） | ~11% | 约1/3申请量 | ⭐⭐ 不推荐作为首选策略。录取率仅为ED的1/3。仅当：(1)还在考虑多所学校；(2)需要完整经济援助信息后决策。 |
 | **Transfer** | Spring/Fall | ~15-20% | 极少 | 不适用高中学生。BC transfer录取极其有限。 |
 
 **申请时间表关键点：**
@@ -225,17 +225,17 @@ BC极其重视EC的质量而非数量，录取办公室明确倡导"做深而非
 - **10月上旬：** 提交推荐信/中英文成绩单给recommenders和学校
 - **10月中旬：** 完成draft essay，送给老师/顾问review
 - **10月25日前：** 最后期限提交ED I（留出5天buffer给technical issue）
-- **11月初：** ED I decision出炉（通常11月中旬）
-- **12月中旬：** 开始准备ED II essays（如果ED I未出结果但想保留选项）
-- **1月10日前：** 完成所有ED II材料提交
-- **1月底：** ED II decision
-- **3月中下旬：** RD decision出炉
+- **12月15日：** ED I 放榜（2026-11 更正，https://www.bc.edu/content/bc-web/admission/apply.html ）
+- **12月中旬：** ED I 结果出来后，决定是否在别校走 ED II / RD
+- **1月4日前：** 完成所有ED II材料提交（2026-11 按官网更正）
+- **2月15日：** ED II 放榜（2026-11 更正，同上页）
+- **4月1日：** RD 放榜（2026-11 更正，同上页）
 
 ---
 
-## 📝 文书题目（2025-2026最新版）
+## 📝 文书题目（2026–27 申请季）
 
-BC要求**1篇补充小文书**，共400字。除非申请Human-Centered Engineering (HCE)专业，否则必须从以下4个题目中**任选其一**。
+BC要求**1篇补充小文书**，400词以内。除非申请Human-Centered Engineering (HCE)专业，否则必须从以下4个题目中**任选其一**；HCE 申请者改答第 5 题。（2026-11 按官网 bc.edu/admission/apply「Supplemental Questions 2026-27」核对，题目与 2025–26 相同）
 
 ### 题目选项
 
@@ -243,7 +243,7 @@ BC要求**1篇补充小文书**，共400字。除非申请Human-Centered Enginee
 
 *Strong communities are sustained by traditions. Boston College's annual calendar is marked with both long-standing and newer traditions that help shape our community. Tell us about a meaningful tradition in your family or community. Why is it important to you, and how does it bring people together or strengthen the bonds of those who participate?*
 
-**字数限制：** 400字
+**字数限制：** 400词
 **核心关键词：** tradition, community, bonds, meaning
 
 **审题指南：**
@@ -254,9 +254,11 @@ BC要求**1篇补充小文书**，共400字。除非申请Human-Centered Enginee
 
 #### **Option 2: Meaningful Conversation（有意义的对话）**
 
-*Who has been your most meaningful conversation partner, and what profound questions have you considered together?*
+*The late BC theology professor, Father Michael Himes, argued that a university is not a place to which you go, but instead, a 'rigorous and sustained conversation about the great questions of human existence, among the widest possible circle of the best possible conversation partners.' Who has been your most meaningful conversation partner, and what profound questions have you considered together?*
 
-**字数限制：** 400字
+> 注：题干引语 2026-11 按官网更正补全。
+
+**字数限制：** 400词
 **核心关键词：** conversation, profound questions, dialogue, growth
 
 **审题指南：**
@@ -267,9 +269,11 @@ BC要求**1篇补充小文书**，共400字。除非申请Human-Centered Enginee
 
 #### **Option 3: Single Story（被单一故事定义）**
 
-*Discuss a time when someone defined you by a single story. What challenges did this present and how did you overcome them?*
+*In her July 2009 Ted Talk, 'The Danger of a Single Story,' Chimamanda Ngozi Adichie warned viewers against assigning people a 'single story' through assumptions about their nationality, appearance, or background. Discuss a time when someone defined you by a single story. What challenges did this present and how did you overcome them?*
 
-**字数限制：** 400字
+> 注：题干引语 2026-11 按官网更正补全。
+
+**字数限制：** 400词
 **核心关键词：** stereotype, identity, resilience, complexity
 
 **审题指南：**
@@ -282,7 +286,7 @@ BC要求**1篇补充小文书**，共400字。除非申请Human-Centered Enginee
 
 *Boston College's Jesuit mission highlights "the three Be's": be attentive, be reflective, be loving – core to Jesuit education. If you could add a fourth "Be," what would it be and why? How would this new value support your personal development and enrich the BC community?*
 
-**字数限制：** 400字
+**字数限制：** 400词
 **核心关键词：** Jesuit values, community, virtue, personal growth
 
 **审题指南：**
@@ -298,7 +302,7 @@ BC要求**1篇补充小文书**，共400字。除非申请Human-Centered Enginee
 
 *One goal of a Jesuit education is to prepare students to serve the Common Good. Human-Centered Engineering at Boston College integrates technical knowledge, creativity, and a humanistic perspective to address societal challenges and opportunities. What societal problems are important to you and how will you use your HCE education to solve them?*
 
-**字数限制：** 400字
+**字数限制：** 400词
 **核心关键词：** social problem, technical solution, humanistic approach, common good
 
 **审题指南：**
@@ -514,7 +518,7 @@ Instead of abstract "I resisted stereotype," a stronger version would:
 
 #### **6. One Key Moment > Multiple Vignettes（一个关键moment > 多个片段）**
 
-**规律：** 虽然essay长度短（400字），但structure应该围绕ONE clear moment或insight。太多例子会dilute impact。
+**规律：** 虽然essay长度短（400词），但structure应该围绕ONE clear moment或insight。太多例子会dilute impact。
 
 **对比例子：**
 
@@ -530,7 +534,7 @@ Instead of abstract "I resisted stereotype," a stronger version would:
 
 **现象：** 中国学生常用essay space to explain Chinese culture/educational system to American reader。
 
-**问题：** Takes up precious 400字，而且BC admissions officer不需要你教他们什么是gaokao。
+**问题：** Takes up precious 400词，而且BC admissions officer不需要你教他们什么是gaokao。
 
 **例子：**
 
@@ -617,9 +621,11 @@ Instead of abstract "I resisted stereotype," a stronger version would:
 | 如果你... | 建议 |
 |----------|------|
 | BC是明确的top choice，无论financial aid | **ED I（11月1日）** |
-| BC是top choice但想看其他学校的financial aid再决策 | **ED II（1月15日）** |
+| 到 1 月才确定 BC 是首选 | **ED II（1月4日，binding）**（2026-11 更正：ED II 同样有约束力，不能先看别校 aid 再决定） |
 | 还在考虑BC vs其他top schools | **RD** |
-| 需要对比multiple schools的financial aid package | **RD** |
+| 需要对比multiple schools的financial aid package（仅适用于美国公民/永久居民） | **RD** |
+
+> 中国学生注意：BC 不给非美国公民/永久居民 need-based 资助（"Boston College is unable to provide need-based financial aid to students who are not U.S. citizens or U.S. permanent residents."，https://bc.edu/bc-web/admission/affordability.html），所以表中「比较 aid package」两行对中国籍学生不适用（2026-11 更正）。
 
 **为中国学生特别提示：**
 - 中国学生有时over-apply（同时申请15-20所学校）。但ED对中国家庭特别有利，因为能清楚表达commitment
@@ -730,7 +736,7 @@ Activity 3: School Newspaper (2年)
 - 不要aim for perfect。Aim for getting words on page
 - Write in your natural voice，even if slightly informal
 - Include specific scene/dialogue，not summary
-- Aim for 350-400字（不要short）
+- Aim for 350-400词（不要short）
 
 #### **Step 4：Revision（3-5天）**
 
@@ -757,7 +763,7 @@ Activity 3: School Newspaper (2年)
 **核心原则：** 不是荣誉榜单，而是insight into character
 
 **选谁：**
-- BC要求：任何2个recommender（无要求必须teacher，但通常是）
+- BC要求：2封任课老师推荐（teacher evaluations），官网建议来自English、Social Studies、Science、Math或Foreign Language老师；另需升学顾问的School Report与推荐（2026-11 按官网更正）
 - **建议选：**
   - 一个academic teacher who knows your intellectual curiosity（English或stem）
   - 一个teacher/mentor who sees你的character和values（可以是EC advisor或另一个academic teacher）
@@ -788,13 +794,13 @@ Activity 3: School Newspaper (2年)
 | **9月中下旬** | Essay第一稿；SAT/ACT prep finalization；英文成绩单和推荐信传递给recommenders | 高 |
 | **10月上旬** | Essay revised draft；请trusted reader feedback；准备official transcripts | 高 |
 | **10月中旬** | Final essay version complete；确认所有official documents提交（transcript, scores, recommendations）；Review entire application | 高 |
-| **10月25日前** | **ED I Submission deadline** | ⭐⭐⭐ |
-| **11月中旬** | ED I decision announcement；如果deferred，开始准备ED II application refinement | 中 |
-| **12月中旬-1月上旬** | Final touchup on RD application；consider ED II if not decided in ED I | 中 |
-| **1月10日前** | **ED II Submission deadline** | ⭐⭐⭐ |
-| **1月中旬** | ED II decision；prepare final RD materials if applying | 中 |
-| **1月15日** | **RD Submission deadline** | ⭐⭐⭐ |
-| **3月中下旬** | RD decision day；compare multiple school offers | 中 |
+| **10月25日前** | **ED I 自设提交日**（官方截止 11月1日，留 buffer） | ⭐⭐⭐ |
+| **12月15日** | ED I 放榜（2026-11 更正） | 中 |
+| **12月中旬-1月上旬** | Final touchup on RD application；ED I 未申 BC 的，可考虑 BC ED II | 中 |
+| **1月4日前** | **ED II Submission deadline**（2026-11 按官网更正） | ⭐⭐⭐ |
+| **1月4日** | **RD Submission deadline**（2026-11 按官网更正） | ⭐⭐⭐ |
+| **2月15日** | ED II 放榜（2026-11 更正） | 中 |
+| **4月1日** | RD 放榜；compare multiple school offers（2026-11 更正） | 中 |
 
 **Critical dates marked with ⭐**
 
@@ -867,7 +873,7 @@ Activity 3: School Newspaper (2年)
 - ☐ BC supplement shows understanding of BC values（Jesuit mission）
 
 **提交：**
-- ☐ Application submitted by ED I deadline（11月1日）or ED II（1月15日）or RD（1月15日）
+- ☐ Application submitted by ED I deadline（11月1日）or ED II（1月4日）or RD（1月4日）
 - ☐ Common App portal confirms receipt of all components
 - ☐ Follow up with school counselor to ensure transcript/rec letters submitted
 - ☐ Check BC applicant portal 24-48小时后，confirm all materials received

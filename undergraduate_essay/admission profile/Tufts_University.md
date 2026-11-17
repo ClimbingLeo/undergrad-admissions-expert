@@ -118,6 +118,8 @@ Tufts不仅看GPA数字，更看重**课程难度**：
 
 #### 案例2：人文社科全能者——Maya（加州优质公校）
 
+> 注：结果里的「全额奖学金」措辞与官网不符。Tufts 本科没有 merit 奖学金（"The university does not offer any merit-based scholarships to undergraduate students."，https://admissions.tufts.edu/tuition-and-aid/applying-for-aid/international-student-aid/），这里只能理解为按家庭需求给的全额 need-based 资助（2026-11 更正）。
+
 **硬件条件**：
 - GPA：3.95/4.0
 - SAT：1510（M 750, EBRW 760）
@@ -229,320 +231,63 @@ Tufts不仅看GPA数字，更看重**课程难度**：
 
 | 轮次 | 截止日期 | 录取率 | 人数 | 建议 |
 |-----|---------|-------|------|------|
-| **ED1（提前决定1）** | 11月1日 | 38-45% | ~1,200人 | 对Tufts有绝对把握且ED1不会后悔的学生；国际学生需要确认经济援助可行 |
-| **ED2（提前决定2）** | 1月1日 | 35-40% | ~800人 | 最聪明的选择：有时间充分准备文书，ED优势仍保留，相对竞争少于ED1 |
-| **RD（常规录取）** | 1月1日 | 11% | ~1,600人 | 不确定Tufts或需要比较多所学校的学生；国际学生避免此轮如有可能 |
-| **Test-Optional截止** | 1月1日 | — | — | 如果提交标准化成绩，录取率会有边际提升；不提交成绩需要其他硬件（如研究论文）补偿 |
+| **ED1（提前决定1）** | 11月2日（2026-11 按官网更正） | 38-45% | ~1,200人 | 对Tufts有绝对把握且ED1不会后悔的学生；国际学生需要确认经济援助可行 |
+| **ED2（提前决定2）** | 1月4日（2026-11 按官网更正） | 35-40% | ~800人 | 最聪明的选择：有时间充分准备文书，ED优势仍保留，相对竞争少于ED1 |
+| **RD（常规录取）** | 1月4日（2026-11 按官网更正） | 11% | ~1,600人 | 不确定Tufts或需要比较多所学校的学生；国际学生避免此轮如有可能 |
+| **Test-Optional截止** | 1月4日 | — | — | 如果提交标准化成绩，录取率会有边际提升；不提交成绩需要其他硬件（如研究论文）补偿 |
 
 ### 时机策略建议
 
 1. **ED1 vs ED2决策**：
    - 如果9月前SAT/GPA已达到1480+/3.9+，且对Tufts真心热爱，ED1可行
-   - 否则，ED2是黄金时机：11月初开始集中冲刺文书，12月中完成，赶上1月1日截止
+   - 否则，ED2是黄金时机：11月初开始集中冲刺文书，12月中完成，赶上1月4日截止
    - ED2相对冷门原因：很多优秀生已在ED1结束了，或者对ED的绑定性有疑虑
 
 2. **RD的隐藏成本**：
    - 整体录取率10.5%，但RD仅11%意味着RD的绝对数字很小
    - 如果走RD，建议同时申请5-8所其他T20学校做保险
-   - RD的"晚申请者"劣势：招生官审美疲劳，且好的宿舍、奖学金名额已被ED生占据
+   - RD的"晚申请者"劣势：招生官审美疲劳。Tufts 本科没有 merit 奖学金（"The university does not offer any merit-based scholarships to undergraduate students."，https://admissions.tufts.edu/tuition-and-aid/applying-for-aid/international-student-aid/）（2026-11 更正）
 
 3. **国际学生特别考虑**：
-   - Tufts对国际学生的Need-Blind政策有限：虽然承诺满足需求，但实际奖学金金额较少
-   - 如果需要高额奖学金，ED1/ED2反而是优势（因为提前承诺招生官更倾向于录取）
+   - Tufts 对录取学生满足 100% 已证明需求，不分国籍："Tufts proudly meets 100% of the demonstrated financial need of every admitted student, regardless of citizenship."；没有 merit 奖学金（https://admissions.tufts.edu/tuition-and-aid/applying-for-aid/international-student-aid/）
+   - 国际生必须在申请时就申请资助，否则以后不能再申请："Financial aid is not available to international students who do not request aid at the time of application."（https://admissions.tufts.edu/tuition-and-aid/applying-for-aid/international-student-aid/）
+   - 国际生资助总额有限（"the University makes available a limited amount of funding for talented international students."，https://admissions.tufts.edu/apply/international-students/faqs/）；官方承诺的是满足每位录取生的 100% 需求，没有按 ED/RD 轮次区分额度的说法（2026-11 更正）
+   - （2026-11 更正）Tufts 对国际生不是 need-blind（见 Hooks 表）。官方资助页未写明申请资助对录取的影响，只说国际生资助总额有限。需要资助的国际生应把 Tufts 当作 need-aware 学校来排选校表（官方措辞待核）
    - 国际生应在11月中旬前完成所有申请准备，为ED1或ED2冲刺
 
 ---
 
-## 📝 文书题目（2025-2026最新版）
+## 📝 文书题目（2026–27 申请季）
 
-### 主文书（通用）
+> 2026-11 按官网更正（来源 https://admissions.tufts.edu/apply/essay-questions/ ）。往年题目及针对往年题目的解析已删除。
 
-**题目**："I am applying to Tufts because…"
-**字数限制**：250字以内
+### 主文书
 
-**官方指南**：这是你展示对Tufts的理解与契合度的唯一通用文书。不应该是"我想上大学"，而是"我想上**Tufts**"。
+Common App（或 Coalition）主文书，650 词以内。
 
----
+### 补充短答（2 题必答，第 2 题按申请学院不同）
 
-### 补充文书（School-Specific）
+**短答 1（所有申请者，75–150 词）**："Please describe how you have learned about and engaged with Tufts during your college search process (75-150 words)."
 
-#### 文理学院 / 工程学院 申请者（二选一/三选一）
+**短答 2（100–200 词，按学院）**
+- **文理学院（School of Arts and Sciences）**："Tell us about one of your favorite school assignments in the past two years. What was the assignment and why did you enjoy it?"
+- **工程学院（School of Engineering）**："Tell us about an engineering or science-related project that you have helped build, design, create, or iterate in the past two years. What was the project and what was your role?"
+- **SMFA 美术学士（BFA）**："Tell us more about a specific piece in your portfolio. What were the ideas you intended to explore, and how did those ideas inform the process of making the piece?"
+- **SMFA 联合学位（BFA+BA/BS）**："Tell us more about a specific piece in your portfolio. How did an academic course, project, or interest inspire the ideas that you explored in this piece? Or, how did making this piece influence your academic interests?"
 
-**Option A**："It's cool to love learning. What excites your intellectual curiosity and why?"
-字数：200-250字
-
-**Option B**："How have the environments or experiences of your upbringing – your family, home, neighborhood, or community – shaped the person you are today?"
-字数：200-250字
-
-**Option C**："Using a specific example or two, tell us about a way that you contributed to building a collaborative and/or inclusive community."
-字数：200-250字
-
-#### 美术与设计学院（SMFA）申请者
-
-**题目**："Art has the power to disrupt our preconceptions, shape public discourse, and imagine new ways of being in the world. What are the ideas you'd like to explore in your work?"
-字数：200-250字
-
----
-
-### 深度解析：Tufts著名的"为什么Tufts"题目
-
-#### 题目难度等级：⭐⭐⭐⭐⭐（5星最难）
-
-**为什么这题这么难？**
-
-1. **字数极限**：250字以内意味着平均每个概念只能展开5-10句话。与其他大学的"Why School"题通常是500字相比，Tufts的要求是字数的一半、深度的两倍。
-
-2. **双向证明**：Tufts想看到两个论证同时成立：
-   - "Why Tufts for you"：Tufts的什么特征吸引你？
-   - "Why you for Tufts"：你为什么是Tufts需要的学生？
-   - 大多数学生只做了第一个，忽视了第二个
-
-3. **"Cool to love learning"的内核**：Tufts强调"求知欲"而不是"功利性"
-   - ❌ 错误：因为Tufts排名高、工作前景好
-   - ✅ 正确：因为Tufts有某个独特的学术环境、教授、课程、或者学生文化，与我的求知方式匹配
-
-#### 常见错误样本（反面教材）
-
-**错误1：只说学校，不说自己**
-```
-"I am applying to Tufts because the university has a strong engineering program, beautiful
-campus in Medford, and great alumni network in tech companies. The school's reputation
-for innovation attracts me."
-```
-⚠️ 问题：这段话可以复制粘贴到任何Top 20学校。Tufts看不到你为什么选择**Tufts而不是MIT、NYU或CMU**。
-
-**错误2：只说自己，不说学校**
-```
-"I am applying to Tufts because I love computer science and want to build products that
-change the world. I have been coding since 8th grade and have won programming competitions."
-```
-⚠️ 问题：完全没有提到Tufts。这段话说你为什么学CS，不是说为什么选Tufts。
-
-**错误3：通用陈述句**
-```
-"I am drawn to Tufts' commitment to interdisciplinary learning and community engagement."
-```
-⚠️ 问题：所有top大学都说自己"interdisciplinary"和"community-engaged"。这不具有区分性。
-
-**错误4：事实错误**
-```
-"I dream of studying under the award-winning professor Dr. Smith in Tufts' renowned
-nanotechnology lab."
-```
-⚠️ 问题：如果Dr. Smith不在Tufts、或者Tufts没有nanotechnology lab这样的专项，招生官会感觉你没做功课。
-
----
-
-#### 成功样本分析（正面教材）
-
-**成功案例A：跨学科整合的叙述**
-```
-"I am applying to Tufts because it's one of the few schools where I can simultaneously study
-biomedical engineering, public health policy, AND ethics—the intersection that fascinates me most.
-Your '1+4' curriculum structure intrigues me specifically: how can I leverage a double degree
-to design medical devices that are not just technically advanced but also affordable for
-communities in the Global South? I've spent two summers in rural clinics seeing how innovation
-without cultural sensitivity creates waste; Tufts' location near Boston's leading hospitals
-and your emphasis on 'active citizenship' suggest I could turn this insight into action."
-```
-
-✅ **为什么这个成功**：
-- 提名了Tufts特有的"1+4"双学位项目（不是通用的）
-- 说明了跨学科的理由，而不仅是"我喜欢很多东西"
-- 连接了个人经历（Global South的临床经验）与学校的资源
-- 暗示了"Active Citizenship"这个Tufts核心价值观，说明做过研究
-- 字数精准：约180字
-
----
-
-**成功案例B：社会责任导向**
-```
-"I am applying to Tufts because I need a school that treats community engagement as
-fundamental, not optional. Your Tisch College explicitly exists to train leaders in
-civic participation—not as an add-on, but as central to the undergraduate experience.
-After starting a peer-mentoring program for first-generation students at my school,
-I realized my passion isn't just academic achievement, but creating systems where
-others can achieve too. Tufts' emphasis on 'being active citizens' resonates with this
-vision in ways Princeton's or Harvard's 'civic engagement' language doesn't quite capture."
-```
-
-✅ **为什么这个成功**：
-- 精确指名Tisch College（显示具体研究）
-- 区分了Tufts与竞争校的差异（而非泛泛赞美）
-- 自己的项目（peer mentoring）与学校价值对齐
-- 体现了"meta-awareness"：你理解学校想要什么样的学生
-
----
-
-**成功案例C：学术兴趣具体化**
-```
-"I am applying to Tufts because I want to study how identity shapes scientific inquiry—
-a question most STEM programs treat as 'outside the curriculum.' Your recent hiring of
-Dr. Jennifer Light, who works on the history of computing and diversity in tech, suggests
-Tufts is building space for exactly this conversation. As a Chinese female student planning
-to major in computer science, I want to explore: how does my identity shape the problems
-I see as 'worth solving'? Tufts' experimental '5-college' partnerships and flexibility
-to take courses across liberal arts and engineering makes this intellectual risk-taking possible."
-```
-
-✅ **为什么这个成功**：
-- 名字+研究方向（Dr. Jennifer Light）非常具体
-- 连接了个人身份与学术问题
-- "5-college partnerships"体现对学校系统的了解
-- 说明了为什么**其他学校**不能满足这个需求
-- 字数恰到好处：约170字
-
----
-
-#### "为什么Tufts"题目的通用写作公式
-
-```
-第1段（2-3句，40字）：
-We need X + Tufts offers X in a unique way （具体提名一个资源）
-
-第2段（3-4句，60字）：
-Personal connection: 你的背景/兴趣/经历如何与这个X相连
-
-第3段（2-3句，40字）：
-Why Tufts over competitors: 哪个竞争校**没有**这个特征？为什么你不选它们？
-
-第4段（1-2句，30字）：
-Forward-looking: 你将如何利用这个资源？成果是什么？
-```
-
-**实际字数分配**：170字（留20字作为缓冲）
-
----
-
-### 其他补充文书的深度指导
-
-#### "It's cool to love learning. What excites your intellectual curiosity and why?"（Option A）
-
-**题目潜台词**：Tufts想看到的是"lens collector"——一个对世界永远好奇、总是问"为什么"的人。
-
-**容易犯的错误**：
-- ❌ 列举多个兴趣：生物、经济、艺术…（显得泛泛）
-- ❌ 只讲兴趣本身，不讲"为什么这个特别"
-- ❌ 模仿网络例子：疾病、加密学等"显然聪明"的题目，但描述很生硬
-
-**成功的方向**：
-- ✅ 从一个具体观察（观看、阅读、经历）开始
-- ✅ 展示"兔子洞式"的深度探索
-- ✅ 解释这个好奇心如何影响你看待世界的方式
-
-**样本**：
-```
-"Mushrooms. Not the academic study of them, but the question: how can an organism
-survive by breaking down death? This sparked during a neighborhood walk when I found
-a fungal bloom on a dead log. Six months later, I'd read 15 papers on decomposition ecology,
-learned to identify 40 species of fungi, started a citizen science project documenting
-local fungi, and dragged my reluctant friends on foraging walks. What started as 'cool
-organism' became a lens for understanding resilience, nutrient cycling, and the hidden
-architecture of ecosystems. Now I can't unsee it: fungi are everywhere, solving problems
-silently. At Tufts, I want to channel this obsessive curiosity into environmental biology
-research, ideally in a lab studying fungal roles in climate adaptation."
-```
-
-✅ **为什么成功**：
-- 开篇新颖：不是"我喜欢生物学"，而是一个具体对象
-- 有故事弧线：观察→研究→项目→发现意义→未来方向
-- 量化探索：15篇论文、40个物种、citizen science项目
-- 展示了"lens collector"心态：如何改变了世界观
-- 链接到申请专业（环境生物）
-
----
-
-#### "How have the environments or experiences of your upbringing shaped the person you are today?"（Option B）
-
-**注意**：这题容易流于俗套，尤其是国际学生。
-
-**容易犯的错误**：
-- ❌ "We are so poor, so I am hardworking"（过度苦难叙事，显得低人一等）
-- ❌ "I grew up in a bilingual household, so I am open-minded"（太泛泛，所有国际生都这样说）
-- ❌ "My parents taught me values like respect, honesty, etc."（太generic，是教养而不是环境塑造）
-
-**成功的方向**：
-- ✅ 找一个**特定环境特征**（不是家人的教诲，而是地点、社区、文化冲击）
-- ✅ 解释这个环境如何产生了**对立/冲突**，迫使你做出选择或形成新观点
-- ✅ 说明这个塑造如何在未来影响你的大学学习
-
-**样本**（中国背景学生）：
-```
-"I grew up between two libraries: my mother's Shanghai apartment shelves (Chinese
-classical novels, philosophy) and my international school library (English literature,
-Western history). The contradiction hit at age 14: a teacher assigned 'Jane Eyre,'
-asking us to celebrate Jane's rebellion. But my mother's generation had been taught
-that a daughter's duty was obedience. Which narrative was 'right'?
-
-Rather than pick one library, I started reading them as conversations. I read
-'Dream of Red Mansions' alongside 'Pride and Prejudice,' noting how both critique
-patriarchy but through different cultural languages. This 'bilingual reading' became
-my default: everything has multiple stories.
-
-In high school, this shaped how I engage with peer conflicts, academic debates,
-and even my own identity as a Chinese student in an international context. At Tufts,
-I want to major in comparative literature and study how narratives shape political
-movements—specifically, how does the same historical event get told completely
-differently across cultures? My childhood taught me that the 'winner's narrative'
-is just one library; I want to learn how to read them all."
-```
-
-✅ **为什么成功**：
-- 环境很具体：两个书架的对比
-- 有冲突/困惑的时刻（14岁的质疑）
-- 展示了解决问题的方法（不选择，而是对话）
-- 链接到学术兴趣（比较文学、叙事政治学）
-- 体现成熟度：对自己文化身份的自觉性，不是简单的"fusion"
-
----
-
-#### "Using a specific example or two, tell us about a way that you contributed to building a collaborative and/or inclusive community."（Option C）
-
-**陷阱**：很多学生讲的是"参与"社区活动，而不是"构建"包容性。
-
-**容易犯的错误**：
-- ❌ "I volunteered at a community center, helping build an inclusive environment"（被动，没说具体怎么做）
-- ❌ "I organized a Diversity Day"（活动本身，不是深度贡献）
-- ❌ "I included quiet students in group projects"（太微观，不足以体现leadership）
-
-**成功的方向**：
-- ✅ 描述你**观察到的问题**（某个群体被排除）
-- ✅ 说明你**主动采取的行动**（而不是被要求的）
-- ✅ 量化**结果**与**长期影响**
-
-**样本**：
-```
-"In 10th grade, I noticed our robotics team had only 2 female members out of 18,
-and they were both quiet. When I asked why, they said it felt like a 'boys' club'
-where jokes went over their heads and decisions were made in casual after-practice
-chats they didn't attend.
-
-I didn't ask permission. I started a weekly 'design documentation hour' where all
-decisions were written down and debated formally. This wasn't about politeness;
-it was about access. I also recruited 4 more girls to try the team, mentoring them
-directly through their first semester.
-
-By junior year, women were 35% of the team. More importantly, the 'boys' club'
-framework evaporated. The team started winning regionals—and when we analyzed why,
-the quieter members' ideas (often more methodical, less groupthink) were often superior.
-
-This taught me that 'inclusion' isn't charity; it's better problem-solving.
-At Tufts, where collaboration across disciplines is celebrated, I want to keep
-building communities where quiet voices have structures to contribute."
-```
-
-✅ **为什么成功**：
-- 问题具体：不仅是"包容度不够"，而是"话语权不均"
-- 行动主动：你发现问题→主动解决，而不是等待指令
-- 结果量化：35% women, 正面的竞赛成绩
-- 包含反思：为什么这个改变有效
-- 未来连接：表示对Tufts协作环保价值的理解
+### 其他申请材料（2026-11 按官网核对）
+- 推荐信：1 封升学顾问/学校负责人推荐 + 1 封核心学科（英语、数学、自然或物理科学、历史或社会科学、外语）老师推荐（2026-11 更正：补全学科）；BFA 申请者可用视觉艺术老师推荐替代（来源 admissions.tufts.edu/apply/applying-to-tufts/checklist-and-deadlines/）
+- 作品集：BFA 与 BFA+BA/BS 联合学位必交，通过 Applicant Status Page 的 Digital Portfolio 提交
+- 面试：不提供。官网 FAQ 原话："Tufts Admissions does not offer interviews as a component of the admissions process."（来源 admissions.tufts.edu/apply/applying-to-tufts/application-faq/；旧的校友面试页已下线）
+- 截止日：ED I 2026-11-02；ED II 与 RD 2027-01-04
 
 ---
 
 ## 📖 真实录取文书解析（3篇）
 
 ### 文书案例1："科研+跨学科"故事
+
+注：此例所答题目不在 2026–27 题目中（2026-11）
 
 **申请者**：Rachel（美国顶级公立高中，加州）
 **学位**：Tufts文理学院，微生物学与国际关系双学位
@@ -636,6 +381,8 @@ disciplinary boundaries as problems to solve, not givens.
 ---
 
 ### 文书案例2："社区领导+社会责任"故事
+
+注：此例所答题目不在 2026–27 题目中（2026-11）
 
 **申请者**：Marcus（中产背景，弗吉尼亚州公立高中）
 **学位**：Tufts工程学院，土木工程系
@@ -745,6 +492,8 @@ how to do this at scale.
 ---
 
 ### 文书案例3："文化身份+学术追求"的个人故事
+
+注：此例所答题目不在 2026–27 题目中（2026-11）
 
 **申请者**：Kenji（日本背景，美国西海岸国际学校）
 **学位**：Tufts文理学院，亚洲研究系
@@ -924,7 +673,7 @@ studies" as exotic—feels like home.
 **体现在申请设计中**：
 
 - 2026–27 短答题 1（75–150 词）问你在选校过程中如何了解和接触 Tufts；题 2（100–200 词）按学院不同：文理学院问过去两年最喜欢的一项学校作业，工程学院问你参与构建或设计的一个项目，SMFA 谈作品集中的一件作品。本季没有专门的公民参与题。
-- 本季官方页面已不列面试（CDS 2025–26 仍把面试列为 Considered），待核；SMFA 需作品集；推荐信为 1 封 counselor + 1 封核心学科老师。
+- 2026–27 不提供面试：官网 FAQ 原话 "Tufts Admissions does not offer interviews as a component of the admissions process."（[Application FAQ](https://admissions.tufts.edu/apply/applying-to-tufts/application-faq/)，2026-11 核实；CDS 2025–26 仍把面试列为 Considered）；SMFA 需作品集；推荐信为 1 封 counselor + 1 封核心学科老师。
 - CDS 2025–26 C7：Rigor、排名、GPA、文书、推荐信、Character 为 Very important；课外活动、Talent/ability 为 Important；Volunteer work 和 Level of applicant's interest 为 Considered。
 
 **流行说法核查**：
@@ -1040,7 +789,7 @@ as their turning point.
 
 **如果你是中国学生，RD的风险**：
 - Tufts的RD只有10.5%的录取率，中国学生pool竞争激烈
-- 国际生的financial aid在RD常常不如ED generous
+- Tufts 满足每位录取生 100% 已证明需求，不分国籍；官网没有按 ED / RD 轮次区分资助的说法（见 https://admissions.tufts.edu/tuition-and-aid/applying-for-aid/international-student-aid/）（2026-11 更正）
 
 **建议**：
 - 如果你确定想去Tufts且有能力支付（或确信自己能获得aid），ED2是首选
@@ -1096,8 +845,8 @@ and social psychology that a textbook never could."
 | **高三上学期（9-10月）** | 文书brainstorm & draft | 花时间找到authentic story |
 | **高三上学期（10月底）** | ED1 submit （如果选择ED1） | 不推荐 unless你特别确定 |
 | **高三上学期（11月初-12月初）** | ED2文书final polish、EC list完善 | 这是最好的timing |
-| **高三上学期（12月中）** | ED2 submit | deadline: 1月1日 |
-| **高三下学期（1月1日后）** | RD submit （如果未被ED录取） | 立即submit，不要delay |
+| **高三上学期（12月中）** | ED2 submit | deadline: 1月4日 |
+| **高三下学期（1月4日前）** | RD submit （如果未被ED录取） | 立即submit，不要delay |
 
 ### 中国学生的timeline特殊性
 
@@ -1141,3 +890,14 @@ and social psychology that a textbook never could."
 **适用申请季**：2025-2026（Class of 2030）
 
 *本文档基于官方数据、实际申请案例、招生官insight合成。数据会随申请季更新；建议定期review官方来源以获取最新信息。*
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- RD 劣势：原写「奖学金名额已被 ED 生占据」（Tufts 本科没有 merit 奖学金）
+- 国际生资助：「奖学金金额较少」「需要高额奖学金时 ED 更有利」，与官网不符
+- 文书题目：原列「I am applying to Tufts because…（250 字）」主文书、Option A/B/C 三选一（It's cool to love learning / upbringing / inclusive community）、SMFA「Art has the power to disrupt…」题，均不在 2026–27 题目中；针对这些题的「深度解析」「写作公式」「其他补充文书的深度指导」一并删除
+- 实战建议：「国际生 RD 资助不如 ED generous」

@@ -112,6 +112,7 @@ cd app
 - **热门公立 / 私校画像（2026-11 第二批）**：CMU、UC Berkeley、UCLA、Michigan、Rice、Vanderbilt、WashU、Notre Dame 共 8 所，编写规则同上；UC 系列按 test-blind 和 PIQ 写，CMU / Berkeley / Michigan / UCLA 单列了学院或专业差异。Fable 独立抽查约 60 处，未发现编造的数字或人物；已改正 CMU「ED 只能报一个学院」、Michigan ED 录取率不可比等问题。至此 US News 全国大学排名前 30 都有画像；顶尖文理学院（Williams、Amherst、Pomona、Harvey Mudd 等）和其余学校仍未覆盖，诊断报告会提示"材料未覆盖，需顾问补充核实"。
 - **「学校看重的特质（官方表述）」（2026-11，全部 60 校）**：每校 10–15 条官方原话（招生办、招生主任、校长），逐字核对原网页。按同档分 6 组（美国顶尖 15、美国私立 13、UC 6、美国其他公立 13、英国 + ETH 8、香港 5）做抹名盲测：只保留特质描述、意译成中文后让评判模型配对。分档结果：明显 16 所、中等 14 所、与同档学校基本一致 30 所；靠制度线索猜对的不算特质差异。档位写在每节开头，明细见「数据来源说明」页。只证明学校公开说法不同，不证明录取实际加权。每节都经 Fable 独立审稿后改正。证据、盲测材料和预测记录在仓库 `research/school_values_2026-11/`。
 - **官方原件核对**：Princeton、Brown、Columbia、Notre Dame 的 2025–26 CDS 和 Yale Class of 2030 官方 profile 已下载逐项比对，数字一致；MIT、Berkeley、UCLA 见上。JHU 2025–26 CDS 核对后更正了数据表（旧表把上一届数字标成 Class of 2029），UNC 2025–26 CDS 核对后更正了 C7。部分官方页面（Tableau、Cloudflare 防护、403）无法自动读取，相关数字保留来源链接，待人工下载原件后复核。
+- **文书题目、申请要求与奖学金核对（2026-11，全部 60 校）**：逐校对照官网 2026–27 要求改正题目原文、字数、截止日期、面试和笔试，以及国际生的奖学金 / 资助资格。改出的典型错误：UCSB、UC Davis、UCSD 把 Common App 题或编造的题塞进 UC PIQ；部分 UC 画像写了不存在的 EA；Ohio State 建议中国学生申请只限美国公民 / 绿卡的 Morrill；英国画像仍用旧版 UCAS 个人陈述和已停用的 MAT / PAT / TSA；多所学校写了国际生拿不到的 merit 奖学金或 need-based 资助，或编造了奖学金档次和金额。官网打不开的（Michigan、UVA、Columbia、NYU 申请页等）只标「待核」，不下结论。官方题目原文存于 `research/official_prompts_2026-11/`。
 
 ## 开发
 

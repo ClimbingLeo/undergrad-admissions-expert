@@ -300,10 +300,10 @@
 
 | 题目号 | 题目内容 | 字数限制 | 类型 |
 | --- | --- | --- | --- |
-| **#1** | **"Why are you interested in the major you indicated as your first-choice major?"** 你为什么对你选择的专业感兴趣？ | 250-300字 | 短答 |
-| **#2** | **"Think of all the activities — both in and outside of school — that you have been involved with during high school. Which one are you most proud of and why?"** 你在高中参加过哪些活动？其中最让你骄傲的是哪一个，为什么？可包括课外活动、俱乐部、志愿服务、工作或家庭责任。 | 250-300字 | 短答 |
+| **#1（必答）** | **"Why are you interested in the major you indicated as your first-choice major?"** 你为什么对你选择的专业感兴趣？ | ≤40 行，约 250-300 词 | 短答 |
+| **#2** | **"Think of all the activities — both in and outside of school — that you have been involved with during high school. Which one are you most proud of and why?"** 你在高中参加过哪些活动？其中最让你骄傲的是哪一个，为什么？可包括课外活动、俱乐部、志愿服务、工作或家庭责任。 | ≤40 行，约 250-300 词 | 短答（必答） |
 | **#3（可选）** | **"Please share background on events or special circumstances that you feel may have impacted your high school academic performance."** 如有任何事件或特殊情况影响了你的高中学术表现，请说明。 | ~250-300字（约40行） | 短答 |
-| **Common App Essay** | 通用申请文书（如适用） | 650字 | 长文书 |
+| **主文书（必交）** | "Share an essay on any topic of your choice. It can be one you’ve already written, one that responds to a different prompt or one of your own design." 官网注明 "The Common App personal essay will complete the UT Austin essay requirement." | 500–650 词 | 长文书（2026-11 按官网更正） |
 
 **提交方式**：
 - 通过ApplyTexas或Common App在线提交
@@ -586,7 +586,7 @@ UT Austin的招生官在阅读文书时，会在脑中问这几个问题：
 
 ### 建议6：最大化推荐信的价值
 
-**现实**：对于国际生来说，推荐信是"证明你是谁"的关键，因为UT无法通过其他渠道验证你的表现。
+**现实**：UT 推荐信是**选交**，最多 2 封，官网原话 "You can submit up to two letters of recommendation."，并鼓励找校外了解你的人写（2026-11 按官网补充）。对于国际生来说，交了的推荐信能补充UT无法通过其他渠道验证的表现。
 
 **中国学生的常见做法**：
 - 让任意老师写推荐信，或让老师用模板写
@@ -741,3 +741,11 @@ UT Austin的录取率在持续下降，反映了申请数量的激增和竞争�
 **针对申请周期**：2025-2026（2026年秋季入学）
 **语言**：中文（简体）
 **版本**：1.0（综合版）
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- 主文书：原写「通用申请文书（如适用）650字」

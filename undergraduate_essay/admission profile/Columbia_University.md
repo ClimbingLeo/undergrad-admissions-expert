@@ -114,7 +114,7 @@ Class Profile 原话："Academic preparation is the primary factor in Columbia's
 
 ## 文书题目（2026–27 申请季）
 
-来源：[2026-2027 Columbia-Specific Questions](https://undergrad.admissions.columbia.edu/apply/process/columbia-questions)（官网标注更新于 2026-07-28）。官网说明里写"six short answer questions"，实际列出的是 1 道清单题（100 词）+ 5 道短答题（各 150 词），共 6 题。
+来源：[2026-2027 Columbia-Specific Questions](https://undergrad.admissions.columbia.edu/apply/process/columbia-questions)（官网标注更新于 2026-07-28）。官网说明里写"six short answer questions"，实际列出的是 1 道清单题（100 词）+ 5 道短答题（各 150 词），共 6 题。（题目原文待核，2026-11：本次复核时 Columbia 招生官网返回 403，未能重新逐字比对。）
 
 **1. 清单题，100 words or fewer**
 > List the titles of texts, resources and outlets that have contributed to your intellectual development outside of academic courses, including but not limited to books, journals, websites, podcasts, essays, plays, presentations, videos, museums and other content that you enjoy.

@@ -375,13 +375,11 @@ UW 只要 Common App 个人陈述（650 词以内，七个题目任选，官方�
 
 #### 题目2：可选补充信息（Optional Response）- 可选项
 
-**提示**
-> "You are not required to write anything in this section, but you may include additional information if something has particular significance to you. For example, you may use this space if:
-> - You have experienced personal hardships in attaining your education
-> - Your activities have been limited because of work or family obligations
-> - You have experienced unusual limitations or opportunities unique to the schools you attended"
+**提示**（2026-11 按官网 https://admit.washington.edu/apply/first-year/how-to-apply/writing-section/ 更正）
+> Challenges and Circumstances [optional]：Common App 提供的选填题，"The Common App provides this space for you to explain any unique challenges or circumstances that may have impacted your educational experience"，≤250 词。
+> Additional Information [optional]："Would you like to share any additional details or qualifications not reflected in the application?" ≤300 词；官网举例 Unusual academic progression、Course availability issues、Academic work that doesn't appear elsewhere in your application。
 
-**字数限制**：官网现为两篇选填短文，Challenges and Circumstances 250 词、Additional Information 300 词（原写 200 词有误，2026-11 更正）；上面的提示原文未逐字核对。如无特殊情况可留空。
+**字数限制**：Challenges and Circumstances 250 词、Additional Information 300 词（2026-11 更正）。如无特殊情况可留空。
 
 **核心理解**
 - 这不是第二篇主essay，而是**补充/解释区**
@@ -392,7 +390,9 @@ UW 只要 Common App 个人陈述（650 词以内，七个题目任选，官方�
 #### 题目3：Honors College专用（仅限申请Honors的学生）- 可选
 
 **提示**
-> "We want to understand your enthusiasm for learning unfamiliar things and exploring different ways of thinking. Tell us why you are excited to push your education outside the areas of learning you are most comfortable with."
+> "We want to know why you are excited to push your education outside the areas of academic learning with which you are most comfortable. To help us understand your enthusiasm for exploring different ways of thinking and learning, tell us: What do you pay attention to? What is a unique lens through which you see the world? How does that connect to your current interests and future curiosities?"
+
+（2027 Honors 题目，2026-11 按官网 https://admit.washington.edu/academics/honors/ 更正）
 
 **字数限制**：450 words（如果申请Honors College）
 
@@ -854,8 +854,7 @@ UW 只要 Common App 个人陈述（650 词以内，七个题目任选，官方�
 **关于财政援助（重要，国际学生）**
 - [ ] FAFSA (美国学生)
 - [ ] CSS Profile (部分美国学生)
-- [ ] 国际学生财政援助表（如申请need-based aid）
-- [ ] **重要**: UW对国际学生的need-based aid非常有限。大多数国际学生需要完全自费或申请merit scholarship
+- [ ] **重要（国际学生）**：UW 不给国际本科生任何资助或奖学金，官网原话："The UW does not provide financial aid or scholarships to undergraduate international students."（https://admit.washington.edu/costs/scholarships）。国际学生按完全自费准备，不需要填资助表（2026-11 更正）
 
 ---
 
@@ -874,3 +873,13 @@ UW 只要 Common App 个人陈述（650 词以内，七个题目任选，官方�
 **编者**: 基于官方UW数据、招生统计及真实申请案例
 
 *本文档仅供教育参考，不构成官方录取咨询。申请人应定期查阅UW官方网站获取最新信息。*
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- Additional Information 提示：原引 "You are not required to write anything in this section…"，是旧版 UW 自有申请的题面
+- Challenges and Circumstances 字数：原写 200 词
+- Honors 题目：原引旧版题面，缺后面三问

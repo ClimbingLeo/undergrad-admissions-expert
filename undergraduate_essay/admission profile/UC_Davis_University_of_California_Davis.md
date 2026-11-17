@@ -125,7 +125,7 @@
 - PIQ#4（教育机会）：讨论在资源有限学校开展高级研究的过程
 - PIQ#1（领导）：FIRST Robotics团队领导经验
 - PIQ#2（创意）：编程项目的创意解决方案
-- PIQ#8（其他）：对工程学职业的思考
+- PIQ#8（其他优势）：对工程学职业的思考
 
 **录取分析：**
 ✅ **亮点**：
@@ -162,7 +162,7 @@
 - 参加模联国际论坛（州级参赛）
 
 **PIQ选择策略：**
-- PIQ#3（质疑信念）：讨论对学校新闻审查政策的挑战与协商过程
+- PIQ#3（质疑信念）：讨论对学校新闻审查政策的挑战与协商过程（注：「质疑信念」是 Common App 题，UC 题3 实为「最大的天赋或技能」，2026-11）
 - PIQ#7（社区贡献）：英语辅导项目如何改变了移民家庭
 - PIQ#1（领导）：学校新闻社的领导故事
 - PIQ#5（重大挑战）：克服英语非母语背景成为有说服力的写作者
@@ -241,120 +241,30 @@
 
 ## ✍️ 申请时机与策略
 
-| 轮次 | 截止日期 | 预计录取率 | 建议 |
-|------|---------|----------|------|
-| **Early Action（非约束性）** | 11月30日 | 45-48%（略高） | **强烈推荐**。UC Davis的EA录取率略高于常规。如确定UC Davis是首选，尽早提交展示兴趣。国际生也可申报EA。 |
-| **Regular Decision** | 1月30日 | 38-42%（标准） | 标准申报时间。国际生占多数通过此轮申报。 |
-| **Spring Admit（备选方案）** | 1月30日 | 70%+（较高） | 如未被秋季录取，可申报春季入学（4月或6月入学），录取率很高。时间损失但100%有机会入学。 |
+**2026-11 按 UC 官网更正**：UC 本科申请只有一轮，**没有 Early Action / Regular Decision 之分**，也没有「提前提交显示兴趣」一说。2027 秋季入学的提交期为 **2026 年 10 月 1 日—11 月 30 日**，3 月 1—31 日陆续放榜，5 月 1 日前确认入学（[UC Admissions – Dates & deadlines](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html)）。原表中的「EA 11月30日、录取率 45-48%」「RD 1月30日」「Spring Admit 录取率 70%+」均无官方出处，已删除；官网只写春季入学申请（7 月提交）"for select campuses"，UC Davis 是否接受春季新生待核。
 
 **策略建议：**
-1. 国际生应考虑Early Action以展示commitment
-2. 如GPA或EC有弱点，等Regular Decision给自己更多准备时间
-3. 如未被秋季录取，不必放弃UC Davis，可申报Spring Admit
+1. 11 月 30 日前提交即可，早交不加分；把时间留给 PIQ 修改。
+2. 同一份申请可勾选多所 UC 分校，PIQ 对所有分校通用。
 
 ---
 
-## 📝 UC Personal Insight Questions 2025-2026
+## 📝 UC Personal Insight Questions 2026-27
 
-**说明：** UC系统所有分校（包括UC Davis）采用同一套8道题目，申请者**必须**选择并回答其中**4道**，每道**250-350字**。
+**说明：** UC系统所有分校（包括UC Davis）采用同一套8道题目，申请者**必须**选择并回答其中**4道**，每道**最多 350 词**。
 
-### 完整题目与中文翻译
+### 完整题目
 
-**1. Leadership（领导力）**
+> 以下 8 题为 UC 官网原文（2026-11 按官网更正；来源：[UC Admissions – Personal insight questions](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/personal-insight-questions.html)）。8 选 4，每题最多 350 词；官网说明 "All questions are equal. All are given equal consideration in the application review process, which means there is no advantage or disadvantage to choosing certain questions over others."
 
-英文原文：
-> Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes or contributed to group efforts over time.
-
-中文翻译：
-> 描述一个你展现领导力的例子，其中你积极影响了他人、帮助解决争端或长期为集体贡献力量。
-
-字数：250-350字
-
----
-
-**2. Creativity（创意）**
-
-英文原文：
-> Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
-
-中文翻译：
-> 每个人都有创意的一面，可以通过多种方式表达：问题解决、原创和创新思维、艺术表达等。描述你如何表达你的创意。
-
-字数：250-350字
-
----
-
-**3. Talent or Skill（才能或技能）**
-
-英文原文：
-> What would you say is your greatest talent or skill? How have you developed and demonstrated that talent over time?
-
-中文翻译：
-> 你认为自己最伟大的才能或技能是什么？你如何在时间推移中发展并展示这个才能？
-
-字数：250-350字
-
----
-
-**4. Educational Opportunity or Barrier（教育机会或障碍）**
-
-英文原文：
-> Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.
-
-中文翻译：
-> 描述你如何利用过一个重要的教育机会，或你如何克服过教育上的障碍。
-
-字数：250-350字
-
----
-
-**5. Most Significant Challenge（最重大的挑战）**
-
-英文原文：
-> Describe the most significant challenge you have faced and the steps you have taken to overcome this challenge. How has this challenge affected your academic achievement?
-
-中文翻译：
-> 描述你面过的最重大挑战，以及你为克服这个挑战采取的步骤。这个挑战如何影响了你的学术成就？
-
-字数：250-350字
-
----
-
-**6. Someone's Kindness（他人的善举）**
-
-英文原文：
-> Reflect on something that someone has done for you that has made you happy or thankful in a surprising way. How has this experience affected or motivated you?
-
-中文翻译：
-> 思考一个他人为你做的事，以它出乎意料的方式让你快乐或感恩。这个经历如何影响或激励了你？
-
-字数：250-350字
-
----
-
-**7. Community or School Contribution（社区或学校贡献）**
-
-英文原文：
-> What have you done to make your school or your community a better place?
-
-中文翻译：
-> 你做过什么来改善你的学校或社区？
-
-字数：250-350字
-
----
-
-**8. Something Else（其他）**
-
-英文原文：
-> Tell us about an academic subject that excites you and explain how you have furthered this interest inside and/or outside the classroom.
-
-中文翻译：
-> 告诉我们一个激励你的学术主题，并解释你如何在课堂内外进一步深化这个兴趣。
-
-（注：第8题在不同年份可能有变化，另一常见版本为"自由选题"，允许申请者讨论任何前7题未涵盖的话题。）
-
-字数：250-350字
+1. **领导力**：Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes or contributed to group efforts over time.
+2. **创意**：Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+3. **天赋或技能**：What would you say is your greatest talent or skill? How have you developed and demonstrated that talent over time?
+4. **教育机会或障碍**：Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.
+5. **最大挑战**：Describe the most significant challenge you have faced and the steps you have taken to overcome this challenge. How has this challenge affected your academic achievement?
+6. **学科兴趣**：Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.
+7. **学校或社区**：What have you done to make your school or your community a better place?
+8. **其他优势**：Beyond what has already been shared in your application, what do you believe makes you a strong candidate for admissions to the University of California?
 
 ---
 
@@ -363,7 +273,7 @@
 **选题原则：**
 
 1. **多样化**：选择覆盖不同方面的4道题目
-   - 推荐组合示例：#1(领导)、#4(教育机会)、#5(挑战)、#8(其他/学术兴趣)
+   - 推荐组合示例：#1(领导)、#4(教育机会)、#5(挑战)、#6(学科兴趣)
    - 避免：选择4道都是关于挑战、障碍或困难的题目
 
 2. **真实性优先**：
@@ -391,15 +301,11 @@
   - 如果要讲述挑战，深入具体细节（而非笼统的"我很穷"）
   - 展现解决问题和韧性
 
-- **充分利用#2（创意）或#8（学术兴趣）**：
+- **充分利用#2（创意）或#6（学科兴趣）**：
   - 中国学生常在这两题表现突出
   - 通过这些题目展现思维方式的独特性
-  - 在STEM领域，#8可以深入讨论学术热情
+  - 在STEM领域，#6可以深入讨论学术热情
 
-- **#6（他人的善举）可能被忽视但很有力**：
-  - 很少学生选这题
-  - 如果你有真实的被帮助故事，这题可以显示你的感恩和人性
-  - 对冷冰冰学术档案的很好补充
 
 ---
 
@@ -501,7 +407,7 @@
 
 ---
 
-### 文书示例3：PIQ#8 - 学术兴趣（跨学科型学生）
+### 文书示例3：PIQ#6 - 学科兴趣（跨学科型学生）
 
 **申请者背景：** 录取UC Davis数据科学项目，GPA 4.18，编程项目开发者
 
@@ -778,7 +684,7 @@ UC系统期望：
 
 **推荐组合（针对大多数中国学生）：**
 1. **PIQ #4（教育机会）** - 讲述你如何利用资源或克服教育系统差异
-2. **PIQ #8（学术兴趣）** - 讲述你在某学科的真实热情
+2. **PIQ #6（学科兴趣）** - 讲述你在某学科的真实热情
 3. **PIQ #2 或 #3（创意/技能）** - 讲述一个具体的创意项目或技能
 4. **PIQ #5（挑战）** - 只有在你有真实、具体、能说出深层学习的挑战时
 
@@ -790,31 +696,21 @@ UC系统期望：
 ### 7. 国际生财务现实
 
 **现实：**
-- UC Davis不提供need-blind录取给国际生
-- 这意味着你的财务需求**会**影响录取概率
-- 国际生平均获得的机构奖学金较少（约$10-14K/年）
+- UC Davis 资助官网（financialaid.ucdavis.edu）本次打不开，国际生资助政策待核（2026-11）。无出处的旧说法已删除（2026-11 更正）
+- UC 各分校资助政策不同，以 Davis 官网为准（2026-11 更正）
 
 **常见误解：**
-- 认为越有钱越容易被录取（错：不相关）
-- 认为越穷越容易被录取（部分对，但不如美国学生明显）
 - 认为可以申报时候假装不需要钱（错：不真实，容易被发现）
 
 **建议：**
-- 如果能不申请财务援助，这可以小幅提升录取概率
-- 如果需要援助，在应用中坦诚说明，UC Davis会评估
+- 国际生能否拿到 Davis 资助、申请资助是否影响录取，官网本次打不开（financialaid.ucdavis.edu 返回 403），待核（2026-11）；按全额自费准备预算更稳妥
 - 不要因为财务担忧而放弃申报，但要有现实预期
 
-### 8. UC Davis特定的"为什么我们"文书（可能有额外短文书）
+### 8. 不需要写「为什么 UC Davis」
 
-**注意：**
-- UC系统通常只用8道PIQ（没有额外的UC Davis特定题目）
-- 但强烈建议在PIQ #8中提及为什么UC Davis符合你的兴趣
-- 或在选择PIQ时，选择能够显示你对UC Davis理解的题目
-
-**建议：**
-- 如果讲述学术兴趣（PIQ #8），可以提及UC Davis在这个领域的强处
-- 例如："……这就是为什么UC Davis的数据科学项目吸引我，因为它强调在真实社区问题中应用数据"
-- 但不要冗长地讲述"UC Davis很好"，重点仍是你的故事
+**注意（2026-11 更正）：**
+- UC 只用统一的 8 道 PIQ，没有 UC Davis 专属题目；同一份 PIQ 会发给你申请的所有 UC 分校。
+- 因此不要在 PIQ 里写「为什么 UC Davis」或点名某个分校的项目，重点仍是你自己的经历。
 
 ### 9. EC中的常见中国学生优势
 
@@ -829,25 +725,6 @@ UC系统期望：
 - 参加太多一周一次的补习班/竞赛班，却没有长期承诺
 - 选择EC只因为"看起来好看"而非真实兴趣
 
-### 10. Early Action vs Regular Decision的决策
-
-**对中国学生的建议：**
-
-- **如果你确定UC Davis是第一选择**：申报Early Action
-  - 非约束性，不会限制其他申报
-  - 录取率略高（45%+ vs 38-42%）
-  - 提前获得结果
-
-- **如果你不确定或想让时间准备更充分**：等待Regular Decision
-  - 多出2个月准备时间
-  - 可以基于秋季成绩/冬季成绩优化
-  - 竞争仍可管理
-
-- **特殊情况**：考虑UC Davis的Spring Admission
-  - 如果未被秋季录取
-  - 春季录取率70%+，基本都会被录取
-  - 只是延迟入学（4月或6月而非秋季）
-
 ---
 
 ## 📊 总结对比表
@@ -860,7 +737,7 @@ UC系统期望：
 | **课程难度** | 高度重视AP/IB/Honor | 对有竞争背景的中国学生有利 |
 | **EC风格** | 优先长期深度，反对广泛浅尝 | 中国学生需调整"竞赛list"心态 |
 | **文书风格** | 看重转变和反思，不只看成就 | 中国学生需从"我很伟大"转到"我如何改变" |
-| **国际生政策** | Need-aware，但相对friendly | 国际生有入学率高的优势 |
+| **国际生政策** | 资助政策待核（官网本次打不开，2026-11） | 国际生有入学率高的优势 |
 | **学校性质** | 公立研究大学，重视服务学习 | 适合有社区意识和研究兴趣的学生 |
 | **地理位置** | 加州（Davis小镇，距旧金山2小时）| 靠近硅谷但成本低于伯克利；小镇环境平静 |
 
@@ -906,3 +783,13 @@ UC Davis是一个**非常均衡且友好**的UC校园，特别是对国际学生
 **文档更新日期：** 2026年4月3日
 **数据周期：** 2024-2025申请年
 **编制者注：** 本文档基于公开的UC系统数据、官方指南和高校申请资源编制，旨在为中文使用者提供全面的申请指导。具体数据可能随年份变化，建议常规查询官方网站获取最新信息。
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- 国际生财务：「不对国际生 need-blind / 财务需求会影响录取」「国际生平均机构奖学金约 $10-14K/年」，无可核对的官方出处
+- 常见误解与建议：「越有钱 / 越穷越容易被录取」两条判断、「不申请资助可小幅提升录取概率」建议，无官方出处
+- 国际生财务：曾以 Berkeley 官网原话作 Davis 资助政策「参考」，已移除（各分校政策不同）

@@ -143,7 +143,7 @@
 - 推荐信：来自数学和计算机科学两位教师，强调申请者的系统思维与创新能力
 - 家庭背景：中产家庭，无特殊Hook但背景稳定
 
-**录取结果：** 被常规轮次录取，获Merit奖学金$25,000/年
+**录取结果：** 被常规轮次录取，获Merit奖学金$25,000/年（示例画像，奖学金结果不可参考：官网只写 ED / EA 申请者参评 merit，2026-11 更正）
 
 **申请成功要素分析：**
 1. EC高度聚焦：所有活动均围绕计算机/数据科学
@@ -243,18 +243,20 @@
 
 | 轮次 | 截止日期 | 录取率 | 建议 |
 | --- | --- | --- | --- |
-| **Early Action（EA）** | 11月1日 | 8.4-9.5% | 如已确定USC为首选且申请完善，建议参加。EA未被拒绝会进入RD池重新评估 |
-| **Regular Decision（RD）** | 1月15日 | ~10% | 大多数学生走此轮，占录取者60%。包含所有被EA defer的申请 |
+| **Early Decision（ED，有约束力；2026-11 按官网补）** | 11月1日 | — | 12月中旬前放榜；适用大多数专业 |
+| **Early Action（EA，无约束力）** | 11月1日 | 8.4-9.5% | 如已确定USC为首选且申请完善，建议参加。EA未被拒绝会进入RD池重新评估。**想参评 merit 奖学金（表演类专业除外）必须赶 ED 或这一轮**（2026-11 更正） |
+| **Regular Decision（RD）** | 2027年1月10日（2026-11 按官网更正；舞蹈、戏剧、音乐等表演类专业 12月1日） | ~10% | 大多数学生走此轮，占录取者60%。包含所有被EA defer的申请 |
 
 **申请策略建议：**
 
 1. **EA参与建议：**
-   - 优点：录取率略高（虽然差异不大，约下降1%）；更早知道结果；EA录取为binding，确定去向
-   - 缺点：申请deadline早（10月中旬截止），准备时间紧张；RD轮次竞争激烈度不减
+   - 优点：录取率略高（虽然差异不大，约下降1%）；更早知道结果；EA 无约束力（2026-11 按官网更正；有约束力的是 ED）
+   - 缺点：申请deadline早（11月1日截止），准备时间紧张；RD轮次竞争激烈度不减
    - **适合人群：** 11月前能完成高质量申请、GPA 3.85+、SAT 1500+、EC非常强势者
    - **不适合人群：** 仍在打磨文书、标化成绩未出、EC仍在进行中的申请者
 
-2. **RD参与建议（推荐）：**
+2. **RD参与建议：**
+   - 代价（2026-11 更正）：大多数专业只有 ED / EA 申请者自动参评 merit 奖学金，官网未写 1 月 10 日 RD 申请者参评 merit；想拿 merit 的学生不应等到 RD
    - 给申请者更多准备时间完善文书与EC呈现
    - EA defer不视作负面，RD中重新评估时仍有竞争力
    - 可将12月SAT/ACT作为最后冲刺机会
@@ -263,11 +265,11 @@
    - USC Yield为40.3%，意味着6成被录取学生不来
    - 招生官会评估学生去USC的真实意愿，EA参与与高度定制化文书是展现诚意的方式
 
-**重要政策变化（需确认）：** 2025-2026申请周期，USC可能引入Early Decision（ED）选项，这将改变申请策略。请申请前确认最新政策。
+**政策（2026-11 按官网 admission.usc.edu/apply/first-year-students/ 更正）：** USC 现在同时有 ED（有约束力，11月1日）和 EA（无约束力，11月1日），RD 为 1月10日。申请清单：Common App；推荐信只需 1 封（升学顾问或任课老师，部分专业另有要求）；标化可选；部分专业需作品集、简历、写作样本或试演；招生办不做面试。
 
 ---
 
-## 📝 文书题目（2025-2026最新版）
+## 📝 文书题目（2026–27 申请季；USC 官网未公布题目原文，题目原文待核，2026-11）
 
 ### 必填补充文书
 
@@ -280,7 +282,7 @@
 
 #### 主题目1：Why USC? / 学术兴趣与选择
 
-**完整题目：**
+**完整题目（中文意译；英文原文待核，2026-11）：**
 "描述你计划如何追求你的学术兴趣，以及你为什么想在USC探索这些兴趣。请随意说明你的第一和第二专业选择。"
 
 **字数限制：** 250字
@@ -294,7 +296,7 @@
 
 #### 可选题目2：教育间隔说明
 
-**完整题目：**
+**完整题目（中文意译；英文原文待核，2026-11）：**
 "从高中/中学开始，如果你在任何秋季或春季学期中断过学业（如出国、重病等），请解释这一间隔。"
 
 **字数限制：** 250字
@@ -306,12 +308,7 @@
 
 ### 短答题（Short-Answer Questions）
 
-补充还包含10个短答题（通常100字符以内），涉及：
-- 你为什么选择XX学院/专业？
-- 你想参加学校哪个俱乐部或项目？
-- 描述一段你克服的挑战
-- 你的学术热情来自何处？
-- 等等（具体题目每年略有调整）
+补充还包含约10个短答题（字符数很短）。（2026-11 更正：USC 官网未公布短答题原文，题目原文待核，以 Common App 账户内为准）
 
 **短答题重要提示：**
 - 虽然看似"短"，但每一个都应认真对待，直接展现对USC的research深度
@@ -771,7 +768,8 @@
    - 申请文书与short-answer已完美定稿
    - 条件：截止日期足够提前完成高质量申请
 
-2. **应该参加RD的学生（大多数）：**
+2. **应该参加RD的学生：**
+   - 不需要 merit 奖学金（官网只写 ED / EA 申请者参评 merit，见下节，2026-11 更正）
    - 仍在取得更高SAT/ACT成绩（11月/12月考试）
    - 文书与EC仍在打磨
    - 需要对比多个offer做决定
@@ -780,8 +778,12 @@
 ### 6. 国际学生特殊考量
 
 **财务问题：**
-- USC不向国际学生提供need-based financial aid
+- USC不向国际学生提供need-based financial aid（官网原话："USC does not offer need-based financial aid for international applicants."）
 - Merit奖学金仅基于academic / talent，极其competitive
+- **merit 参评时机（2026-11 更正）：**
+  - 大多数专业：ED 或 EA（11 月 1 日）申请者自动参评 merit。官网原话："Students who apply through Early Decision or Early Action are automatically considered for USC merit scholarships."（https://viterbiadmission.usc.edu/2026/early-decision-early-action-or-regular-decision-which-application-plan-is-right-for-you/ ，2026-07-27）；ED / EA 申请者 "will be considered for USC Merit Scholarships"（https://admission.usc.edu/apply/first-year-students/）
+  - 表演类专业（Kaufman 舞蹈、戏剧、Thornton 音乐）：只有 12 月 1 日一个截止日，该日前申请者参评 merit（https://admission.usc.edu/cost-and-financial-aid/scholarships/）
+  - 1 月 10 日的 RD：官网未写参评 merit。11 月底才交 RD 的学生不要指望 merit
 - 现实：国际学生需自费或极限merit奖学金覆盖
 
 **策略：**
@@ -806,7 +808,7 @@
 | **10月-11月** | 研究USC课程、教授、学生组织；开始文书与short-answer draft | 高 |
 | **11月初** | EA deadline；开始收集推荐信 | 高 |
 | **11月中旬-12月中旬** | 完善RD文书与short-answer；取得推荐信 | 高 |
-| **12月中旬** | 完成RD应用（截止1月15日） | 高 |
+| **12月中旬** | 完成RD应用（截止1月10日） | 高 |
 | **1月-3月** | 等待decision；continue with other college applications | 中 |
 
 ### 8. 最终建议：Be Real, Not Perfect
@@ -850,3 +852,13 @@
 - [Ivy Coach - USC Early Action Statistics](https://www.ivycoach.com/the-ivy-coach-blog/college-admissions/usc-admissions-statistics/)
 
 **备注：** 数据以2024-2025申请周期为基准。申请策略与政策（特别是test-optional政策、Early Decision的引入）可能在2025-2026周期有所调整，请申请前确认USC官方网站的最新政策。
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- EA：原写 binding
+- 短答题：原列「为什么选择XX学院」「描述一段你克服的挑战」「学术热情来自何处」等示例，无官方出处
+- merit 截止：曾写「想参评 merit 必须在 12 月 1 日前递交申请」，12/1 实为表演类专业截止日

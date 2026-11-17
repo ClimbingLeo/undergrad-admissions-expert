@@ -156,4 +156,4 @@ CDS C7 非学业因素（2025–26，[来源](https://cdn.vanderbilt.edu/vu-wpfs
 5. **把唯一的短文写透**：Vanderbilt 只有一篇约 250 词的补充短文，而文书在 CDS 中是 Very important。选一个具体的身份/文化/背景切口，写出成长轨迹，并落到对校园的具体贡献。
 6. **活动求深不求多**：官方说更看重一两项活动的真投入，ED 录取生 100% 有重要荣誉或主要领导职务。建议集中资源把一两条主线做出可量化的影响。
 7. **不要指望「刷存在感」**：Vanderbilt 不考虑 demonstrated interest、也不提供面试，精力应放在申请材料本身；可选的 InitialView 视频可用来补充英语表达能力。
-8. **择优奖学金单独截止**：国际生可以申请择优奖学金（官方原话 "may apply for … merit-based scholarships"），12 月 1 日截止，早于 RD 截止日，ED II / RD 申请者容易漏掉。
+8. **择优奖学金单独截止**：国际生可以申请择优奖学金（官方原话 "International freshmen applicants are eligible to apply for all Vanderbilt merit-based scholarships offered at Vanderbilt."，https://www.vanderbilt.edu/financialaid/undergraduate/international ，2026-11 更正为逐字原话），12 月 1 日截止，早于 RD 截止日，ED II / RD 申请者容易漏掉。

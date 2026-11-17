@@ -161,3 +161,29 @@ def test_every_profiled_school_has_values_section(conn):
     bad = conn.execute("""SELECT school_slug FROM school_profile_sections WHERE section_type='values'
                           AND body_md NOT LIKE '%区分度%'""").fetchall()
     assert bad == []
+
+
+def test_uc_profiles_list_only_real_piqs(conn):
+    # 2026-11：曾有 UC 画像把 Common App 题目塞进 PIQ 列表
+    common_app_only = ["questioned or challenged a belief", "someone has done for you", "Someone's Kindness"]
+    rows = conn.execute("""SELECT school_slug, body_md FROM school_profile_sections
+                           WHERE school_slug IN ('uc_berkeley','ucla','ucsd','uci','ucd','ucsb')
+                           AND trust!='composite'""").fetchall()
+    assert rows
+    bad = [(r[0], p) for r in rows for p in common_app_only if p in r[1] and "Common App 题" not in r[1]]
+    assert bad == []
+
+
+def test_osu_states_merit_ineligibility_for_internationals(conn):
+    body = "\n".join(r[0] for r in conn.execute(
+        "SELECT body_md FROM school_profile_sections WHERE school_slug='osu'").fetchall())
+    assert "International students are not eligible." in body
+
+
+def test_changelog_sections_not_retrieved(conn):
+    from sibo.ingest.parsers import classify_section
+    assert classify_section("更正记录（2026-11）：截止日期与文书") == "changelog"
+    from sibo.ai import retrieval as R
+    slug = conn.execute("SELECT school_slug FROM school_profile_sections WHERE section_type='changelog' LIMIT 1").fetchone()[0]
+    txt = R.school_sections(conn, slug, types=("data", "academic", "ec", "hooks", "values", "essay", "process", "insight"))
+    assert "更正记录" not in txt

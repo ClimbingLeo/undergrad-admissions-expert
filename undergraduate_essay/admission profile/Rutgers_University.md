@@ -279,7 +279,7 @@
 - 主文书重点讲述"垃圾分类项目如何让我发现了环保的力量"
 - 展现从个人兴趣到实际行动的转变过程
 - 强调想在Rutgers学习环境科学/环境工程专业的清晰目标
-- 补充文书（如学校补充问题）重点讲述研究项目过程与发现
+- 补充文书（如学校补充问题）重点讲述研究项目过程与发现（注：Rutgers 没有补充文书，只有申请 Honors 的短文，2026-11）
 
 **招生官点评要点：**
 - 硬件成绩达标（SAT 1410在中位数，GPA 3.72在25-50百分位）
@@ -415,8 +415,7 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 #### **提示1：背景、身份、兴趣或才能**
 *Some students have a background, identity, interest, or talent that is so meaningful they believe their application would be incomplete without it. If this sounds like you, then please share your story.*
 
-**字数限制：** 最多3,800个字符（包括空格）
-**中文约当：** 约1,900-2,000个中文字
+**字数限制：** Common App 主文书 ≤650 词；若用 Rutgers Application 则 ≤3,800 字符（含空格）（2026-11 按官网更正）
 
 **适用人群：**
 - 有独特文化/宗教背景的学生
@@ -431,8 +430,7 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 #### **提示2：克服挑战**
 *The lessons we take from obstacles we encounter can be fundamental to later success. Recount a time when you faced a challenge, setback, or failure. How did it affect you, and what did you learn from the experience?*
 
-**字数限制：** 最多3,800个字符
-**中文约当：** 约1,900-2,000个中文字
+**字数限制：** Common App 主文书 ≤650 词；若用 Rutgers Application 则 ≤3,800 字符（含空格）（2026-11 按官网更正）
 
 **适用人群：** 所有学生
 **中国学生适用率：** ⭐⭐⭐⭐⭐ （极高—这是最常见的选择）
@@ -447,7 +445,7 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 #### **提示3：质疑或挑战观点**
 *Reflect on a time when you questioned or challenged a belief or idea. What prompted your thinking? What was the outcome?*
 
-**字数限制：** 最多3,800个字符
+**字数限制：** Common App 主文书 ≤650 词；若用 Rutgers Application 则 ≤3,800 字符（含空格）（2026-11 按官网更正）
 
 **适用人群：**
 - 有独立思辨能力的学生
@@ -461,7 +459,7 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 #### **提示4：感恩与启发**
 *Reflect on something that someone has done for you that has made you happy or thankful in a surprising way. How has this gratitude affected or motivated you?*
 
-**字数限制：** 最多3,800个字符
+**字数限制：** Common App 主文书 ≤650 词；若用 Rutgers Application 则 ≤3,800 字符（含空格）（2026-11 按官网更正）
 
 **适用人群：**
 - 想展现感恩品质的学生
@@ -475,7 +473,7 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 #### **提示5：个人成长与认知转变**
 *Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others.*
 
-**字数限制：** 最多3,800个字符
+**字数限制：** Common App 主文书 ≤650 词；若用 Rutgers Application 则 ≤3,800 字符（含空格）（2026-11 按官网更正）
 
 **适用人群：** 所有学生
 **中国学生适用率：** ⭐⭐⭐⭐ （高）
@@ -486,8 +484,13 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 
 ---
 
-#### **提示6-7：自选题目**
-*Share an essay on a topic of your choice. This can be one you've already written for a different application, one that responds to a different prompt, or one of your own design.*
+#### **提示6：让你忘记时间的话题**
+*Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more?*
+
+#### **提示7：自选题目**
+*Share an essay on any topic of your choice. It can be one you've already written, one that responds to a different prompt, or one of your own design.*
+
+（原把第 6、7 题合并为「自选题目」且第 7 题措辞不准，漏了第 6 题；已按 Common App 2026–27 官网原文更正，2026-11）
 
 **自选灵活性：** 可以是任何有意义的话题，甚至可以是其他学校的补充文书重新调整
 
@@ -497,11 +500,11 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 
 | 要求项 | 规格 |
 |--------|------|
-| **字数上限** | 3,800字符（包含空格） |
-| **最低建议** | 2,500-3,200字符（约500-700英文单词，1200-1600中文字） |
-| **格式** | Common App系统上传（.doc, .docx, .pdf, .txt） |
+| **字数上限** | Common App 主文书 ≤650 词；Rutgers Application 文书 ≤3,800 字符（含空格）（2026-11 按官网更正） |
+| **最低建议** | 2,500-3,200字符（约500-650英文单词；Common App 上限 650 词，2026-11 更正） |
+| **格式** | 填写在申请表的文书框内，官网说文书 "may not be submitted separately"（2026-11 按官网更正） |
 | **语言** | 必须英文（国际生） |
-| **额外提交物** | 无补充文书要求 |
+| **额外提交物** | Common App 无补充文书；申请 Honors 需另写一段短文（"A short statement is required if you decide to be considered for honors."）（2026-11 按官网补充） |
 
 **中国学生的字数转换参考：**
 - 3,800英文字符约=500-650英文单词
@@ -932,17 +935,14 @@ Rutgers使用标准Common App essay。申请者从以下7个提示中选择1个�
 ### 建议7：国际生财务状况：如果需要aid，尽早communicate
 
 **Rutgers的现实：**
-- Rutgers为国际学生提供merit-based奖学金，但名额有限
-- 如果need financial aid，这会影响录取概率（虽然官方说是"need-blind admission"，但对国际生的实际执行存疑）
+- Rutgers 为国际学生提供 merit 奖学金，但名额有限（2026-11 更正，来源均为 https://admissions.rutgers.edu/new-brunswick-scholarships ）：
+  - 国际生小节（International Student Scholarships）：持有效非移民签证的国际新生自动参评，无需另外申请；官网只说鼓励在 EA / RD 截止日前申请。原话："All admitted first-year international students (on valid non-immigrant visas) are automatically considered"
+  - 12 月 1 日出自另一小节（First-Year Student Scholarship Award，面向一般新生）："To be considered: Apply to Rutgers and submit all required credentials by December 1." 国际生小节没有写这个日期，保险起见仍建议 12 月 1 日前交齐材料
+- 国际生没有联邦资助，奖学金不保证且竞争激烈："International students are not eligible for federally funded financial aid or scholarships." / "No scholarships are guaranteed, and they are extremely competitive."（https://international.sebs.rutgers.edu/international-students/international-student-fees-and-financial-aid/）
 
 **可执行建议：**
-- **IF你确实需要经济援助：** 不要隐瞒，在申请中清晰标注
-- **在系统中标注"I will apply for financial aid"**
-- **为什么？** 坦诚的学生比隐瞒实际情况的学生更可信
-- **不会直接导致拒绝，但可能影响奖学金额度**
-
-**IF你不需要经济援助：**
-- 尽可能标注"Full Pay"，这会提升录取概率（现实但直白）
+- 想争取 merit 奖学金：保险起见 12 月 1 日前递交申请并交齐所有材料（12/1 出自一般新生奖学金小节，国际生小节只说鼓励在 EA / RD 截止日前申请，2026-11 更正）
+- 按自费准备预算（2026-11 更正）
 
 ---
 
@@ -1059,3 +1059,12 @@ Rutgers University是一所适合中国学生的、公立大学中相对容易�
 **中文撰写：** Claude AI
 **总字数：** 约6,800中文字（含表格和代码示例）
 
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- 文书格式：原写「上传 .doc/.pdf 等文件」
+- 国际生资助：「官方说 need-blind admission」，没有找到官方出处
+- 可执行建议：「国际生勾选 I will apply for financial aid」「标注 Full Pay 能提升录取概率」，没有官方依据

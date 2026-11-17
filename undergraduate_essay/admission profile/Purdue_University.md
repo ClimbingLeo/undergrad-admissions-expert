@@ -285,10 +285,10 @@
 | --- | --- | --- |
 | **Prompt 1: "How will opportunities at Purdue support your interests, both in and out of the classroom?"** | 250字 | 必填 |
 | **Prompt 2: "Briefly discuss your reasons for choosing your major and your interest in studying at this campus location (Indianapolis or West Lafayette)."** | 250字 | 必填 |
-| **Prompt 3: "Briefly discuss your reasons for pursuing the alternate major and campus location (Indianapolis or West Lafayette) you have selected."** | 250字 | 仅在选择双专业或双校区申请时需要 |
+| **Prompt 3: "Briefly discuss your reasons for pursuing the alternate major and campus location (Indianapolis or West Lafayette) you have selected."** | 250字 | 仅在申请表上选填备选专业（alternate major）时需要（2026-11 按官网更正） |
 
 **针对Honors College申请者额外要求**：
-- Honors College（John Martinson）4 道题，每题 ≤200 词：跨学科经历、深入探索感兴趣的课题、想去的目的地及如何融入当地文化、领导经历（原写「两篇、250–500 字」有误，2026-11 更正）
+- Honors College（John Martinson）4 道题，每题 ≤200 词：跨学科经历、深入探索感兴趣的课题、想去的目的地及如何融入当地文化、领导经历（2026-11 更正）
 
 ---
 
@@ -556,7 +556,7 @@ b) **宽度**：
 
 **国际生劣势**
 - 录取率27.6%（对比整体43.4%）
-- 需要完全自费（普渡大学国际生通常不获得need-based aid，merit aid也很有限）
+- 需要完全自费：普渡校级 merit 奖学金只给 domestic 学生，官网原话："Only domestic students are eligible for the scholarships described above." / "International students who hold F, J and some other visa types are not eligible."（https://admission.purdue.edu/cost-financial-aid/scholarships）（2026-11 更正）
 - 对英语的要求可能被过度评估
 
 **国际生优势（如果充分利用）**
@@ -655,7 +655,7 @@ b) **宽度**：
 - [ ] 撰写Prompt 1初稿，获得英文写作老师的反馈
 - [ ] 撰写Prompt 2初稿，确保与你的EC和目标对齐
 - [ ] 如果申请Honors College，准备额外文书
-- [ ] 获取推荐信（通常需要2-3封）
+- [ ] 推荐信：不要求；交了会纳入评审。官网原话 "Letters of recommendation aren't required, but if a student submits one, we'll include it in their review."（https://admissions.purdue.edu/support-your-student/counselors/need-to-know/ ，2026-11 更正）
 - [ ] 确认EC list的准确性和consistency
 - [ ] 在11月1日前完成EA申请（如果计划EA）
 - [ ] 如果RD，在1月15日前完成所有申请提交
@@ -669,3 +669,11 @@ b) **宽度**：
 普渡大学是一所world-class的工程和CS学校。对于中国学生而言，这所学校的申请竞争力很高，但并非不可能。关键是：（1）扎实的学术硬件（GPA + SAT），（2）至少一项Tier 1的EC，（3）深思熟虑且具体的文书。这三个要素缺一不可。希望这份资料能为你的申请之旅提供帮助。
 
 祝所有申请者录取顺利！
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- Honors College 文书：原写「两篇、250–500 字」

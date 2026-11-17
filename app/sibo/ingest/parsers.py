@@ -325,6 +325,7 @@ def parse_supplement_file(text: str, school_slug: str, source_file: str, prompt_
 COMPOSITE_HEADING = re.compile(r"真实.*(案例|申请者|文书)|典型.*案例|案例分析|文书解析|录取案例")
 COMPOSITE_BODY = re.compile(r"代表性|综合整理|虚构|化名|模拟|示例画像|典型画像|假设(?:的|案例|人物|学生|画像|情境)")
 SECTION_TYPES = [
+    ("changelog", r"更正记录"),  # 旧值存档，不进 AI 检索（检索只取指定类型）
     ("values", r"看重的特质"),  # 学校官方表述的特质偏好（2026-11 盲测验证区分度）
     ("data", r"录取数据|关键数据|申请情况|录取率|统计"),
     ("academic", r"学术|硬件|成绩|A-Level|IB要求|标化|GPA"),

@@ -144,7 +144,7 @@
 **申请人背景**
 - **课程体系**：A-level（国际学校）
 - **成绩**：A*A*A（数学A*，进阶数学A*，物理A*）
-- **TMUA成绩**：88/120（85th percentile）
+- **TMUA成绩**：88/120（85th percentile）（注：TMUA 现按 1.0–9.0 报分，没有 120 分制，此数字不可作参照，2026-11）
 - **学校背景**：北京知名国际学校（IB有的学生中等竞争力学校）
 
 **竞赛与活动**
@@ -322,18 +322,21 @@
 
 ### UCAS申请流程概览
 
+（本节 2026-11 部分更正：ESAT / TMUA 的考期、时长、费用、能否重考已按 UAT-UK 官网 https://esat-tmua.ac.uk/deadlines/ 和各考试页更正；PS 三题按 UCAS 官网更正。imperial.ac.uk 本轮返回 403，各专业要考哪项、面试与出结果时间未能核对，待核。申请截止日（2026-11 更正）：Imperial 帮助页（搜索引擎摘录，直连 403）"15 October 2026 at 18:00 (UK time) for medicine courses, and applications to University of Cambridge and University of Oxford; 13 January 2027 for all other Imperial courses."（https://www.imperial.ac.uk/study/help-centre/undergraduate-admissions/how-do-i-apply-for-undergraduate-study.php ）；Imperial 2026-27 本科校历 PDF 亦列 "Deadline for UG applications for Equal Consideration (13/01/2027)"）
+
+
 ```
 Timeline事件                      日期/截止           相关方
 ├─ 开始准备                      9月-10月             所有申请者
 ├─ UCAS注册开放                 6月底               中国学生需提早规划
 ├─ ESAT/TMUA报名开始             7月底-8月            取决于具体考试
-├─ 截止日期（**重要**）          **10月15日** (英国时间) 必须在此前提交
-├─ ESAT/TMUA考试（October sitting） 10月9-10日         工程/科学/数学必考
+├─ 截止日期（**重要**）          医学 2026-10-15 18:00（英国时间）；其余专业 2027-01-13（2026-11 更正）
+├─ ESAT/TMUA考试（October sitting） 2026年10月12-16日   中国大陆/港澳：ESAT 12或13日，TMUA 15或16日
 │  └─ ESAT考试内容：Math 1, Math 2, Physics (通常)
-│  └─ TMUA考试内容：Part A (数学应用), Part B (数学推理)
+│  └─ TMUA考试内容：Paper 1 (Applications of Mathematical Knowledge), Paper 2 (Mathematical Reasoning)
 ├─ 11月-12月                    继续面试邀请          Shortlisted者
-├─ ESAT/TMUA考试（January sitting）1月6-7日          补充报考或重考
-│  └─ 仅限Imperial和UCL申请者可报考
+├─ ESAT/TMUA考试（January sitting）2027年1月4-8日     中国大陆/港澳：ESAT 1月6日，TMUA 1月8日
+│  └─ 牛剑申请人不适用；同一申请季只能考一次，不能重考（2026-11 按 UAT-UK 更正）
 ├─ 面试进行                      1月-3月              通常在线或到访
 ├─ 录取决定发布                  3月中旬-4月           Conditional offers发布
 ├─ A-level/IB成绩公布            5月/7月              确认offer条件
@@ -344,13 +347,13 @@ Timeline事件                      日期/截止           相关方
 
 | 步骤 | 截止日期 | 操作 | 中国学生注意 |
 |------|---------|------|------------|
-| **UCAS申请** | 10月15日23:59 (UK时间) | 提交UCAS表单、个人陈述、推荐信 | 北京时间凌晨时段，提前至少12小时提交 |
-| **ESAT注册** | 10月9日考试前 | 报名并付费（约£25） | 需要英国地址，用学校地址或住宿地址 |
-| **TMUA注册** | 10月考试前 | 报名参加测试 | 同上 |
+| **UCAS申请** | 医学 2026年10月15日18:00（UK时间）；其他专业 2027年1月13日（2026-11 更正，见上注） | 提交UCAS表单、个人陈述、推荐信 | 北京时间凌晨时段，提前至少12小时提交 |
+| **ESAT注册** | 10月场 2026年9月28日截止 | 报名并付费（英国/爱尔兰 £78，其他地区 £133；2026-11 按 UAT-UK 更正） | 在 UAT-UK 官网开账户，选 Pearson 考点 |
+| **TMUA注册** | 10月场 2026年9月28日截止 | 报名参加测试（费用同 ESAT） | 同上 |
 | **补充表单（Supplementary Questionnaire）** | 根据各系要求 | 某些课程需额外填表 | Engineering/Computing通常有 |
 | **面试邀请发送** | 11月中旬-12月 | Shortlisted者收到通知 | 邀请会发至注册邮箱，需检查垃圾箱 |
-| **面试进行** | 1月-3月 | 线上或来访面试 | 线上面试可在中国进行，需稳定网络 |
-| **录取决定** | 3月中旬-4月初 | Offer或Reject发布 | 通过UCAS Track查询 |
+| **面试进行** | 1月-3月（待核） | 线上或来访面试 | 线上面试可在中国进行，需稳定网络 |
+| **录取决定** | 3月中旬-4月初（待核） | Offer或Reject发布 | 通过UCAS Hub查询 |
 | **A-level/IB成绩** | 5月中旬（A-level）或7月初（IB） | 查看成绩，确认条件 | 如未达要求可appeal或重考 |
 | **最终确认** | 7月（IB）/9月（A-level） | 通过UCAS Clearing/Confirmation | Insurance choice成为backup |
 
@@ -371,13 +374,13 @@ Timeline事件                      日期/截止           相关方
 - Earth Science（地球科学）
 
 **考试结构**
-- **平台**：在线计算机考试
-- **模块数**：4个（通常情况）
+- **平台**：Pearson 考点机考，不是在家在线考（2026-11 更正）
+- **模块数**：每个模块 40 分钟选择题；Mathematics 1 必考，其他模块按所报专业（2026-11 按 UAT-UK 更正）
   - Mathematics 1（强制）：应用数学能力，27题×40分钟
-  - Mathematics 2（强制）：数学推理能力，27题×40分钟
+  - Mathematics 2（按专业选考，非强制；2026-11 更正）：27题×40分钟
   - Physics（大多数工程）：牛顿力学、热学、波、电磁学等，27题×40分钟
   - Chemistry或Biology（某些学科）
-- **总时长**：160分钟（4小时）+ 答卷上传时间
+- **总时长**：按所考模块数，每模块 40 分钟，当天连考
 - **评分**：每个module 1.0-9.0，无明确cutoff
 
 **得分分布**
@@ -386,14 +389,14 @@ Timeline事件                      日期/截止           相关方
 - 顶级申请者：7.0+/9
 
 **考试时间与地点**
-- October sitting：2025年10月9-10日
-- January sitting：2026年1月6-7日（仅限Imperial/UCL）
-- 地点：考试中心（英国）或在线（对国际学生）
+- October sitting：2026年10月12-16日（中国大陆/港澳限 12 或 13 日）
+- January sitting：2027年1月4-8日（中国大陆/港澳限 1 月 6 日）；牛剑申请人不适用；同一申请季只能考一次
+- 地点：Pearson 考点（含海外），不是在家在线考（2026-11 按 UAT-UK 更正）
 
 **报名与费用**
-- 报名时间：考试前数周
-- 费用：约£25-30（根据考试地点）
-- 申请者可在Imperial系统中注册
+- 报名时间：10 月场 2026 年 9 月 28 日截止（7 月 20 日起可报）
+- 费用：英国/爱尔兰 £78，其他地区 £133（UAT-UK 官网；2026-11 更正）
+- 在 UAT-UK 官网注册账户后订考位
 
 **准备建议**
 - 刷past papers和official practice questions（ESAT-UK.co网站）
@@ -417,15 +420,15 @@ Timeline事件                      日期/截止           相关方
   - Physics（如果申请者想显示数学strength）
 
 **考试结构**
-- **平台**：在线计算机考试
-- **分为两个Part**：
-  - **Part A**：Mathematical Applications（数学应用）
-    - 20个问题，50分钟
+- **平台**：Pearson 考点机考，不是在家在线考（2026-11 更正）
+- **分为两个Paper**：
+  - **Paper 1**：Applications of Mathematical Knowledge（数学应用）
+    - 20道选择题，75分钟
     - 考察在新情境中应用数学知识的能力
-  - **Part B**：Mathematical Reasoning（数学推理）
-    - 20个问题，50分钟
+  - **Paper 2**：Mathematical Reasoning（数学推理）
+    - 20道选择题，75分钟
     - 考察逻辑思维、证明、抽象推理
-- **总时长**：100分钟（1小时40分钟）
+- **总时长**：2小时30分钟，不能用计算器和词典（2026-11 按 UAT-UK 更正）
 - **评分**：1-9.0，combined score
 
 **为什么从MAT改为TMUA**
@@ -439,20 +442,20 @@ Timeline事件                      日期/截止           相关方
 - Tier 1申请者：6.5+/9
 
 **考试时间**
-- October sitting：2025年10月（日期待定）
-- January sitting：2026年1月
+- October sitting：2026年10月12-16日（中国大陆/港澳限 15 或 16 日）
+- January sitting：2027年1月4-8日（中国大陆/港澳限 1 月 8 日）；同一申请季只能考一次
 - 通常在10月进行较为保险（early application优势）
 
 **报名与费用**
-- 费用：约£100-130
-- 申请者通过UAT-UK或Imperial系统注册
+- 费用：英国/爱尔兰 £78，其他地区 £133（UAT-UK 官网；2026-11 更正）
+- 申请者通过UAT-UK官网注册
 - UK经济困难学生可申请waiver
 
 **准备建议**
 - 获取TMUA past papers和official guide
-- Part A需要熟悉problem solving approach：读题→识别数学原理→建立模型→求解
-- Part B需要understand proofs，如果只靠计算能力会吃亏
-- 中国学生常见问题：Part B的proof-based thinking可能不如UK学生熟悉（取决于数学教学风格）
+- Paper 1需要熟悉problem solving approach：读题→识别数学原理→建立模型→求解
+- Paper 2需要understand proofs，如果只靠计算能力会吃亏
+- 中国学生常见问题：Paper 2的proof-based thinking可能不如UK学生熟悉（取决于数学教学风格）
 
 **三年制数学申请的变化**
 - 2024-2025年入学：某些申请者可能用MAT
@@ -464,13 +467,10 @@ Timeline事件                      日期/截止           相关方
 #### 3. 医学相关入学考试
 
 **Medicine入学考试**：UCAT（非Imperial独有）
-- 实际上Imperial Medicine课程有限，主要竞争激烈
 - 需同时参加UCAT（UK Clinical Aptitude Test）
 - 要求：AAA at A-level，UCAT成绩全国前40%以上
 
-**Imperial不提供医学本科**（仅有graduate entry medicine）
-- 本科不能申请Medicine学位
-- 如有志于医学可以考虑Bio/Physics路线后续转向
+**Imperial 有本科医学（A100 MBBS/BSc）**，须考 UCAT，2026-10-15 18:00 截止；学制与 Graduate Entry 安排待核（2026-11 更正；imperial.ac.uk 直连 403，A100 课程页见于搜索结果）
 
 ---
 
@@ -480,8 +480,8 @@ Timeline事件                      日期/截止           相关方
 Essential Documents
 □ A-level/IB成绩单与预测成绩
 □ 英文语言证书（IELTS 6.5+或同等）
-□ 个人陈述（UCAS PS，2026年新格式3段，350字/段起）
-□ 推荐信（来自学校老师，通常数学/科学老师）
+□ 个人陈述（UCAS PS，2026年入学起新格式3题，每题最少350字符，合计4000字符）
+□ 推荐信（UCAS 1 份 reference，来自学校）
 □ UCAS补充表单（某些学科需要）
 □ 护照复印件
 □ 资金证明（如申请visa）
@@ -517,15 +517,15 @@ For Specific Subjects
 
 ### 2026年起新结构：三段制PS
 
-**重要变化**（适用于2026年9月入学）
+**重要变化**（2026年入学起适用，2027入学沿用）
 - 总字数：4,000字符（包括spaces）
 - 三个独立段落，每段至少350字符（约50-60词）
 - 三个不同的prompt，必须分开回答
 
-**三段结构通常为**：
-1. **Paragraph 1**：Why this subject?（为什么选择你的学科）
-2. **Paragraph 2**：How have you explored it?（你如何探索这个学科）
-3. **Paragraph 3**：What will you bring to university?（你为什么适合Imperial）
+**UCAS 三题原文**（2026-11 按 UCAS 官网 https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement 更正；原列第 2、3 题不是 UCAS 原题）：
+1. **Question 1**：Why do you want to study this course or subject?
+2. **Question 2**：How have your qualifications and studies helped you to prepare for this course or subject?
+3. **Question 3**：What else have you done to prepare outside of education, and why are these experiences useful?
 
 ---
 
@@ -600,6 +600,8 @@ For Specific Subjects
 
 #### 第三段：为什么是Imperial + 学术抱负（350-450字符）
 
+注：UCAS 第三题问的是「正式教育之外做了什么准备、为什么有用」，不是「为什么选 Imperial」；个人陈述会发给全部 5 个志愿，下文专写 Imperial 的建议与现行题目不符（2026-11）
+
 **目的**：说明Imperial的specific features为什么适合你，以及你未来的学术目标
 
 **结构**：
@@ -655,7 +657,7 @@ with different regularization techniques慢慢理解了bias-variance tradeoff。
 这个experience不仅教会我technical skills，更重要的是理解了good research的iterative nature——
 失败、reflection、improvement的cycle。
 
-【第三段：Why Imperial & Future - 400字符】
+【第三段：Why Imperial & Future - 400字符】（注：与现行 UCAS 第 3 题不符——第 3 题问正式教育之外的准备，且陈述会发给全部 5 个志愿，2026-11）
 Imperial College的Department of Computing以其rigorous theoretical grounding和industry connections而闻名。
 我particularly drawn to Imperial's AI and Robotics research groups，特别是他们在reinforcement learning
 和autonomous systems上的work。我注意到Imperial offers UROP program，允许undergraduates参与real research——
@@ -683,7 +685,7 @@ with computing，这与我believe computer science needs strong mathematical fou
 第二段：参加大学summer数学研究营，自主研究斐波那契数列的properties，撰写论文。
 描述了研究过程中的具体困难和思考过程。
 
-第三段：为什么选Imperial？提及Imperial的pure mathematics strength，提名wanted to work
+第三段（注：与现行 UCAS 第 3 题不符——第 3 题问正式教育之外的准备，且陈述会发给全部 5 个志愿，2026-11）：为什么选Imperial？提及Imperial的pure mathematics strength，提名wanted to work
 with Prof. XYZ在数论方向。
 ```
 
@@ -716,7 +718,7 @@ with Prof. XYZ在数论方向。
 - 如何通过iterative design cycles解决问题
 - 项目最终成功，火箭达到预计高度
 
-第三段：为什么Imperial？强调Imperial在aeronautical engineering的excellence和industry connections。
+第三段（注：与现行 UCAS 第 3 题不符——第 3 题问正式教育之外的准备，且陈述会发给全部 5 个志愿，2026-11）：为什么Imperial？强调Imperial在aeronautical engineering的excellence和industry connections。
 提及Imperial的design philosophy（solving real-world problems）与自己的价值观aligned。
 ```
 
@@ -797,6 +799,8 @@ contribute to research in computational complexity and later apply these insight
 ## 🏫 各系入学考试与面试具体情况
 
 ### 不同系部的考试安排
+
+（各系考试、面试、补充表单安排待核，2026-11：imperial.ac.uk 本轮 403 未能核对）
 
 | 系部/项目 | 入学考试 | 面试 | 补充表单 | 特殊要求 |
 |---------|--------|------|--------|---------|
@@ -1082,7 +1086,7 @@ but a way of seeing the world."
 - ✓ **理解而非做题**：focus on understanding concepts而非grinding past papers
 - ✓ **针对性准备**：
   - ESAT Physics：focus on problem-solving approach而非memorizing formulas
-  - TMUA：Part B（reasoning）是differentiation point，重点打磨
+  - TMUA：Paper 2（Mathematical Reasoning）是differentiation point，重点打磨
 - ✓ **模拟考试**：做official practice tests in exam conditions，理解自己的time management
 - ✓ **弱点补强**：如果ESAT Physics较弱，利用summer前夯实基础
 
@@ -1303,3 +1307,15 @@ Imperial的录取官希望看到的是有potential的students——不一定是�
 **作者**: 国际升学指导研究
 **免责声明**：本文档基于公开信息编写，不构成官方建议。有任何疑问请参考Imperial官方网站或咨询官方招生团队。
 
+---
+
+## 更正记录（2026-11）
+
+正文只保留现行事实与来源。以下是 2026-11 核对时从正文移出的旧写法，**均为错误或无出处的说法，仅供核对，不可引用**。
+
+- 〔✍️ 申请流程与时间线〕「ESAT注册 10月场 2026年9月28日截止 报名并付费（英国/爱尔兰 £7…」处：原写约£25
+- 〔✍️ 申请流程与时间线〕「模块数 ：每个模块 40 分钟选择题；Mathematics 1 必考，其他模块…」处：原写「4个、160分钟（4小时）」不准
+- 〔✍️ 申请流程与时间线〕「Mathematics 2（按专业选考，非强制；2026 11 更正）：27题×…」处：原写「强制」
+- 〔✍️ 申请流程与时间线〕「费用：英国/爱尔兰 £78，其他地区 £133（UAT UK 官网；2026 1…」处：原写约£25-30
+- 〔✍️ 申请流程与时间线〕「总时长 ：2小时30分钟，不能用计算器和词典（2026 11 按 UAT UK …」处：原写「各50分钟、共100分钟」
+- 〔✍️ 申请流程与时间线〕「费用：英国/爱尔兰 £78，其他地区 £133（UAT UK 官网；2026 1…」处：原写约£100-130

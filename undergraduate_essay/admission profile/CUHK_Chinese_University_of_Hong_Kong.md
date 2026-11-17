@@ -8,7 +8,7 @@
 | 内地生高考分数要求（全国参考线） | 理科：省排名前0.55%-2% ／ 文科：省排名前0.25%-1% |
 | 国际生整体录取率 | 约23% |
 | 全校整体录取率 | 约10% |
-| 年度奖学金总额 | 约2.59亿港元（11,000+份奖学金和奖项） |
+| 年度奖学金总额 | 2025-26 学年 11,700+ 份、约 2.96 亿港元："the University overall granted more than 11,700 scholarships and prizes totaling around HK$296,000,000"（[官网](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/list-of-scholarships/)）（2026-11 更正） |
 | 在校内地生人数 | 约1,500-2,000人（占全校非本地生约60-70%） |
 | 书院制系统 | 9所独立书院 |
 | 双语教学覆盖 | 大部分课程采用中英双语或英文教学 |
@@ -46,11 +46,11 @@
 5. **9月中旬：** 新生报到、书院报到、入学教育
 
 **特殊身份考生**
-- 持香港"本地学生"身份的内地生（如一次性单程证持有人、18岁前获得人才招聘计划资格者）也需要通过提前批申请，但被录取后享受本地学生学费标准（约12,000港元/年），而非内地生标准（约175,000港元/年）
+- 持香港"本地学生"身份的内地生（如一次性单程证持有人、18岁前获得人才招聘计划资格者）也需要通过提前批申请，但被录取后按本地学生学费（2027-28 为 HK$49,500/年；LS5 Category II 类本地生为 HK$230,000/年。哪些人属于 LS5 Category II，学费页只列费额（"Local students classified under LS5 Category II: HK$230,000 per annum"）未给定义，另见其引用文件，待核（2026-11）——持香港身份者不能默认按 HK$49,500 交费），而非非本地生标准（HK$230,000/年）（[官网](https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/)，2026-11 更正）
 
 ### 国际生申请路径
 
-**适用人群：** 持有国际高中学历、A-Level、IB、SAT等非高考成绩的申请者
+**适用人群：** 持有国际高中学历、A-Level、IB、SAT等非高考成绩的申请者。限制（2026-11 补）：参加 2027 年高考的内地生，即使另有其他学历，也 "must apply through the National Colleges and Universities Enrolment System"（[CUHK 国际 FAQ 第 4 题](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq)，2026-11 核对），不能改走国际途径
 
 **学术要求：**
 
@@ -66,10 +66,13 @@
 - A-Level最高成绩：6个A*
 - SAT最高分：1580/1600
 
-**申请轮次与截止日期（2026年入学）：**
-- **提前申请批次截止：** 2025年11月13日（获得Advance Offer资格，12月开始陆续发放offer）
-- **常规申请截止：** 2026年1月8日
-- **录取通知：** 3月-4月陆续发放
+**申请轮次与截止日期（2027年入学，2026-11 按官网更正）：**
+- **申请开放：** 2026年10月2日
+- **提前申请批次（Advance Offer Round）截止：** 2026年11月12日（2026年12月起陆续发放 Advance Offer）
+- **常规申请（Regular Round）截止：** 2027年1月7日（2027年2月起发放常规轮录取）；之后视名额可能继续接受申请
+- 只需提交一次申请；未获 Advance Offer 的申请自动进入常规轮
+- 申请费 HK$500（2027 入学）
+- 来源：[CUHK 国际/非本地 Important Dates](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/)、[Application Guides](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/application-guides/)
 
 ### 语言要求
 
@@ -266,7 +269,7 @@
 - 不需要额外的申请表或文书
 - 志愿填报前需仔细了解CUHK专业设置和各书院特点
 - 部分省份可以在提前批和其他批次同时填报CUHK，被提前批录取后不会再参与其他批次投档
-- 录取后立即需要完成缴费（学费按内地学生标准约175,000港元/年）
+- 录取后立即需要完成缴费（2027-28 非本地生学费 HK$230,000/年，2027 届每年调幅上限 3%，[官网](https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/)）（2026-11 更正）
 
 ### 国际生申请流程
 
@@ -275,17 +278,17 @@
           ↓
 准备成绩单、英语证书、推荐信、个人陈述等（10月-11月）
           ↓
-通过CUHK国际学生申请系统提交申请（Early Round: 截止11月13日）
+通过CUHK国际学生申请系统提交申请（Advance Offer Round: 截止2026年11月12日）
           ↓
-参加面试（邀请制，12月-1月，线上或到校）
+参加面试（仅入围者；并非所有专业都面试）
           ↓
 收到Advance Offer或Regular Round继续评审（12月-3月）
           ↓
-Regular Round申请截止（1月8日）
+Regular Round申请截止（2027年1月7日）
           ↓
 继续参加面试与综合评估（1月-2月）
           ↓
-最终录取决定（3月-4月）
+常规轮录取通知（2027年2月起，滚动发放）
           ↓
 确认入学、缴纳押金、注册（4月-5月）
           ↓
@@ -295,11 +298,11 @@ Regular Round申请截止（1月8日）
 ```
 
 **关键注意事项：**
-- 早申请（Early Round）录取机会更大，获得12月feedback
+- 提前批（Advance Offer Round）获选者 2026年12月起收到 offer；未获选者自动进入常规轮，与其他申请者「on equal footing」竞争（官网 Important Dates 注 2，2026-11 按官网更正）
 - 需要准备较多文书材料（个人陈述、推荐信等）
 - 可能需要参加线上或到校面试
 - 面试内容可能涉及专业相关知识和跨学科思维
-- 国际生学费同样约175,000港元/年，但可获得更多奖学金机会
+- 国际生学费同为非本地生标准："Tuition fee is HK$230,000 for the academic year 2027-28."；奖学金自动参评："Applicants admitted to a full-time undergraduate programme will automatically be considered for admission scholarships."（[官网 FAQ](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/)）。官方没有说国际生「奖学金机会更多」（2026-11 更正）
 
 ---
 
@@ -307,13 +310,14 @@ Regular Round申请截止（1月8日）
 
 ### 个人陈述的核心要求
 
-**字数与格式：**
-- 总字数不超过4,000个字符（包括空格）
-- 需用英文撰写
-- 建议用1.5倍行距、11-12号字体书写
+**字数与格式（2026-11 按官网更正）：**
+- 所有志愿共用一篇个人陈述，不超过 6,000 个字符（非本地页另写「up to two A4 pages or 6,000 characters」），通过网申系统提交
+- 申请医学（Medicine）须另交一篇 250 词以内的个人陈述
+- 推荐：至少 1 位学术推荐人（系统内最多可填 3 位）；简历（CV）：国际 FAQ 第 35 题所列材料（证件、个人陈述、成绩单、公开考试成绩、一封推荐信、其他相关资料）未提 CV，出处待核（2026-11）
+- 来源：[CUHK 国际 FAQ](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/)、[Application Guides](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/application-guides/)
 
-**核心题目：**
-"为什么你选择申请这个/这些项目？" (Why do you choose to apply for the programme(s)?)
+**核心题目（官网表述）：**
+"telling us why you choose the programme(s) in your application"（说明你为何选择所申请的课程）
 
 ### 高分文书的三层结构
 
@@ -847,3 +851,11 @@ Moreover, CUHK's Hong Kong location provides a unique vantage point—a place wh
 - CUHK各学院官方网站与招生资料
 - 多位CUHK在校生与毕业生访谈
 - 教育研究机构和媒体数据（QS排名、毕业生调查等）
+
+---
+
+## 更正记录（2026-11）
+
+正文只保留现行事实与来源。以下是 2026-11 核对时从正文移出的旧写法，**均为错误或无出处的说法，仅供核对，不可引用**。
+
+- 〔📝 个人陈述/文书要求（国际生）〕「推荐：至少 1 位学术推荐人（系统内最多可填 3 位）；简历（CV）：国际 FA…」处：原写「CV 可选」

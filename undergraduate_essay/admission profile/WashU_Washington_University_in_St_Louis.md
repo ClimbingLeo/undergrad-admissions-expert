@@ -112,7 +112,7 @@ CDS C7 非学业因素（2025–26，[来源](https://washu.edu/app/uploads/2026
 | 面试 | **不提供评估性面试**；国际生被「强烈鼓励」提交 InitialView 等第三方面试，不交不扣分（[English Testing Requirements](https://admissions.washu.edu/how-to-apply/english-testing-requirements/)） |
 | 可选材料 | 90 秒视频、Schoolhouse.world 认证 |
 | 作品集 | Art 学院必交，Architecture 强烈鼓励 |
-| 奖学金 | Danforth / Ervin / Rodriguez（Signature Scholar）与 Nemerov 写作奖学金：2026-12-16 前提交申请可获优先考虑，另答 250 词短题；各学院择优奖学金自动评审（[What's New](https://admissions.washu.edu/whats-new-at-washu/)） |
+| 奖学金 | Danforth / Ervin / Rodriguez（Signature Scholar）与 Nemerov 写作奖学金：2026-12-16 前提交申请可获优先考虑；Signature Scholar 另在 Pathway 答 250 词短题，Nemerov 改交写作作品集（2026-11 按官网更正）；各学院择优奖学金自动评审（[What's New](https://admissions.washu.edu/whats-new-at-washu/)） |
 | 申请费 | 75 美元；资助申请者可免 |
 | CSS Profile | 国际生申请资助须交 CSS Profile 和学校自有资助表（[CDS H7](https://washu.edu/app/uploads/2026/06/2025-2026-WashU-CDS.pdf)） |
 | 英语成绩 | 母语非英语的国际生**必须**提交 TOEFL / IELTS / Duolingo；最具竞争力申请者的分数：TOEFL 100（2026-01-21 后新制 5.0）、IELTS 7.0、Duolingo 130；**自 Fall 2027 起不再接受 SAT/ACT 代替英语成绩**；在美国英语授课高中读满 3 年可个案申请豁免 |

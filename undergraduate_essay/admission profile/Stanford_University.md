@@ -75,7 +75,7 @@
 | 第一代大学生（First-Gen） | 占录取班级约 21%，被视为"重要"因素 |
 | 捐赠者关联（Development） | 不公开，但报道显示存在非正式优先 |
 | 低收入/PELL Grant | Stanford 财援慷慨，家庭年收入 <$150K 可获大额补助 |
-| 国际生 | 竞争极激烈，录取率低于均值（无官方数据）；Stanford 对国际生提供 need-based financial aid |
+| 国际生 | 竞争极激烈，录取率低于均值（无官方数据）；Stanford 对国际生提供 need-based financial aid，但对国际生 need-aware："For international citizens who indicate on their application that they will be applying for financial aid, that request will be a factor in our admission evaluation, making the process more selective."（https://admission.stanford.edu/apply/international/）（2026-11 更正） |
 
 ---
 
@@ -84,31 +84,35 @@
 | 轮次 | 截止日期 | 参考录取率 |
 | --- | --- | --- |
 | REA（限制性早申） | 11 月 1 日 | 约 8–10%（高于 RD，但池子竞争激烈） |
-| RD（常规申请） | 1 月 2 日 | 约 2.5–3%（极低） |
+| RD（常规申请） | 1 月 5 日（2026-11 按官网更正） | 约 2.5–3%（极低） |
 
-> REA 注意：Stanford REA 是"限制性"而非 ED——不具有约束力，但要求申请时不能同时申请其他私立学校的 EA/ED（公立学校 EA 和 rolling admission 不受限）。
+> 2026–27 官网（[Requirements and Deadlines](https://admission.stanford.edu/apply/first-year/index.html)）：交可选 Arts Portfolio 的，Common App 须提前交——REA 10 月 15 日（作品 10 月 20 日）、RD 12 月 5 日（作品 12 月 10 日）。必交材料：申请费 100 美元或减免、SAT/ACT、School Report + 顾问推荐信、2 封学术科目老师推荐信、期中成绩（2 月 15 日前）。（2026-11 按官网补充）
+
+> REA 注意：Stanford REA 是"限制性"而非 ED——不具有约束力，但要求申请时不能同时申请其他私立学校的 EA/ED（公立学校非约束性的 EA 和 rolling admission 不受限，但公立学校的约束性 ED 同样不能申；REA 被拒或 defer 后可申别校 ED II）（[REA 政策](https://admission.stanford.edu/apply/first-year/decision_process.html)，2026-11 按官网补充）。
 
 ---
 
-## 📝 文书题目（2025–2026 申请季）
+## 📝 文书题目（2026–27 申请季）
 
-### 短回答（各 50 词）
+来源：[Stanford Application and Essays](https://admission.stanford.edu/apply/first-year/apply.html)（官网更新于 2026-07-21）。题目与上一季相同，下表改为官网原文（2026-11 按官网更正）。
 
-| 题目 | 字数限制 |
+### 短回答（每题 3–50 词）
+
+| 题目（官网原文） | 字数限制 |
 | --- | --- |
-| 你认为当今社会面临的最重要挑战是什么？ | 50 词 |
-| 过去两个暑假你如何度过？ | 50 词 |
-| 你希望亲眼见证哪个历史时刻或事件？ | 50 词 |
-| 简述你的一项课外活动、工作或家庭责任 | 50 词 |
-| 列出对你重要的五件事 | 50 词 |
+| What is the most significant challenge that society faces today? | 3–50 词 |
+| How did you spend your last two summers? | 3–50 词 |
+| What historical moment or event do you wish you could have witnessed? | 3–50 词 |
+| Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family. | 3–50 词 |
+| List five things that are important to you. | 3–50 词 |
 
 ### 正式文书（各 100–250 词）
 
-| 题目 | 字数限制 |
+| 题目（官网原文） | 字数限制 |
 | --- | --- |
-| Stanford 社区充满好奇心与学习热情，请反思一个让你真正对学习感到兴奋的想法或经历 | 100–250 词 |
-| 给未来的室友写一封便条，让他/她（以及我们）更了解你 | 100–250 词 |
-| 你的生活经历、兴趣和性格中，哪些方面将帮助你为 Stanford 作出独特贡献？ | 100–250 词 |
+| The Stanford community is deeply curious and driven to learn in and out of the classroom. Reflect on an idea or experience that makes you genuinely excited about learning. | 100–250 词 |
+| Virtually all of Stanford's undergraduates live on campus. Write a note to your future roommate that reveals something about you or that will help your roommate—and us—get to know you better. | 100–250 词 |
+| Please describe what aspects of your life experiences, interests, and character would help you make a distinctive contribution as an undergraduate to Stanford University. | 100–250 词 |
 
 ---
 

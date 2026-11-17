@@ -126,7 +126,7 @@ CDS C7 非学业因素（[CDS 2025–26](https://obp.umich.edu/wp-content/upload
 
 ## 文书题目（2026–27 申请季）
 
-来源：[UMich Essay Questions](https://admissions.umich.edu/apply/first-year-applicants/essay-questions)。另需 Common App 主文书。Ross 申请人另交 Ross Admissions Portfolio（见上节）。
+来源：[UMich Essay Questions](https://admissions.umich.edu/apply/first-year-applicants/essay-questions)（题目原文待核，2026-11：本轮 admissions.umich.edu 和 michiganross.umich.edu 均返回 403 人机验证，未能逐字复核）。另需 Common App 主文书。Ross 申请人另交 Ross Admissions Portfolio（见上节）。
 
 **必答 1（100–300 词）**
 > At the University of Michigan, we are focused on developing leaders and citizens who will challenge the present and enrich the future. In your essay, share with us how you are prepared to contribute to these goals. This could include the people, places, experiences, or aspirations that have shaped your journey and future plans.

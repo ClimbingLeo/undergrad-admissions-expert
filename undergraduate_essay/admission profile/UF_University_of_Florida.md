@@ -133,7 +133,7 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 - Main essay：通过辩论如何改变了自己面对挫折的态度
 - UF补充文书：对计算机科学和社区服务的热情如何结合，在UF的AI伦理研究中实现
 
-**申请结果**：被录取，获得Stamps Scholars（全额奖学金）
+**申请结果**：被录取，获得Stamps Scholars（全额奖学金）（注：Stamps 不是自动发放，要先通过 Early Decision / Early Action 进入 Honors Program，再收到邀请才能申请："Students admitted to the Honors Program through Early Decision and Early Action" ... "will receive an invitation to apply for this distinguished scholarship."，https://admissions.ufl.edu/cost-and-aid/scholarships ，2026-11 补充）
 
 **分析**：
 - 深度：在3-4个领域有突出的成就和领导力
@@ -192,7 +192,7 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 - Common Application essay：从小众播种者的故事开始，讲述如何在校园推行环保，面对同学的怀疑与嘲笑，最终获得认可
 - UF补充文书：作为国际学生，如何在不同文化背景中找到共同点，为UF校园的多样性作出贡献
 
-**申请结果**：被录取，获得部分Merit Scholarship（约50%学费）
+**申请结果**：被录取，获得部分Merit Scholarship（约50%学费）（示例画像，奖学金结果不可参考，2026-11 注）
 
 **分析**：
 - 国际生优势：TOEFL完美分、IB体系显示学术全面性
@@ -242,7 +242,7 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 | 州内申请者（In-State） | ★★★★★ | UF是公立大学，极为优先录取佛罗里达州学生，录取率显著更高 |
 | 运动员（recruited athlete） | ★★★★★ | 如被学校教练组推荐，几乎保证录取 |
 | 申请冷门专业 | ★★★★ | 申请计算机、工程等热门专业的学生被拒率高；申请古典文学、地质学等冷门专业录取率更高 |
-| 非申请经济援助 | ★★★ | 虽然不是官方政策，但不需要financial aid的学生录取率稍高 |
+| 非申请经济援助 | — | 国际生本来就拿不到 UF 管理的联邦资助："Students in the U.S. on an F1, F2, J1 or J2 exchange visitor visa, or a G-series visa are not eligible to receive federal aid administered by UF Student Financial Aid and Scholarships (SFA)."（https://www.sfa.ufl.edu/international）（2026-11 更正） |
 | 第一代大学生（First-Gen） | ★★★ | 列为"重要"因素，但影响有限 |
 | 少数族裔身份 | ★★★ | 在多样性审查中有帮助，但不如传统STEM竞争激烈 |
 | 女性申请STEM专业 | ★★ | 作为女性进入男性主导领域（工程、计算机科学）有小幅优势 |
@@ -296,6 +296,10 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 | 题目 | 字数限制 | 适用情况 |
 | --- | --- | --- |
 | "你是否有任何工作或家庭义务限制了你的课外活动参与？如果有，请描述。" | 250字 | 可选但推荐（如适用） |
+| 是否参加过课外的升学辅导项目（如 Educational Talent Search、Upward Bound 等）？如有，写项目名称、参与内容和时长 | 250字 | 可选（如适用） |
+| 是否有其他补充信息或特殊情况需要招生委员会在审阅时知道 | <250字 | 可选（如适用） |
+
+（原只列一道选答题；UF 官网不公布题面，以上三道选答题据 College Essay Guy 2026/27 转录补齐，题目原文待核，2026-11）
 
 ### 申请到Honors College的额外文书
 
@@ -303,13 +307,17 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 
 | 题目 | 字数限制 |
 | --- | --- |
-| "在当今快速发展的世界中，人工智能（AI）正在改变我们的学习、工作和相互交互的方式...反思这一点，你计划如何在大学期间通过学术研究、学习机会和课外活动来驾驭这个不断发展的格局？你希望Honors项目如何影响你的学习方式和与他人的互动？" | 400字 |
+| 2026/27 据 College Essay Guy 转录（2026-11 更正）："The UF Honors Program's mission is to connect, nurture and engage the next generation of scholars who change the world. How do you envision yourself contributing to this mission? Consider the people, experiences, resources, and aspirations that have shaped your journey thus far and your future plans." | 150–400 词 |
+
+（Honors 官网 https://www.honors.ufl.edu/admissions/first-year-honors-student-admissions/ 只说在 Common App 上 "complete the additional Honors essay"，不公布题面；以上为非官方转录，题目原文待核，2026-11）
 
 ### 申请到Innovation Academy的额外文书
 
 | 题目 | 字数限制 |
 | --- | --- |
 | "讨论为什么你有兴趣成为UF Innovation Academy的学生，以及它将如何影响你的职业道路。" | 250-400字（建议） |
+
+（题目原文待核，2026-11：UF 官网未公布 Innovation Academy 题面）
 
 ---
 
@@ -428,6 +436,8 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 ---
 
 ### 文书范例 #5：Honors专项文书示例（AI伦理方向）
+
+注：此例所答的 AI 主题 Honors 题目不在 2026–27 题目中（2026/27 转录的 Honors 题目已改为谈如何贡献 Honors Program 的使命，原文待核，2026-11）
 
 **题目回顾**："在当今快速发展的世界中，人工智能正在改变我们的学习、工作和相互交互的方式...你计划如何在大学期间通过学术研究、学习机会和课外活动来驾驭这个不断发展的格局？"
 
@@ -712,7 +722,7 @@ UF在申请审查中列出"高中课程难度"为"非常重要"的因素，这�
 ### 7. Honors College的额外策略
 
 **如果你对Honors感兴趣**：
-- 这需要一个额外的essay（400字关于AI和learning）
+- 需另写一篇 Honors 文书（题目见「申请到Honors College的额外文书」一节，原文待核，2026-11 更正）
 - Honors的录取率更低，竞争更激烈（从16K+申请者中选择<2000）
 - 只有在你真实对Honors的学术强度和社区感兴趣时，才应该申请
 
@@ -890,7 +900,7 @@ UF 不收推荐信：官网材料清单里没有推荐信，CDS C7 中 Recommend
 
 **10月中-下旬**：
 - 完成并定稿UF supplemental essays
-- 如果申请Honors，完成AI ethics essay
+- 如果申请Honors，完成Honors文书（2026/27 题目为如何贡献 Honors Program 使命，2026-11 更正）
 - 最后review整个application一遍，检查拼写和语法
 - 确认所有信息正确无误
 
@@ -956,3 +966,14 @@ UF 不收推荐信：官网材料清单里没有推荐信，CDS C7 中 Recommend
 **数据周期**：2024-2025 / Class of 2029
 **适用年份**：2025-2026申请周期及之后
 **说明**：本文档旨在为中国学生和咨询机构提供UF申请的全面指南，数据基于官方公布的统计、真实申请案例和招生官的明确表述。所有建议均基于最新的2025-2026申请数据和UF招生办公室的官方政策。
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- Hooks 表：「不需要 financial aid 的学生录取率稍高」，没有官方依据
+- Honors 文书题：原列「在当今快速发展的世界中，人工智能……」AI 主题题目，为往年题目
+- 时间规划：原写 Honors「AI ethics essay」，为往年题目
+- Honors 额外策略：原写「额外 essay（400字关于AI和learning）」，为往年题目

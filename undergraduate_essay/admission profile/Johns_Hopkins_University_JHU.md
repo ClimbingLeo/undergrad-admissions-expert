@@ -2,7 +2,7 @@
 
 ## 📊 关键录取数据（2025–26 CDS，Fall 2025 入学 / Class of 2029）
 
-> 2026-11 已与 JHU 官方 CDS 2025–26 原件（[OIRA Common Data Set 2025-26](https://oira.jhu.edu/common-data-set-2025-26/)）逐项核对。旧版本这里标「Class of 2029」，用的却是上一届（2024–25 CDS）的数字，已更正。
+> 2026-11 已与 JHU 官方 CDS 2025–26 原件（[OIRA Common Data Set 2025-26](https://oira.jhu.edu/common-data-set-2025-26/)）逐项核对（2026-11 更正）。
 
 | 指标 | 数值 |
 | --- | --- |
@@ -16,7 +16,7 @@
 | 国际申请者 | 10,705 人申请、404 人录取、183 人入学；国际生录取率约 3.8%，占全部录取的 13.2%（C1 按居住地拆分） |
 | 候补 | 给出 2,058 / 接受 1,359 / 最终录取 247（C2） |
 
-> JHU 是 ED 学校：ED I 11 月 1 日截止，ED II 1 月 3 日截止（C21）；ED 录取率约为非 ED 的 2 倍。ED 池里有多少带 hook 的申请人官方没有公布，不能简单理解为「ED 让录取机会翻倍」。
+> JHU 是 ED 学校：ED I 11 月 1 日截止，ED II 1 月 2 日截止（2026–27 官网；CDS 2025–26 C21 记的上一季为 1 月 3 日，2026-11 更正）；ED 录取率约为非 ED 的 2 倍。ED 池里有多少带 hook 的申请人官方没有公布，不能简单理解为「ED 让录取机会翻倍」。
 
 ---
 
@@ -77,12 +77,12 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 | Hook 类型 | 说明 |
 | --- | --- |
 | ED（早申约束） | 录取率 10.9% vs 整体 6.1%（CDS 2025–26）；确定 JHU 是第一志愿时值得使用 |
-| ED II | 1 月 3 日截止、2 月 12 日出结果（CDS C21）；录取率官方未单独公布；适合到 1 月才确认 JHU 是第一志愿的学生 |
+| ED II | 1 月 2 日截止（2026–27 官网；CDS 2025–26 C21 记的上一季为 1 月 3 日，2026-11 更正）、2 月 12 日出结果；录取率官方未单独公布；适合到 1 月才确认 JHU 是第一志愿的学生 |
 | Legacy（校友子女） | **JHU 明确表示 Legacy 不影响录取决定**，是美国少数不给 Legacy 优待的顶校之一 |
 | 招募运动员 | JHU 为 Division III（无体育奖学金），招募影响力有限，但部分项目（曲棍球、赛艇）确实有少量招募名额 |
 | First-Gen | CDS 2025–26 C7 为 Considered |
 | 捐赠者关联 | 不公开，但规模小于顶级捐赠型学校 |
-| 国际生 | 录取率约 3.8%（CDS 2025–26，低于整体 6.1%），竞争激烈；JHU 不提供国际生 need-based aid（与 Harvard/Yale/Princeton 不同） |
+| 国际生 | 录取率约 3.8%（CDS 2025–26，低于整体 6.1%），竞争激烈；（2026-11 更正）JHU 对国际生 need-aware（"financial circumstances are considered in the admissions process"）；提供 need-based 与 merit 资助但名额有限（"Need-based and merit scholarships are available for international applicants, although both types of assistance are limited."），录取后满足 100% 已证明需求；四年里任何时候可能需要资助的，必须在首次申请时一并申请（https://apply.jhu.edu/international-applicants ） |
 
 ---
 
@@ -91,24 +91,30 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 | 轮次 | 截止日期 | 参考录取率 |
 | --- | --- | --- |
 | ED（Early Decision，约束性） | 11 月 1 日 | ED I 与 ED II 合计 10.9%（约非 ED 的 2 倍） |
-| ED II（Early Decision II） | 1 月 3 日 | 官方未单独公布 |
+| ED II（Early Decision II） | 1 月 2 日（2026-11 按官网更正） | 官方未单独公布 |
 | RD（Regular Decision） | 1 月 2 日 | 非 ED 约 5.2% |
 
 ---
 
-## 📝 文书题目（2025–2026 申请季）
+## 📝 文书题目（2026–27 申请季）
 
 | 题目 | 字数限制 |
 | --- | --- |
-| **主文书（必答）**：告诉我们你生命中一个重要的"第一次"——无论大小——它如何塑造了你？（Tell us about an important first in your life—big or small—that has shaped you.） | 350 词 |
+| **补充文书（必答）**：At Johns Hopkins, community is built through dialogue, collaboration, and a willingness to engage across differences. Whether on campus or in the broader world, community depends on bridge builders who can listen to differing perspectives, challenge their own assumptions, or work together toward shared goals. Drawing on your own experiences, what have you learned about engaging across differences and how has it shaped the way you think about building bridges, enhancing community, and working with others? | 350 词 |
 
-> JHU 2025–26 只要求**一篇**补充文书，是所有顶校中要求最精简的之一。这意味着这 350 词的权重极高，必须做到精准、有深度、有个性。
+> 题目 2026-11 按官网更正；来源 apply.jhu.edu/hopkins-insider/advice-for-crafting-your-supplemental-essay/ 与 apply.jhu.edu/how-to-apply/application-deadlines-requirements。
+
+> JHU 2026–27 仍只要求**一篇**补充文书（另加 Common App 个人陈述）。2025–26 的「重要的第一次（an important first）」题已被替换（2026-11 按官网更正）。其他材料：标化必交；升学顾问的 Secondary school report；2 封来自不同学科任课老师的推荐信；无面试。
 
 ---
 
 ## 📖 真实录取文书解析
 
+> 注（2026-11 更正）：以下三篇所答为 2025–26「重要的第一次」题，该题 2026–27 已取消，只作写法参考。
+
 ### 文书 #1："Dancing Together"——Dayann（体验"第一次"协作）⭐ 社群感范本
+
+注：此例所答题目不在 2026–27 题目中（2026-11）
 
 **核心内容：**  
 学生描述第一次在某个集体活动（舞蹈/表演类）中真正体验到"和陌生人共同创造"的感受——从陌生、紧张到融合，从"我"到"我们"的叙事转变。
@@ -123,11 +129,13 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 - 如果学生本身没有真实的集体协作体验，不要硬套此模板
 - 舞蹈/音乐类题材在中国申请者中容易显得"轻"——需要在文书中点明更深的认知意义
 
-**对中国学生的启示：** JHU 的文化是"发现 + 合作"。如果你的"第一次"能展示你如何打破边界、建立联结，比一味强调个人成就更有共鸣。
+**对中国学生的启示：** JHU 的文化是"发现 + 合作"。如果你的经历能展示你如何打破边界、建立联结（2026-11 更正：不再限于「第一次」），比一味强调个人成就更有共鸣。
 
 ---
 
 ### 文书 #2："Queen's Gambit"——Dante（智识上的第一次交锋）⭐ 竞争性思维范本
+
+注：此例所答题目不在 2026–27 题目中（2026-11）
 
 **核心内容：**  
 学生以国际象棋某局关键棋步作为叙事锚点，描述第一次真正"理解"牺牲策略（sacrifice）对最终胜局的意义——从此开始用"以退为进"的思维框架看待学习和科研决策。
@@ -141,11 +149,13 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 - 中国学生若选象棋/围棋等类似题材，常见错误是把文书写成竞赛战绩列表，而非认知转变故事
 - 350 词极其紧张，需要精确取舍；中国学生常习惯铺垫过长
 
-**对中国学生的启示：** JHU 不需要"我成功了"的故事，而需要"我第一次理解了某件事的本质"的故事。这个认知转变要落地到具体的思维框架，而不只是情感升华。
+**对中国学生的启示：** JHU 不需要"我成功了"的故事，而需要"我真正理解了某件事的本质"的故事（2026-11 更正）。这个认知转变要落地到具体的思维框架，而不只是情感升华。
 
 ---
 
 ### 文书 #3："The Stereotype Project"——（社会行动的第一次）⭐ 创变者范本
+
+注：此例所答题目不在 2026–27 题目中（2026-11）
 
 **核心内容：**  
 学生在八年级时创作了一幅回应刻板印象的艺术作品并发布网上，鼓励朋友用 #StereotypeProject 标签分享自己的故事——最终演变为席卷 1000+ 青少年艺术家参与的网络运动，并进入本地学校课程。
@@ -166,16 +176,13 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 
 ## 🔍 文书规律总结
 
-**JHU 文书的核心逻辑：发现的第一步 + 对自我认知的重塑 + 与霍普金斯价值观的连接**
+> 注（2026-11）：以下规律原针对 2025–26「重要的第一次」题，该题 2026–27 已取消；只针对旧题的条目已删除，剩余几条为通用写法。
 
-1. **"重要的第一次"不需要是大事件**——可以是第一次提问、第一次失败、第一次帮助别人，重要的是它带来了真实的认知转变
-2. **学校的品牌是"每个伟大发现都始于第一步"**——文书越能呼应这个价值观，越有共鸣
-3. **避免"我第一次做了XX手术/实验/发明"的事功式叙事**——JHU 想看到的是 growth mindset，而非成就列表
-4. **350 词要极度精练**——开头必须有抓人的具体画面，结尾必须点明对你未来（尤其是在 JHU）发展的意义
-5. **多数强文书都有一个"转折时刻"**——从以为自己懂了，到发现根本不懂，再到真正理解
+1. **避免事功式叙事**——JHU 想看到的是 growth mindset，而非成就列表
+2. **350 词要极度精练**——开头必须有抓人的具体画面，结尾必须点明对你未来（尤其是在 JHU）发展的意义
+3. **多数强文书都有一个"转折时刻"**——从以为自己懂了，到发现根本不懂，再到真正理解
 
 **中国学生的核心差距：**
-- 倾向于选择"大"的第一次（第一次做手术/比赛夺冠），导致文书缺乏私人性和具体感
 - 文书结尾常流于"这让我想在 JHU 研究 XXX"——过于空洞，需要点明具体的研究方向/教授/项目
 - 不习惯展示脆弱、困惑或认知局限；但 JHU 文书最打动人的往往恰恰是"我不知道"的诚实时刻
 
@@ -214,4 +221,12 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 
 2. **JHU 的"专业匹配度"审查很严格**：不同于综合型文理学院，JHU 招生官会判断你"真的了解这所学校"。文书中点名具体的 JHU 研究项目、教授、或课程（如 BME 的 Nexus 课程、KSAS 的 Writing Seminars 等）是加分项。中国学生常见错误：文书里把 JHU 当"哈佛备胎"来写，读起来像可以替换成任何名校。
 
-3. **"First"这道题是选择成本最低、但效益最高的文书题之一**：题目开放度极高，允许任何类型的学生讲任何类型的故事。咨询老师应当帮助学生进行深度 brainstorming，找到那个"小但真实"的第一次——而不是引导学生选择"看起来最impressive"的事件。写小而深远好过写大而空洞。
+3. **（2026-11 更正）原针对「First」题的建议已删除：该题 2026–27 已换成「跨越分歧、搭建桥梁」题。** 写小而深远好过写大而空洞这一点仍适用。
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- 关键录取数据：旧版本标「Class of 2029」，用的却是 2024–25 CDS 的数字

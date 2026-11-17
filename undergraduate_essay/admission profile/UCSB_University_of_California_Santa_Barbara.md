@@ -51,7 +51,7 @@
 **UCSB采用"考试盲目"(Test-Blind)政策**：
 - ❌ **SAT/ACT成绩不考虑** 用于录取决定
 - ❌ **SAT/ACT成绩不考虑** 用于奖学金评定
-- ✅ **仅限用途**：如果学生入学，SAT/ACT成绩可用于课程分班和特定奖学金资格认定
+- ✅ **仅限用途**：如果学生入学，SAT/ACT成绩可用于课程分班；颁发奖学金时不考虑（官网原话："UCSB will not consider SAT or ACT test scores when making admissions decisions or awarding scholarships for applicants."，https://admissions.sa.ucsb.edu/faq）（2026-11 更正）
 
 这意味着：**无论你的标准化考试成绩如何，都不会影响被UCSB录取的机率**。这对国际生和中国学生是重大利好，因为：
 1. 免除了参加SAT/ACT考试的压力
@@ -275,24 +275,15 @@ UCSB采用**整体招生评估(Holistic Admissions Review)**，将课外活动�
 
 ## ✍️ 申请时机与轮次
 
-### 2024-2025年申请日程
+### 申请日程（2026-11 按 UC 官网更正）
 
-| 轮次 | 申请截止日期 | 录取通知 | 录取率变化 | 建议 |
-|------|------------|--------|----------|------|
-| **Early Action (EA)** | 11月30日 | 12月 | 通常略低 | 不推荐 — EA仅对加州学生，国际生参加Regular更有利 |
-| **Regular Decision (RD)** | **1月30日** | **3月** | 标准38% | **推荐** — 国际生标准轮次，充分时间准备 |
-| **后续轮次** | 2月后 | 滚动 | 逐日下降 | 不推荐 — 过晚申请，竞争激烈，Yield随着招生进展下降 |
+UC 本科申请只有一轮，**没有 Early Action / Regular Decision**。2027 秋季入学提交期为 **2026 年 10 月 1 日—11 月 30 日**，3 月 1—31 日陆续放榜，5 月 1 日前确认入学（[UC Admissions – Dates & deadlines](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html)）。（2026-11 更正）
 
 ### 申请时机建议
 
 **最优策略（对国际生）：**
-1. **截止前2-3周递交**（约1月15-20日）
-   - 原因：充分准备高质量文书，避免技术问题/邮件延迟
-   - 风险规避：最后24小时申请可能因网络问题错过截止
-
-2. **不必赶早**（相比RD首日）
-   - 理由：UCSB采用整体审查而非早期排序；1月30日截止的所有申请在同一轮审查
-   - 充分准备的1月29日申请 > 仓促的1月2日申请
+1. **11 月中旬前提交**，留出余量应对系统拥堵；早交不加分，同一截止日前的申请一起审。
+2. 一份 UC 申请可同时勾选多所分校，PIQ 通用。
 
 3. **国际生申请额外考虑：**
    - 准备充足的时间应对国际学校成绩单认证（WES等）
@@ -307,45 +298,16 @@ UCSB使用统一的UC申请系统，所有申请者需从以下8道题目中选�
 
 ### 8道PIQ题目完整版
 
-#### **题1：领导力与团队合作**
-**Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes, or contributed to group efforts over time.**
+> 以下 8 题为 UC 官网原文（2026-11 按官网更正；来源：[UC Admissions – Personal insight questions](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/personal-insight-questions.html)）。8 选 4，每题最多 350 词；官网说明 "All questions are equal. All are given equal consideration in the application review process, which means there is no advantage or disadvantage to choosing certain questions over others."
 
-*你的领导经历如何积极影响他人、化解矛盾或对长期团队努力做出贡献？*
-
-**题2：天赋/技能发展**
-**Every person has a creative side, and it can be expressed in many ways: problem-solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.**
-
-*每个人都有创意潜能。描述你如何表达创意——无论是通过问题解决、创新思维还是艺术形式。*
-
-#### **题3：突破信念与观念**
-**Reflect on a time when you questioned or challenged a belief or idea. What prompted your thinking? What was the outcome?**
-
-*描述一次你质疑或挑战某个信念/观念的经历。什么促使你这样想？结果如何？*
-
-#### **题4：教育机会或挑战**
-**Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you faced.**
-
-*描述你如何利用重要的教育机会，或如何克服面临的教育障碍。*
-
-#### **题5：背景、身份或重大个人经历**
-**Describe the most significant challenge you have faced and the steps you have taken to overcome this challenge. How has this challenge affected your academic achievement, extracurricular activities, or personal growth?**
-
-*描述你面临的最大挑战、克服挑战的步骤，以及它如何影响你的学业、课外活动或个人成长。*
-
-#### **题6：学术热情**
-**Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.**
-
-*描述一个激励你的学科，以及你如何在课内外推进这个兴趣。*
-
-#### **题7：学校或社区贡献**
-**What have you done to make your school or your community a better place?**
-
-*你为学校或社区的改善做过什么？*
-
-#### **题8：额外贡献**
-**Beyond what has already been shared in your application, what do you believe makes you a strong candidate for admissions to the University of California?**
-
-*除了应用中已分享的内容，还有什么让你成为UC的强势候选人？*
+1. **领导力**：Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes or contributed to group efforts over time.
+2. **创意**：Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+3. **天赋或技能**：What would you say is your greatest talent or skill? How have you developed and demonstrated that talent over time?
+4. **教育机会或障碍**：Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.
+5. **最大挑战**：Describe the most significant challenge you have faced and the steps you have taken to overcome this challenge. How has this challenge affected your academic achievement?
+6. **学科兴趣**：Think about an academic subject that inspires you. Describe how you have furthered this interest inside and/or outside of the classroom.
+7. **学校或社区**：What have you done to make your school or your community a better place?
+8. **其他优势**：Beyond what has already been shared in your application, what do you believe makes you a strong candidate for admissions to the University of California?
 
 ---
 
@@ -357,7 +319,7 @@ UCSB使用统一的UC申请系统，所有申请者需从以下8道题目中选�
 
 **组合A：学术+成长+服务+独特性**
 - ✅ 题6（学术热情）— 展现专业深度
-- ✅ 题3或题5（思维突破/挑战克服） — 展现抗压力和成长
+- ✅ 题3或题5（天赋技能 / 克服挑战） — 展现长期投入或抗压与成长（2026-11 更正：原题3「质疑信念」是 Common App 题，不在 UC 题目中）
 - ✅ 题7（社区贡献） — 展现社会责任
 - ✅ 题8（额外优势） — 突出国际身份优势/研究成果/特殊经历
 
@@ -382,13 +344,15 @@ UCSB使用统一的UC申请系统，所有申请者需从以下8道题目中选�
 1. **故事性强** — 从一个具体时刻/场景开始，而非抽象陈述
 2. **体现反思** — 说明你学到了什么、如何改变了你
 3. **展现个性** — 用你独特的声音和例子
-4. **与UCSB文化契合** — 虽然PIQ不特指学校，但后续可能在面试中解释为什么选UCSB
+4. **与UCSB文化契合** — PIQ 不针对具体分校，UC 也不面试；不必写「为什么选 UCSB」（2026-11 更正）
 
 ---
 
 ## 📖 真实录取文书解析
 
 ### 文书案例1：学术突破型（题6+题3组合）
+
+注：本例原把题3写成「质疑信念」，该题是 Common App 题，不是 UC PIQ；UC 题3 是「最大的天赋或技能」（2026-11）。
 
 **学生背景：** 中国学生，国际学校，GPA 4.22，申请UCSB计算机科学专业
 
@@ -719,13 +683,12 @@ UCSB使用统一的UC申请系统，所有申请者需从以下8道题目中选�
 ### 5. **财务证明与国际生身份的策略性准备**
 
 **UCSB对国际生的财务政策：**
-- UCSB官方说"admitted"国际生可以获得need-based aid
-- 但现实中，国际生获得的经济援助通常少于美国学生
+- 官网原话："Financial aid and scholarships for international students are very limited." / "As a public university in California, we primarily award financial aid to U.S. residents."（https://admissions.sa.ucsb.edu/international）。国际生应按自筹全部费用准备（2026-11 更正）
 
 **策略性准备：**
 - ✅ 提前准备银行存款证明、财务文件（I-20需要）
 - ✅ 如果家庭有经济困难，在申请中可以提及（经济困难可能微弱加分）
-- ✅ 准备奖学金plan（UCSB、Fulbright、国内scholarship等）
+- ✅ 按自费准备资金；UCSB 对国际生的奖学金非常有限。Fulbright 外国学生项目不资助本科入学（官网原话："enables graduate students, young professionals and artists from abroad to study and conduct research"，https://foreign.fulbrightonline.org/about/foreign-fulbright），不要列入本科奖学金计划（2026-11 更正）
 - ❌ 不要声称困难而实际不困难（可被发现）
 
 ---
@@ -736,15 +699,12 @@ UCSB使用统一的UC申请系统，所有申请者需从以下8道题目中选�
 
 | 时间 | 任务 |
 |------|------|
-| 11月15日前 | 4篇PIQ初稿完成，发给升学顾问/英语老师 |
-| 11月20-28日 | 收集反馈，修改第1-2稿 |
-| 12月1-15日 | 细打磨，获得native speaker反馈 |
-| 12月16-25日 | 最终审查，测试申请系统 |
-| 12月26日-1月15日 | 冷静期，1月10日开始最后一轮修改 |
-| **1月20-25日** | **提交申请（留5天技术缓冲）** |
-| 1月26-30日 | 核实申请已收到 |
+| 9月底前 | 4篇PIQ初稿完成，发给升学顾问/英语老师 |
+| 10月 | 收集反馈，修改、打磨；10月1日起可提交 |
+| 11月1-15日 | 最终审查并提交（留出技术缓冲） |
+| 11月30日 | UC 申请截止（2026-11 按 UC 官网更正） |
 
-**避免：** 1月29-30日才提交，如遇技术问题无法补救
+**避免：** 11月29-30日才提交，如遇技术问题无法补救
 
 ---
 
@@ -781,7 +741,7 @@ Now I [具体的改变行为], and this change extends beyond [项目] to [更�
 
 ---
 
-### 8. **了解UCSB的特色，后续面试/开放日的准备**
+### 8. **了解UCSB的特色与开放日**
 
 **UCSB的独特身份：**
 - 美国顶尖公立研究大学，但不如Berkeley/UCLA那么以精英自居
@@ -792,7 +752,7 @@ Now I [具体的改变行为], and this change extends beyond [项目] to [更�
 - ✅ 虚拟开放日参加（看UCSB招生页面）
 - ✅ 如果在美国，参加Information Session
 - ✅ 关注校友故事（LinkedIn搜UCSB alumni看他们在做什么）
-- ✅ 为后续可能的面试准备"为什么UCSB"（虽然PIQ不要求，但Zoom interview可能问）
+- UC 本科申请不设面试（2026-11 更正）
 
 ---
 
@@ -868,3 +828,13 @@ Now I [具体的改变行为], and this change extends beyond [项目] to [更�
 ---
 
 *此份录取画像编写于2026年4月。UCSB录取政策如有更新，请参考官方最新指南。最后祝所有申请者申请顺利！*
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- 时机表：「EA 11月30日、RD 1月30日、2月后滚动」，与 UC 官网不符
+- 时间规划表：原按 1月30日截止排期
+- 面试：原写「Zoom interview 可能问」，无据

@@ -247,16 +247,17 @@ PS强调了经济学作为"社会科学之王"的迷人之处。通过一个具�
 
 所有UCL本科课程申请**必须通过UCAS（英国大学招生服务）**提交，UCL的UCAS代码为**U80**。中国学生无法直接向UCL申请，必须通过UCAS平台。
 
-### 关键时间节点（2025-2026周期）
+### 关键时间节点（2026-27周期，2027入学）
+
+（2026-11 更正：原表为 2026 入学日期。以下 UCAS 截止按 UCAS 官网 https://www.ucas.com/advisers/help-and-training/toolkits/2027-cycle-toolkit 的通用规则；ucl.ac.uk 本轮返回 403，UCL 自己的截止日和出结果时间未能核对，待核）
 
 | 阶段 | 时间 | 说明 |
 |------|------|------|
-| **UCAS注册开放** | 2025年9月2日 | 可以开始在UCAS官网注册和准备申请 |
-| **大部分课程deadline** | 2026年1月14日18:00 | 绝大多数专业的截止日期（英国时间）；建议至少提前1周提交 |
-| **医学/牙医/兽医deadline** | 2025年10月15日18:00 | 这三个竞争最激烈的课程有提前截止 |
-| **UCAS Extra** | 2026年2月25日至7月1日 | 如果初始5个志愿都被拒，可通过Extra系统申请 |
-| **Late and Clearing deadline** | 2026年7月 | 逾期申请和Clearing期间的申请 |
-| **决定公布** | 最迟2026年4月底 | UCL目标在4月底前完成所有决定 |
+| **UCAS开放提交** | 2026年9月 | |
+| **医学deadline** | 2026年10月15日18:00 | UCAS：多数医学、牙医、兽医课程的截止日（UCL 本科只有医学属此类） |
+| **大部分课程deadline** | 2027年1月13日18:00 | UCAS 2027 入学 "January equal consideration date"；建议至少提前1周提交 |
+| **UCAS Extra** | 2027年2月25日起 | 如果初始5个志愿都被拒，可通过Extra系统申请 |
+| **决定公布** | 待核 | 未能在 UCL 官网核对 |
 
 ### 申请材料清单
 
@@ -268,12 +269,12 @@ PS强调了经济学作为"社会科学之王"的迷人之处。通过一个具�
    - 高中成绩单（如适用）
 
 2. **Personal Statement（个人陈述）**
-   - 4000字符限制（含空格）或47行
+   - 2026 入学起为 UCAS 三题格式，每题最少 350 字符，合计 4000 字符（含空格）（2026-11 按 UCAS 官网更正）
    - 需要通过UCAS提交（同一份用于5个志愿）
    - 重点突出对所申专业的理解和热情
 
 3. **推荐信（Reference Letter）**
-   - 由学校老师或导师撰写
+   - UCAS 1 份（"You only need one reference on your application."），由学校老师或导师撰写
    - 必须通过UCAS在线系统提交
    - 对UCL非常重要，需要选择最了解申请者学术能力的老师
 
@@ -281,7 +282,9 @@ PS强调了经济学作为"社会科学之王"的迷人之处。通过一个具�
    - IELTS、TOEFL或其他认可的英语考试成绩
    - 需要在成绩公布后与UCAS一起提交
 
-5. **额外材料**（按专业而定）
+5. **额外材料**（按专业而定；UCL 各专业要求待核，2026-11：ucl.ac.uk 本轮 403）
+   - **ESAT**：UAT-UK 官网列 UCL 为使用 ESAT 的大学之一（"Imperial College London, the University of Cambridge, the University of Oxford and UCL all use the ESAT"）；UCL「Tests, tasks and interviews」页（搜索摘录，直连 403）写 ESAT "will be required for the Electronic and Electrical Engineering BEng and … MEng"（https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/tests-tasks-and-interviews ）；其他专业是否要考待核（2026-11 更正）
+   - **TMUA**：Economics BSc 需考 TMUA（据 2026 周期课程页），2027 是否沿用待核（2026-11 补）
    - **艺术/设计**：作品集（Portfolio），不超过10页A4
    - **英文/人文**：写作样本（2000-3000字）
    - **法律**：需参加LNAT（全国法律入学考试）
@@ -292,15 +295,14 @@ PS强调了经济学作为"社会科学之王"的迷人之处。通过一个具�
 
 #### 法学（LLB）
 - **必须**参加LNAT（National Admission Test for Law）
-- LNAT通常在9月至1月期间进行
+- 2027 入学 UCL 法律申请人须在 2026 年 12 月 31 日前考完 LNAT（LNAT 官网对 KCL、LSE、UCL 的要求；2026-11 更正）
 - 成绩是发放offer的前提条件
 - 中国学生需特别关注：LNAT英文难度较高，需提前准备
 
 #### 医学（A100）
 - **必须**参加UCAT（University Clinical Aptitude Test）
-- UCAT在7月至9月期间进行
-- 早期申请者通常在6月份参加，早提交UCAT成绩有优势
-- 医学deadline为10月15日（比其他专业早3个月）
+- UCAT 在申请当年夏季考（2026 年 7 月中旬起，9 月下旬截止，具体以 UCAT 官网为准）；UCAT 6 月只开放预约（2026-11 按剑桥官网所列 UCAT 日期更正）
+- 医学deadline为2026年10月15日18:00（比其他专业早约3个月）
 
 #### 艺术与设计
 - 必须提交作品集（Portfolio）
@@ -326,6 +328,8 @@ UCL在官方指导中明确指出：
 这意味着个人陈述的核心是**展现对学科的思考深度**，而非优化整体形象。
 
 ### 个人陈述的标准结构
+
+注：下面的「6 段式」是 2025 入学及以前的自由格式。2026 入学起 UCAS 改为三题（2026-11 按 UCAS 官网补充）：1. Why do you want to study this course or subject? 2. How have your qualifications and studies helped you to prepare for this course or subject? 3. What else have you done to prepare outside of education, and why are these experiences useful? 每题最少 350 字符、合计 4000 字符；个人陈述发给全部 5 个志愿，不宜专写「为什么选UCL」。以下各段内容可按这三题重新归位。
 
 **第1段（引入）- 约100-150字**
 - 用一个吸引人的问题、观察或例子引入
@@ -847,16 +851,16 @@ Since then, I've become fascinated by how law struggles with cases where the law
 
 #### 高三阶段（申请周期）
 
-**1月14日前（多数课程deadline）**
+**2027年1月13日 18:00 前（多数课程deadline；2026-11 更正）**
 - [ ] 提交完整UCAS申请
 - [ ] 同时提交英语语言证书（如有）
 
-**1月15日-4月**
+**1月中旬-4月**
 - [ ] 等待UCL的申请进展
 - [ ] 如被邀请，准备面试（医学、法律等有面试）
 - [ ] 继续学业，冲刺预期成绩
 
-**4月底前**
+**出结果时间待核（2026-11：未能在 UCL 官网核对）**
 - [ ] 收到UCL录取决定
 - [ ] 根据offer结果选择final choice（五月中旬deadline）
 
@@ -911,10 +915,10 @@ Since then, I've become fascinated by how law struggles with cases where the law
 
 **A:** **非常重要**。LNAT成绩是UCL法律课程的"筛选关卡"，往往决定你是否能进入面试池。
 
-- LNAT在**9月至1月**进行
-- 成绩范围：0-130分
-- UCL法律offer申请者的LNAT均分约为108-115分
-- 如果你的LNAT低于100分，即使成绩是A*AA，获得法律offer的概率也会大幅下降
+- UCL 要求 **2026年12月31日前**考完 LNAT（LNAT 官网："Sit the LNAT before or on 31 December 2026."，https://lnat.ac.uk/registration/dates-and-deadlines/ ，2026-11 更正）
+- 考试在考点机考（"sit at a numbered desk with a computer terminal"），不是在家考
+- 第一部分 42 道选择题，第二部分 40 分钟写一篇论述文（LNAT 官网）
+- （2026-11 更正：旧的 LNAT 分数说法已删——选择题只有 42 题，旧数字无出处且不可能）
 
 **准备建议**
 - 提前至少3个月开始准备
@@ -934,7 +938,7 @@ Since then, I've become fascinated by how law struggles with cases where the law
 ### Q7: 我的成绩还没有出来，能先提交申请吗？
 
 **A:** 可以。UCAS允许提交"预期成绩"，但：
-- 你必须在**1月14日deadline前提交**
+- 你必须在**2027年1月13日 18:00 deadline前提交**（2026-11 更正）
 - 最终成绩出来后，需要在UCAS更新
 - 如果最终成绩低于预期，UCL可能会收回offer或降低offer条件
 
@@ -1012,7 +1016,7 @@ Since then, I've become fascinated by how law struggles with cases where the law
 - [面试与评估过程](https://www.jandjeducation.com/blog/ucl-admissions-guide)
 
 ### 特殊考试指南
-- [LNAT法律考试指南](https://www.lsac.org.uk/lnat)
+- [LNAT法律考试指南](https://lnat.ac.uk/)（原链接 lsac.org.uk 不是 LNAT 官网，2026-11 更正）
 - [UCAT医学考试](https://www.ucat.ac.uk)
 
 ---
@@ -1035,3 +1039,18 @@ Since then, I've become fascinated by how law struggles with cases where the law
 **数据周期**：2024-2025学年及2025-2026最新信息
 **适用范围**：中国国内高中、国际学校IB/A-Level学生及大学转入申请者
 
+---
+
+## 更正记录（2026-11）
+
+正文只保留现行事实与来源。以下是 2026-11 核对时从正文移出的旧写法，**均为错误或无出处的说法，仅供核对，不可引用**。
+
+- 〔✍️ 申请流程与时间线〕「决定公布 待核 未能在 UCL 官网核对…」处：原写「最迟4月底」
+- 〔✍️ 申请流程与时间线〕「2026 入学起为 UCAS 三题格式，每题最少 350 字符，合计 4000 …」处：原写「或47行」是旧规则
+- 〔✍️ 申请流程与时间线〕「2027 入学 UCL 法律申请人须在 2026 年 12 月 31 日前考完 …」处：原写「通常在9月至1月期间」
+- 〔✍️ 申请流程与时间线〕「UCAT 在申请当年夏季考（2026 年 7 月中旬起，9 月下旬截止，具体以 …」处：原写「6月份参加」不对
+- 〔💡 对中国学生的实战建议〕「2027年1月13日 18:00 前（多数课程deadline；2026 11 …」处：原写「1月14日」
+- 〔💡 对中国学生的实战建议〕「出结果时间待核（2026 11：未能在 UCL 官网核对）…」处：原写「4月底前」
+- 〔📞 中国学生常见问题解答〕「UCL 要求 2026年12月31日前 考完 LNAT（LNAT 官网："Sit…」处：原写「9月至1月」
+- 〔📞 中国学生常见问题解答〕「（2026 11 更正：…选择题只有 42 题，这些数字无出处且不可能）…」处：删除「成绩范围 0-130」「UCL 法律 LNAT 均分 108-115」「低于 100 分概率大降」
+- 〔📞 中国学生常见问题解答〕「你必须在 2027年1月13日 18:00 deadline前提交 （2026 …」处：原写「1月14日」

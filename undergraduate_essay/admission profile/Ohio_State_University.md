@@ -124,6 +124,8 @@
 
 #### 案例1：王同学（中国上海）- 被工程学院录取
 
+注：本例为示例画像；其中 Morrill 文书与「Ohio Scholarship」对中国籍国际生不适用（2026-11）。
+
 **硬件条件**：
 - GPA：3.85/4.0（国际课程体系）
 - SAT：1480（Math 780, Reading 700）
@@ -161,7 +163,9 @@
 
 ---
 
-#### 案例2：李同学（中国北京）- 被Morrill奖学金录取
+#### 案例2：李同学（中国北京）- 被文科学院录取
+
+注：本例为示例画像，仅作活动规划参考；中国籍国际生不能申请 Morrill，原案例中的 Morrill 文书与奖学金结果已删除（2026-11 更正）。
 
 **硬件条件**：
 - GPA：3.72/4.0（国际课程）
@@ -178,11 +182,9 @@
 **文书亮点**：
 - Common App：聚焦"在北京南城开办非营利组织的使命驱动故事"，强调社会责任感和执行力
 - 特别强调了如何从"发现问题→寻求资源→组织他人→创造可持续影响"的完整过程
-- Morrill奖学金文书（关键）：深度阐述"教育不公平如何影响了我的世界观"，并表达了对美国多元化社区的理解承诺
 
 **录取结果**：
-- OSU文科学院 + **Morrill Scholarship（完全免费，包含4年全额学费、食宿、助学金）**
-- 这是OSU仅有的300个年度名额之一
+- OSU文科学院
 
 **关键成功因素**：
 1. EC与价值观完美契合（社会企业家精神）
@@ -191,14 +193,14 @@
 4. GPA 3.72虽不最高，但由于有显著的非学术成就而被重视
 
 **对中国学生的启示**：
-- Morrill奖学金是OSU最具价值的奖学金（全额学费），但竞争极为激烈，需要强有力的社会贡献故事
 - 中国学生在"多元性"上往往显得被动（因为文化差异客观存在）；应该主动展示"积极理解与融合他人视角"的能力
 - "创办项目"比"参加项目"的说服力强10倍
-- 如果GPA不到3.85，需要在"非学术杰出成就"上有突破才能竞争Morrill
 
 ---
 
 #### 案例3：张同学（上海学生，托管给国际高中）- 商科方向，被录取+部分奖学金
+
+注：本例为示例画像；OSU merit 奖学金不对国际生开放，「$15,000/年 Merit 奖学金」不适用于中国籍学生（2026-11）。
 
 **硬件条件**：
 - GPA：3.68/4.0（IB体系：42/45，HL科目为英语、经济、数学）
@@ -276,69 +278,41 @@
 
 | 申请轮次 | 截止日期 | 录取率 | 建议 |
 |--------|---------|--------|------|
-| **Early Action（非约束性）** | 11月1日 | 约65-68% | 如果准备充分，**强烈建议**；显示诚意且有更高概率 |
-| **Regular Decision** | 2月1日 | 约58-60% | 通常截止日期前1周申请；竞争最激烈 |
-| **Scholarship Deadline** | 1月15日 | N/A | 想获得Merit奖学金必须赶上此截止 |
-| **Morrill奖学金** | 12月15日 | 约10% | 仅300个名额，强烈推荐符合条件者优先申请 |
+| **Early Action（非约束性）** | 11月1日 | 约65-68% | 如果准备充分，**强烈建议**；可更早拿到结果（OSU 不考虑兴趣程度，CDS C7 为 Not Considered，提早申请不算「显示诚意」，2026-11 更正） |
+| **Regular Decision** | 1月15日 | 约58-60% | 3月5日放榜（2026-11 按官网更正） |
+
+> **2026-11 按官网更正**：2027 秋季入学，EA 11月1日截止，**国际生 EA 1月22日放榜**（俄亥俄州内学生 12月11日）；RD 1月15日截止、3月5日放榜（[OSU 国际生 After you apply](https://undergrad.osu.edu/apply/international-freshmen/after-you-apply)）。**国际生不能申请 OSU 的 merit 奖学金（含 Morrill）**：官网原话 "International students are not eligible."；Morrill 另写明 "Applicants must be U.S. citizens or legal permanent residents of the United States."（[Merit scholarships](https://undergrad.osu.edu/cost-and-aid/merit-based-scholarships)）。
 
 **国际学生特殊提示**：
 - 国际学生可参加Early Action，无约束力
-- 申请奖学金的国际学生需要确认能否获得"Need-Based援助"（OSU对国际生的Need-Based较少）
+- 国际生不在 merit 奖学金（含 Morrill、Stamps）资格范围内；官网建议国际生在 Scholarship Universe 平台找其他奖学金，2月1日为优先截止日："International students are encouraged to look for scholarships on Ohio State's Scholarship Universe platform."（[来源](https://undergrad.osu.edu/apply/international-freshmen/after-you-apply)，2026-11 更正）
 - 申请时需要准备好I-20相关文件
 
 **中国学生策略**：
 - 如果成绩稳定（GPA 3.8+, SAT 1400+），11月1日Early Action优先提交
-- 对于GPA 3.6-3.8或SAT 1350-1400的学生，在Regular Decision中获得录取的概率仍可接受（60%），但Morrill奖学金几乎无望
-- 国内高考考生的建议：高考成绩出来后（6月）直接申请，进入Regular Decision但仍有机会获得录取
+- 对于GPA 3.6-3.8或SAT 1350-1400的学生，在Regular Decision中获得录取的概率仍可接受（60%）
 
 ---
 
-## 📝 文书题目（2025-2026最新版）
+## 📝 文书题目（2026–27）
 
 ### 通用申请文书（Common Application Essay）
 
-OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述是唯一的文书，其重要性提升至最高。
+OSU在2026–27周期**不要求补充文书**。因此，Common App个人陈述是唯一的文书，其重要性提升至最高。
 
-**Common App提供的7个通用提示**（申请者选择其一回答）：
+**Common App 2026–27 的 7 道主文书题**（2026-11 按官网更正；来源 [Common App](https://www.commonapp.org/apply/essay-prompts)）：
 
-1. **背景与逆境（Prompt 1）**
-   - 题目：Discuss an accomplishment, event, or realization that sparked a new understanding of yourself or others.
-   - 建议：不是"我克服了困难"，而是"这个困难改变了我如何看待世界"
+1. Some students have a background, identity, interest, or talent that is so meaningful they believe their application would be incomplete without it. If this sounds like you, then please share your story.
+2. The lessons we take from obstacles we encounter can be fundamental to later success. Recount a time when you faced a challenge, setback, or failure. How did it affect you, and what did you learn from the experience?
+3. Reflect on a time when you questioned or challenged a belief or idea. What prompted your thinking? What was the outcome?
+4. Reflect on something that someone has done for you that has made you happy or thankful in a surprising way. How has this gratitude affected or motivated you?
+5. Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others.
+6. Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more?
+7. Share an essay on any topic of your choice. It can be one you've already written, one that responds to a different prompt, or one of your own design.
 
-2. **学术兴趣（Prompt 2）**
-   - 题目：The lessons we take from obstacles we encounter can be fundamental to later success.
-   - 建议：讲述一次学术上的失败或误解，以及如何通过它获得深层理解
+### Morrill奖学金补充文书（仅限美国公民 / 永久居民）
 
-3. **个人差异（Prompt 3）**
-   - 题目：Describe a problem you've solved or a problem you'd like to solve.
-   - 建议：中国学生在此项较弱；需要展现主动识别问题的能力，而非被动解决
-
-4. **知识追求（Prompt 4）**
-   - 题目：Describe a topic, idea, or concept you find so engaging that it makes you lose track of time.
-   - 建议：深度优于广度；讲述一个学术或创意主题的执着探索
-
-5. **贡献与影响（Prompt 5）**
-   - 题目：Share an essay about something you would want your future college roommates to know about you.
-   - 建议：Morrill奖学金申请者的最佳选择；展现个性与价值观
-
-6. **社群与身份（Prompt 6）**
-   - 题目：Reflect on something that someone has taught you.
-   - 建议：讲述一个具体的人物与学习经历，避免宽泛的人生智慧
-
-7. **多重身份（Prompt 7）**
-   - 题目：Share an essay on any topic of your choice.
-   - 建议：完全自由话题；中国学生如果有独特的"跨文化身份"故事，可选此项
-
-### Morrill奖学金补充文书（仅限于申请该奖学金的学生）
-
-**题目**（题目原文待核，2026-11）：
-"The Ohio State University Morrill Scholarship program seeks to recognize academic excellence and leadership with a commitment to diversity and inclusion. Please write an essay describing your understanding of these values and how you exemplify or would exemplify them at Ohio State."
-
-- **字数限制**：250-500词
-- **重点**：不是讲述"多元化背景"，而是讲述"对多元化的主动承诺与行动"
-- **中国学生常见错误**：
-  - 错误：写"我来自中国，代表文化多样性" ❌
-  - 正确：写"我如何理解并尊重不同背景的人，以及我在建立包容社区中的行动" ✅
+**2026-11 按官网更正**：Morrill 要求 "Applicants must be U.S. citizens or legal permanent residents of the United States."，**中国籍国际生不能申请**。符合身份的申请者在申请表中勾选 MSP 并完成 MSP essay，官网要求 "Be sure to include leadership, service and civic engagement on the Activity List"，并强烈建议赶 11月1日 EA（[Merit scholarships](https://undergrad.osu.edu/cost-and-aid/merit-based-scholarships)）。go.osu.edu/msp 本次打不开（403），MSP 文书题目原文待核；原列题目及写作建议无法核实，已删除（2026-11 更正）。
 
 ---
 
@@ -406,64 +380,9 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 
 ---
 
-### 录取文书案例2：教育不公平与社会承诺
-**申请人**：李同学（中国北京，申请文科，获Morrill奖学金）
+### 录取文书案例2（2026-11 删除）
 
-**题目选择**：Morrill奖学金补充文书
-**字数**：约480词
-
-**核心内容**：
-李同学讲述了她如何从"发现教育不公平"到"创办非营利组织解决问题"的完整历程。文书开头是她在高一的一个志愿服务经历：她在北京南城一个社区教育中心教英语，发现许多学生的父母是外来务工人员，无法帮助孩子完成家庭作业。这激发了她的疑问："为什么教育质量因为地理位置而不同？"
-
-随后，她与两个同学一起创办了"Bright Future"非营利组织，对象是流动儿童。她详细描写了创办过程的挑战：
-- 如何说服家长相信她们（三个高中生的credibility问题）
-- 如何获得学校与政府支持
-- 如何与志愿者建立可持续的系统
-- 如何衡量项目的实际影响
-
-文书最后落脚于"多元化"的真实含义：*"Diversity is not about having different people in the room; it's about genuinely understanding why their perspectives matter."* 她阐述了"教育公平"如何扩展了她对"多元"的理解——不同背景的孩子有不同的学习需求，而尊重多元就是承诺满足这些差异化的需求。
-
-**✅ 亮点分析**：
-
-1. **问题 → 行动 → 反思的完整弧线**
-   - 不仅讲述做了什么，更讲述"为什么"与"意义是什么"
-   - Morrill奖学金评委想看的是"价值观驱动的行动"，而非"为了简历的志愿服务"
-
-2. **对"多元化"的深层理解**
-   - 很多申请者讲"我来自不同文化，理解多元" ❌
-   - 这篇文书讲"我通过帮助弱势群体，理解多元意味着什么"（更深）✅
-   - 对于中国申请者尤其重要，因为我们容易被"文化多元"的刻板预期束缚
-
-3. **具体的社会成果**
-   - 不说"我做了很多志愿服务"
-   - 而说"我创办的组织目前服务了200+学生，获得政府支持，已运营3年"
-   - 这种"可验证的影响"最有说服力
-
-4. **承诺的清晰表达**
-   - 文书最后暗示"我选择OSU是因为OSU的多元化价值与我的使命一致"
-   - 不需要显式说"I want to attend Ohio State because..."
-   - 隐喻的承诺比直白的承诺更有力
-
-**⚠️ 对中国学生的教学意义**：
-
-1. **从"个人背景"到"价值观承诺"的升华**
-   - 中国学生常说："我来自上海/北京，代表中国"
-   - 美国文书更在乎："你代表什么价值观"
-   - 李同学虽然也提到了自己是中国学生，但重点放在"教育公平的承诺"上
-
-2. **创造性胜于参与性**
-   - 参加10个社团的申请者不如创办1个组织的申请者
-   - "我创办Bright Future"在文书中的说服力远超"我参加了10个志愿服务项目"
-
-3. **Morrill奖学金的隐性要求**
-   - OSU明面上要求"学术优秀+领导力+多元承诺"
-   - 隐性要求是"能够阐述为什么多元化对你个人很重要"
-   - 李同学通过教育不公平的具体案例回答了这个"为什么"
-
-4. **文化身份的处理**
-   - 中国学生往往在文书中下意识地"道歉"或"解释"自己的文化差异
-   - 这篇文书没有为"是中国学生"道歉，反而用"教育不公平"的全球视角超越了国家边界
-   - 这是更高级的文化融合策略
+原例是一篇 Morrill 奖学金文书，申请人设定为中国籍国际生；中国籍国际生不能申请 Morrill，Morrill 题目原文也无法核实，整篇已删除（2026-11 更正）。
 
 ---
 
@@ -551,7 +470,6 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 - 80%的高分文书都包含"failure or obstacle"的元素
 - 但不是讲失败本身，而是讲"失败教会了我什么新的看待问题的方式"
 - 案例1（王同学）：失败 → 发现系统思维的缺陷 → 改进团队沟通框架
-- 案例2（李同学）：发现问题 → 采取行动 → 反思"多元化"的含义
 - 案例3（张同学）：投资失败 → 分析市场效率与心理学 → 升级决策框架
 
 #### 规律2：垂直深度 > 水平广度
@@ -607,12 +525,11 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 - "我很聪明，SAT 1500，因此我应该被录取。" ❌
 
 **匹配的文书**：
-- "我通过教育不公平的体验，理解了为什么多元化对社会很重要，而OSU的Morrill使命与我的价值观一致。" ✅
+- 用一段具体经历讲清楚自己在乎什么、做了什么，而不是罗列分数。 ✅
 
 **中国学生的特殊挑战**：
 - 大多数中国申请者的文书是"我如何优秀"
-- OSU更想看的是"我代表什么价值观"与"我如何会对OSU社区产生积极影响"
-- Morrill奖学金的设计就是为了甄选那些"有社会承诺"而非单纯"成绩好"的学生
+- 但要注意（2026-11 更正）：OSU 常规录取以成绩、排名、课程难度和标化为主（见「学校看重的特质」一节），文书只是 Important；与官方信息不符的旧说法已删。
 
 ---
 
@@ -632,9 +549,9 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 
 **体现在申请设计中**：
 
-- 常规录取**没有学校专属补充文书**，只交 Common App 主文书。需要额外写作的只有奖学金项目：Morrill Scholarship 需要 MSP essay（要点是领导力、服务、公民参与，官网写 "MSP seeks academically talented high school seniors who will contribute to and actively engage in scholarship, leadership, service and civic engagement on campus."）；Stamps Eminence 需要单独文书和视频自我介绍。**本画像「文书题目」所列 Morrill 题目以 diversity and inclusion 为主，现行题目原文未能核对，已在该节标注待核。**
+- 常规录取**没有学校专属补充文书**，只交 Common App 主文书。需要额外写作的只有奖学金项目（仅限美国公民 / 永久居民，国际生不能申请）：Morrill Scholarship 需要 MSP essay（要点是领导力、服务、公民参与，官网写 "MSP seeks academically talented high school seniors who will contribute to and actively engage in scholarship, leadership, service and civic engagement on campus."）；Stamps Eminence 需要单独文书和视频自我介绍。**本画像原列的 Morrill 题目无法核实，已在「文书题目」节删除（2026-11）。**
 - Columbus 校区从 2026 周期起**恢复 ACT/SAT 必交**并 superscore；推荐信可选（最多 2 封）；无面试；先判断能否录取，再按目标学院分配。
-- CDS 2025–26 C7（Columbus 校区官方 PDF）：Very Important 为 Rigor、**Class rank**、Academic GPA、**Standardized test scores**；Important 为文书、推荐信、课外活动、Talent、第一代、志愿服务、工作经历；Considered 为 **Character/personal qualities**、地域、州籍；面试、校友关系、宗教、兴趣程度为 Not Considered。**本画像「申请时机」说 EA「显示诚意」，与 C7（兴趣程度为 Not Considered）不符；Hooks 表的 Legacy 一行已按 C7 更正（2026-11）。**
+- CDS 2025–26 C7（Columbus 校区官方 PDF）：Very Important 为 Rigor、**Class rank**、Academic GPA、**Standardized test scores**；Important 为文书、推荐信、课外活动、Talent、第一代、志愿服务、工作经历；Considered 为 **Character/personal qualities**、地域、州籍；面试、校友关系、宗教、兴趣程度为 Not Considered。**本画像「申请时机」原说 EA「显示诚意」，与 C7（兴趣程度为 Not Considered）不符，已改；Hooks 表的 Legacy 一行已按 C7 更正（2026-11）。**
 
 **流行说法核查**：
 
@@ -643,7 +560,7 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 **对申请者的含义（归纳）**：
 
 1. 学校自填 C7 四项学术指标都是 Very Important，标化 2026 周期起必交：标化要准备好，核心科目选课最好超过最低要求。
-2. 常规录取不单独考察品格；想申 Morrill、Stamps 等奖学金，才需要另写服务、领导和品格相关的材料。
+2. 常规录取不单独考察品格；Morrill、Stamps 等奖学金才需要另写服务、领导和品格相关的材料，但这些 merit 奖学金只对美国公民 / 永久居民开放，中国籍国际生不能申请。
 
 ## 💡 对中国学生申请的实战建议
 
@@ -735,31 +652,9 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 
 ---
 
-### 建议5：Morrill奖学金的特殊策略
+### 建议5：奖学金预期要说清楚
 
-**Morrill奖学金的要求**（官方；题目原文待核，2026-11）：
-- 学术优秀（GPA 3.8+, SAT 1400+）
-- 领导力（有实证的领导经历）
-- "Commitment to diversity and inclusion"
-
-**中国学生的误解**：
-- 以为"多元化"就是"来自中国"或"代表亚洲文化"
-- 实际上Morrill想要的是"积极建设包容社区"的人
-
-**成功策略**（基于案例2）**：
-1. 你的主要活动应该体现"对边缘群体的实际帮助"（不是"理解"，而是"帮助"）
-2. Morrill文书应该清晰阐述："我如何理解多元化"（不是"我是多元的"，而是"我如何尊重不同背景的人"）
-3. 最有说服力的文书讲述"我亲身接触了与我不同的群体，这改变了我对社会的看法"
-
-**Morrill候选人的理想profile**：
-- GPA 3.8+, SAT 1400+（非协商的硬指标）
-- 有创办或领导某个服务项目的经验（而非仅参加）
-- 文书能清晰说明为什么"多元包容"对自己很重要（不是被迫为了奖学金，而是价值观驱动）
-
-**可执行步骤**：
-1. 评估你是否符合GPA与SAT基本要求；如果不符，不建议申请Morrill（成功率<5%）
-2. 如果符合，梳理你是否有"创建而非参加"的项目经验
-3. 准备Morrill文书时，重点不在"我来自哪里"，而在"我如何理解与尊重不同背景的人"
+**2026-11 更正**：本节原为「Morrill 奖学金策略」，但 Morrill 及其他 OSU merit 奖学金都不对国际生开放（"International students are not eligible."，[来源](https://undergrad.osu.edu/cost-and-aid/merit-based-scholarships)）。给中国籍学生做 OSU 预算时，不要按拿 merit 奖学金估算；可以提醒学生在 Scholarship Universe 上找其他奖学金（优先截止 2月1日），也可能从当地 OSU 校友会拿到资助（官网原话 "For example, you may be eligible for funds from your local alumni club."，[来源](https://undergrad.osu.edu/apply/international-freshmen/after-you-apply)，2026-11 补充）。持美国绿卡或美国籍的学生才适用 Morrill。
 
 ---
 
@@ -795,10 +690,9 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 - 10月：完成初稿，多轮revision
 - 10月25日前：最终提交
 
-**Regular Decision（2月1日截止）**：
-- 12月：准备材料
-- 1月：完成初稿与revision
-- 1月25日前：最终提交
+**Regular Decision（1月15日截止，2026-11 更正）**：
+- 11–12月：准备材料、完成初稿与revision
+- 1月10日前：最终提交
 
 ### 申请材料清单
 
@@ -807,10 +701,9 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 - [ ] 高中成绩单（官方）
 - [ ] SAT或ACT成绩（官方送分）
 - [ ] Common App个人陈述（650词，经过5轮revision）
-- [ ] 推荐信2-3封（特别建议提交，虽然OSU不强制）
+- [ ] 推荐信：可选，最多 2 封（2026-11 更正）
 - [ ] 英文能力证明（如TOEFL，国际生推荐）
-- [ ] 奖学金申请（如有Merit奖学金意向，12月15日前）
-- [ ] Morrill奖学金补充文书（如申请，12月15日前）
+- [ ] 奖学金：国际生不能申请 merit / Morrill；可在 Scholarship Universe 申请其他奖学金（2月1日优先截止）
 
 ### 中国学生特殊提示
 
@@ -887,3 +780,14 @@ OSU在2025-26周期**不要求补充文书**。因此，Common App个人陈述�
 2. 重点研读与自己专业方向相关的案例（STEM/商科/文科）
 3. 基于"对中国学生的启示"部分修改自己的申请策略
 4. 6个月前开始准备文书，留出充足的修改时间
+
+---
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
+
+- RD 放榜：原写 2月1日
+- 时机表：「Scholarship Deadline 1月15日」「Morrill 12月15日、约10%、仅300个名额」，均无官方出处
+- Common App 七题：旧版本把题目和编号写错，并列入不存在的「室友」「别人教会你的事」「解决问题」三题
+- 文书规律：「OSU 更想看价值观」「Morrill 使命」，与官方信息不符
