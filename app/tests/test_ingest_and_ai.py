@@ -125,3 +125,14 @@ def test_abbreviated_ids_expanded_only_when_unique():
     assert "/library/applicants/6821fc3dd84d23dec7de9dac" in md      # 唯一前缀：补全
     assert "6821f]" not in md and any("已移除 1 处" in w for w in warns)  # 前缀不唯一：删除
     assert {c["id"] for c in cites} == {"A:6821fc3dd84d23dec7de9dac", "S:mit#1"}
+
+
+def test_crosscheck_flags_reversed_decisions(conn):
+    row = conn.execute("""SELECT a.applicant_id, a.school_name AS acc, r.school_name AS rej
+                          FROM applicant_decisions a JOIN applicant_decisions r ON r.applicant_id=a.applicant_id
+                          WHERE a.result='accepted' AND r.result='rejected' LIMIT 1""").fetchone()
+    aid, acc, rej = row
+    assert citations.crosscheck(f"该生录取 {acc}；拒 {rej} [A:{aid}]。", conn) == []
+    w = citations.crosscheck(f"该生被 {rej} 录取 [A:{aid}]。", conn)
+    assert w and "录取，档案为拒绝" in w[0]
+    assert citations.crosscheck(f"录取率 5% 的 {rej} [A:{aid}]。", conn) == []   # "录取率"不是录取结论

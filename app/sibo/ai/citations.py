@@ -103,10 +103,93 @@ def _units(text: str):
             yield from (u for u in re.split(r"(?<=[。；!?！？])", line) if u.strip())
 
 
+# 录取 / 拒绝结论核对用：校名的常见缩写和中文名（只用于在句子里认出申请者自己申请过的学校）
+_SCHOOL_ABBR = {
+    "gatech": ["GT", "Georgia Tech", "佐治亚理工"], "uiuc": ["UIUC", "伊利诺伊"], "umich": ["Michigan", "UMich", "密歇根"],
+    "uc_berkeley": ["Berkeley", "UCB", "伯克利"], "ucla": ["UCLA"], "cmu": ["CMU", "Carnegie Mellon", "卡梅"],
+    "mit": ["MIT", "麻省理工"], "stanford": ["Stanford", "斯坦福"], "penn": ["Penn", "UPenn", "宾大"],
+    "jhu": ["JHU", "Johns Hopkins", "约翰霍普金斯"], "nyu": ["NYU"], "bu": ["BU", "Boston University"],
+    "usc": ["USC"], "uva": ["UVA"], "umd": ["UMD"], "unc": ["UNC"], "caltech": ["Caltech", "加州理工"],
+    "uchicago": ["UChicago", "芝大", "芝加哥大学"], "washu": ["WashU", "WUSTL"], "uw": ["UW", "University of Washington"],
+}
+_NOT_DECISION = r"(?!率|生|者|人数|标准|门槛|线|名单|结果|情况|难度|偏好)"
+_DECISION_VERB = re.compile(r"(未被|没有被|没被)?(录取" + _NOT_DECISION + r"|拒绝|被拒|拒|录(?![取用]))")
+
+
+def _school_names(slug: str, name: str) -> list[str]:
+    out = {name, slug}
+    uc = re.match(r"University of California,?\s+(.+)$", name)
+    if uc:  # UC 各分校：UC San Diego / UCSD；不能缩成 "California"
+        campus = uc.group(1).strip()
+        out.update([f"UC {campus}", "UC" + "".join(w[0] for w in campus.split()).upper()])
+    else:
+        out.add(re.sub(r"^(The )?University of |^(The )?University at | University$| College$|,.*$| - .*$| at .*$", "", name))
+    out.update(_SCHOOL_ABBR.get(slug, []))
+    try:
+        from ..schools import CANON
+        for s_, en, zh, _r, al in CANON:
+            if s_ == slug:
+                out.update([en, zh])
+    except Exception:  # noqa: BLE001
+        pass
+    return sorted({n for n in out if n and len(n) >= 2}, key=len, reverse=True)
+
+
+def _named_schools(seg: str, names: dict[str, list[str]]) -> set[str]:
+    hits, taken = set(), []
+    for slug, ns in names.items():
+        for n in ns:
+            pat = re.escape(n)
+            if n.isascii():
+                pat = rf"(?<![A-Za-z]){pat}(?![A-Za-z])"
+            for m in re.finditer(pat, seg):
+                if any(a < m.end() and m.start() < b for a, b in taken):
+                    continue
+                taken.append((m.start(), m.end()))
+                hits.add(slug)
+    return hits
+
+
+def _decision_claims(unit: str):
+    """从一句话里抽出 (结论, 片段)：录取 X、Y；拒 Z / 被 X 录取 / 被 X 拒。"""
+    for m in re.finditer(r"(未被|没有被|没被|被)([^，。；|！？]{1,60}?)(录取|拒绝|拒)(?!率|生|者|人数|标准|门槛|线|名单)", unit):
+        neg, seg, verb = m.group(1), m.group(2), m.group(3)
+        yield ("rejected" if neg != "被" or verb.startswith("拒") else "accepted"), seg
+    for m in _DECISION_VERB.finditer(unit):
+        if m.group(1):
+            continue
+        tail = unit[m.end():]
+        seg = re.split(r"[；;。|（(]|(?:录取|拒绝|被拒|拒|录|候补)[：:]", tail, maxsplit=1)[0]
+        yield ("rejected" if "拒" in m.group(2) else "accepted"), seg[:200]
+
+
+def decision_mismatches(unit: str, a_id: str, conn) -> list[str]:
+    decs = conn.execute("SELECT school_slug, school_name, result FROM applicant_decisions WHERE applicant_id=?",
+                        (a_id,)).fetchall()
+    if not decs:
+        return []
+    res: dict[str, set] = {}
+    names: dict[str, list[str]] = {}
+    for d in decs:
+        res.setdefault(d["school_slug"], set()).add(d["result"])
+        names.setdefault(d["school_slug"], _school_names(d["school_slug"], d["school_name"]))
+    clean = CITE_RE.sub(" ", unit)
+    out = []
+    for claim, seg in _decision_claims(clean):
+        for slug in _named_schools(seg, names):
+            actual = res.get(slug, set())
+            if claim == "accepted" and actual == {"rejected"} or claim == "rejected" and actual == {"accepted"}:
+                nm = names[slug][-1] if names[slug] else slug
+                out.append(f"[A:{a_id[:6]}] 写的是被 {nm} {'录取' if claim == 'accepted' else '拒绝'}，档案为"
+                           f"{'拒绝' if claim == 'accepted' else '录取'}")
+    return out
+
+
 def crosscheck(text: str, conn) -> list[str]:
     """抽查模型写的具体数字和英文引语是否与所引出处一致。
 
-    - 只含一个 [A:…] 的句子 / 表格行：其中的 SAT 总分、GPA 必须与该申请者档案一致；
+    - 只含一个 [A:…] 的句子 / 表格行：其中的 SAT 总分、GPA 必须与该申请者档案一致；写成"录取"的学校
+      不能是档案里的"拒绝"，反之亦然（只查说反了的，不查漏写的）；
     - 含 [E:…] 的句子：其中 ≥4 个英文单词的引语（按省略号切段）必须能在所引文书原文中找到。
     """
     text = normalize(text)
@@ -126,6 +209,7 @@ def crosscheck(text: str, conn) -> list[str]:
                 real = [g for g in (a["gpa_uw"], a["gpa_w"]) if g]
                 if gpas and real and not any(abs(g - r) < 0.006 for g in gpas for r in real):
                     problems.append(f"[A:{a_ids[0][:6]}] 写的 GPA {'/'.join(map(str, sorted(gpas)))}，档案为 {'/'.join(map(str, real))}")
+                problems += decision_mismatches(u, a_ids[0], conn)
         if e_ids:
             bodies = []
             for e in e_ids:
