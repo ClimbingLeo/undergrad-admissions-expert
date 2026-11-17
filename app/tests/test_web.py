@@ -195,3 +195,58 @@ def test_clean_print_drops_consultant_notes():
     assert "审稿备注" not in out and "标题已调整" not in out
     assert out.endswith("正文结论（案例 1）。")
     assert "审稿备注" not in strip_cites("a\n### 【审稿备注｜仅供顾问】\nb")
+
+
+def test_regenerate_reuses_inputs(login, conn, monkeypatch):
+    seen = {}
+
+    def fake(*, api_key, system_blocks, user_content, effort, on_text=None, **kw):
+        seen["user"] = user_content
+        text = "## 结论\n" + "重新生成的正文，足够长。" * 30
+        on_text(text)
+        return GenResult(text=text, model="fake", input_tokens=1, output_tokens=1)
+    monkeypatch.setattr(runner, "GENERATE", fake)
+    c = login("owner@demo.sibo")
+    c.post("/settings/org", data={"csrf": c.csrf, "name": "演示", "api_key": "sk-ant-fake-key-000000",
+                                  "brand_color": "#123456", "default_effort": "medium"})
+    src = conn.execute("SELECT id, title FROM reports WHERE type='essay_review' LIMIT 1").fetchone()
+    r = c.post(f"/reports/{src['id']}/regenerate", data={"csrf": c.csrf}, follow_redirects=False)
+    assert r.status_code == 303
+    new_id = int(r.headers["location"].rsplit("/", 1)[1])
+    assert new_id != src["id"]
+    for _ in range(50):
+        if conn.execute("SELECT status FROM reports WHERE id=?", (new_id,)).fetchone()[0] != "pending":
+            break
+        time.sleep(0.1)
+    new = conn.execute("SELECT * FROM reports WHERE id=?", (new_id,)).fetchone()
+    assert new["status"] == "done" and new["title"] == src["title"] and new["type"] == "essay_review"
+    assert "学生草稿" in seen["user"]                          # 草稿随原输入一起重发
+    assert conn.execute("SELECT 1 FROM reports WHERE id=?", (src["id"],)).fetchone()  # 原报告保留
+    viewer = login("viewer@demo.sibo")
+    assert viewer.post(f"/reports/{src['id']}/regenerate", data={"csrf": viewer.csrf}).status_code == 403
+    conn.execute("UPDATE orgs SET api_key_enc=NULL")
+    conn.commit()
+
+
+def test_logout_requires_post_and_csrf(login):
+    c = login("consultant@demo.sibo")
+    c.get("/logout")                                         # GET 不再登出
+    assert c.get("/students", follow_redirects=False).status_code == 200
+    assert c.post("/logout", data={"csrf": "bad"}).status_code in (400, 403)
+    r = c.post("/logout", data={"csrf": c.csrf}, follow_redirects=False)
+    assert r.status_code == 303
+    assert c.get("/students", follow_redirects=False).status_code == 303
+
+
+def test_security_headers(login):
+    r = login("viewer@demo.sibo").get("/")
+    csp = r.headers["content-security-policy"]
+    assert "default-src 'self'" in csp and "frame-ancestors 'none'" in csp
+
+
+def test_essay_search_short_and_multi_terms(conn):
+    from sibo.ai.retrieval import search_essays
+    ai = search_essays(conn, "AI", limit=1000)                # 两个字母：整词匹配，不会命中 said / again
+    assert ai and len(ai) < 300
+    both = set(search_essays(conn, "grandmother family", limit=500))
+    assert both and both <= set(search_essays(conn, "grandmother", limit=500))

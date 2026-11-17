@@ -48,6 +48,11 @@ async def _security_headers(request: Request, call_next):
     resp.headers.setdefault("X-Frame-Options", "DENY")
     resp.headers.setdefault("X-Content-Type-Options", "nosniff")
     resp.headers.setdefault("Referrer-Policy", "same-origin")
+    # 页面只加载本站资源；内联脚本 / 样式仍需允许。AI 输出里的任何外链图片、脚本都会被浏览器拦下
+    resp.headers.setdefault("Content-Security-Policy",
+                            "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; "
+                            "img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; "
+                            "form-action 'self'; object-src 'none'")
     return resp
 app.mount("/static", StaticFiles(directory=HERE / "static"), name="static")
 
@@ -257,7 +262,15 @@ def login(request: Request, email: str = Form(...), password: str = Form(...), n
 
 
 @app.get("/logout")
-def logout(request: Request):
+def logout_get(request: Request):
+    # 旧链接 / 书签：GET 不再直接登出（防止第三方页面用一张图片把顾问踢下线），只跳回首页
+    return RedirectResponse("/", status_code=303)
+
+
+@app.post("/logout")
+async def logout(request: Request):
+    form = await request.form()
+    require_csrf(request, form.get("csrf"))
     request.session.clear()
     return RedirectResponse("/login", status_code=303)
 
@@ -523,12 +536,41 @@ async def generate_for_student(request: Request, sid: int, rtype: str):
     if rtype == "essay_review" and not params.get("draft"):
         raise HTTPException(400, "请粘贴文书草稿")
     if rtype == "activity_plan":
-        last = conn.execute("SELECT output_md FROM reports WHERE student_id=? AND type='diagnosis' AND status='done' "
-                            "ORDER BY id DESC LIMIT 1", (sid,)).fetchone()
-        if last:
-            params["diagnosis_md"] = last["output_md"]
+        _attach_last_diagnosis(conn, sid, params)
     req = builder.build(conn, rtype, s, params)
     return _launch(conn, user, req, sid)
+
+
+def _attach_last_diagnosis(conn, sid: int, params: dict) -> None:
+    last = conn.execute("SELECT output_md FROM reports WHERE student_id=? AND type='diagnosis' AND status='done' "
+                        "ORDER BY id DESC LIMIT 1", (sid,)).fetchone()
+    if last:
+        params["diagnosis_md"] = last["output_md"]
+
+
+@app.post("/reports/{rid}/regenerate")
+async def report_regenerate(request: Request, rid: int):
+    """用同一份输入（档案取最新版、知识库取最新版）重新生成一份新报告；原报告保留。"""
+    conn = get_conn()
+    user = current_user(request, conn)
+    require_write(user)
+    form = await request.form()
+    require_csrf(request, form.get("csrf"))
+    r = auth.get_report(conn, user, rid)
+    if not r or r["status"] == "pending":
+        raise HTTPException(404, "报告不存在、无权访问或仍在生成中")
+    params = dict(json.loads(r["input_snapshot"] or "{}").get("params") or {})
+    s = None
+    if r["student_id"]:
+        s = auth.get_student(conn, user, r["student_id"])
+        if not s:
+            raise HTTPException(404, "该报告对应的学生档案不存在或无权访问")
+        if r["type"] == "activity_plan":
+            _attach_last_diagnosis(conn, s["id"], params)
+    if r["type"] == "essay_review" and not params.get("draft"):
+        raise HTTPException(400, "原报告没有保存草稿，无法重新生成，请到学生页重新提交。")
+    req = builder.build(conn, r["type"], s, params)
+    return _launch(conn, user, req, s["id"] if s is not None else None)
 
 
 @app.get("/reports", response_class=HTMLResponse)

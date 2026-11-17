@@ -34,7 +34,7 @@
       {% if user and user.role == 'owner' %}<a href="/settings" class="{{ 'on' if p.startswith('/settings') }}">⚙️ 机构设置</a>{% endif %}
     </nav>
     {% if user %}
-    <div class="who">{{ user.name }} · {{ ROLES[user.role] }}<br><span style="opacity:.7">{{ user.org_name }}</span><br><a href="/account">我的账号</a> · <a href="/logout">退出登录</a></div>
+    <div class="who">{{ user.name }} · {{ ROLES[user.role] }}<br><span style="opacity:.7">{{ user.org_name }}</span><br><a href="/account">我的账号</a> · <form method="post" action="/logout" style="display:inline"><input type="hidden" name="csrf" value="{{ csrf }}"><button type="submit" class="linkbtn">退出登录</button></form></div>
     {% endif %}
   </aside>
   <main class="main">

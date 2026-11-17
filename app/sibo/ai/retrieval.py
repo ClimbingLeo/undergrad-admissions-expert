@@ -252,14 +252,31 @@ def essay_brief(e, max_words: int = 700) -> str:
 
 
 def search_essays(conn: sqlite3.Connection, q: str, limit: int = 50) -> list[str]:
-    q = q.strip()
-    if len(q) < 3:
+    """空格分隔的多个词按"都要出现"匹配。≥3 个字的词走 FTS5 trigram 索引；1–2 个字的词（如"钢琴""AI"）
+    trigram 查不到，改在 Python 里过滤：英文按整词匹配（"AI" 不会命中 "said"），中文按子串匹配。"""
+    terms = [t.replace('"', "") for t in q.split() if t.strip()][:6]
+    if not terms:
         return []
+    long_t, short_t = [t for t in terms if len(t) >= 3], [t for t in terms if len(t) < 3]
     try:
-        return [r["id"] for r in conn.execute(
-            "SELECT id FROM essays_fts WHERE essays_fts MATCH ? ORDER BY rank LIMIT ?", ('"' + q.replace('"', "") + '"', limit))]
+        if long_t:
+            rows = conn.execute(
+                "SELECT e.id, e.title, e.prompt_text, e.body FROM essays_fts f JOIN essays e ON e.id = f.id "
+                "WHERE essays_fts MATCH ? ORDER BY rank", (" AND ".join(f'"{t}"' for t in long_t),)).fetchall()
+        else:
+            rows = conn.execute("SELECT id, title, prompt_text, body FROM essays ORDER BY id").fetchall()
     except sqlite3.OperationalError:
         return []
+    pats = [re.compile(rf"(?<![A-Za-z0-9]){re.escape(t)}(?![A-Za-z0-9])", re.I) if t.isascii() else re.compile(re.escape(t))
+            for t in short_t]
+    out = []
+    for r in rows:
+        text = f"{r['title'] or ''}\n{r['prompt_text'] or ''}\n{r['body'] or ''}"
+        if all(p.search(text) for p in pats):
+            out.append(r["id"])
+            if len(out) >= limit:
+                break
+    return out
 
 
 # ───────────────────────── IB EE ─────────────────────────
