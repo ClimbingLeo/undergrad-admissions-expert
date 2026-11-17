@@ -620,6 +620,35 @@ UCAS是英国大学申请的中央系统，所有英国本科申请都通过UCAS
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 8 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 通常录取成绩最高的申请者 | "We usually make offers to the highest qualified applicants." | [Edinburgh 本科招生 Understanding standard entry requirements, 2026](https://study.ed.ac.uk/undergraduate/entry-requirements/understanding/standard) |
+| 考虑全部材料，包括个人陈述和学术推荐信 | "We consider all the information in your application before making our admissions decision, including: / academic qualifications / English language qualifications / your personal statement / your academic reference / …"（/ 为原页面换行） | [Edinburgh 本科招生 How we select applicants, 2026](https://study.ed.ac.uk/undergraduate/applying/selection/how-select) |
+| 为什么学这个学科、是否了解大学阶段学什么 | "explain why you want to study the subject you have applied for / demonstrate a clear understanding of what the subject involves at degree level / …" | [Edinburgh 本科招生 What you need to apply, 2026](https://study.ed.ac.uk/undergraduate/applying/making-application/what-you-need-apply) |
+
+这些用词与同组英国学校基本一致。爱丁堡的差异在录取机制：名额不足时官方写明比较的是成绩（超出要求的成绩、GCSE/National 5 成绩），修过 preferred subjects 有竞争优势；除医学、兽医、护理和教师教育外，"We do not interview for entry to any other degree programmes."（[Interviews, tests and portfolios, 2026](https://study.ed.ac.uk/undergraduate/applying/selection/interviews-tests-portfolios)）
+
+**体现在申请设计中**：
+
+- 只走 UCAS 三题个人陈述，看什么由专业决定："Depending on the degree programme you are applying for, admissions staff will be looking for different things from your personal statement."
+- 面试只限医学、兽医（MMI）、护理、教师教育；医学考 UCAT；艺术、设计、美术交作品集。
+- 超额时的比较项："If we are unable to make offers to all those who have achieved the entry requirements, we may consider: / achievement above the grade …"（How we select applicants 页）；修过 preferred subjects "will have a competitive advantage in the selection process"（[Understanding our entry requirements, 2026](https://study.ed.ac.uk/undergraduate/entry-requirements/understanding)）。
+
+**流行说法核查**：
+
+- 「爱丁堡主要看成绩」→ **支持（不是「只看成绩」）**。门槛是成绩和必修科目，超额时比的也是成绩，录取一般给成绩最高的申请者，多数专业不面试、不笔试；但官方仍说会考虑包括个人陈述和推荐信在内的全部材料，医学、艺术等专业另有面试、作品集或经历要求。
+
+**对申请者的含义（归纳）**：
+
+1. 主要竞争点是成绩：超出要求区间的成绩、GCSE/National 5 成绩和 preferred subjects 都会被比较。
+2. 陈述按所申专业的要求写清为什么学、对学科的理解和相关能力，官方写明，名额不足时的比较项是成绩。
+
+---
+
 ## 💡 对中国学生申请的实战建议
 
 ### 建议1：让竞赛和科研经历"说话"

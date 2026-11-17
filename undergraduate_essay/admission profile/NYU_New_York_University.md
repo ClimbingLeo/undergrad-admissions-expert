@@ -433,6 +433,36 @@ NYU 2025-2026的核心理念：学生如何跨越差异、促进理解、推动�
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 做「搭桥者」：连接不同的人、群体和观点，跨越分歧 | "We are looking for students who want to be bridge builders—students who can connect people, groups, and ideas to span divides…" | [MEET NYU 招生办官方博客（Billy Sichel，引 2026–27 文书题导语）, 2026-07](https://meet.nyu.edu/advice/application-tips/inside-the-2026-2027-common-application-for-nyu/) |
+| 面向全球化的学术社区 | "…promote collaboration within a dynamic, interconnected, and vibrant global academic community." | [MEET NYU 招生办官方博客, 2026-07](https://meet.nyu.edu/advice/application-tips/inside-the-2026-2027-common-application-for-nyu/) |
+| 入学后继续磨练搭桥能力 | "NYU students enter college eager to use these experiences to hone their bridge building skills." | [MEET NYU（招生办 Katie Hindman）, 2026-08](https://meet.nyu.edu/advice/application-tips/your-guide-to-the-nyu-supplemental-essay/) |
+| 分析与创造性思维 | "…demonstrating the analytical and creative thinking you'll bring to NYU." | [MEET NYU 官方 Staff Writer, 2025-12](https://meet.nyu.edu/advice/application-tips/nyu-common-application-what-to-know-before-you-apply/) |
+| 活动不要求面面俱到 | "While we like to see that students are engaged outside of the classroom, there's no expectation that you're doing everything." | [MEET NYU（招生办副主任 Michael Durant）, 2021](https://meet.nyu.edu/advice/depth-and-breadth-two-approaches-to-the-common-application/) |
+
+注意：nyu.edu 主站（招生页、新闻稿、CDS）本次无法抓取，以上原话全部来自招生办官方博客 MEET NYU。
+
+**体现在申请设计中**：
+
+- 唯一一篇补充文书（可选，≤250 词）就是「bridge builder」题：可写一次遇到不同观点的经历、与不同观点的人合作时你的角色，或你观察到的一个善于让人们一起合作的人；不再有 Why NYU 题。
+- 申请时可选纽约、阿布扎比、上海任意组合的校区；不提供面试；艺术类专业需作品集或试镜。
+- CDS C7 的 Very important 项：NYU 的 CDS 挂在 nyu.edu 主站，本次未能核对。
+
+**流行说法核查**：
+
+- 「NYU 看重对城市和全球化的热爱、独立性」→ **部分支持**。全球化有支持：文书题导语写 "global academic community"，申请时还可选多个海外校区。热爱城市、独立性 → **官方页面未见**：招生办文字没有把这两点当作看重点，只在学生大使的博文里出现；Why NYU 题也已取消。
+- 「NYU 要 singular hook，不要 well-rounded」→ **不支持**。招生办副主任谈「专精一项」还是「展示多面」两种写法时说 "It really doesn't matter to me which approach to the application you take."（2021，目前能找到的唯一官方表态）。
+
+**对申请者的含义（归纳）**：
+
+1. 唯一的补充文书考的就是搭桥能力；虽是可选，写的话要落到一次具体的分歧或合作，说清你在其中做了什么、学到什么。
+2. 活动不必样样都有，专精或多面两种写法官方都接受；「热爱纽约」不是官方提到的看重点，不必作为文书主线。
+
 ## 💡 对中国学生申请的实战建议
 
 ### 1. 重新定位"成就"的意义

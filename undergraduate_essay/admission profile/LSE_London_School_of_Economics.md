@@ -573,6 +573,36 @@ LSE允许每位学生选择最多5个课程。策略建议：
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，与同组 8 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 个人陈述极其重要（不面试，是唯一表达机会） | "The quality of an applicant's personal statement is very important at LSE. The School does not interview for places …" | [LSE 本科招生办 Personal Statement 页, 2026](https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Completing-the-UCAS-form/Personal-Statement) |
+| 学术兴趣要对得上 LSE 实际开设的方向 | "When assessing your personal statement our Admissions Selectors will look at how well your academic interests align with the LSE programme." | [LSE 本科招生办 Personal Statement 页, 2026](https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Completing-the-UCAS-form/Personal-Statement) |
+| 对学科的批判性投入和 super-curricular（陈述至少 80% 写这些） | "… emphasise your interest in the programme you are applying for with evidence of your critical engagement with the subject and your super-curricular activity." | [LSE 本科招生办 Personal Statement 页, 2026](https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Completing-the-UCAS-form/Personal-Statement) |
+| 看反思质量，不看资源多少 | "… Selectors look for students who can best reflect on the experiences and academic ideas they have encountered … not those who have had the best opportunities." | [LSE 本科招生办 Personal Statement 页, 2026](https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Completing-the-UCAS-form/Personal-Statement) |
+
+「看反思、不看资源」是英国顶校的常见说法，牛津也有类似表述；LSE 在本组中少见的是把「兴趣与本校实际开设方向是否匹配」写进官方指南，并以人类学（偏社会人类学）、历史（偏现代国际史）为例说明。
+
+**体现在申请设计中**：
+
+- 不面试，没有补充文书，UCAS 三题个人陈述是唯一的文字材料。LSE 逐题指引：第 1 题只谈学术兴趣、不谈职业规划；第 3 题可继续深化学术反思，只写 350 字符的最低要求也 "entirely acceptable"。
+- 笔试：2027 年入学 BSc Economics 和 Econometrics & Mathematical Economics 必考 TMUA，另有 8 个专业推荐考 TMUA；法学 LLB 必考 LNAT。
+- 官方提醒 "a successful personal statement for UK universities is very unlikely to be successful for US universities (and vice-versa)."（同上 Personal Statement 页）
+
+**流行说法核查**：
+
+- 「LSE 只看学术，个人陈述要写得学术化」→ **支持（需补充说明）**。官方要求陈述至少 80% 写学术投入，并说 "Please remember your personal statement is also an academic endeavour"；2018 年宣讲幻灯片说陈述 "Not about you as a person but about your personal interest in the subject(s)"（[LSE Open Day 幻灯片, 2018](https://www.lse.ac.uk/study-at-lse/Assets/PDF/open-day-july-2018-applying-to-LSE-slides.pdf)）。需要补充的是：「学术化」指对读过、听过的观点做反思，官方原话是 "we are interested not just in a list of what you have read/encountered, but evidence you have reflected on the academic ideas"（[LSE Old Personal Statement 页](https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Completing-the-UCAS-form/Old-Personal-Statement)），不是堆术语或罗列书单。
+
+**对申请者的含义（归纳）**：
+
+1. 个人陈述要对准 LSE 实际开设的专业方向来写，重点放在对读过、听过的观点的批判性反思，课外活动只占很小篇幅。
+2. 写给 LSE 的陈述与美国文书是两种写法，不能互相改用。
+
+---
+
 ## 💡 对中国学生申请LSE的实战建议
 
 ### 建议1：数学竞赛与TMUA的双轨协同

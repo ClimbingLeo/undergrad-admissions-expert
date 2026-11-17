@@ -149,6 +149,36 @@ CDS C7 非学业因素（[CDS 2025–26](https://isduwmygvmdozhpvzaix.supabase.c
 
 考什么：你的价值底线和行动力，要有具体的人、事和行动。
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 信仰、学术、好奇心、同情心、致力于共同善 | "This year’s class of admitted students exemplifies the faith, academic excellence, intellectual curiosity, compassion, and dedication to the common good…" | [Notre Dame 招生办新闻稿（招生副校长 Micki Kidder）, 2026](https://admissions.nd.edu/visit-engage/stories-news/university-of-notre-dame-release-regular-decision-admissions-decisions-for-class-of-2030/) |
+| 认同天主教使命、服务他人 | "Those admitted demonstrated exceptional academic preparation along with leadership, enthusiasm for Notre Dame’s Catholic mission, and commitment to serving others." | [Notre Dame 招生办新闻稿, 2026](https://admissions.nd.edu/visit-engage/stories-news/university-of-notre-dame-release-regular-decision-admissions-decisions-for-class-of-2030/) |
+| 服务他人是信仰的实践 | "Service to others is how we live out our faith. Notre Dame students bring a concern for those in need, a commitment to helping…" | [Notre Dame 招生办 Faith & Service, 2026-11 访问](https://admissions.nd.edu/why-nd/spiritual-identity/) |
+| 不要求特定宗教身份，要求尊重学校目标、愿意参与对话 | "…not a particular creedal affiliation, but a respect for the objectives of Notre Dame and a willingness to enter into the conversation…" | [Notre Dame 使命陈述, 2026-11 访问](https://www.nd.edu/about/mission/) |
+| 文书用来了解你的价值观和对社区的影响 | "Because we learn about the values that guide your life, how you've impacted the communities you’re a part of…" | [Notre Dame 招生办 Application Considerations, 2026-11 访问](https://admissions.nd.edu/apply/application-considerations/) |
+
+**体现在申请设计中**：
+
+- 补充文书必答（≤150 词）问选校时你的「non-negotiable」；四选二（各 50–100 词）中三题关于信仰、服务和价值观：信仰如何影响你的决定、如何在社区中 foster service to others、What would you fight for?。这些都是选答，申请者可以完全不选信仰题。
+- CDS 2025–26 C7：Rigor、排名、GPA、文书、推荐信、课外活动、Talent/ability、Character/personal qualities 和 **Volunteer work** 为 Very important；Religious affiliation/commitment 为 Important。Volunteer work 列为 Very important 在本组中少见。
+- 不提供面试；可选 60–90 秒视频（国际生用 InitialView）。
+
+**流行说法核查**：
+
+- 「圣母大学看重信仰、服务和品格」→ **支持（有限定）**，逐项如下：
+- 信仰 → **支持**。招生副校长 2026 年列出的录取生特质第一个就是 faith，CDS 中宗教为 Important。限定：使命陈述明说不要求特定宗教身份，招生页说欢迎所有信仰传统，信仰题可以不选。
+- 服务 → **支持**。Volunteer work 为 Very important，四选二中有一题直接问服务。
+- 品格 → **支持**，但 Character 为 Very important 在本组多数学校都是如此，本身不构成区别。
+
+**对申请者的含义（归纳）**：
+
+1. 非天主教背景不构成门槛，但要能说清自己如何看待和尊重学校的使命；服务他人在官方表述和申请设计中反复出现，写活动时要说清为谁服务、做了什么。
+2. 补充文书的重心是价值观：non-negotiable 题和四选二要回答「什么在指导你的选择」，而不是罗列成就。
+
 ## 对中国学生的建议
 
 1. **国际生池的实际录取率约 4%**：Class of 2029 国际生 6,784 人申请只录 288 人（约 4.2%），不到美国申请者的一半。不能拿「9% 整体录取率」给家长估计机会。

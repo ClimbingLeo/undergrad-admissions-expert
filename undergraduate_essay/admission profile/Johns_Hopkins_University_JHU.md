@@ -179,6 +179,33 @@ JHU 在生物医学工程、神经科学、公共卫生（Bloomberg School）、
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 被新想法激发、深挖自己关心的问题、在所在社区产生影响 | "…we look for students who are energized by new ideas, dig deeper into topics that matter to them, and are making an impact…" | [JHU 招生办 Preparing for College, 2026-11 访问](https://apply.jhu.edu/college-planning-guide/preparing-for-college/) |
+| 课程表现，以及体现求知欲和领导潜力的贡献 | "…performance in high school academic courses and contributions in and out of the classroom that demonstrate intellectual curiosity and leadership potential" | [The Johns Hopkins News-Letter（招生主任 Ellen Chow）, 2025-04](https://www.jhunewsletter.com/article/2025/04/hopkins-admissions-then-and-now) |
+| 品格和对社区的投入 | "…we’re also impressed by their character and a commitment to their communities" | [The Johns Hopkins News-Letter（招生主任 Ellen Chow）, 2025-04](https://www.jhunewsletter.com/article/2025/04/1732-applicants-offered-admission-in-the-regular-decision-round) |
+| 愿意跨越分歧对话、搭建理解的桥梁 | "Our community is stronger because of students who are willing to engage across divides, listen with curiosity, and build bridges of understanding." | [Hopkins Insider 招生办官方博客, 2026-08](https://apply.jhu.edu/hopkins-insider/advice-for-crafting-your-supplemental-essay/) |
+| 把人聚到一起，不必有头衔 | "One quality that stands out in our community is the ability to bring people together. You don’t have to be the president of a club…" | [Hopkins Insider 招生办官方博客, 2026-09](https://apply.jhu.edu/hopkins-insider/how-to-build-a-strong-activities-list-for-your-college-application/) |
+
+**体现在申请设计中**：
+
+- 唯一一篇补充文书（350 词）问你从自身经历中学到了什么关于 engaging across differences，以及这如何影响你对 building bridges、与他人合作的看法；招生办博客说看过程而非结果。这是 2026–27 季新题（上一季是「生命中一个重要的第一次」），能否持续还看不出来。
+- 没有 Why Hopkins 题；标化必交；不提供评估性面试。
+- CDS 2025–26 C7（**来自第三方对官方 PDF 的转录，原件未能逐项核对**；另有第三方版本把 Character 列为 Very important）：Rigor、排名、GPA、标化、文书、推荐信为 Very important；课外活动、Talent/ability、Character、Volunteer work 为 Important。
+
+**流行说法核查**：
+
+- 「JHU 看重科研，尤其医学和理工」→ **不支持**（作为录取偏好）。招生办原话 "High school students are not required to have research experience when applying to Hopkins."；科研只是课外延伸学习的例子之一，与实习、额外选课并列。官方大量谈科研，但谈的是入学后的机会；招生标准、补充文书和招生主任讲话中都没有对医学或理工申请者的偏好表述。
+
+**对申请者的含义（归纳）**：
+
+1. 唯一的补充文书考跨越分歧与合作，要写出与不同的人交流时自己的想法怎样变化，不需要写成赢得争论或当英雄。
+2. 没有科研经历不是短板；把课外时间用在自己关心的学术问题上、说清对所在社区的影响，更贴合官方表述。
+
 ## 💡 对思博杂学社咨询工作的启示
 
 1. **ED 是 JHU 最有价值的战略杠杆**：录取率约是 RD 的 2 倍，且 JHU 不给 Legacy 优待，ED 实际上是最重要的"可控变量"。对于确实以 JHU 为第一志愿（尤其生物医学、公共卫生、国际关系方向）的学生，ED 策略应当是 default 选项，除非有更强的早申选择（如 MIT/Caltech/Princeton REA）。

@@ -909,6 +909,36 @@ studies" as exotic—feels like home.
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 学术扎实，并能以多种方式丰富校园社区 | "The Admissions Committee is looking for students with strong academic profiles who will enrich our campus community in myriad ways." | [Tufts 招生办 Applying to Tufts, 2026](https://admissions.tufts.edu/apply/applying-to-tufts/) |
+| 作为同学、同伴和社区贡献者的样子 | "…our priorities are understanding your academic performance and getting to know who you are as a classmate, peer, and community contributor." | [Tufts 招生办官方博客 Inside Admissions, 2026-11 访问](https://admissions.tufts.edu/blogs/inside-admissions/post/getting-to-know-you-through-letters-of-recommendation/) |
+| 创业精神、合作、公民参与（招生主任描述录取生） | "entrepreneurial, collaborative, civically engaged, active members of their school and local communities" | [Tufts Now（招生主任 JT Duck）, 2026-03](https://now.tufts.edu/2026/03/20/introducing-admitted-undergraduate-class-2030) |
+| 以公民参与回应世界上最紧迫的问题 | "…distinguish themselves through civic engagement and doing more than their fair share towards addressing the world's most pressing issues." | [Tufts 使命陈述, 2026](https://www.tufts.edu/about/mission-vision) |
+| 真心想加入 Tufts 社区 | "we also want true-Jumbo-at-heart students who are genuinely excited about joining our community." | [Tufts 招生办官方博客, 2026-11 访问](https://admissions.tufts.edu/blogs/inside-admissions/post/10-pieces-of-essential-admissions-lingo-and-what-you-need-to-know-about-them/) |
+
+**体现在申请设计中**：
+
+- 2026–27 短答题 1（75–150 词）问你在选校过程中如何了解和接触 Tufts；题 2（100–200 词）按学院不同：文理学院问过去两年最喜欢的一项学校作业，工程学院问你参与构建或设计的一个项目，SMFA 谈作品集中的一件作品。本季没有专门的公民参与题。
+- 不提供面试；SMFA 需作品集；推荐信为 1 封 counselor + 1 封核心学科老师。
+- CDS 2025–26 C7：Rigor、排名、GPA、文书、推荐信、Character 为 Very important；课外活动、Talent/ability 为 Important；Volunteer work 和 Level of applicant's interest 为 Considered。
+
+**流行说法核查**：
+
+- 「塔夫茨喜欢有点古怪、有活力、重视公民参与的学生」→ **部分支持**，逐项如下：
+- 重视公民参与 → **支持**。使命陈述写入 civic engagement，招生主任 2024–2026 年连续三年描述录取生都用到 civic-minded / civically engaged。
+- 有活力 → **部分支持**。官方用的是 "active learners"、"active members of their school and local communities"，指积极参与，不是性格上的活力。
+- 有点古怪（quirky）→ **官方页面未见**。2026–27 短答题已换成「了解 Tufts 的经历 + 最喜欢的作业或项目」。
+
+**对申请者的含义（归纳）**：
+
+1. 公民参与是官方稳定的主题，但本季短答没有专门出口，要靠活动表和主文书体现。
+2. 短答题 1 直接问你怎么了解和接触 Tufts，要有具体的接触经历可写；不必刻意把自己写得「古怪」。
+
 ## 💡 对中国学生申请的实战建议
 
 ### 建议1：建立"学术IP"而非罗列活动

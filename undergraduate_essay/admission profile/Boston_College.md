@@ -573,6 +573,33 @@ Instead of abstract "I resisted stereotype," a stronger version would:
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 综合考量成绩、标化、课外、推荐和写作 | "…we consider grades, standardized test scores, what you do outside of school, teachers’ and others’ appraisals, and how you express yourself through writing." | [BC 招生办申请页, 2026](https://www.bc.edu/bc-web/admission/apply.html) |
+| 向内反思、向外行动，把成长转化为对共同善的贡献 | "…look inward and act outwardly—to take advantage of the many opportunities for reflection and translate your growth into contributions to the common good." | [BC 招生办首页, 2026](https://www.bc.edu/bc-web/admission.html) |
+| 文书要自我揭示，而非自我夸耀 | "tell us a story about yourself. It should be self-revealing, not self-glorifying." | [BC Magazine（招生副教务长 John Mahoney）, 2022](https://www.bc.edu/bc-web/sites/bc-magazine/summer-2022/features/inside-bc-admissions-.html) |
+
+选拔标准的用词与同组学校基本一致。BC 的差异在申请设计：补充文书 5 题中有 2 题直接使用 Jesuit 语汇（three Be's、Common Good），另有 1 题引用 BC 神学教授的话。
+
+**体现在申请设计中**：
+
+- 补充文书（400 词）前四题选一，HCE 申请者改答第 5 题：家庭或社区里一个有意义的传统；最有意义的对话伙伴（引 BC 神学教授 Michael Himes）；被「单一故事」定义的经历；Jesuit 教育「three Be's」之外的第四个 Be；HCE 题问你关心哪些社会问题、如何用所学服务 Common Good。没有 Why BC 题。
+- 无面试；就读中国体制内学校的学生被鼓励提交 InitialView 视频面试（非必需）。
+- CDS 2024–25 C7：只有 Rigor 和 GPA 为 Very important；文书、推荐信、课外活动、Character、Volunteer work 等为 Important；Religious affiliation 为 Considered；Level of applicant's interest 为 Not considered。
+
+**流行说法核查**：
+
+- 「波士顿学院看重 Jesuit 价值观、为他人服务」→ **部分支持**。Jesuit 身份贯穿招生首页、使命陈述（"live in service to others"）和补充文书题目；但官方的重心是「反思与成长 → 贡献 common good」，不是服务时长。Volunteer work 只是 Important，宗教背景只是 Considered；招生副教务长的说法是 "we’re hoping that students have some understanding of and appreciation for what Jesuit education is about"，是期望，不是门槛。
+
+**对申请者的含义（归纳）**：
+
+1. 补充文书全部是反思和人际关系类题目，没有成就题；重点写反思，把个人成长和他人、社群连起来。
+2. 不要求天主教背景，也不靠堆服务时长。
+
 ## 💡 对中国学生申请Boston College的实战建议
 
 ### 1. **大策略决定：ED vs RD的权衡分析**

@@ -84,7 +84,7 @@
 | **中国大陆大学** | 85/100 | 88-92/100 |
 | **欧洲大学** | 2.0/4.0（格拉德制） | 1.2-1.8/4.0 |
 
-**重要说明**：ETH不设硬性GPA分数线，采用holistic evaluation（整体评估）。评估因素包括：
+**重要说明（仅适用于硕士申请）**：以下评估因素和百分比是整理者的估计，ETH 官方未公布任何权重。**本科申请不适用**：本科只按中学证书成绩、入学考试和语言要求决定，官方明确动机信、竞赛奖项、作品集、实习证明 "are not relevant for admission to Bachelor’s studies and will not be considered"（[ETH Bachelor application process](https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/how-to-apply.html)）。硕士评估因素包括：
 1. 本科成绩（占30-40%）
 2. 大学排名与声誉（占20-30%）
 3. 专业相关背景（占20-25%）
@@ -912,6 +912,35 @@
 - 一流大学学生（北清浙：录取率15-25%
 - 985高校学生：录取率8-15%
 - 211及以下高校学生：录取率<5%
+
+---
+
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 8 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 不表述特质：本科原则上向所有人开放，按证书资格录取 | "Application to Bachelor’s degree studies at ETH Zurich is in principle open to all." | [ETH 本科招生 Application with non-Swiss matriculation certificates, 2026](https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate.html) |
+| 不看动机信、竞赛奖项、作品集 | "Please do not upload any letters of motivation, distinctions (e.g. Olympiaden or Känguru awards), portfolios, employment reference letters or internship certificates." | [ETH 本科招生 Application process, 2026](https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/how-to-apply.html) |
+| 筛选发生在入学后的考试 | "… only the very best students pass the rigorous exams in the first years of the Bachelor’s degree programmes." | [ETH 硕士招生 Application Master FAQ, 2026-11 在线](https://ethz.ch/en/studies/master/application.html) |
+
+ETH 本科官方没有任何「看重什么样的学生」的表述，只按证书成绩、入学考试和语言要求录取，官方明确不看动机信和竞赛奖项。与同组英国学校（至少会看个人陈述）的差异在录取机制，而不在特质用词。
+
+**体现在申请设计中**：
+
+- 本科没有个人陈述、动机信和面试；官方说动机信、奖项等 "These are not relevant for admission to Bachelor’s studies and will not be considered."
+- 录取方式只有三种：免试、reduced 入学考试（4 科）、comprehensive 入学考试（8 科），考试用德语，"Familiarity with the respective subject terminology in German is a prerequisite."（[ETH Entrance examination, 2026](https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/eth-entrance-examination.html)）。中国申请人凭高中毕业证书加国内认可大学对应专业的录取证明可参加 reduced 考试，否则参加 comprehensive 考试；IB 需 38/42 分并满足科目组合才能免试（[ETH 2026/27 国家清单 PDF](https://ethz.ch/content/dam/ethz/main/education/admission/bachelor/andere-qual/ETH-ZulassungsbedingungenHS2026_EN.pdf)）。
+- 2028 年秋季起本科入学要求会调整；人类医学全瑞士统一设名额。
+
+**流行说法核查**：
+
+- 「ETH 只看成绩或入学考试，不看其他」→ **支持（仅限本科）**。录取依据是证书类型和成绩，达不到就参加入学考试，动机信、竞赛奖项、作品集、实习证明官方明确不考虑。需要补充：德语要求是硬门槛；「看成绩」是对照固定标准，除医学外不和其他申请人比排名；硕士是综合评估，包括动机信和推荐信，不能混为一谈。
+
+**对申请者的含义（归纳）**：
+
+1. 本科准备重点是中学证书成绩（或 IB 38 分及科目组合）、德语能力和可能的德语入学考试；中国高考生须持有国内认可大学对应专业的录取证明，才能参加 reduced 入学考试，否则要考 comprehensive 考试；文书和竞赛奖项不会被考虑。
+2. 不要把硕士申请的动机信、综合评估流程套到本科申请上。
 
 ---
 

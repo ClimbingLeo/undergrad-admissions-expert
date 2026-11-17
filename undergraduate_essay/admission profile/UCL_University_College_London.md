@@ -670,6 +670,34 @@ Since then, I've become fascinated by how law struggles with cases where the law
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 8 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 学科热情、与课程匹配、能为大学社区带来什么 | "… Your passion for your subject / How you are a good fit for your chosen course / What you will bring to the university community"（/ 为原页面换行） | [UCL 本科招生 Writing the personal statement 页, 2026-11 在线](https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/writing-personal-statement) |
+| 学术潜力、动机和核心能力 | "We use the Personal Statement to assess academic potential, motivation and core skills." | [UCL 本科招生 Applying to UCL（面向中学老师和顾问）, 2026](https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/applying-ucl) |
+| 课堂之外的学科延伸学习 | "We are particularly interested in learning about the ways in which they have extended their learning beyond the classroom." | [UCL 本科招生 Applying to UCL, 2026](https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/applying-ucl) |
+
+这些用词与同组英国学校的「以学科为主」基本一致。UCL 的差异在具体比例和机制：个人陈述页给出 "around 75-85%" 写学科、"15-25%" 写课外活动或职业规划；"What you will bring to the university community" 只出现在写作建议页，选拔标准里没有对应材料；多数课程没有面试或笔试。
+
+**体现在申请设计中**：
+
+- 只走 UCAS 三题个人陈述，同一份陈述发给 5 个志愿；UCL 说陈述用来评估动机和学术潜力，用于区分申请人、决定谁进入下一轮。不考虑 UCAS 之外寄来的简历、课外活动证书、额外陈述。
+- 只有少数课程有额外选拔（Bartlett 建筑学院、Fine Art、LLB Law、MBBS Medicine、MPharm Pharmacy、BA Media 等），其余多数课程没有面试；另有少数课程要求入学笔试（如 Economics BSc 需考 TMUA，据 2026 周期课程页，后续是否沿用以官网为准）。
+
+**流行说法核查**：
+
+- 「UCL 看重学术热情和全球视野」→ **部分支持**。「学术热情」支持，官方说法更具体：对所申学科的热情和动机，加上学术能力和潜力，前提是先过成绩门槛。「全球视野」在核查过的招生页面中**未见**作为评估项，"London’s Global University" 是学校使命和品牌口号（[UCL Strategic Plan 2022–27](https://www.ucl.ac.uk/about/leadership/strategy/ucl-strategic-plan-2022-27/vision-mission-and-values)）。
+
+**对申请者的含义（归纳）**：
+
+1. 陈述大部分篇幅写所申学科和课堂之外的延伸学习，课外活动和职业规划控制在小比例。
+2. 多数课程没有面试和笔试，成绩之外，陈述是主要的区分材料；不必刻意包装「全球视野」。
+
+---
+
 ## 💡 对中国学生的实战建议
 
 ### 建议1：从现在开始，围绕申请专业"深化"活动和阅读

@@ -715,6 +715,35 @@
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 8 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 各类教育背景中的突出成绩与潜力 | "We look for outstanding achievement and potential from all educational backgrounds when assessing applications." | [Manchester 本科招生 Assessing your application 页, 2026-11 在线](https://www.manchester.ac.uk/study/undergraduate/applying/after-you-apply/your-application/) |
+| 考试成绩是多数课程的主要因素 | "Good exam results are the main factor for most of our courses, but we follow some key principles to treat all applicants fairly" | [Manchester 本科招生 Assessing your application 页, 2026-11 在线](https://www.manchester.ac.uk/study/undergraduate/applying/after-you-apply/your-application/) |
+| 个人陈述在部分课程中可起决定作用 | "For some of our courses, a strong personal statement can tip the balance in favour of receiving an offer for a place at Manchester." | [Manchester 本科招生 Your UCAS personal statement 页, 2026-11 在线](https://www.manchester.ac.uk/study/undergraduate/applying/how-to-apply/ucas-personal-statement/) |
+
+这些用词与同组英国学校基本一致。Manchester 的差异在录取机制：全校招生页直接写明成绩是多数课程的主要因素；热门课程分阶段截止，"preference is given to students with grades above our minimum entry requirements"，提交时间可能影响结果。
+
+**体现在申请设计中**：
+
+- 只走 UCAS 三题个人陈述，各专业对陈述的特殊要求写在课程页「application and selection」栏；官方说 "Our admissions staff may review your personal statement to see if you meet the criteria they’ve set."
+- 部分课程要求能力测试、作品集或面试，如医学、牙医要考 UCAT、用 MMI 面试。
+- contextual admissions（按政策文件只适用于 21 岁以下的英国申请人，国际生不适用）：符合条件的申请人，学校看陈述时会考虑其接触课外活动和工作经历的机会是否受限。
+
+**流行说法核查**：
+
+- 「曼彻斯特主要看成绩」→ **支持**。官方几乎逐字承认，计算机系课程页也写 "Strong examination results are the main factor in admitting students to our courses."（[BSc Computer Science, 2027 entry](https://www.manchester.ac.uk/study/undergraduate/courses/2027/00560/bsc-computer-science/application-and-selection/)）。保留之处：官方同时说成绩 "not the only factor"，陈述在部分课程可以 "tip the balance"，医学等课程另有考核。
+
+**对申请者的含义（归纳）**：
+
+1. 预估成绩和已获成绩是首要竞争点；热门课程分阶段录取，宜尽早提交。
+2. 陈述按所申课程页的要求来写，它在成绩相近时可能起作用。
+
+---
+
 ## 🎯 对中国学生的实战建议（Top 8）
 
 ### 1. **从现在开始，用"深度"战略而非"广度"战略**

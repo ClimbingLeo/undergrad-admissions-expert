@@ -154,6 +154,33 @@ UC 统一的 Personal Insight Questions：**8 题选 4 题，每篇不超过 350
 
 Haas Spieker 的补充申请（文书 + 视频面试）在提交 UC 申请后 5–7 个工作日内通过邮件发放链接；本次核对的 Haas 官网页面未列出题目原文（[Haas](https://haas.berkeley.edu/undergrad/admissions/application-process/high-school-students)）。
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，与同组 6 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 坚持、热情、回馈社会 | "We look for persistence, passion, and a desire to give back." | [Berkeley 招生办 Student Profile 页, 2026](https://admissions.berkeley.edu/apply-to-berkeley/student-profile/) |
+| 主动、领导、服务他人、跨文化经历 | "What we look for: Initiative, motivation, leadership, persistence, service to others, special potential and substantial experience with other cultures" | [Berkeley 招生办 Personal Insight Questions 页, 2026 在线](https://admissions.berkeley.edu/apply-to-berkeley/application-resources/personal-insight-questions/) |
+| 敢于开拓、不满足现状 | "I'm looking for an impatient trail blazer," | [Berkeley News（时任招生主任 Olufemi Ogundele）, 2019](https://news.berkeley.edu/2019/08/30/what-makes-a-berkeley-student) |
+| 看学生如何回应所处环境，而非环境本身 | "It is not the environment, but the student and how they interact in that environment." | [Berkeley News 专访 Ogundele, 2020](https://news.berkeley.edu/2020/07/16/femi-ogundele-a-diverse-student-body-fosters-excellence/) |
+
+注意：伯克利官网的审读标准（个人品质清单、困难背景条款）与 UCLA 官网几乎逐字相同，出自 UC 统一的 comprehensive review 政策；伯克利在本组中较突出的是招生主任反复使用的 "impatient trail blazer"、"give back" 这类说法。UC 系统官网写明 "While all UC campuses use the same factors to evaluate applications, they often apply these factors differently."（[UC Admissions, How applications are reviewed](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/how-applications-are-reviewed.html)），各校区 CDS 的 C7 评级也不同（见下）。
+
+**体现在申请设计中**：
+
+- 没有校区专属文书，只用 UC 统一的 8 选 4 Personal Insight Questions（每篇 ≤350 词）；不收作品集和简历，推荐信只邀请部分申请者提交，不面试。
+- CDS 2025–26 C7：Very important 只有课程难度、Academic GPA、Application Essay（PIQ）；Extracurricular、Character、Volunteer、Work 为 Important；Talent/ability 与推荐信只是 Considered（UCLA 的 Talent 为 Important）。
+
+**流行说法核查**：
+
+- 「伯克利看重在逆境中取得的成就和个人能动性」→ **部分支持**。「能动性」有官方原话支撑：看的是学生如何回应环境（上表第 4 行）。「逆境本身」不加分：PIQ 页写明 "Having a hardship is no guarantee of admission"，招生主任说 "we do not fetishize trauma. That is not what we are looking for."（[Berkeley News, 2020](https://news.berkeley.edu/2020/07/16/femi-ogundele-a-diverse-student-body-fosters-excellence/)）。「在机会背景下评估」也是 UC 13 项统一标准，不是伯克利特有。
+
+**对申请者的含义（归纳）**：
+
+1. PIQ 重点写在已有条件下主动做了什么、做了哪些选择；困难经历只是背景，不宜当作卖点。
+2. 按 C7（学校自填，只能当作线索），伯克利的 Very important 只有课程难度、GPA 和 PIQ 三项，活动只是 Important；其他 UC 校区的评级不同，策略不能直接照搬。
+
 ## 对中国学生的建议
 
 1. **国际生是最难的一档**：Fall 2026 国际生录取率 5.4%，约为本州生（12.4%）的一半，且比上一年（6.1%）还低。伯克利应按「冲刺校」规划，不能当保底。

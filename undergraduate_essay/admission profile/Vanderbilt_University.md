@@ -118,6 +118,35 @@ CDS C7 非学业因素（2025–26，[来源](https://cdn.vanderbilt.edu/vu-wpfs
 
 考什么：两件事缺一不可。一是你的身份、文化或背景中的某个具体方面，如何推动了你的成长（要有前后变化）；二是这种成长会怎样落到 Vanderbilt 校园、给社区带来什么。只写背景、不写成长，或只写成长、不连到学校，都会失分。
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 主要审读：学业、社区参与和领导力、文书、推荐信 | "Our process primarily includes review of applicants' academic achievement, community engagement and leadership, personal essay, short answer, and letters of recommendation." | [Vanderbilt 招生办 FAQ, 2026-11 访问](https://admissions.vanderbilt.edu/faq/) |
+| 投入时间精力，并有较强的领导能力 | "we are looking in every case for both commitment of time and effort, and strong leadership skills." | [Vanderbilt 招生办官方博客（Carolyn Pippen）, 2014](https://admissions.vanderbilt.edu/vandybloggers/2014/02/what-we-look-for-in-an-application/) |
+| 深度优于广度 | "We’d much rather see a genuine commitment to one or a few activities than superficial participation that doesn’t offer a significant contribution." | [Vanderbilt 招生办 Expert Advice, 2026-11 访问](https://admissions.vanderbilt.edu/apply/expert-advice/) |
+| 看影响，不看头衔 | "If you made a real difference on your campus or in your community through one of your activities, emphasize that impact…" | [Vanderbilt 招生办 Expert Advice, 2026-11 访问](https://admissions.vanderbilt.edu/apply/expert-advice/) |
+| 带来多样的才能和视角，营造投入的社区 | "…who bring a wide array of talent and perspectives to campus, and who will foster a welcoming and highly engaged Vanderbilt community." | [Vanderbilt 招生办 FAQ, 2026-11 访问](https://admissions.vanderbilt.edu/faq/) |
+
+**体现在申请设计中**：
+
+- 唯一一篇补充短文（约 250 词）以校训 Crescere aude（"dare to grow"）引入，问身份、文化或背景的某一方面如何推动你的成长，以及这将怎样为校园社区做贡献。
+- 不提供面试，也不考虑 demonstrated interest；可选视频（国际生用 InitialView）。
+- CDS 2025–26 C7：Rigor、排名、GPA、文书、**课外活动**、Character 为 Very important；推荐信、Talent/ability、标化为 Important。课外活动的填报等级高于推荐信，在本组中少见。
+
+**流行说法核查**：
+
+- 「范德堡看重领导力、社区参与和全面发展」→ **部分支持**，逐项如下：
+- 领导力和社区参与 → **支持**。FAQ 把 "community engagement and leadership" 列为主要审读内容之一；招生办博客公布 Class of 2030 ED 录取生 "received one or more significant honors or held major leadership positions: 100%"。官方同时说领导力不等于头衔。
+- 全面发展 → 如理解为「什么都参加」，**不支持**：官方建议 "Depth over breadth"；如理解为「学业之外也有课外和社区投入」，则属各校共性。
+
+**对申请者的含义（归纳）**：
+
+1. 活动列表选少而深的投入，突出对校园或社区的实际影响；有没有头衔，都要写清做成了什么。
+2. 补充短文按「背景 → 成长 → 带给社区什么」写；官方不看 demonstrated interest，刷存在感没有用。
+
 ## 对中国学生的建议
 
 1. **申请资助要按「更难赛道」规划**：Vanderbilt 对国际生 need-aware，只给「有限数量」国际新生资助，100% 满足需求的承诺不包括国际生。不需要资助的家庭在录取上没有这层压力；需要资助的家庭应把它当成策略变量，提前算清预算。

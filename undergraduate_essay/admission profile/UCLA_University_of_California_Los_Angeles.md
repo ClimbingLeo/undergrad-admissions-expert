@@ -177,6 +177,32 @@ UC 统一的 Personal Insight Questions：**8 题选 4 题，每篇不超过 350
 
 报艺术与建筑、音乐、护理、TFT 的学生另有学院补充申请，题目和截止日见各学院页面（[UCLA Supplemental Applications 列表](https://admission.ucla.edu/apply/first-year/choosing-major)）。
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 6 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 求知好奇、坚韧、致力于社区服务 | "… those unique individuals who have demonstrated the intellectual curiosity, tenacity, and commitment to community service expected of the UCLA graduate" | [UCLA 招生办 Application Review Process 页, 2026 在线](https://admission.ucla.edu/apply/first-year/first-year-requirements/application-review-process) |
+| 追求学术卓越、动手解决问题、回馈社区 | "We value students who seek academic excellence, get hands-on to solve problems and strive to give back to their community." | [UCLA 招生办 First-Year Applicants 页, 2026 在线](https://admission.ucla.edu/apply/first-year) |
+| 在已有机会的背景下评估成就 | "All achievements, both academic and non-academic, are considered in the context of the opportunities an applicant has had, …" | [UCLA 招生办 Application Review Process 页, 2026 在线](https://admission.ucla.edu/apply/first-year/first-year-requirements/application-review-process) |
+
+这些用词与 UC 其他校区基本一致：审读标准与伯克利官网几乎逐字相同，出自 UC 统一的 comprehensive review 政策。差异在执行层面：UC 系统官网写明 "While all UC campuses use the same factors to evaluate applications, they often apply these factors differently."（[UC Admissions, How applications are reviewed](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/how-applications-are-reviewed.html)）；UCLA 官网写 "readers look comparatively at the achievements of applicants in the same pool who attended the same high school"，而 UCSB 官网写不与任何申请者比较；C7 评级也与伯克利等校区不同（见下）。
+
+**体现在申请设计中**：
+
+- College of Letters and Science 没有补充文书，只用 UC 统一的 8 选 4 PIQ；艺术与建筑、音乐、护理、TFT 另交学院补充申请，官网说作品集或试演 "which are the most significant admission factors for these schools"。不面试、不收推荐信。
+- CDS 2025–26 C7：Very important 为课程难度、Academic GPA、Application Essay；Extracurricular、Talent/ability、Character、Volunteer、Work 为 Important（伯克利的 Talent/ability 只是 Considered）；推荐信、面试、Level of interest 为 Not considered。
+
+**流行说法核查**：
+
+- 「UCLA 看重在自身环境中取得的成就和多元背景」→ **支持，但不是 UCLA 特有**。审读标准写明在机会背景下评估，并考虑语言背景、父母教育程度和家庭支持；官网称 diversity 为 "compelling interest"。这些条款与伯克利官网几乎逐字相同，UCSD 也有同样的多元化表述。
+
+**对申请者的含义（归纳）**：
+
+1. UCLA 官方画像是好奇、坚韧、愿意服务社区；「在环境中取得成就」是 UC 共同的审读底线，不宜当作 UCLA 的专属卖点。
+2. 申请艺术与建筑、音乐、TFT 等学院时，作品集或试演是官方所说最重要的因素，要单独准备。
+
 ## 对中国学生的建议
 
 1. **国际生比整体难，但比伯克利好一些**：UCLA Fall 2026 国际生录取率 8.1%（上一季 6.4%），低于整体 10.8%，高于伯克利国际生的 5.4%。外州生 14.9% 是最容易的一档，国际生仍需按「冲刺校」规划。

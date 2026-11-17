@@ -486,6 +486,35 @@ Moreover, CUHK's Hong Kong location provides a unique vantage point—a place wh
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 5 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 教育背景、学术与非学术成就（国际生） | "Applicants will be considered on the basis of their education background, academic and non-academic achievements." | [CUHK 招生处 Overseas / Other Qualifications 页, 2026-11 访问](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/) |
+| 面试用来发掘 DSE 反映不出的特长 | "To explore candidates’ special talents / skills which are not reflected in HKDSE results" | [CUHK 面试指南 PDF, 2024](https://cuhk.edu.hk/adm/jupas/get-into-cuhk/information_package_interview.pdf) |
+| 内地高考生只按高考分录取 | "…录取时，本校不设面试，以高考成绩（不含加分）择优录取。"〔中文原文〕 | [CUHK 内地（高考）入学须知, 2026](https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/overview/) |
+
+这些用词与同组港校接近。「全人发展」是港中文的官方用词（"CUHK emphasises and puts ample resources into providing an all-round education and whole-person development."，[CUHK All-Round Development 页](https://admission.cuhk.edu.hk/introducing-cuhk/all-round-development/)），但它在「介绍中大」栏目，是培养理念，不在选拔标准里。与同组的差异主要在录取机制：内地生走统招提前批、不设面试，而港大、港科大、理大、港城大是独立招生，多数课程设面试（港城大官网写的是部分课程可能要求）。
+
+**体现在申请设计中**：
+
+- 国际/非联招：一篇英文 personal statement（≤2 页 A4 或 6,000 字符）和至少一封学术推荐信；"interviews are arranged only for shortlisted candidates, and not all programmes or departments require interviews"（[CUHK Non-JUPAS FAQ](https://admission.cuhk.edu.hk/application/non-jupas/faq/)）。
+- 本地 JUPAS：OEA 会被纳入考虑，面试时可带作品集；面试名单要看校长/老师推荐、OEA 活动和成绩；面试指南列出的面试目的还包括 "To look for candidates with interest / passion in the subject or discipline" 和 "To break the tie"。
+- 内地高考生：统招提前批（院校代码 81002），不直接向学校申请，不设面试，按高考分（不含加分）择优，英语须达 120/150。
+
+**流行说法核查**：
+
+- 「港中文主要看成绩和面试」→ **部分支持**（按通道不同）。内地高考生只看高考分，连面试都没有；本地 JUPAS 以分数为主轴，面试是因素之一，OEA 主要在进入面试名单这一步起作用；国际生官方写的是教育背景、学术与非学术成就，PS 和推荐信是必交材料，「只看成绩和面试」会漏掉这两项。
+
+**对申请者的含义（归纳）**：
+
+1. 内地高考生申请港中文，决定因素是高考分（不含加分）和英语 120 分门槛，不需要准备面试。
+2. 「全人教育」是培养理念，不宜理解为录取看重课外活动。
+
+---
+
 ## 💡 对内地学生申请CUHK的实战建议
 
 ### 建议一：充分理解"提前批"的策略意义

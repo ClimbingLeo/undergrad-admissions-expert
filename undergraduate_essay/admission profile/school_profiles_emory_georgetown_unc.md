@@ -201,6 +201,33 @@ Emory 录取文书的共性规律：
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 大胆的想法、全球视角、在社区中成长 | "We're looking for students who bring bold ideas, global perspectives, and a desire to grow through community." | [Emory 招生办 First-Year Applicants, 2026](https://apply.emory.edu/apply/first-year/index.html) |
+| 有自己的声音、求知欲、关注周围的世界 | "We're looking for students who have a voice, who are intellectually curious, and who have demonstrated an engagement with the world around them." | [Emory 招生办 First-Year Applicants, 2026](https://apply.emory.edu/apply/first-year/index.html) |
+| 用知识服务人类（使命） | "Emory University's mission is to create, preserve, teach, and apply knowledge in the service of humanity." | [Emory 使命陈述, 2026](https://www.emory.edu/about/know-emory/our-mission) |
+
+这些用词与同组学校基本一致。Emory 的差异在于把使命直接写进补充文书的选项（"service to humanity"），以及 CDS 中课外活动、Talent/ability、Character 都填为 Very important。
+
+**体现在申请设计中**：
+
+- 必答：想在 Emory 探索哪些学术领域、为什么（建议 200 词）。四选一（150 词）：你参与并让它变好的一个社区；一次有意拓展文化认知的经历；你会如何贡献于 "service to humanity" 的使命；在学术共同体中如何处理分歧、促进对话。
+- 无评估性面试；两封学术科目老师推荐。
+- CDS 2025–26 C7：Rigor、GPA、标化、课外活动、Talent/ability、Character 为 Very important；文书、推荐信、Volunteer work 为 Important；Level of applicant's interest 为 Not considered。
+
+**流行说法核查**：
+
+- 「Emory 看重学术好奇心和人文关怀」→ **部分支持**。"intellectually curious" 有官方原话，但属通用词。「人文关怀」若指服务人类、贡献社会，有支持（使命原话，且进入四选一题）；若指偏好人文学科，**官方页面未见**，必答题只问学术兴趣，不偏人文。
+
+**对申请者的含义（归纳）**：
+
+1. 必答学术题要写清具体的学术兴趣和理由；使命题只是四选一之一，不是硬门槛。
+2. 官方首页更突出的是 bold ideas、global perspectives、grow through community，文书可以围绕「我能带来什么想法、想在社区中怎样成长」展开。
+
 ## 💡 对思博杂学社咨询工作的启示
 
 1. **Emory 是 T25 中性价比最高的 ED 目标之一**：10% 的 Emory College 录取率（非 Oxford），ED 加成显著，适合作为"冲刺但有把握"的锚点学校
@@ -421,6 +448,35 @@ Georgetown 录取文书的共性规律：
 - 面试准备严重不足（很多中国学生把面试当成走过场）
 
 ---
+
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 四项标准：学术成就、求知欲、对学校和社区的投入、全球视野 | "…seeks to admit students who display strong academic achievement, intellectual curiosity, commitment to school and community, and a global outlook." | [Georgetown 招生办 Preparing for Georgetown, 2026](https://uadmissions.georgetown.edu/apply/first-year-applicants/how-to-prepare/) |
+| 学术记录是申请的核心 | "The central part of any application to Georgetown is the student's academic record." | [Georgetown 招生办 Preparing for Georgetown, 2026](https://uadmissions.georgetown.edu/apply/first-year-applicants/how-to-prepare/) |
+| 看成绩、课程和排名，不设分数线 | "…far more concerned with school record, academic program, and rank in class than with test scores. There are no cut-off scores." | [Georgetown 大学 Bulletin（Undergraduate Admissions）, 2026](https://bulletin.georgetown.edu/admissions/undergraduate-admissions/) |
+| 把与自己不同的人视为学习的机会 | "We believe that every person we encounter who is different from us is a gift to us, to help us learn." | [校长 Robert Groves 新生开学致辞, 2025-08](https://president.georgetown.edu/messages/new-student-convocation-aug-2025/) |
+| 为他人、关心共同善（教育使命层面） | "…guides Hoyas to be people for others. Our students learn to be leaders who care for the common good…" | [Georgetown 招生办 About Georgetown, 2026](https://uadmissions.georgetown.edu/about-georgetown/) |
+
+**体现在申请设计中**：
+
+- 全员必答短文（250 词）问一次与观点不同的人互动的经历及所学；长文（650 词）以 "As Georgetown is a diverse community" 开头。
+- 必须直接申请六个本科学院之一，并写学院专属长文（500 词）：SFS 题问学习国际事务的主要动机和未来的 global service，McCourt 题问 public service。
+- 校友面试是正式环节（海外部分学生可能分不到，不扣分）；SAT/ACT 必交。CDS 2025–26 C7：Rigor、排名、GPA、标化、文书、推荐信、Talent/ability、Character 为 Very important；面试、课外活动为 Important；Volunteer work 为 Considered。
+
+**流行说法核查**：
+
+- 「乔治城看重服务他人（Jesuit 传统）和对国际事务的兴趣」→ **部分支持**，逐项如下：
+- 服务他人 → **部分支持**。"people for others" 是教育使命和校园文化层面的表述；招生办写出的标准是 "commitment to school and community"，补充文书没有服务题（只有 McCourt、SFS 学院题提到 public / global service），CDS 中 Volunteer work 只是 Considered。作为录取偏好，证据弱。
+- 国际事务兴趣 → **部分支持**。只对申请 SFS 的学生成立；全校层面对应的是更宽泛的 "global outlook"。
+
+**对申请者的含义（归纳）**：
+
+1. 学术记录是官方明说的核心，标化必交且不接受 superscore；「服务精神」不能替代学业。
+2. 不同观点题全员必答，要写出一次具体的分歧以及自己从中学到了什么；只有申请 SFS 才需要专门论证国际事务的动机。
 
 ## 💡 对思博杂学社咨询工作的启示
 

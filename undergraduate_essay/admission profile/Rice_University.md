@@ -146,6 +146,33 @@ CDS C7 非学业因素（2025–26，[来源](https://ideas.rice.edu/wp-content/
 
 考什么：学建筑的动机是否扎实，以及观察和理解建成环境的能力。
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 热爱生活、思考多元、对世界充满好奇 | "We’re looking for voracious lovers of life, diverse thinkers with an unquenchable curiosity about the world— students who will bring different life experiences…" | [Rice 招生办 Apply 页, 2026-11 访问](https://admission.rice.edu/apply) |
+| 学术实力、领导潜力、改善所在社区 | "We seek students who demonstrate academic prowess and show strong promise of leadership and interest in bettering their communities." | [Rice 招生办 Class Profile, 2026-11 访问](https://admission.rice.edu/apply/class-profile) |
+| 与所选学术领域对齐、了解 Rice 本科体验（评审维度） | "…assessing the strength of the student’s file, articulation and alignment to their academic areas of interests, and knowledge of the Rice undergraduate experience." | [Rice 招生办 Application Philosophy, 2026-11 访问](https://admission.rice.edu/apply/application-philosophy) |
+
+前两行的用词与同组学校基本一致。Rice 的差异在评审制度：CBE（双人委员会审读）把「对 Rice 本科体验的了解」和「与所选学术领域的对齐」写成正式评估维度。
+
+**体现在申请设计中**：
+
+- Rice Supplement：150 词学术兴趣题；150 词 Why Rice 题（"Based upon your exploration of Rice University"）；500 词二选一，考察你会怎样为 Rice 社区做贡献（住宿学院中你想分享的经历或视角，或你的背景、经历、文化身份塑造的视角）。The Box 图片官方说 "not used for evaluative purposes"。
+- 面试推荐但可选、不保证安排，官方说可用来 "demonstrate your knowledge of Rice"；须选七个学院之一，按所选专业评估准备度。
+- CDS 2025–26 C7：Rigor、排名、GPA、标化、文书、推荐信、课外活动、Talent/ability、Character 为 Very important；面试和 Level of applicant's interest 为 Considered。
+
+**流行说法核查**：
+
+- 「Rice 看重合作和住宿学院文化的契合（Rice-ness）」→ **部分支持**。「了解 Rice、说清会怎样贡献社区」有官方依据；但招生官方文字中没有把 collaboration 列为看重的特质，「Rice-ness」不是官方用语，住宿学院是随机分配的（"newly admitted students are randomly assigned"），住宿学院题也只是二选一，不存在「住宿学院契合度」评估。
+
+**对申请者的含义（归纳）**：
+
+1. Why Rice 题和面试要拿出对 Rice 本科体验的具体了解，这是官方写明的评审维度；学术兴趣题要和所选学院、专业对上。
+2. 不需要迎合某个住宿学院的文化，500 词题写清自己能带来的经历和视角即可。
+
 ## 对中国学生的建议
 
 1. **国际生是最难的赛道**：Class of 2029 国际生 8,791 人申请、只录 332 人（约 3.8%），不到整体录取率 8.0% 的一半。选校定位时，Rice 对中国学生应按「冲刺」档看，不能按 8% 的总录取率估算。

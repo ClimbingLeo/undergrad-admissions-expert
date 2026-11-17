@@ -506,6 +506,34 @@ UCI高度看重学生所选课程的难度：
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 6 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 学业之外重视个性 | "But remember, there's more to a UC Irvine student than a great academic record. We also value individuality." | [UCI 招生办 First Year Students 页, 2026 在线](https://admissions.uci.edu/apply/first-year-students/index.php) |
+| 持续投入胜过分散参与；主动与好奇 | "Persistence counts more than scattered involvement, while initiative and curiosity are also important." | [UCI General Catalogue 2026–27, Undergraduate Admissions](https://catalogue.uci.edu/informationforprospectivestudents/undergraduateadmissions/) |
+| 社区和家庭中的责任同样算数 | "… students also are successful who are doing things in the community or with their family, like taking care of their siblings, …" | [UCI News 官方播客（招生主任 Dale Leaman）, 2023](https://news.uci.edu/2023/03/01/uci-podcast-insights-into-college-admissions/) |
+
+这些用词与 UC 其他校区基本一致，招生主任本人也说审读政策由 UC 全系统制定："Policies are all set at that level, not in the individual campus level."（同上播客）。但 UC 系统官网同时写明 "While all UC campuses use the same factors to evaluate applications, they often apply these factors differently."（[UC Admissions, How applications are reviewed](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/how-applications-are-reviewed.html)）。UCI 的差异主要在 CDS C7：把 Extracurricular、Talent/ability、Volunteer work、Work experience 都列为 Very important，其他校区这几项多为 Important（伯克利 Talent/ability、UCSD Work experience 为 Considered），UCSB 列为 Considered。C7 是各校自填，未必完全对应实际阅卷。
+
+**体现在申请设计中**：
+
+- 没有校区专属文书，只用 UC 统一的 8 选 4 PIQ；不面试、不收推荐信。按专业录取，热门专业（招生主任点名生物、CS、机械工程、护理）有容量限制，需填备选专业。
+- CDS 2025–26 C7（[UCI 官方 PDF](https://irap.uci.edu/files/2026/05/2025-26-CDS-PDF-Upload.pdf)）：Very important 为课程难度、Academic GPA、Application Essay、Extracurricular、Talent/ability、Volunteer work、Work experience；Character 为 Important；标化、推荐信、面试为 Not considered。
+
+**流行说法核查**：
+
+- 「UC 各校区都按同一套标准审，校区之间没有区别」→ **部分支持**。13 项因素是同一套，由 UC 全系统教授委员会制定；但各校区独立审读，C7 评级差别明显（UCI 与 UCSB 对非学术项的评级相差最大），专业名额结构也不同。
+
+**对申请者的含义（归纳）**：
+
+1. 长期投入的活动、照顾家人和打工经历都是 UCI 官方点名认可的内容，填活动栏和写 PIQ 时不必回避。
+2. 不能把其他 UC 校区的结果或策略直接套到 UCI：因素相同，C7 评级和专业名额不同。
+
+---
+
 ## 💡 对中国学生申请UCI的实战建议
 
 ### 建议1：重视GPA但不执迷于完美GPA

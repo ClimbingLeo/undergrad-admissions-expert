@@ -660,6 +660,35 @@ UC系统期望：
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 6 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 看学生如何利用已有资源 | "We want to know what you did with the resources that were available to you, both at school and outside of school." | [UC 系统官网问答（UC Davis 招生主任 Robert Penman）, 2025](https://www.universityofcalifornia.edu/news/whats-most-important-part-uc-application-our-admissions-experts-weigh) |
+| 学业成绩是申请的核心 | "Your academic record is the core of your application." | [UC Davis 招生办 First-Year Application Tips 页, 2026 在线](https://www.ucdavis.edu/admissions/undergraduate/first-year/application-tips) |
+| 新生来自各行各业 | "We're hoping to shape a class of students who come from all walks of life." | [UC 系统官网文章（Penman）, 2024/2026](https://www.universityofcalifornia.edu/news/how-the-university-of-california-evaluates-student-applications) |
+
+这些用词与 UC 其他校区基本一致：UC Davis 官网直接列出 "The 13 factors all UC campuses consider"，没有校区自己的补充标准。差异在执行层面：UC 系统官网写明 "While all UC campuses use the same factors to evaluate applications, they often apply these factors differently."（[UC Admissions, How applications are reviewed](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/how-applications-are-reviewed.html)）；Penman 本人的比喻是 "Think of us as nine chefs: We're all working with the same ingredients, but we're developing different recipes …"（[UC 系统官网问答, 2025](https://www.universityofcalifornia.edu/news/whats-most-important-part-uc-application-our-admissions-experts-weigh)）。C7 上，UC Davis 的 Very important 只有课程难度和 GPA，文书只是 Important，而伯克利、UCLA、UCSD、UCI、UCSB 都把文书列为 Very important。
+
+**体现在申请设计中**：
+
+- 没有校区专属文书，只用 UC 统一的 8 选 4 PIQ；官网明确不要寄推荐信、奖状或作品样本，不面试。
+- 专业选择影响录取：招生主任说 "At UC Davis we have four majors that have an admission rate below 25 percent: design, computer science, mechanical engineering and psychology."（[UC 系统官网文章, 2024/2026](https://www.universityofcalifornia.edu/news/how-the-university-of-california-evaluates-student-applications)）
+- CDS 2025–26 C7（[UC Davis 官方 PDF](https://aggiedata.ucdavis.edu/sites/g/files/dgvnsk1841/files/media/documents/CDS_UCD_0.pdf)）：Very important 只有课程难度、Academic GPA；Application Essay、Extracurricular、Talent/ability、Character、Volunteer work 为 Important；Work experience 为 Considered；标化、推荐信、面试为 Not considered。
+
+**流行说法核查**：
+
+- 「UC 各校区都按同一套标准审，校区之间没有区别」→ **部分支持**。UC Davis 官网列的就是 13 项统一标准，UC 系统文章还写同一份申请在 UC Davis 和 UCSD 会得到 "similar treatment"；但招生主任自己用「同样食材、不同菜谱」来形容各校区，C7 评级和热门专业录取率也因校区而异。
+
+**对申请者的含义（归纳）**：
+
+1. 对 UC Davis，成绩和课程难度是 C7 中仅有的两项 Very important（C7 为学校自填，只能当作线索），官方也称学业是申请的核心，先把这两项做扎实。
+2. 设计、CS、机械工程、心理学的专业录取率低于 25%，选专业时要把这一点算进去。
+
+---
+
 ## 💡 对中国学生申请UC Davis的实战建议
 
 ### 1. 充分利用"国际生利好"但不要过度依赖

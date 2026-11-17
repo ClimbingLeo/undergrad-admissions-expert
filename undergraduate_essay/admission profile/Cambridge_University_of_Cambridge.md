@@ -1139,6 +1139,35 @@
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，与同组 8 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 学术潜力 | "We use personal statements to help us identify applicants with the most academic potential." | [Cambridge 本科招生办 UCAS personal statement 页, 2026](https://www.undergraduate.study.cam.ac.uk/apply/how/ucas-personal-statement) |
+| 与专业无关的课外活动不计入 | "These activities won't be taken into consideration by Cambridge during the application process." | [Cambridge 本科招生办 Improve your application 页, 2026](https://www.undergraduate.study.cam.ac.uk/apply/before/improve-application) |
+| 自己的想法：从学科探索中学到了什么 | "Crucially, we are interested in your thoughts. What have you learned from your subject exploration?" | [Cambridge 本科招生办 UCAS personal statement 页, 2026](https://www.undergraduate.study.cam.ac.uk/apply/how/ucas-personal-statement) |
+| 学术兴趣有脉络、有逻辑 | "The best personal statements show a pattern and logic in an applicant's academic engagement." | [Cambridge 本科招生办 UCAS personal statement 页, 2026](https://www.undergraduate.study.cam.ac.uk/apply/how/ucas-personal-statement) |
+
+剑桥与牛津都「只看学术」，表述高度接近，本组中两校之间难以区分；剑桥的措辞更绝对，Christ's 学院说 "we do not assess you at all on your achievements in other areas during the admissions process (even if they are considerable) …"（[Christ's College, 2025–26](https://christs.cam.ac.uk/node/1997)）。
+
+**体现在申请设计中**：
+
+- UCAS 三题陈述之外，有 My Cambridge Application（可选写 1200 字符的剑桥专属陈述，用来说明为什么选只有剑桥开设的专业、补充学科探索；官方明确不要用它解释为什么选某个学院）。
+- 多数专业有指定笔试（少数专业没有），部分专业交 written work；面试是核心环节，"everyone who is made an offer will have been interviewed"，官网称 "Interviews at Cambridge are academic conversations about the subject you're interested in studying."（[Cambridge interviews 页, 2026](https://www.undergraduate.study.cam.ac.uk/apply/after/cambridge-interviews)）
+
+**流行说法核查**：
+
+- 「剑桥只看学术潜力和对学科的热情，课外活动没用」→ **支持**。中央招生页说无关活动 "won't be taken into consideration"、"will not increase your chances"。保留两点：与专业相关的阅读、竞赛等 super-curricular 不算在「课外活动」里，而且很重要；Newnham 学院允许简短写能体现可迁移能力的活动，或照护家人、打工等处境背景（[Newnham College, 2026](https://newn.cam.ac.uk/study-here/undergraduates/advice-applications/top-tips-applications)）。
+
+**对申请者的含义（归纳）**：
+
+1. 陈述写学科探索中的思考，以及兴趣之间如何一步步引出，不要罗列与专业无关的活动。
+2. 面试是围绕所申学科的学术对话，准备重点是和导师讨论学科问题。
+
+---
+
 ## 💡 对中国学生申请剑桥的实战建议（至少5条）
 
 ### 建议1：转变思维方式 - 从"成就收集"到"深度思考"

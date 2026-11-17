@@ -516,6 +516,35 @@ CityU的创意媒体专业吸引我，不是因为排名，而是课程的'融�
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 5 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| JUPAS 排名主要按 DSE 成绩，其他因素用于同分时区分 | "Ranking of applicants on the priority list is primarily based on their HKDSE results and individual programme may consider the following factors for tie-breaking" | [CityUHK 招生处 FAQ（JUPAS）, 2026](https://www.cityu.edu.hk/admo/faq?kind=jupas) |
+| 相关科目成绩与课程自定标准 | "… including applicants’ academic qualifications, results in relevant subjects, interview performance, portfolios and other criteria as specified by individual programmes." | [CityUHK 招生处 FAQ（非本地申请人）, 2026](https://www.cityu.edu.hk/admo/faq?kind=jupas) |
+| 课外活动和工作经历只作补充信息 | "Extracurricular activities and work experience will be treated as supplementary information and may be considered in the selection process where applicable." | [CityUHK 招生处 FAQ（本地直接申请）, 2026](https://www.cityu.edu.hk/admo/faq?kind=jupas) |
+
+这些用词与同组港校接近。港城大的差异在制度：官方把课外活动明确定位为「补充信息」；内地自 2026 学年起改为「中国内地高考单独招生」，不进统招，在高考成绩之外综合评估申请资料和面试（如适用）。
+
+**体现在申请设计中**：
+
+- 面试、测试、作品集由各课程决定；创意媒体学院（SCM）作品集："学院希望通过作品首先看到申请人的想象力、观察力和自我表达能力，其次才看申请人已经具备的技巧。"〔中文原文〕（[CityUHK 内地单独招生页, 2026](https://www.cityu.edu.hk/admo/mainland/admissions)）；兽医学士须放第一志愿，并有至少 70 小时照顾动物的经验。
+- 非本地申请人："Recommendation letters are not required unless specifically requested by individual programmes."
+- 内地单独招生：最低要求一本线（不含加分），英语 110/150。
+
+**流行说法核查**：
+
+- 「港城大看重专业匹配」→ **部分支持**。三类申请人的选拔标准里都出现「相关科目成绩」和课程自定标准，JUPAS 还写明 "In the selection process, preference may be given to students with higher band choices."；但这里的匹配主要是学科成绩和志愿排序上的匹配，不是文书里讲清专业动机，官方没有把 PS 列为通用选拔材料。「相关科目成绩」「高志愿优先」在港大、理大也同样存在。
+
+**对申请者的含义（归纳）**：
+
+1. 把高分科目和目标专业对上；走 JUPAS（本地 DSE）的考生还要注意把港城大课程放在靠前的志愿（志愿 Band 只属 JUPAS，内地单招没有这一机制）。
+2. 申请创意媒体类专业，作品集是核心材料，官方先看想象力、观察力和自我表达，其次才看技巧。
+
+---
+
 ## 💡 对内地学生申请CityU的实战建议（至少5条）
 
 ### 建议1：高考与国际认证双轨并行（风险对冲策略）

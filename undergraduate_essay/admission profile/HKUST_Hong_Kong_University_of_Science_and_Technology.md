@@ -451,6 +451,37 @@ A: HKUST对大陆申请者的面试通常包括：
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，与同组 5 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 录取主要看学术，非学术加分封顶 5%（工学院，JUPAS 本地 DSE 生） | "In general, bonus of not exceeding 5% will be given based on non-academic performance such as OEA / SLP; Admission is largely based on academic results." | [HKUST School of Engineering, FAQ for JUPAS Students Q6, 2026](https://seng.hkust.edu.hk/node/3831) |
+| 科学或工程相关的活动（工学院） | "… student achievements and participation in activities (especially science or engineering related) recorded in Other Experiences and Achievements in Competitions / Activities (OEA) …" | [HKUST School of Engineering, FAQ for JUPAS Students Q6, 2026](https://seng.hkust.edu.hk/node/3831) |
+| 国际竞赛奖项（理学院） | "Achievements under the OEA such as awards obtained in international competitions may be useful. Students having these awards may be considered for granting conditional offers." | [HKUST School of Science, Undergraduate FAQ, 2026-11 访问](https://science.hkust.edu.hk/node/3132) |
+| 文书看个性、志向、动机与专业适配（理学院） | "In general, we try to learn more about the applicant as a person e.g. on personality, aspirations, and motivation/suitability for the program applied." | [HKUST School of Science, Undergraduate FAQ, 2026-11 访问](https://science.hkust.edu.hk/node/3132) |
+| 创造力与独立思考（理学院） | "… show creativity and independent thinking so that after reading, the reader would form a unique impression about the applicant." | [HKUST School of Science, Undergraduate FAQ, 2026-11 访问](https://science.hkust.edu.hk/node/3132) |
+
+注意：上表 5 行均出自工学院、理学院面向 JUPAS 考生的 FAQ，不代表全校，也不代表内地和国际生通道。工学院「非学术加分不超过 5%」是本组中少见的量化表态；「creativity and independent thinking」的措辞港大建筑学院也用，不是港科大特有。
+
+**体现在申请设计中**：
+
+- JUPAS 有 500 词 PS；国际生交 1 篇 PS、Grade 10 起成绩单、重要奖项证明，并提名一位学术推荐人。
+- 面试 "is not a mandatory procedure of the admissions exercise except for some programs"（[HKUST 招生处国际学历申请流程页](https://join.hkust.edu.hk/node/7)），商学院 BBA Global Business、QFIN、RMBI、Sustainable and Green Finance 必面试。
+- 内地高考生：出分后按各学院面试分数线邀请，"面试以全英语进行，主要考核同学的心理素质、逻辑思维、表达能力、沟通技巧等，通过面试即可获录取。"〔中文原文〕（[HKUST 内地高考生入学要求页, 2026](https://join.hkust.edu.hk/zh-hans/admissions/gaokao)）
+
+**流行说法核查**：
+
+- 「港科大看重理工和创新创业」→ **部分支持**。「理工」支持：学校使命把 science、technology、engineering 写在前面，工学院看重科学或工程相关活动，理学院国际竞赛奖项可用于条件录取；但商学院说的是整体评估，这是主力学院的偏好，不是全校统一标准。「创新创业」作为录取评估项在招生页面**未见**，「创新」只出现在校长讲话和学校宣传里，非学术表现整体还被封顶在 5% 以内。
+
+**对申请者的含义（归纳）**：
+
+1. 申请理工专业，与专业相关的竞赛和活动更有用。表中工学院、理学院的说法出自面向 JUPAS（本地 DSE）考生的 FAQ，「加分不超过 5%」不能直接套用到内地和国际生身上，但成绩是主体这一点各通道一致。
+2. 创业项目可以写进 PS 来体现动机和独立思考，不宜当作录取的主要筹码。
+
+---
+
 ## 💡 对内地学生申请HKUST的实战建议（必读）
 
 ### 建议 1：尽早确定目标学院和专业（高二开始）

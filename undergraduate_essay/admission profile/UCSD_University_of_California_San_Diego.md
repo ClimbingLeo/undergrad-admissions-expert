@@ -520,6 +520,35 @@ UCSD使用UC系统统一的8道PIQ，申请者必须选择其中4道来回答，
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 6 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 领导力、坚韧、主动、原创、独立思考等个人品质 | "We're looking for students who demonstrate exceptional characteristics like leadership, motivation, tenacity, initiative, originality, creativity, intellectual independence, responsibility, insight and maturity." | [UCSD 招生办 First-Year Application Review 页, 2026 在线](https://admissions.ucsd.edu/first-year/application-review.html) |
+| 多元背景、积极为校园做贡献 | "We value cultural, socioeconomic and intellectual diversity and are looking for students who will actively contribute to our campus." | [UCSD 招生办 First-Year Application Review 页, 2026 在线](https://admissions.ucsd.edu/first-year/application-review.html) |
+| 敢于冒险、爱拆解事物的创新者（官网页脚标语） | "We're looking for fearless innovators. Bold risk-takers. Those with a compulsive urge to take things apart, …" | [UCSD 招生办 Application Requirements 页, 2026 在线](https://admissions.ucsd.edu/first-year/application-requirements.html) |
+
+这些用词与 UC 其他校区基本一致：审读标准正文与 UCLA、伯克利几乎同源；"fearless innovators" 是官网页脚的营销标语，不在审读标准里。差异在执行层面：UC 系统官网写明 "While all UC campuses use the same factors to evaluate applications, they often apply these factors differently."（[UC Admissions, How applications are reviewed](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/how-applications-are-reviewed.html)）；UCSD 设 selective majors，C7 评级也与 UCI、UCSB 等校区不同（见下）。
+
+**体现在申请设计中**：
+
+- 没有校区专属文书，只用 UC 统一的 8 选 4 PIQ，官网写明 "All questions are given equal consideration in the application review process."；不面试、不收推荐信。
+- 设 selective majors，官网建议报 selective major 的学生填一个非 selective 的备选专业；招生主任 Blia Yang 说约 12,500 名学生申请 300 个 CS 名额（[UC 系统官网文章, 2024/2026](https://www.universityofcalifornia.edu/news/how-the-university-of-california-evaluates-student-applications)；编者注 Fall 2025 CS 申请者为 10,785 人）。
+- CDS 2025–26 C7（[UCSD 官方 PDF](https://ir.ucsd.edu/stats/undergrad/CDS-2025-2026-Final4.pdf)）：Very important 为课程难度、Academic GPA、Application Essay；Extracurricular、Talent/ability、Character、Volunteer work、State residency 为 Important；标化、推荐信、面试为 Not considered。
+
+**流行说法核查**：
+
+- 「UCSD 偏理工，主要看学术」→ 审读标准层面**不支持**，专业名额层面**部分支持**。C7 的 Very important 项与伯克利、UCLA 完全一样，官网写明 "UC San Diego reviews both academic and non-academic factors in consideration for admission."；理工色彩只体现在页脚标语和 CS 等热门专业名额极少。招生主任还说 "I would much rather see students pursue their passions than what they think they need to do to get into UC San Diego …"（[UC 系统官网文章, 2024/2026](https://www.universityofcalifornia.edu/news/how-the-university-of-california-evaluates-student-applications)）。
+
+**对申请者的含义（归纳）**：
+
+1. CS 等 selective major 名额有限（证据中约 300 个名额对应 1.1–1.25 万名申请者），竞争远比全校层面激烈，这是名额问题，不是「学校更看重学术」；备选专业要认真选。
+2. PIQ 和活动按自己的兴趣写，不必为迎合「理工校」印象而调整。
+
+---
+
 ## 💡 对中国学生申请的实战建议
 
 ### 1. 突破"完美申请人"的陷阱，拥抱有缺陷的真实故事

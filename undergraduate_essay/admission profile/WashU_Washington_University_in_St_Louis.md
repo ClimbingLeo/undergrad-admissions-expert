@@ -132,6 +132,33 @@ CDS C7 非学业因素（2025–26，[来源](https://washu.edu/app/uploads/2026
 
 **奖学金短题（仅申请 Signature Scholar 者，250 words）**：提交入学申请后在 WashU Pathway 中作答，题目原文官网公开页面未列出。
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 潜力、品格，以及能否融入合作、好奇的社区 | "Our application review process goes beyond grades to understand your potential, character, accomplishments, and how you’ll connect with our collaborative and intellectually curious community." | [WashU 招生办 What We're Looking For, 2026-11 访问](https://admissions.washu.edu/how-to-apply/what-were-looking-for/) |
+| 合作、好奇、有创造力，关心并支持他人 | "They are collaborative, intellectually curious, creative, and demonstrate leadership in a variety of ways. They share concern for others, seek solutions, and support one another." | [WashU 招生办 What We're Looking For, 2026-11 访问](https://admissions.washu.edu/how-to-apply/what-were-looking-for/) |
+| 合作而非零和竞争（招生顾问承诺营造的环境） | "…collaborative without being cutthroat, instilling our community with the idea that one person’s success does not come at the cost of another’s." | [WashU 招生办 What We're Looking For, 2026-11 访问](https://admissions.washu.edu/how-to-apply/what-were-looking-for/) |
+| 跨越差异对话、欢迎和合作的社区 | "that we care about freedom of speech and dialogue across differences, that we are a welcoming and collaborative community." | [The Source 校方新闻（招生副教务长 Ronné Turner）, 2026-08](https://source.washu.edu/2026/08/washu-admissions-strategy-is-working-and-evolving/) |
+| 为什么适合 WashU、是否主动了解学校 | "We hope to understand why WashU might be a good fit for you and how you have taken advantage of opportunities…" | [WashU 招生办 What We're Looking For, 2026-11 访问](https://admissions.washu.edu/how-to-apply/what-were-looking-for/) |
+
+**体现在申请设计中**：
+
+- 只有一篇 250 词必答题「你想在大学学什么、为什么」；官方希望申请者把对 WashU 的了解反映在这道题的「why」里。原有的可选补充文书本季取消。
+- 2026–27 季起正式考虑 demonstrated interest（校园参观、线上说明会、Bear Chats、和招生官交流等）；不提供评估性面试；可选 90 秒视频。
+- CDS 2025–26 C7：Rigor、排名、GPA、标化、文书、推荐信、Talent/ability、Character 为 Very important；课外活动为 Important；Level of applicant's interest 为 Considered。
+
+**流行说法核查**：
+
+- 「WashU 看重对学校的了解，重视 demonstrated interest」→ **部分支持，且有时效性**。2026–27 季起官方说 "we also consider demonstrated interest"，但定位为 "a small part in our evaluation of your whole application"，还说这不是要你联系招生办表达兴趣。2021 年 WashU 曾宣布停止考虑 demonstrated interest，理由是对农村、第一代大学生家庭和升学率低的高中学生不利。所以现在能说「考虑」，不能说「重视」。
+
+**对申请者的含义（归纳）**：
+
+1. 唯一的文书题要同时回答「想学什么」和「为什么在 WashU 学」，把对学校的具体了解写进去；参加说明会等接触会被考虑，但官方说只占很小一部分。
+2. 申请材料里突出与同伴合作、支持他人的经历，比强调和别人竞争的名次更贴合官方表述。
+
 ## 对中国学生的建议
 
 1. **申请资助的国际生名额极少**：WashU 对国际生 need-aware，Fall 2025 全校只有 30 名国际本科生拿到校方资助；而且必须在申请入学时同时申请，录取后再也不能申请。需要资助的家庭要把 WashU 视为高难度目标，不需要资助的家庭则无此劣势。

@@ -623,6 +623,35 @@ UCSB使用统一的UC申请系统，所有申请者需从以下8道题目中选�
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 6 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 在机会和困难的背景下评估成就与个人品质 | "UCSB considers 13 holistic review factors to review your achievements and personal qualities in the context of the opportunities and/or challenges you have experienced." | [UCSB 招生办 First-Year Eligibility & Selection 页, 2026 在线](https://admissions.sa.ucsb.edu/freshman-eligibility-selection) |
+| 不与其他申请者横向比较 | "We do not compare your application with any other applicant, regardless of school or location." | [UCSB 招生办 First-Year Eligibility & Selection 页, 2026 在线](https://admissions.sa.ucsb.edu/freshman-eligibility-selection) |
+| 深度胜过广度 | "… really what we're looking for is depth. We use the phrase depth over breadth." | [Santa Barbara Independent（招生主任 Lisa Przekop）, 2013](https://www.independent.com/2013/11/21/getting-into-college/) |
+
+这些用词与 UC 其他校区基本一致，UCSB 官网基本是在复述 UC 统一的 13 项标准；「深度胜过广度」只见于 2013 年的一次采访，UCI 的 Catalogue 也有相近表述。差异在执行层面：UC 系统官网写明 "While all UC campuses use the same factors to evaluate applications, they often apply these factors differently."（[UC Admissions, How applications are reviewed](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/how-applications-are-reviewed.html)）；UCSB 写不与任何申请者比较，UCLA 则写会与同一所高中的申请者比较；C7 上 UCSB 的 Very important 只有 GPA 和文书，非学术项全部只是 Considered，与 UCI 差别最大。
+
+**体现在申请设计中**：
+
+- College of Letters and Science 没有补充文书，只用 UC 统一的 8 选 4 PIQ；College of Creative Studies 须另交补充申请，"which is reviewed by Creative Studies faculty"；舞蹈和音乐表演需试演。不面试，不审主动寄送的成绩单、推荐信或补充材料。
+- L&S 学院 "Choice of major is not considered"；工程学院不考虑备选工程专业。
+- CDS 2025–26 C7（UCSB IRPA 官网链接的 PDF，入口 [bap.ucsb.edu](https://bap.ucsb.edu/institutional-research)）：Very important 只有 Academic GPA、Application Essay；课程难度为 Important；Extracurricular、Talent/ability、Character、Volunteer work、Work experience 等为 Considered；标化、推荐信、面试为 Not considered。
+
+**流行说法核查**：
+
+- 「UC 各校区都按同一套标准审，校区之间没有区别」→ **部分支持**。UCSB 明说用 13 项 holistic review 因素，审读理念是 UC 共同的「在机会和困难背景下评估」；但流程表述（是否横向比较）、学院录取结构（L&S 不看专业、CCS 教授审读）和 C7 评级都与其他校区不同。
+
+**对申请者的含义（归纳）**：
+
+1. UCSB 在 CDS C7 中只把 GPA 和 PIQ 填为 Very important。C7 是学校自填，只能当作线索，不是录取权重；课程难度填为 Important，同样不能放松。活动「重深度不重数量」只出自 2013 年招生主任的一次采访，作参考。
+2. 志愿设计要按 UCSB 的学院规则来：L&S 不看专业选择，工程不考虑备选工程专业，CCS 需另交补充申请。
+
+---
+
 ## 💡 对中国学生申请UCSB的实战建议
 
 ### 1. **GPA是"门票"，文书是"决定因素"**

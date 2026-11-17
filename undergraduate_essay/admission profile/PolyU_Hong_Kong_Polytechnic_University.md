@@ -476,6 +476,33 @@ PolyU采用综合评分系统，成绩（高考/A-Level/IB）权重约50%，面�
 - 来自学科竞赛教练、科研导师或实习公司主管的推荐信，比班主任推荐信更有说服力
 - 在激烈竞争中，一封质量高的推荐信可能成为"定海神针"
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 5 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 整体评估 | "PolyU values high-calibre students and review each application with a holistic approach." | [PolyU 招生 International / Other Qualifications FAQ, 2026-11 访问](https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications/international-other-qualifications-frequently) |
+| 体育、艺术文化、领导与社会服务、STEM 方面的突出者 | "Outstanding applicants in the areas of Sports, Arts and Culture, Leadership and Community Services, and STEM are exceptionally considered for admissions to PolyU." | [PolyU STARS 页, 2026-11 访问](https://www.polyu.edu.hk/study/ug/admissions/special-talents-admission-and-recognition-scheme) |
+| 与所选课程的适合度 | "… the content should demonstrate the applicant’s suitability for the chosen programme(s)." | [PolyU 招生 International / Other Qualifications FAQ, 2026-11 访问](https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications/international-other-qualifications-frequently) |
+
+这些用词与同组港校接近。理大的差异在制度：非学术特长有单独的品牌通道 STARS（内地对应「德艺计划」），JUPAS 主通道里非学术表现要 "very outstanding" 且须把理大课程放在 Band A 才被优待；内地生的「3D综合评估入学计划」看学业水平测试、高中成绩和面试。
+
+**体现在申请设计中**：
+
+- 国际/其他学历："For most programmes, submitting a recommendation letter and personal statement is optional."；个别课程另有附加文件要求。
+- "Some schemes / programmes may conduct their own aptitude tests to ascertain applicants’ specific aptitudes / competencies for particular disciplines."（[PolyU JUPAS FAQ – Admission Selection](https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-frequently-asked-questions-admission-selection)）；设计类交作品集，个别课程面试。
+- 内地应届高考生：「3D综合评估入学计划」"理大将通过学业水平测试、高中阶段成绩及面试表现进行综合评估，以选拔合适的学生。"〔中文原文〕（[PolyU 3D 计划页, 2026](https://www.polyu.edu.hk/study/ug/admissions/jee/3d-admission-scheme)）
+
+**流行说法核查**：
+
+- 「港理大看重专业实用」→ **部分支持**。校训是 "To learn and to apply, for the benefit of mankind"，使命第一条是培养 "socially responsible professionals and leaders"（[PolyU Motto, Vision & Mission](https://www.polyu.edu.hk/about-polyu/motto-vision-mission/)），PS 的唯一明确要求是体现对所选课程的适合度。但招生评估中**未见**「实习、实践经历加分」，官方点名的非学术表现是重要比赛奖项和 STARS 四类特长；主通道仍以成绩为主，内地生须有优异高考成绩和良好英语成绩。
+
+**对申请者的含义（归纳）**：
+
+1. 如果提交 PS，围绕自己与所选课程的适合度来写。
+2. 体育、艺术、领导与社会服务或 STEM 方面有突出特长的，可以走 STARS（内地生对应德艺计划）这条单独通道。
+
 ## 💡 对内地学生申请PolyU的实战建议（至少5条）
 
 ### 建议一：尽早规划，充分准备英文能力

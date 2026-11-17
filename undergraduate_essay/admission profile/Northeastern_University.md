@@ -531,6 +531,32 @@
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 学术上挑战自己、课外有投入（原句以领导力和追求热情结尾） | "…students who have challenged themselves academically by taking advantage of the curricular opportunities available to them; are engaged in activities outside of the classroom…" | [Northeastern 招生办 Counselor Resources, 2026](https://admissions.northeastern.edu/application-information/counselor-resources/) |
+| 领导力、创造力、全球视野、适应力、韧性 | "…demonstrated qualities of leadership, creativity, diversity, engagement, global perspective, adaptability, and resiliency." | [Northeastern 学术目录 2026–2027 Admission Policy, 2026](https://catalog.northeastern.edu/undergraduate/admission/admission-policy-entrance-requirements/) |
+| 课堂之外的表现（校长对升学顾问讲话） | "What you do beyond the classroom is going to be essential" | [Northeastern Global News（校长 Joseph E. Aoun）, 2024](https://news.northeastern.edu/2024/09/19/president-aoun-experiential-learning-keynote-speech/) |
+
+这些用词与同组学校基本一致。东北的差异主要在制度和定位：experiential / co-op 是官方核心卖点；CDS 中 Work experience 列为 Important（同城的 BC、BU 只列 Considered）；没有补充文书。
+
+**体现在申请设计中**：
+
+- 官方页面没有列任何补充文书，只要 Common App 主文书；不提供校友或校园面试，但会考虑 InitialView / Vericant 提交的第三方视频面试；CAMD 鼓励交作品集。
+- CDS 2024–25 C7：Rigor、GPA、标化、推荐信为 Very important；课外活动、Talent/ability、Character、Volunteer work、Work experience 为 Important；文书只列 Considered。
+
+**流行说法核查**：
+
+- 「东北大学看重实践（co-op）和职业导向」→ **部分支持**。学校定位层面证据很强：招生页、校长、招生主管都把 experiential / co-op 当核心卖点。选拔层面只有中等支持：写进标准的是课外投入、领导力、动力、适应力、全球视野，外加 Work experience 为 Important；没有任何官方原话说要优先录取职业目标清晰或有实习经历的申请人，「ROI」是招生主管描述家庭需求和学校卖点时的用词。
+
+**对申请者的含义（归纳）**：
+
+1. 官方选人仍以学术为先；打工、动手做事的经历值得在活动表里写清，但「职业规划清晰」不是官方写出的选拔标准。
+2. 没有补充文书和面试，申请人没有专门的位置论证「为什么适合 co-op」，活动表和推荐信要承担这部分信息。
+
 ## 💡 对中国学生申请的实战建议
 
 ### 1. 早决策：ED策略至关重要

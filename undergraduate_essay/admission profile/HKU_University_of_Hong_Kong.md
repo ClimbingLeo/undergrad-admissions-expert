@@ -610,6 +610,36 @@ HKU的申请者来自全球131个国家和地区，其中内地学生占比约35
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：明显**（依据：2026-11 抹名盲测，与同组 5 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 学术成绩之外，综合看面试、个人陈述、推荐信（国际生） | "Admissions decisions to the University's undergraduate degree programmes are made based on academic performance as well as other factors, including interview performance, personal statement, references, …" | [HKU 招生处 International qualifications 页, 2026](https://admissions.hku.hk/apply/international-qualifications) |
+| 课外活动和领导能力（内地「多元卓越入学计划」选拔对象中的两类） | "课外活动经历丰富，例如：志愿者活动、游学活动、模拟联合国等； 领导能力出众，例如：优秀干部、优秀学生、学生社团领袖等"〔中文原文〕 | [HKU 内地本科生入学计划页, 2026](https://admissions.hku.hk/zh-hans/apply/mainland) |
+| 领导力与改善人类福祉（本科教育目标之一） | "Leadership and advocacy for the improvement of the human condition ... Play a leading role in improving the well-being of fellow citizens and humankind" | [HKU Undergraduate Handbook 2024-25, Educational Aims](https://handbook.hku.hk/ug/full-time-2024-25/about-the-university/educational-aims-and-institutional-learning-outcomes.html) |
+| 培养未来领袖，以同理心推动改变 | "We aim to nurture you all to become future leaders of this world. If you commit to making a difference with empathy …" | [HKU 新闻稿（校长张翔 2026-27 开学典礼致辞）, 2026](https://www.hku.hk/press/news_detail_29321.html) |
+
+「领导力」在港大官方话语中出现得集中：本科六条教育目标单列一条，2026 年开学典礼主题为 "Shaping Tomorrow's Leaders Today"，内地多元卓越通道把领导能力列为选拔对象之一。但讲领导力在港校中较常见（港城大校长、理大 STARS、港中文 WE.CARE 也讲 leaders），港大只是更集中。
+
+**体现在申请设计中**：
+
+- 国际/非联招：一篇 personal statement（≤1,000 词，所有志愿共用，写对港大和所选课程的兴趣），入围者可能获邀面试，各课程的面试标准不同（官方原话 "the selection criteria for interview vary from different programmes"）。
+- 内地高考生：录取优先考虑高考总成绩及英语成绩、面试表现、"综合学术及非学术素质"〔中文原文〕；「多元卓越入学计划」需交学校盖章的个人信息申报表，初审后线上面试。
+- 本地 JUPAS：面试通常优先邀请 Band A 申请人，商学院 "Priority will be given to candidates with outstanding performance in the interview."（[HKU Interview Schedules 页](https://www.admissions.hku.hk/node/1237)）；OLE/SLP/PS 只对教育学院课程写明会看。
+
+**流行说法核查**：
+
+- 「港大看重全人发展，课外活动和领导力有用」→ **部分支持**。课外活动和领导力：内地多元卓越通道写明是选拔对象，学校教育目标和校长讲话也反复强调 leadership。「全人发展 / whole-person」在港大招生页面**未见**，它是港中文的官方用词；本地 JUPAS 按 DSE 公式计分，国际生页面列的是成绩、面试、PS、推荐信，没有提课外活动。
+
+**对申请者的含义（归纳）**：
+
+1. 对内地高考生，课外活动和领导经历的主要作用是进入「多元卓越入学计划」这条通道。
+2. 对国际/IB/AL 学生，官方列出的依据是成绩、面试表现、个人陈述和推荐信；课外活动主要通过 PS 和推荐信间接体现。
+
+---
+
 ## 💡 对内地学生申请HKU的实战建议
 
 ### **1. 应对高考 vs 国际课程的身份差异**

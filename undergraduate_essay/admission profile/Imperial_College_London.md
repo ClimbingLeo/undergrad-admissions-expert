@@ -985,6 +985,35 @@ Actually, I'm not sure, but would it help if...?"
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，与同组 8 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 对所申学科发自内心的热情 | "We want to see a genuine passion for the subject(s) you're applying for." | [Imperial 本科招生办 Personal statement 页, 2026](https://www.imperial.ac.uk/study/apply/undergraduate/process/personal-statement/) |
+| 动手探索，从自己的错误中学习 | "As a research-led university, we'll encourage you to get hands-on in the process of discovery, innovation and learning through and from your own mistakes." | [Imperial 本科招生办 Personal statement 页, 2026](https://www.imperial.ac.uk/study/apply/undergraduate/process/personal-statement/) |
+| 欢迎写爱好及由此养成的能力和品质 | "Tell us about your passions and your hobbies, particularly how they have helped you develop skills and qualities that make you a strong candidate." | [Imperial 本科招生办 Personal statement 页, 2026](https://www.imperial.ac.uk/study/apply/undergraduate/process/personal-statement/) |
+| 院系导师整体评估，不只看成绩 | "Departmental admissions tutors won't just look at your grades; they will also consider other aspects of your application – including your reference and your personal statement." | [Imperial 本科招生办 Selection process 页, 2026](https://www.imperial.ac.uk/study/apply/undergraduate/process/selection/) |
+
+与牛津、剑桥、LSE「无关活动不计分 / 不超过 20%」的说法相比，Imperial 中央招生页主动邀请写爱好；但院系页仍说 "We are assessing you not on your whole life experience, but specifically on your interest and readiness to study Design Engineering"（[Dyson School of Design Engineering 招生页](https://www.imperial.ac.uk/design-engineering/study/meng/application-information-and-faq/personal-statements/)，单一专业），没有证据表明爱好会单独计分。
+
+**体现在申请设计中**：
+
+- 只有 UCAS 三题个人陈述，不接受替换版。官方写作指南分学科热情、与课程匹配的能力、兴趣爱好三块，并邀请写 "something you do simply for the fun of it"，面试时可能被问到。
+- 部分专业要求入学笔试（如 TMUA、ESAT、UCAT，以各专业页面为准）；"The majority of our departments interview applicants who demonstrate potential in their UCAS application and in an admissions test (where this applies)."（[Imperial Interviews 页, 2026](https://www.imperial.ac.uk/study/apply/undergraduate/process/interviews/)），医学用 MMI。
+
+**流行说法核查**：
+
+- 「帝国理工只看学术成绩和面试」→ **部分支持**。学术是主轴，笔试和面试是入围和决定的关键；但官方说院系导师整体评估、要看推荐信和个人陈述，原说法漏掉了笔试和陈述；面试是 "majority of our departments"，不是所有专业。
+
+**对申请者的含义（归纳）**：
+
+1. 陈述主体写学科热情和与课程匹配的能力，可以简短写一项爱好及它培养的品质，并准备在面试中被追问。
+2. 笔试和面试是关键环节，要按所申院系的要求单独准备。
+
+---
+
 ## 💡 对中国学生申请的实战建议
 
 ### 1. 尽早规划，充分准备竞赛与研究经历

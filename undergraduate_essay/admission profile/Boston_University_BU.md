@@ -546,6 +546,33 @@ BU反复强调："Urban Research University"和"Engaged Citizens"。申请者应
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：与同档学校基本一致**（依据：2026-11 抹名盲测，与同组 13 所私立大学比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（英文，≤25 词） | 出处 |
+|---|---|---|
+| 有动力、有求知欲、能贡献 BU 社区 | "We seek to bring together a diverse student body that is highly motivated, intellectually curious, and contributes to the BU community." | [BU 招生办 First-Year Applicants, 2026](https://www.bu.edu/admissions/apply/first-year/) |
+| 合作、好奇（招生主任谈如何了解学生） | "Are they collaborative? Are they intellectually curious?" | [BU Today（招生主任 Kelly Walter）, 2024](https://www.bu.edu/articles/2024/applications-for-bu-class-of-2028/) |
+| 高中成绩是最重要的单项 | "Rather, a student’s high school record is the single most important piece of information in an application file." | [BU Today（Kelly Walter）, 2006](https://www.bu.edu/articles/2006/demystifying-the-admissions-game/) |
+
+这些用词与同组学校基本一致。BU 的差异主要在制度：CFA 申请者需作品集或试演，Kilachand 荣誉学院另交文书；CDS 中 Level of applicant's interest 为 Considered（同城的 BC 为 Not considered）。
+
+**体现在申请设计中**：
+
+- 官网只说须提交一篇 BU supplemental essay，没有列题目；咨询机构转述的 2026–27 题目是必答「What about being a student at BU most excites you?」（300 词），**非官方，未在 bu.edu 核到**。
+- 没有面试；CFA 需作品集或试演；Kilachand 荣誉学院另交文书。
+- CDS 2024–25 C7：只有 Rigor 和 GPA 为 Very important；文书、推荐信、课外活动、Character、排名为 Important；标化、Volunteer work、Level of applicant's interest 等为 Considered。
+
+**流行说法核查**：
+
+- 「BU 看重在城市大学里的独立性和学术专注」→ **不支持**（只有「学术为先」一半有证据，且属共性）。城市：官方把 Boston 当卖点，但没有原话说要按适应城市挑学生。独立性：**官方页面未见**，招生主任反而强调 BU 像「大学里的小学院」。学术专注：高中成绩是最重要的单项，但这和同组学校的口径一样。
+
+**对申请者的含义（归纳）**：
+
+1. BU 官方口径是学术为先，加上动力、好奇心和社区贡献；补充文书（据非官方转述）实质是 Why BU，要写出对 BU 的具体了解。
+2. 「城市独立性」是学生选校的理由，不是官方选拔标准，不必在文书里刻意强调。
+
 ## 💡 对中国学生申请的实战建议
 
 ### 建议1：优先选择ED I，但前提是完整准备

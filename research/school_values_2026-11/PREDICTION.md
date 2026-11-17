@@ -18,3 +18,23 @@
 结果：13/15（随机期望 1）。错：S03 Columbia↔S10 Cornell 互换（把握 0.2 / 0.15）。预测 5–7 组，预测错（低估）。
 把握≥0.6：UChicago、Penn、Brown、MIT、Caltech、Dartmouth 6/6；0.4–0.5：NU、Duke、Stanford、Harvard、Princeton 5/5；≤0.3：Columbia、Cornell、Yale、CMU 2/4。
 结论：命题对约 6 所成立（公开表述层面）；Columbia/Cornell/Yale/CMU 的特质表述与同档基本可互换，差异在制度。注意：只证明「公开说法」不同，不证明实际录取行为不同。
+
+# 第二批（其余 45 校，按同档分 5 组各自盲测，只做「特质 + 意译」那一轮）预测
+- A 私立 13：猜对 6–8；好认 Georgetown、Notre Dame、Tufts、Northeastern、Rice；Georgetown 与 BC 易混。
+- B UC 6：≤2（统一 13 项标准）。
+- C 其他公立 13：4–6；UVA、UW-Madison、Georgia Tech 好认，大州立难认。
+- D 英国+ETH 8：3–5，多为学术话术。
+- E 香港 5：≤2。
+
+# 第二批结果：B / D / E
+- B UC：1/6（随机 1）。仅 Berkeley 0.55 猜对；其余五校互相错配。预测 ≤2，符合。
+- D 英国+ETH：8/8，但把握 ≥0.45 的只有 LSE 0.6、Imperial 0.55、Oxford 0.55、Cambridge 0.45；UCL/Manchester/Edinburgh ≤0.3 靠排除法；ETH 无特质内容（0 条 T）。预测 3–5（按有把握的计 4），符合。
+- E 香港：3/5。HKU 0.75、HKUST 0.6 有把握；CUHK 0.2 靠排除；PolyU↔CityU 互换。预测 ≤2，略低估。
+分档（猜对且 ≥0.6 明显；0.4–0.55 中等；其余基本一致）：
+  明显：LSE、HKU、HKUST
+  中等：Berkeley、Imperial、Oxford、Cambridge
+  基本一致：UCLA、UCSD、UCI、UCD、UCSB、UCL、Manchester、Edinburgh、ETH（无特质表述，只按成绩与考试）、CUHK、PolyU、CityU
+
+# 第二批结果：A 私立 13
+11/13（随机 1）；错：Emory↔BU 互换（0.35 / 0.25）。预测 6–8，低估；预测好认的 Rice（0.2）、Northeastern（0.3）实际不好认。
+分档：明显 NYU 0.85、USC 0.6、Notre Dame 0.6；中等 JHU 0.55、Georgetown 0.4、WashU 0.4、Vanderbilt 0.4、Tufts 0.4；基本一致 Northeastern、Rice、BC、Emory、BU。

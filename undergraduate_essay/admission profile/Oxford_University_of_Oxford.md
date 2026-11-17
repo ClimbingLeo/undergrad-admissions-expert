@@ -838,6 +838,35 @@
 
 ---
 
+## 学校看重的特质（官方表述）
+
+**区分度：中等**（依据：2026-11 抹名盲测，与同组 8 所学校比较，见说明）。以下是学校公开表述，不等于录取的实际权重。
+
+| 官方反复强调的特质 | 官方原话（≤25 词；中文原文照录并注明〔中文原文〕） | 出处 |
+|---|---|---|
+| 只看学术能力和潜力 | "Tutors at Oxford are only interested in your academic ability and potential." | [Oxford 本科招生办 UCAS application 页, 2026（Internet Archive 2026-04-07 快照核对）](https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/ucas-application) |
+| 课外活动只在能体现专业选拔标准时有用 | "In fact, extra-curricular activities are only helpful in so far as they demonstrate the selection criteria for your course." | [Oxford 本科招生办 UCAS application 页, 2026](https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/ucas-application) |
+| 看对学科的投入，不看人脉和出国经历 | "Tutors won't be impressed by your connections, or the stamps in your passport, but they will be impressed by how you've engaged with your subject." | [Oxford 本科招生办 UCAS application 页, 2026](https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/ucas-application) |
+| 适合导师制（tutorial）式的学习与思考 | "… your interviewers – who may become your future tutors – will be looking to see whether you would be suitable for this kind of learning and thinking …" | [Christ Church 学院 How to apply 页, 2025](https://www.chch.ox.ac.uk/college/undergraduate/how-apply) |
+
+牛津与剑桥都「只看学术」，表述高度接近，本组中两校之间难以区分；差别主要在措辞：牛津说课外活动 "only helpful in so far as…"，剑桥中央页说无关活动 "won't be taken into consideration"。
+
+**体现在申请设计中**：
+
+- 没有补充文书，一份 UCAS 三题陈述五个志愿共用。官方建议 "We typically suggest that you focus around 80% of your personal statement on your academic interests, abilities and achievements."；其余约 20% 可写无关活动，Christ Church 说这部分是给其他大学看的。
+- 部分专业要求笔试（官方原话 "For some courses"），部分专业交书面作业；入围者参加面试（时间和形式以官网为准，自动核对未能打开官方页面），面试官可能是未来导师。笔试体系 2026–27 有改版，以官网为准。
+
+**流行说法核查**：
+
+- 「牛津只看学术潜力和对学科的热情，课外活动没用」→ **支持（后半句需修正）**。前半句有官方原话直接支持；后半句的准确说法是：与专业相关的活动可以作为学术投入的证据，与专业无关的活动不计分，Oriel 学院原话是 "extra-curricular activities unrelated to your studies are not important to us"（[Oriel College, 2026](https://www.oriel.ox.ac.uk/study-with-us/undergraduates/applying-to-oriel/)）。
+
+**对申请者的含义（归纳）**：
+
+1. 陈述主体写对学科的投入和思考；与专业相关的阅读、竞赛等算学术证据，人脉、出国经历和无关活动本身不加分。
+2. 有笔试的专业，笔试和面试是核心环节；面试考察的是能否适应导师制的学习方式。
+
+---
+
 ## 💡 对中国学生申请的实战建议
 
 ### 1. 提前规划科目选择
