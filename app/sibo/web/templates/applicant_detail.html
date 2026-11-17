@@ -1,0 +1,22 @@
+{% extends "base.html" %}{% from "_macros.html" import result %}
+{% block title %}申请者画像 {{ a.id[:8] }}{% endblock %}
+{% block content %}
+<div class="crumbs"><a href="/library/applicants">申请者画像</a> / {{ a.id[:8] }}</div>
+<div class="topbar"><div><h1>申请者 <code>{{ a.id[:8] }}</code></h1><div class="sub">{{ a.country or '' }} · {{ a.high_school_type or '' }} · {{ a.gender or '' }} · {{ a.application_year or '' }} · 意向 {{ a.major or '—' }}</div></div>
+{% if a.source_url %}<a class="btn" href="{{ a.source_url }}" target="_blank" rel="noopener">Clastify 原页 ↗</a>{% endif %}</div>
+<div class="split"><div>
+<div class="card"><h2>活动（{{ acts|length }}）</h2>
+<table class="t">{% for x in acts %}<tr><td style="width:34%"><b>{{ x.position or '' }}</b><div class="muted small">{{ x.organization or '' }}</div></td><td class="small">{{ x.description or '' }}</td></tr>{% else %}<tr><td class="muted">未披露</td></tr>{% endfor %}</table></div>
+{% if awards %}<div class="card"><h2>奖项</h2><ul class="small">{% for w in awards %}<li>{{ w.name or '' }} {% if w.level %}<span class="b">{{ w.level }}</span>{% endif %}</li>{% endfor %}</ul></div>{% endif %}
+{% if essays %}<div class="card"><h2>该申请者的文书</h2><div class="stack small">{% for e in essays %}<div class="row"><a href="/library/essays/{{ e.id }}">{{ e.title or (e.prompt_text or '')[:70] }}</a><span class="b">{{ 'Common App' if e.kind=='common_app' else e.school_slug }}</span>{{ result(e.result) }}</div>{% endfor %}</div></div>{% endif %}
+</div><div>
+<div class="card"><h3>成绩</h3><dl class="kv">
+<dt>SAT</dt><dd>{{ a.sat_total or '—' }}{% if scores.satMath %}（M {{ scores.satMath }} / V {{ scores.satVerbal }}）{% endif %}</dd>
+<dt>ACT</dt><dd>{{ a.act_composite or '—' }}</dd><dt>GPA</dt><dd>{{ a.gpa_uw or '—' }} UW{% if a.gpa_w %} / {{ a.gpa_w }} W{% endif %}</dd>
+<dt>排名</dt><dd>{{ a.class_rank or '—' }}</dd>
+{% if scores.apScores %}<dt>AP</dt><dd>{% for x in scores.apScores %}{{ x.subject or x.name or x }}{% if x.score %} {{ x.score }}{% endif %}{{ '、' if not loop.last }}{% endfor %}</dd>{% endif %}
+</dl></div>
+<div class="card"><h3>录取结果</h3><div class="small stack">{% for d in decs %}<div class="row between"><a href="/library/schools/{{ d.school_slug }}">{{ d.school_name }}</a>{{ result(d.result) }}</div>{% endfor %}</div>
+{% if a.enrolled_at %}<p class="small" style="margin-top:8px">最终就读：<b>{{ a.enrolled_at }}</b></p>{% endif %}</div>
+</div></div>
+{% endblock %}

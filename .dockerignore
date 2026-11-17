@@ -1,0 +1,14 @@
+.git
+**/.DS_Store
+app/.venv
+app/data
+app/sibo/samples/_prompts
+**/__pycache__
+clastify/commonapp_applicant_persona/scrape_cache
+clastify/IB_essay/*.pdf
+clastify/IB_essay/*.docx
+clastify/IB_essay/skills/ib-ee-reviewer-workspace
+undergraduate_essay/*.pdf
+undergraduate_essay/Admission_statistics
+app/.env
+**/.env

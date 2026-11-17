@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}编辑 · {{ r.title }}{% endblock %}
+{% block content %}
+<div class="crumbs"><a href="/reports">报告中心</a> / <a href="/reports/{{ r.id }}">{{ r.title }}</a> / 编辑</div>
+<div class="topbar"><div><h1>编辑报告</h1><div class="sub">Markdown 格式。蓝色引用标签形如 <code>[A·67e83b](/library/…)</code>，删掉即可去除；交付版打印会自动隐藏全部标签。</div></div></div>
+<form method="post" class="card">
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <div class="field"><label>标题</label><input type="text" name="title" value="{{ r.title }}" maxlength="120"></div>
+  <div class="field"><label>正文</label><textarea name="output_md" rows="32" style="font-family:ui-monospace,Menlo,monospace;font-size:13px;line-height:1.6">{{ r.output_md or '' }}</textarea></div>
+  <div class="row">
+    <button class="btn primary">保存修改</button>
+    <a class="btn" href="/reports/{{ r.id }}">取消</a>
+    {% if r.output_original %}<button class="btn" name="restore" value="1" onclick="return confirm('放弃所有修改，恢复为 AI 原稿？')">恢复 AI 原稿</button>{% endif %}
+  </div>
+</form>
+{% endblock %}

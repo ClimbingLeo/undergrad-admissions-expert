@@ -1,0 +1,12 @@
+{% extends "base.html" %}{% from "_macros.html" import status %}
+{% block title %}报告中心{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>报告中心</h1><div class="sub">共 {{ reports|length }} 份</div></div></div>
+<div class="tabs"><a href="/reports" class="{{ 'on' if not ftype }}">全部</a>{% for k, v in REPORT_TYPES.items() %}<a href="/reports?type={{ k }}" class="{{ 'on' if ftype == k }}">{{ v }}</a>{% endfor %}</div>
+<div class="card">
+{% if reports %}<table class="t"><tr><th>报告</th><th>类型</th><th>学生</th><th>作者</th><th>时间</th><th>状态</th></tr>
+{% for r in reports %}<tr><td><a href="/reports/{{ r.id }}">{{ r.title }}</a></td><td class="small">{{ REPORT_TYPES[r.type] }}</td>
+<td>{% if r.student_id %}<a href="/students/{{ r.student_id }}">{{ r.student_name }}</a>{% else %}—{% endif %}</td><td class="small">{{ r.author or '' }}</td><td class="muted small">{{ r.created_at[:16] }}</td><td>{{ status(r.status) }}</td></tr>{% endfor %}</table>
+{% else %}<div class="empty">暂无报告</div>{% endif %}
+</div>
+{% endblock %}

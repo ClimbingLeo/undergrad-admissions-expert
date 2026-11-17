@@ -1,0 +1,8 @@
+{% extends "base.html" %}{% from "_macros.html" import trust %}
+{% block title %}{{ c.case_code }}{% endblock %}
+{% block content %}
+<div class="crumbs"><a href="/library/cases">深度案例</a> / {{ c.case_code }}</div>
+<div class="topbar"><div><h1>{{ c.title }}</h1><div class="row">{{ trust(c.trust) }}{% if c.source_url %}<a class="small" href="{{ c.source_url }}" target="_blank" rel="noopener">原始出处 ↗</a>{% endif %}</div></div></div>
+{% if c.trust in ('simulated','composite') %}<div class="notice bad">本案例为模拟 / 示例画像，不得作为真实录取案例对外引用。</div>{% elif c.trust == 'sponsored' %}<div class="notice info">来源为媒体赞助专题，非学校官方发布。</div>{% elif c.trust == 'unsourced' %}<div class="notice warn">本案例未附可核验链接，对外引用前请核实。</div>{% endif %}
+<div class="card"><div class="prose">{{ c.body_md|md|safe }}</div></div>
+{% endblock %}

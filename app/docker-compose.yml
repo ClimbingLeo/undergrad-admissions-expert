@@ -1,0 +1,29 @@
+services:
+  sibo:
+    build:
+      context: ..
+      dockerfile: app/Dockerfile
+      args:
+        # 中国大陆服务器：SIBO_BASE_IMAGE=docker.m.daocloud.io/library/python:3.12-slim
+        #                 SIBO_PIP_INDEX_URL=https://pypi.tuna.tsinghua.edu.cn/simple
+        BASE_IMAGE: ${SIBO_BASE_IMAGE:-python:3.12-slim}
+        PIP_INDEX_URL: ${SIBO_PIP_INDEX_URL:-https://pypi.org/simple}
+    ports:
+      - "8000:8000"
+    environment:
+      SIBO_SECRET_KEY: ${SIBO_SECRET_KEY:?请在 .env 中设置 SIBO_SECRET_KEY（随机长字符串）}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      # 生产环境默认不写入演示机构（演示账号密码是公开的）；本地演示时设为 1
+      SIBO_SEED_DEMO: ${SIBO_SEED_DEMO:-0}
+      SIBO_HTTPS_ONLY: ${SIBO_HTTPS_ONLY:-0}
+      SIBO_DAILY_REPORT_LIMIT: ${SIBO_DAILY_REPORT_LIMIT:-60}
+      # 服务器无法直连 api.anthropic.com 时，填写可用的 API 网关，或容器内可达的代理地址。
+      # 注意：代理在宿主机上时，容器里要写 http://host.docker.internal:端口（Linux 需在 extra_hosts 里映射），不能写 127.0.0.1。
+      # 这里故意不读取宿主机 shell 里的 HTTPS_PROXY，避免把 127.0.0.1 的本机代理带进容器。
+      ANTHROPIC_BASE_URL: ${ANTHROPIC_BASE_URL:-}
+      HTTPS_PROXY: ${SIBO_HTTPS_PROXY:-}
+    volumes:
+      - sibo-data:/data
+    restart: unless-stopped
+volumes:
+  sibo-data:

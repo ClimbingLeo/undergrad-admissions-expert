@@ -1,0 +1,23 @@
+{% extends "base.html" %}{% from "_macros.html" import result %}
+{% block title %}{{ e.title or '文书' }}{% endblock %}
+{% block content %}
+<div class="crumbs"><a href="/library/essays">文书库</a> / {% if e.school_slug %}<a href="/library/essays?school={{ e.school_slug }}">{{ e.name_zh or e.school_slug }}</a>{% endif %}</div>
+<div class="topbar"><div><h1>{{ e.title or ('补充文书 · ' ~ (e.name_zh or e.school_slug)) }}</h1>
+<div class="row">{{ result(e.result) }}<span class="b">{{ 'Common App 主文书' if e.kind == 'common_app' else '补充文书' }}</span><span class="muted small">{{ e.word_count }} 词{% if e.word_limit %} / 限 {{ e.word_limit }}{% endif %} · {{ e.year or '' }} · {{ e.major or '' }}</span></div></div></div>
+<div class="split">
+<div class="card">
+  {% if e.prompt_text %}<blockquote class="prose" style="margin-top:0"><blockquote style="margin:0">{{ e.prompt_text }}</blockquote></blockquote>{% endif %}
+  <div class="essay-body">{{ e.body|essay|safe }}</div>
+</div>
+<div>
+  <div class="card"><h3>申请信息</h3>
+    {% if e.stats %}<p class="small">{{ e.stats }}</p>{% endif %}
+    {% set decs = e.decisions|fromjson %}{% if decs %}<div class="small stack">{% for d in decs %}<div class="row between"><span>{{ d.school }}</span>{{ result(d.result) }}</div>{% endfor %}</div>{% endif %}
+    {% if e.kind == 'common_app' and decs %}<p class="muted small" style="margin-top:8px">主文书的「结果」指该申请者是否获得过至少一所顶校录取。</p>{% endif %}
+    {% if applicant %}<p style="margin-top:10px"><a class="btn sm" href="/library/applicants/{{ applicant.id }}">查看该申请者完整画像 →</a></p>{% endif %}
+    {% if e.source_url %}<p class="small" style="margin-top:10px">来源：<a href="{{ e.source_url }}" target="_blank" rel="noopener">Clastify ↗</a></p>{% endif %}
+  </div>
+  {% if same %}<div class="card"><h3>同校同题其他样本</h3><div class="small stack">{% for x in same %}<div class="row between"><a href="/library/essays/{{ x.id }}">{{ x.major or '专业未披露' }} · {{ x.word_count }} 词</a>{{ result(x.result) }}</div>{% endfor %}</div></div>{% endif %}
+  <div class="card small ink2">本文书全文仅供机构内部教学研究使用，请勿对外传播或用于代写。</div>
+</div></div>
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}学校画像{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>学校画像</h1><div class="sub">{{ schools|selectattr('has_profile')|list|length }} 所学校有深度画像；其余学校提供文书样本与申请者结果</div></div>
+<a class="btn" href="/library/compare">⇄ 学校对比</a></div>
+{% for region, label in [('US','美国'),('UK','英国'),('HK','中国香港'),('EU','欧洲')] %}
+{% set rows = schools|selectattr('region','equalto',region)|list %}{% if rows %}
+<div class="card"><h2>{{ label }}</h2>
+<table class="t"><tr><th>学校</th><th>深度画像</th><th>补充文书样本</th><th>申请者结果</th><th>画像来源</th></tr>
+{% for s in rows %}<tr><td><a href="/library/schools/{{ s.slug }}"><b>{{ s.name_zh }}</b></a> <span class="muted small">{{ s.name_en }}</span></td>
+<td>{% if s.has_profile %}<span class="b ok">{{ s.n_sections }} 节</span>{% else %}<span class="b">建设中</span>{% endif %}</td>
+<td class="num">{{ s.n_supp or '—' }}</td><td class="num">{% if s.n_app %}{{ s.n_app }} 人（{{ s.n_acc }} 录）{% else %}—{% endif %}</td>
+<td class="small">{% if s.has_profile %}{{ s.n_verified }} / {{ s.n_sections }} 节有出处{% endif %}</td></tr>{% endfor %}
+</table></div>{% endif %}{% endfor %}
+{% endblock %}

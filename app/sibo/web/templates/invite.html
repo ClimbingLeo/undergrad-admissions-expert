@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>设置密码 · {{ PRODUCT }}</title><link rel="stylesheet" href="/static/app.css"></head>
+<body><div class="auth-wrap"><form class="auth-card" method="post">
+  <h2>欢迎加入</h2><p class="muted">{{ invitee.email }} · {{ ROLES[invitee.role] }}</p>
+  {% if error %}<div class="notice bad">{{ error }}</div>{% endif %}
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <div class="field"><label>设置登录密码 <span class="hint">至少 8 位</span></label><input type="password" name="password" minlength="8" required></div>
+  <button class="btn primary" style="width:100%">完成并登录</button>
+</form></div></body></html>

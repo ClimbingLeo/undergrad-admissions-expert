@@ -1,0 +1,18 @@
+{% extends "base.html" %}{% from "_macros.html" import trust %}
+{% block title %}学校对比{% endblock %}
+{% block content %}
+<div class="crumbs"><a href="/library/schools">学校画像</a> / 对比</div>
+<div class="topbar"><h1>学校对比</h1></div>
+<form class="card filters" method="get">
+{% for i in range(4) %}<div class="field"><label>学校 {{ i + 1 }}</label><select name="s"><option value="">—</option>{% for sc in schools if sc.has_profile or sc.n_supp %}<option value="{{ sc.slug }}" {{ 'selected' if slugs|length > i and slugs[i] == sc.slug }}>{{ sc.name_zh }}</option>{% endfor %}</select></div>{% endfor %}
+<button class="btn primary">对比</button></form>
+{% if cols %}
+<div class="grid" style="grid-template-columns: repeat({{ cols|length }}, minmax(0,1fr))">
+{% for c in cols %}<div class="card"><h2><a href="/library/schools/{{ c.s.slug }}">{{ c.s.name_zh or c.s.name_en }}</a></h2>
+<p class="small muted">知识库样本：{{ c.stat.n }} 条申请结果（{{ c.stat.acc or 0 }} 录 / {{ c.stat.rej or 0 }} 拒）{% if c.sat %}；这些录取者自报 SAT 均值 {{ c.sat|round|int }}（n={{ c.stat.acc or 0 }}）{% endif %}。<br>来自 Clastify 自报样本，非官方统计，样本少时只能看方向。</p>
+{% for t, label in [('data','录取数据'),('academic','学术画像'),('ec','活动画像'),('hooks','加分因素'),('essay','文书')] %}
+<h3 style="margin-top:14px">{{ label }} {% if c.secs[t] %}{{ trust(c.secs[t].trust) }}{% endif %}</h3>
+{% if c.secs[t] %}<div class="prose small" style="max-height:340px;overflow-y:auto;font-size:13px">{{ c.secs[t].body_md|md|safe }}</div>{% else %}<p class="muted small">无</p>{% endif %}
+{% endfor %}</div>{% endfor %}
+</div>{% else %}<div class="card empty">选择 2–4 所学校进行并排对比（纯数据，不经 AI）。</div>{% endif %}
+{% endblock %}

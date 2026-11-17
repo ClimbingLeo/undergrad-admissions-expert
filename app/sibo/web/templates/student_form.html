@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %}{{ '编辑' if s else '新建' }}学生档案{% endblock %}
+{% block content %}
+<div class="crumbs"><a href="/students">学生档案</a> / {{ s.name if s else '新建' }}</div>
+<div class="topbar"><h1>{{ '编辑学生档案' if s else '新建学生档案' }}</h1></div>
+<form method="post" class="split">
+  <div>
+    <input type="hidden" name="csrf" value="{{ csrf }}">
+    <div class="card">
+      <h2>基本信息</h2>
+      <div class="grid g3">
+        <div class="field"><label>学生姓名 <span class="hint">仅机构内可见</span></label><input type="text" name="name" required value="{{ s.name if s else '' }}"></div>
+        <div class="field"><label>年级</label><input type="text" name="grade_level" placeholder="如：G11 / 高二" value="{{ s.grade_level if s else '' }}"></div>
+        <div class="field"><label>课程体系</label><input type="text" name="curriculum" placeholder="AP / IB / A-Level / 普高" value="{{ s.curriculum if s else '' }}"></div>
+      </div>
+      <div class="field"><label>英文名 / 小名 / 拼音 <span class="hint">逗号分隔。发给 AI 前，这些写法和中文姓名都会被替换成代号</span></label>
+        <input type="text" name="aliases" placeholder="如：Zirui Wang, Ray, 小睿" value="{{ s.aliases if s and s.aliases else '' }}"></div>
+      <div class="grid g2">
+        <div class="field"><label>就读学校 / 类型</label><input type="text" name="school" placeholder="如：上海某国际学校（IB）" value="{{ s.school if s else '' }}"></div>
+        <div class="field"><label>意向专业</label><input type="text" name="intended_major" placeholder="如：Computer Science / 经济学" value="{{ s.intended_major if s else '' }}"></div>
+      </div>
+      <div class="grid g2">
+        <div class="field"><label>GPA <span class="hint">注明 UW/W 与满分</span></label><input type="text" name="gpa" placeholder="3.92 UW / 4.0" value="{{ s.gpa if s else '' }}"></div>
+        <div class="field"><label>标化与语言</label><input type="text" name="tests" placeholder="SAT 1540 (M800) / TOEFL 112 / AP 5×4" value="{{ s.tests if s else '' }}"></div>
+      </div>
+    </div>
+    <div class="card">
+      <h2>经历与背景</h2>
+      <div class="field"><label>课外活动 <span class="hint">一行一项：角色 / 机构 / 做了什么 / 时长 / 成果</span></label>
+        <textarea name="activities" rows="8" placeholder="- 校机器人社社长（G10–G12），带队 FRC 区域赛，负责视觉识别模块&#10;- 自主开发社区二手书交换小程序，300+ 用户">{{ s.activities if s else '' }}</textarea></div>
+      <div class="field"><label>奖项</label><textarea name="awards" rows="4" placeholder="- AMC 12 120 分（2025）">{{ s.awards if s else '' }}</textarea></div>
+      <div class="field"><label>背景与兴趣 <span class="hint">家庭资源、城市、性格、特殊经历、真正着迷的东西——这些是差异化的原料</span></label>
+        <textarea name="background" rows="5">{{ s.background if s else '' }}</textarea></div>
+      <div class="field"><label>预算 / 时间约束</label><input type="text" name="budget_notes" placeholder="如：暑期可投入 6 周，夏校预算 3 万以内" value="{{ s.budget_notes if s else '' }}"></div>
+    </div>
+  </div>
+  <div>
+    {% if s and user.role == 'owner' and consultants %}<div class="card">
+      <h2>负责顾问</h2>
+      <div class="field"><select name="owner_user_id">{% for c in consultants %}<option value="{{ c.id }}" {{ 'selected' if c.id == s.owner_user_id }}>{{ c.name }}（{{ ROLES[c.role] }}{{ '，已停用' if not c.active }}）</option>{% endfor %}</select>
+      <div class="hint small" style="margin-top:4px">顾问只能看到自己负责的学生。顾问离职时，在这里把学生转给其他人。</div></div>
+    </div>{% endif %}
+    <div class="card">
+      <h2>目标学校 <span class="hint">最多 8 所</span></h2>
+      <input type="search" placeholder="筛选学校…" oninput="filterSchools(this.value)" style="margin-bottom:8px">
+      <div class="checks" id="school-checks" style="grid-template-columns:1fr;max-height:420px">
+      {% for sc in schools %}<label data-n="{{ (sc.name_zh ~ ' ' ~ sc.name_en)|lower }}"><input type="checkbox" name="target_schools" value="{{ sc.slug }}" {{ 'checked' if sc.slug in targets }}>
+        <span>{{ sc.name_zh }} <span class="muted small">{{ sc.name_en }}{% if sc.has_profile %} · 有画像{% endif %}{% if sc.n_supp %} · {{ sc.n_supp }} 篇补充文书{% endif %}</span></span></label>{% endfor %}
+      </div>
+    </div>
+    <button class="btn primary" style="width:100%;padding:11px">保存档案</button>
+  </div>
+</form>
+{% endblock %}
+{% block scripts %}<script>
+function filterSchools(q){q=q.toLowerCase();document.querySelectorAll('#school-checks label').forEach(l=>{l.style.display=l.dataset.n.includes(q)?'':'none'})}
+document.querySelector('form').addEventListener('submit',e=>{if(document.querySelectorAll('input[name=target_schools]:checked').length>8){e.preventDefault();alert('目标学校最多 8 所')}})
+</script>{% endblock %}

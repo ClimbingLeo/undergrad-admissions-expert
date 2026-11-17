@@ -1,0 +1,1166 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2025年中国高中美本TOP30录取深度报告</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.4.3/echarts.min.js"></script>
+<style>
+  :root {
+    --accent: #1565c0;
+    --accent2: #0288d1;
+    --orange: #e65100;
+    --green: #2e7d32;
+    --red: #c62828;
+    --purple: #6a1b9a;
+    --teal: #00838f;
+    --bg: #ffffff;
+    --bg2: #f8f9fa;
+    --bg3: #f0f4f8;
+    --text: #1a1a1a;
+    --text2: #444;
+    --border: #dde3ec;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif; background: #f2f4f7; color: var(--text); line-height: 1.7; }
+
+  /* 封面 */
+  .cover {
+    background: linear-gradient(135deg, #0d47a1 0%, #1565c0 40%, #0288d1 100%);
+    color: #fff;
+    padding: 70px 60px 60px;
+    position: relative;
+    overflow: hidden;
+  }
+  .cover::before {
+    content: '';
+    position: absolute;
+    top: -80px; right: -80px;
+    width: 400px; height: 400px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.06);
+  }
+  .cover::after {
+    content: '';
+    position: absolute;
+    bottom: -60px; left: 40%;
+    width: 300px; height: 300px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.04);
+  }
+  .cover-tag {
+    display: inline-block;
+    background: rgba(255,255,255,0.18);
+    border: 1px solid rgba(255,255,255,0.35);
+    border-radius: 20px;
+    padding: 4px 16px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    margin-bottom: 24px;
+  }
+  .cover h1 { font-size: 36px; font-weight: 700; line-height: 1.3; margin-bottom: 12px; }
+  .cover h1 span { color: #90caf9; }
+  .cover-sub { font-size: 16px; opacity: 0.85; margin-bottom: 40px; }
+  .cover-meta { font-size: 13px; opacity: 0.65; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 20px; }
+
+  /* KPI */
+  .kpi-row { display: flex; gap: 16px; flex-wrap: wrap; margin: 20px 0 0; }
+  .kpi-card {
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.25);
+    border-radius: 12px;
+    padding: 18px 24px;
+    min-width: 150px;
+    flex: 1;
+  }
+  .kpi-card .kpi-val { font-size: 30px; font-weight: 700; line-height: 1.1; }
+  .kpi-card .kpi-label { font-size: 12px; opacity: 0.75; margin-top: 4px; }
+  .kpi-card.orange .kpi-val { color: #ffcc80; }
+  .kpi-card.green .kpi-val { color: #a5d6a7; }
+  .kpi-card.purple .kpi-val { color: #ce93d8; }
+  .kpi-card.teal .kpi-val { color: #80deea; }
+
+  /* 目录 */
+  .toc {
+    background: #fff;
+    max-width: 1100px;
+    margin: 28px auto 0;
+    border-radius: 14px;
+    padding: 32px 40px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  }
+  .toc h2 { font-size: 18px; color: var(--accent); margin-bottom: 16px; border-bottom: 2px solid var(--accent); padding-bottom: 8px; display: inline-block; }
+  .toc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 32px; }
+  .toc-item { font-size: 14px; color: var(--text2); padding: 4px 0; border-bottom: 1px dashed #eee; }
+  .toc-item a { color: var(--text2); text-decoration: none; }
+  .toc-item a:hover { color: var(--accent); }
+  .toc-num { color: var(--accent); font-weight: 600; margin-right: 6px; }
+
+  /* 主容器 */
+  .container { max-width: 1100px; margin: 0 auto; padding: 28px 20px 60px; }
+
+  /* 章节卡片 */
+  .section-card {
+    background: #fff;
+    border-radius: 14px;
+    padding: 36px 40px;
+    margin-bottom: 28px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid var(--bg3);
+  }
+  .section-num {
+    background: var(--accent);
+    color: #fff;
+    width: 36px; height: 36px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px; font-weight: 700;
+    flex-shrink: 0;
+  }
+  .section-title { font-size: 20px; font-weight: 700; color: var(--text); }
+
+  /* 正文文字 */
+  .prose { font-size: 14.5px; color: var(--text2); line-height: 1.85; margin-bottom: 16px; }
+  strong { color: var(--text); }
+
+  /* 关键发现框 */
+  .key-box {
+    background: #e8f0fe;
+    border-left: 4px solid var(--accent);
+    border-radius: 0 8px 8px 0;
+    padding: 16px 20px;
+    margin: 16px 0;
+    font-size: 14px;
+    color: #1a2a4a;
+  }
+  .key-box ul { padding-left: 18px; }
+  .key-box li { margin-bottom: 5px; }
+
+  .warn-box {
+    background: #fff8f0;
+    border-left: 4px solid #f5c896;
+    border-radius: 0 8px 8px 0;
+    padding: 16px 20px;
+    margin: 16px 0;
+    font-size: 13.5px;
+    color: #6d4c00;
+  }
+
+  /* 表格 */
+  .tbl-wrap { overflow-x: auto; margin: 16px 0; border-radius: 8px; border: 1px solid var(--border); }
+  table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  thead th {
+    background: var(--accent);
+    color: #fff;
+    padding: 11px 14px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 13px;
+  }
+  tbody tr:nth-child(even) { background: var(--bg2); }
+  tbody td { padding: 9px 14px; border-bottom: 1px solid #eef0f3; color: var(--text2); }
+  .badge {
+    display: inline-block;
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 11.5px;
+    font-weight: 600;
+  }
+  .badge-red { background: #fdecea; color: #c62828; }
+  .badge-blue { background: #e8f0fe; color: #1565c0; }
+  .badge-green { background: #e8f5e9; color: #2e7d32; }
+  .badge-orange { background: #fff3e0; color: #e65100; }
+  .badge-purple { background: #f3e5f5; color: #6a1b9a; }
+  .badge-gray { background: #f5f5f5; color: #555; }
+
+  /* 图表 */
+  .chart-box { width: 100%; }
+  .chart-caption { font-size: 12px; color: #888; text-align: center; margin-top: 8px; margin-bottom: 20px; }
+  .chart-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin: 16px 0; }
+
+  /* SWOT */
+  .swot-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 16px 0; }
+  .swot-cell { padding: 18px 20px; border-radius: 10px; }
+  .swot-cell h4 { font-size: 14px; font-weight: 700; margin-bottom: 10px; }
+  .swot-cell ul { padding-left: 16px; font-size: 13.5px; line-height: 1.8; }
+  .swot-cell.s { background: #e8f5e9; color: #1b5e20; }
+  .swot-cell.s h4 { color: #2e7d32; }
+  .swot-cell.w { background: #fdecea; color: #7f0000; }
+  .swot-cell.w h4 { color: #c62828; }
+  .swot-cell.o { background: #e3f2fd; color: #0d47a1; }
+  .swot-cell.o h4 { color: #1565c0; }
+  .swot-cell.t { background: #fff3e0; color: #bf360c; }
+  .swot-cell.t h4 { color: #e65100; }
+
+  /* 区域标签 */
+  .region-tag {
+    display: inline-flex; align-items: center;
+    background: var(--bg3);
+    border-radius: 20px;
+    padding: 4px 14px;
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--accent);
+    margin-bottom: 16px;
+    margin-right: 8px;
+  }
+
+  /* 学校卡片 */
+  .school-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; margin: 16px 0; }
+  .school-card {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px;
+    background: var(--bg2);
+  }
+  .school-card h4 { font-size: 14.5px; color: var(--accent); font-weight: 700; margin-bottom: 10px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+  .school-stat { display: flex; justify-content: space-between; font-size: 13px; color: var(--text2); padding: 3px 0; }
+  .school-stat .val { font-weight: 600; color: var(--text); }
+
+  /* 分隔线 */
+  .divider { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
+
+  /* 数据可信度表 */
+  .reliability-table { width: 100%; border-collapse: collapse; font-size: 13px; margin: 12px 0; }
+  .reliability-table th { background: #f0f4f8; color: #444; padding: 9px 12px; text-align: left; border-bottom: 2px solid #dde3ec; }
+  .reliability-table td { padding: 8px 12px; border-bottom: 1px solid #eef0f3; }
+  .reliability-table tr:nth-child(even) td { background: #fafbfc; }
+
+  /* 注脚 */
+  .footnote { font-size: 12px; color: #999; margin-top: 8px; font-style: italic; }
+
+  @media (max-width: 700px) {
+    .cover { padding: 40px 24px; }
+    .cover h1 { font-size: 24px; }
+    .section-card { padding: 24px 20px; }
+    .chart-grid { grid-template-columns: 1fr; }
+    .swot-grid { grid-template-columns: 1fr; }
+    .toc-grid { grid-template-columns: 1fr; }
+    .school-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<!-- 封面 -->
+<div class="cover">
+  <div class="cover-tag">🎓 深度数据报告 · 2025届</div>
+  <h1>2025年中国高中<br><span>美本TOP30录取</span>全景报告</h1>
+  <p class="cover-sub">涵盖北京、上海、广深及各地重点国际高中 · 基于公开数据多源汇整</p>
+  <div class="kpi-row">
+    <div class="kpi-card">
+      <div class="kpi-val">6,073</div>
+      <div class="kpi-label">2025届 TOP30 录取总量</div>
+    </div>
+    <div class="kpi-card orange">
+      <div class="kpi-val">+3%</div>
+      <div class="kpi-label">同比增长（+181枚）</div>
+    </div>
+    <div class="kpi-card green">
+      <div class="kpi-val">18,355</div>
+      <div class="kpi-label">Common App申请人数</div>
+    </div>
+    <div class="kpi-card purple">
+      <div class="kpi-val">148</div>
+      <div class="kpi-label">HYPSM五校录取总量</div>
+    </div>
+    <div class="kpi-card teal">
+      <div class="kpi-val">424</div>
+      <div class="kpi-label">藤校录取总量</div>
+    </div>
+  </div>
+  <p class="cover-meta">数据来源：博明程、知乎专栏、163教育、国际教育联盟、翰林国际教育、拓普仕留学等 · 生成日期：2026年4月</p>
+</div>
+
+<!-- 目录 -->
+<div class="toc">
+  <h2>目录</h2>
+  <div class="toc-grid">
+    <div class="toc-item"><a href="#s01"><span class="toc-num">01</span>全国宏观概览与申请趋势</a></div>
+    <div class="toc-item"><a href="#s02"><span class="toc-num">02</span>各梯队录取量对比</a></div>
+    <div class="toc-item"><a href="#s03"><span class="toc-num">03</span>北京地区：六大公立国际部深度解析</a></div>
+    <div class="toc-item"><a href="#s04"><span class="toc-num">04</span>上海地区：IB & AP 国际学校对比</a></div>
+    <div class="toc-item"><a href="#s05"><span class="toc-num">05</span>广深地区：大湾区高中录取全景</a></div>
+    <div class="toc-item"><a href="#s06"><span class="toc-num">06</span>其他城市：各地外国语学校代表</a></div>
+    <div class="toc-item"><a href="#s07"><span class="toc-num">07</span>各高中 TOP30 offer 横向对比</a></div>
+    <div class="toc-item"><a href="#s08"><span class="toc-num">08</span>趋势分析与 SWOT</a></div>
+    <div class="toc-item"><a href="#s09"><span class="toc-num">09</span>数据可信度说明</a></div>
+  </div>
+</div>
+
+<div class="container">
+
+<!-- S01 全国宏观 -->
+<div class="section-card" id="s01">
+  <div class="section-header">
+    <span class="section-num">01</span>
+    <span class="section-title">全国宏观概览与申请趋势</span>
+  </div>
+  <p class="prose">2024–2025申请季，中国大陆学生共获得美国U.S.News综合排名前30大学录取 <strong>6,073枚</strong>，较上年增加181枚，增幅约3.07%。同期，通过Common App提交申请的中国大陆学生达 <strong>18,355人</strong>（同比+5.66%），其中早申人数13,115人，占比约71.5%，显示出中国学生越来越重视早申策略。</p>
+  <p class="prose">尽管录取量温和增长，但申请人数的增速（5.66%）快于录取量增速（3.07%），说明整体竞争烈度继续上升，录取率实质下滑。</p>
+
+  <div class="chart-grid">
+    <div>
+      <div class="chart-box" id="c-trend" style="height:280px;"></div>
+      <div class="chart-caption">图1：中国学生美本TOP各梯队录取量对比（2025届）</div>
+    </div>
+    <div>
+      <div class="chart-box" id="c-pie1" style="height:280px;"></div>
+      <div class="chart-caption">图2：2025届 TOP30 录取量区间分布</div>
+    </div>
+  </div>
+
+  <div class="key-box">
+    <ul>
+      <li><strong>6,073枚</strong> TOP30录取，较去年+3%，但竞争实质加剧</li>
+      <li><strong>HYPSM五校</strong>共录取148人，同比基本持平，竞争极度饱和</li>
+      <li><strong>TOP20区间</strong>增幅最高达+7.67%，部分中间层名校录取放量</li>
+      <li>申请人数增速（5.66%）高于录取增速（3.07%），人均竞争压力上升</li>
+      <li>早申占比超71%，中国学生早申战略意识大幅提升</li>
+    </ul>
+  </div>
+</div>
+
+<!-- S02 各梯队 -->
+<div class="section-card" id="s02">
+  <div class="section-header">
+    <span class="section-num">02</span>
+    <span class="section-title">各院校梯队录取数据详解</span>
+  </div>
+  <p class="prose">从院校梯队来看，各层次录取增幅差异显著：顶尖的HYPSM五校几乎零增长，而TOP20~30区间增幅最为明显，反映出名校申请分流与选校策略的多元化趋势。</p>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>院校梯队</th>
+          <th>2025届录取量</th>
+          <th>同比变化</th>
+          <th>代表学校</th>
+          <th>趋势</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>HYPSM 五校</strong></td>
+          <td>148枚</td>
+          <td><span class="badge badge-gray">约持平</span></td>
+          <td>哈佛、耶鲁、普林斯顿、斯坦福、MIT</td>
+          <td>竞争极饱和</td>
+        </tr>
+        <tr>
+          <td><strong>全体藤校（8所）</strong></td>
+          <td>424枚</td>
+          <td><span class="badge badge-green">+6.53%</span></td>
+          <td>+UPBC（宾大、布朗、哥大、达茅）</td>
+          <td>略有放量</td>
+        </tr>
+        <tr>
+          <td><strong>TOP10（综合）</strong></td>
+          <td>481枚</td>
+          <td><span class="badge badge-green">+3.66%</span></td>
+          <td>+杜克、约翰霍普金斯、西北</td>
+          <td>稳中略升</td>
+        </tr>
+        <tr>
+          <td><strong>TOP20（综合）</strong></td>
+          <td>1,937枚</td>
+          <td><span class="badge badge-blue">+7.67%</span></td>
+          <td>+莱斯、芝加哥、UCB、UCLA等</td>
+          <td>增幅明显</td>
+        </tr>
+        <tr>
+          <td><strong>TOP25（综合）</strong></td>
+          <td>3,038枚</td>
+          <td><span class="badge badge-blue">+8.31%</span></td>
+          <td>+卡内基梅隆、埃默里、范德堡等</td>
+          <td>增幅最高</td>
+        </tr>
+        <tr>
+          <td><strong>TOP30（综合）</strong></td>
+          <td>6,073枚</td>
+          <td><span class="badge badge-green">+3.07%</span></td>
+          <td>全梯队汇总</td>
+          <td>温和增长</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="chart-box" id="c-bar1" style="height:300px;margin-top:16px;"></div>
+  <div class="chart-caption">图3：各梯队录取量与同比增幅（2025届）</div>
+
+  <div class="warn-box">
+    ⚠ <strong>注意：offer ≠ 实际入读人数。</strong>由于学生普遍一人持有多枚TOP30 offer（例如上海中学国际部2025届83人收到163枚offer，平均约2枚/人），以上数量为 offer 总枚数，非实际录取人头数，请注意区分。
+  </div>
+</div>
+
+<!-- S03 北京 -->
+<div class="section-card" id="s03">
+  <div class="section-header">
+    <span class="section-num">03</span>
+    <span class="section-title">北京地区：六大公立国际部深度解析</span>
+  </div>
+  <span class="region-tag">📍 北京</span>
+  <p class="prose">北京六大公立高中国际部（北师大实验国际部、人大附ICC、北京十一国际部、北京四中国际校区、北京101国际部、北京80中国际部）在2025届美本申请季中合计收获 <strong>923枚TOP30录取</strong>，约654人获至少一枚TOP30，综合录取率约65.66%，在全国公立国际部中领跑。</p>
+
+  <div class="chart-grid">
+    <div>
+      <div class="chart-box" id="c-bj1" style="height:300px;"></div>
+      <div class="chart-caption">图4：北京六大国际部各梯队录取汇总（2025届）</div>
+    </div>
+    <div>
+      <div class="chart-box" id="c-bj2" style="height:300px;"></div>
+      <div class="chart-caption">图5：北京各国际部优势院校分布雷达图（相对强弱）</div>
+    </div>
+  </div>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>学校</th>
+          <th>TOP30 offer</th>
+          <th>TOP20 offer</th>
+          <th>TOP10 offer</th>
+          <th>藤校 offer</th>
+          <th>优势院校/特点</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>北师大实验国际部</strong></td>
+          <td><span class="badge badge-red">全六校最强</span></td>
+          <td><strong>104枚</strong>（第一）</td>
+          <td>28枚（第一）</td>
+          <td>26枚（第一）</td>
+          <td>哈佛、耶鲁、普林斯顿、斯坦福、宾大、哥大均有录取</td>
+        </tr>
+        <tr>
+          <td><strong>人大附中 ICC</strong></td>
+          <td>— △</td>
+          <td>—</td>
+          <td>24枚</td>
+          <td>—</td>
+          <td>芝加哥大学、莱斯大学第一；杜克6枚领先全六校；NYU/USC遥遥领先</td>
+        </tr>
+        <tr>
+          <td><strong>北京十一国际部</strong></td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>CMU、UF第一；UCB竞争力强</td>
+        </tr>
+        <tr>
+          <td><strong>北京101国际部</strong></td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>斯坦福突出；康奈尔6枚（单生人均最高）</td>
+        </tr>
+        <tr>
+          <td><strong>北京四中国际校区</strong></td>
+          <td>55枚（94人毕业）</td>
+          <td>7枚</td>
+          <td>2枚</td>
+          <td>4枚</td>
+          <td>TOP30率约58.5%；稳定进入藤校</td>
+        </tr>
+        <tr>
+          <td><strong>北京80中国际部</strong></td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>成长中，数据暂未公开</td>
+        </tr>
+        <tr style="background:#e8f0fe;">
+          <td><strong>六校合计</strong></td>
+          <td><strong>923枚</strong></td>
+          <td><strong>270枚</strong></td>
+          <td><strong>71枚</strong></td>
+          <td><strong>67枚</strong> (含HYPSM 24枚)</td>
+          <td>约654人获至少一枚TOP30；综合录取率65.66%</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="footnote">△ "—" 表示数据未从公开来源中找到具体数字，不代表为零。</p>
+
+  <div class="key-box">
+    <ul>
+      <li><strong>北师大实验</strong>全面领跑，TOP20/TOP10/藤校三项均排第一，是北京公立国际部的绝对标杆</li>
+      <li><strong>人大附ICC</strong>在部分特定名校（芝大、莱斯、杜克）实力突出，TOP10合计24枚</li>
+      <li><strong>北京四中</strong>毕业生约94人，TOP30录取55枚（≈58.5%），藤校4枚，成绩稳健</li>
+      <li>六校合计HYPSM录取24枚，在全国公立高中中属最高梯队</li>
+    </ul>
+  </div>
+</div>
+
+<!-- S04 上海 -->
+<div class="section-card" id="s04">
+  <div class="section-header">
+    <span class="section-num">04</span>
+    <span class="section-title">上海地区：IB & AP 国际学校对比</span>
+  </div>
+  <span class="region-tag">📍 上海</span>
+  <p class="prose">上海国际学校生态最为丰富，IB、AP、A-Level课程并行，美本录取成绩位居全国前列。2025届各主要学校录取情况如下：</p>
+
+  <div class="school-grid">
+    <div class="school-card">
+      <h4>🏆 包玉刚实验学校</h4>
+      <div class="school-stat"><span>毕业生人数</span><span class="val">约122人</span></div>
+      <div class="school-stat"><span>TOP30 offer</span><span class="val"><strong>145枚</strong></span></div>
+      <div class="school-stat"><span>藤校</span><span class="val">5枚</span></div>
+      <div class="school-stat"><span>藤校明细</span><span class="val">哈佛1、耶鲁1、达茅1、布朗2</span></div>
+      <div class="school-stat"><span>课程体系</span><span class="val">IB</span></div>
+    </div>
+    <div class="school-card">
+      <h4>🏆 上海平和学校</h4>
+      <div class="school-stat"><span>IBDP TOP30人数</span><span class="val">约99人（50%率）↓</span></div>
+      <div class="school-stat"><span>总offer（含UC）</span><span class="val"><strong>146枚</strong></span></div>
+      <div class="school-stat"><span>藤校</span><span class="val">11枚</span></div>
+      <div class="school-stat"><span>藤校明细</span><span class="val">哈佛1、耶鲁1、宾大1、康奈尔2、哥大4、达茅2</span></div>
+      <div class="school-stat"><span>备注</span><span class="val">TOP30率较去年下滑15%</span></div>
+    </div>
+    <div class="school-card">
+      <h4>🏅 世界外国语学校（世外）</h4>
+      <div class="school-stat"><span>TOP30 offer</span><span class="val"><strong>36枚</strong>（早申阶段领先）</span></div>
+      <div class="school-stat"><span>藤校</span><span class="val">布朗1、哥大2、康奈尔4</span></div>
+      <div class="school-stat"><span>TOP30率</span><span class="val">约65%</span></div>
+      <div class="school-stat"><span>特色</span><span class="val">CMU 6枚、NYU 18枚、BU 19枚</span></div>
+      <div class="school-stat"><span>课程体系</span><span class="val">IB</span></div>
+    </div>
+    <div class="school-card">
+      <h4>🏅 上海中学国际部（上中）</h4>
+      <div class="school-stat"><span>申请美本人数</span><span class="val">约133人</span></div>
+      <div class="school-stat"><span>TOP30 offer</span><span class="val"><strong>163枚</strong>（83人获录）</span></div>
+      <div class="school-stat"><span>TOP20 offer</span><span class="val">46枚（32人获录）</span></div>
+      <div class="school-stat"><span>TOP10 offer</span><span class="val">10枚（8人获录）</span></div>
+      <div class="school-stat"><span>藤校</span><span class="val">7枚（康奈尔4、宾大2、布朗1）</span></div>
+      <div class="school-stat"><span>TOP30率</span><span class="val">约62.4%</span></div>
+    </div>
+    <div class="school-card">
+      <h4>七德学校（WLSA Shanghai）</h4>
+      <div class="school-stat"><span>毕业生人数</span><span class="val">约167人</span></div>
+      <div class="school-stat"><span>全球前30 offer</span><span class="val"><strong>192枚</strong>（含英国）</span></div>
+      <div class="school-stat"><span>美本方向</span><span class="val">杜克1、西北1、康奈尔3</span></div>
+      <div class="school-stat"><span>录取率</span><span class="val">约60%学生获至少1枚</span></div>
+      <div class="school-stat"><span>课程体系</span><span class="val">IB</span></div>
+    </div>
+    <div class="school-card">
+      <h4>民办位育中学</h4>
+      <div class="school-stat"><span>总offer</span><span class="val"><strong>924枚</strong>（美国469枚）</span></div>
+      <div class="school-stat"><span>TOP30申请成功率</span><span class="val">73%（全美）</span></div>
+      <div class="school-stat"><span>课程体系</span><span class="val">AP为主</span></div>
+    </div>
+    <div class="school-card">
+      <h4>交通大学附中（交中IB）</h4>
+      <div class="school-stat"><span>TOP30情况</span><span class="val">约⅔学生获美/全球前30</span></div>
+      <div class="school-stat"><span>代表院校</span><span class="val">哥大、康奈尔、UCB、莱斯</span></div>
+      <div class="school-stat"><span>课程体系</span><span class="val">IB</span></div>
+    </div>
+    <div class="school-card">
+      <h4>星河湾学校</h4>
+      <div class="school-stat"><span>TOP30率（含英美）</span><span class="val">近年约80%</span></div>
+      <div class="school-stat"><span>2025早申</span><span class="val">西北大学10枚（上海最多）</span></div>
+      <div class="school-stat"><span>课程体系</span><span class="val">AP</span></div>
+    </div>
+  </div>
+
+  <div class="chart-grid">
+    <div>
+      <div class="chart-box" id="c-sh1" style="height:320px;"></div>
+      <div class="chart-caption">图6：上海主要国际学校 TOP30 offer 数量对比</div>
+    </div>
+    <div>
+      <div class="chart-box" id="c-sh2" style="height:320px;"></div>
+      <div class="chart-caption">图7：上海主要学校藤校录取对比（2025届）</div>
+    </div>
+  </div>
+
+  <div class="warn-box">⚠ 上海平和2025届TOP30录取率从去年65%下降至50%，降幅约15%。平和藤校录取虽有11枚（哈佛1），但总体数量未能创历史新高，原因可能与申请人整体实力分化及名校录取策略调整有关。</div>
+</div>
+
+<!-- S05 广深 -->
+<div class="section-card" id="s05">
+  <div class="section-header">
+    <span class="section-num">05</span>
+    <span class="section-title">广深地区：大湾区高中录取全景</span>
+  </div>
+  <span class="region-tag">📍 广深大湾区</span>
+  <p class="prose">2025届大湾区美本TOP30录取量约<strong>110枚</strong>，较去年同期55+枚<strong>翻倍增长</strong>，是全国增速最快的区域之一。深圳中学、华附HFI、深国交三足鼎立，贝赛思系列持续发力。</p>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>学校</th>
+          <th>毕业生规模</th>
+          <th>TOP30 offer</th>
+          <th>TOP30率</th>
+          <th>藤校/TOP10</th>
+          <th>代表录取</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>华附国际部 (HFI)</strong></td>
+          <td>约134人</td>
+          <td><strong>61枚</strong></td>
+          <td><span class="badge badge-blue">48%（最高）</span></td>
+          <td>6枚藤校、3枚TOP10</td>
+          <td>康奈尔5枚（大湾区最多）、JHU 3枚、UCLA 3枚、芝大2枚</td>
+        </tr>
+        <tr>
+          <td><strong>深圳中学国际部</strong></td>
+          <td>—</td>
+          <td>— (较强)</td>
+          <td><span class="badge badge-blue">42%</span></td>
+          <td>宾大1（大湾区3枚均出自深中）</td>
+          <td>斯坦福1、耶鲁1、宾大1、JHU 4枚</td>
+        </tr>
+        <tr>
+          <td><strong>深圳国际交流书院（深国交）</strong></td>
+          <td>—</td>
+          <td>— (较多)</td>
+          <td><span class="badge badge-orange">35%</span></td>
+          <td>芝大1、康奈尔1</td>
+          <td>斯坦福1、JHU 1、芝大1、康奈尔1、埃默里3、NYU 13枚</td>
+        </tr>
+        <tr>
+          <td><strong>广州贝赛思</strong></td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>西北1、芝大1</td>
+          <td>西北1、芝大1、埃默里3、康奈尔1</td>
+        </tr>
+        <tr>
+          <td><strong>深圳蛇口贝赛思</strong></td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>达特茅斯1</td>
+          <td>康奈尔2、达茅1、埃默里2、UCB 1、UCLA 2</td>
+        </tr>
+        <tr>
+          <td><strong>惠州小径湾贝赛思</strong></td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>斯坦福1、JHU 1、康奈尔1</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="chart-grid">
+    <div>
+      <div class="chart-box" id="c-gd1" style="height:300px;"></div>
+      <div class="chart-caption">图8：大湾区主要学校 TOP30 录取率对比（2025届）</div>
+    </div>
+    <div>
+      <div class="chart-box" id="c-gd2" style="height:300px;"></div>
+      <div class="chart-caption">图9：大湾区代表院校录取热力（主要大学 offer 分布）</div>
+    </div>
+  </div>
+
+  <div class="key-box">
+    <ul>
+      <li><strong>华附HFI</strong> 凭48%的TOP30率居大湾区之首，康奈尔5枚独占鳌头</li>
+      <li><strong>深圳中学</strong>顶尖录取爆发力强，3枚宾大全数来自该校，另有斯坦福、耶鲁各1枚</li>
+      <li><strong>深国交</strong>录取率（35%）在三校中最低，但因总体学生人数多，绝对数量依然可观；NYU 13枚显示其工商方向强势</li>
+      <li>大湾区整体2025届TOP30 offer约110枚，较前一年翻倍，增速全国最快</li>
+    </ul>
+  </div>
+</div>
+
+<!-- S06 其他城市 -->
+<div class="section-card" id="s06">
+  <div class="section-header">
+    <span class="section-num">06</span>
+    <span class="section-title">其他城市：各地外国语学校代表</span>
+  </div>
+
+  <span class="region-tag">📍 江苏 · 浙江 · 湖北 · 四川</span>
+  <p class="prose">除京沪粤深四大核心区外，各省重点外国语学校也在2025届美本申请中取得亮眼成绩，但受限于信息公开程度，数据完整性参差不齐。</p>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>学校</th>
+          <th>城市</th>
+          <th>TOP30 情况</th>
+          <th>代表录取</th>
+          <th>数据质量</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>南京外国语学校（南外）</strong></td>
+          <td>南京</td>
+          <td>75%学生获TOP30/英国G5；哈佛、耶鲁均有录取；宾大RD 3枚</td>
+          <td>哈佛（≥1）、耶鲁1、宾大3</td>
+          <td><span class="badge badge-orange">△ 部分</span></td>
+        </tr>
+        <tr>
+          <td><strong>苏州外国语学校（苏外）</strong></td>
+          <td>苏州</td>
+          <td>2023年季45枚TOP30；2025年总offer约179枚</td>
+          <td>JHU 1、布朗1、WUST 1、圣母1、UCLA 2、UCB 4、CMU 3</td>
+          <td><span class="badge badge-orange">△ 部分</span></td>
+        </tr>
+        <tr>
+          <td><strong>杭州外国语学校剑桥高中（杭外剑高）</strong></td>
+          <td>杭州</td>
+          <td>65名申请生，67%获TOP30，94%获TOP50</td>
+          <td>康奈尔、莱斯、范德堡、UCB、CMU、USC、密歇根</td>
+          <td><span class="badge badge-green">✓ 可信</span></td>
+        </tr>
+        <tr>
+          <td><strong>南京外国语学校仙林分校</strong></td>
+          <td>南京</td>
+          <td>国际课程录取超1200份（含全球），75%获顶尖院校</td>
+          <td>哈佛、耶鲁、宾大、美TOP30多所</td>
+          <td><span class="badge badge-orange">△ 整体</span></td>
+        </tr>
+        <tr>
+          <td><strong>武汉外国语学校（武外）</strong></td>
+          <td>武汉</td>
+          <td>具体2025数据未见公开统计</td>
+          <td>历史有藤校录取</td>
+          <td><span class="badge badge-red">✗ 不足</span></td>
+        </tr>
+        <tr>
+          <td><strong>成都外国语学校（成外）</strong></td>
+          <td>成都</td>
+          <td>2025早申有录取记录，成外AP/AL中心1枚</td>
+          <td>历史有斯坦福、芝大、宾大录取</td>
+          <td><span class="badge badge-red">✗ 不足</span></td>
+        </tr>
+        <tr>
+          <td><strong>上海浦东外国语学校</strong></td>
+          <td>上海</td>
+          <td>暂未找到2025届完整独立统计</td>
+          <td>归属上海整体统计</td>
+          <td><span class="badge badge-red">✗ 不足</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="warn-box">⚠ <strong>数据盲区：</strong>武汉外国语学校、成都外国语学校、上海浦东外国语学校等知名中学2025届整体美本TOP30录取数据暂未在可查公开渠道中汇总发布，以上表格仅列出已找到的片段信息，不代表全貌。建议直接联系学校招生办或参考小红书、知乎学生社区的实时战报。</div>
+</div>
+
+<!-- S07 横向对比 -->
+<div class="section-card" id="s07">
+  <div class="section-header">
+    <span class="section-num">07</span>
+    <span class="section-title">各高中 TOP30 offer 横向对比</span>
+  </div>
+  <p class="prose">以下汇总了现有数据中各学校的 TOP30 offer 数量，便于横向比较。由于各校统计口径（是否包含UC系、早申/RD合并等）存在差异，数字仅供参考，<strong>不宜简单排名</strong>。</p>
+
+  <div class="chart-box" id="c-compare" style="height:420px;"></div>
+  <div class="chart-caption">图10：2025届各代表高中 TOP30 offer 数量对比（数据不完整者标注"△"）</div>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>学校</th>
+          <th>地区</th>
+          <th>TOP30 offer（枚）</th>
+          <th>藤校 offer</th>
+          <th>TOP30 率（约）</th>
+          <th>数据说明</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>上海中学国际部</td><td>上海</td><td><strong>163</strong></td><td>7</td><td>62%</td><td>133人申请；含UC系</td>
+        </tr>
+        <tr>
+          <td>包玉刚实验学校</td><td>上海</td><td><strong>145</strong></td><td>5</td><td>~119%△</td><td>122人毕业；part含UC</td>
+        </tr>
+        <tr>
+          <td>上海平和学校</td><td>上海</td><td><strong>146</strong></td><td>11</td><td>50%（↓15%）</td><td>IBDP约99人TOP30；总含UC</td>
+        </tr>
+        <tr>
+          <td>北京六大国际部（合计）</td><td>北京</td><td><strong>923</strong></td><td>67</td><td>65.66%</td><td>约654人实际获录</td>
+        </tr>
+        <tr>
+          <td>北京四中国际校区</td><td>北京</td><td><strong>55</strong></td><td>4</td><td>58.5%</td><td>94人毕业生</td>
+        </tr>
+        <tr>
+          <td>华附国际部 HFI</td><td>广州</td><td><strong>61</strong></td><td>6</td><td>48%</td><td>134人毕业</td>
+        </tr>
+        <tr>
+          <td>七德学校 WLSA</td><td>上海</td><td><strong>~192</strong>（含英国）</td><td>—</td><td>60%</td><td>167人毕业；美英合计</td>
+        </tr>
+        <tr>
+          <td>深圳国际交流书院（深国交）</td><td>深圳</td><td><strong>—（77%达标）</strong></td><td>2</td><td>35%（纯美）</td><td>含英国G5统计77%</td>
+        </tr>
+        <tr>
+          <td>深圳中学国际部</td><td>深圳</td><td>—</td><td>3</td><td>42%</td><td>具体枚数未公开</td>
+        </tr>
+        <tr>
+          <td>杭外剑桥国际高中</td><td>杭州</td><td><strong>~44枚</strong>△</td><td>—</td><td>67%</td><td>65名学生，估算</td>
+        </tr>
+        <tr>
+          <td>苏州外国语学校</td><td>苏州</td><td>~45枚（2023参考）</td><td>—</td><td>—</td><td>2025详细数据未全公开</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="footnote">△ 含估算值或仅有部分数据。offer枚数通常高于实际录取人头数，平均一人持有1.8~2.0枚TOP30 offer。</p>
+</div>
+
+<!-- S08 趋势与SWOT -->
+<div class="section-card" id="s08">
+  <div class="section-header">
+    <span class="section-num">08</span>
+    <span class="section-title">趋势分析与 SWOT</span>
+  </div>
+
+  <div class="chart-grid">
+    <div>
+      <div class="chart-box" id="c-trend2" style="height:280px;"></div>
+      <div class="chart-caption">图11：近年中国学生美本TOP30录取量变化趋势（估算）</div>
+    </div>
+    <div>
+      <div class="chart-box" id="c-radar" style="height:280px;"></div>
+      <div class="chart-caption">图12：各区域国际学校综合竞争力雷达图</div>
+    </div>
+  </div>
+
+  <h3 style="font-size:16px;color:var(--text);margin:20px 0 12px;">中国学生美本申请生态 SWOT 分析</h3>
+  <div class="swot-grid">
+    <div class="swot-cell s">
+      <h4>✅ 优势 Strengths</h4>
+      <ul>
+        <li>整体标化成绩持续提升，SAT 1550+ 比例上升</li>
+        <li>IB课程普及率高，全球认可度强</li>
+        <li>头部学校课外活动规划系统化、专业化</li>
+        <li>北京、上海两地名校生态完善，中介与备考资源密集</li>
+        <li>大湾区录取量翻倍，新兴增长极崛起</li>
+      </ul>
+    </div>
+    <div class="swot-cell w">
+      <h4>⚠️ 劣势 Weaknesses</h4>
+      <ul>
+        <li>申请人数增速（5.66%）高于录取增速（3.07%）</li>
+        <li>顶尖学校offer高度集中，普通学生获录难度加大</li>
+        <li>文书同质化严重，"套路文书"辨识度降低</li>
+        <li>过度依赖中介，自主申请能力偏弱</li>
+        <li>数据信息不对称，二三线城市高中信息严重缺失</li>
+      </ul>
+    </div>
+    <div class="swot-cell o">
+      <h4>🌟 机遇 Opportunities</h4>
+      <ul>
+        <li>部分TOP20~25大学录取量增幅明显（+7.67%~8.31%），存在结构性机会</li>
+        <li>大湾区国际高中快速崛起，竞争格局多元化</li>
+        <li>早申策略日趋成熟，命中率可期</li>
+        <li>非传统专业（环境、公共政策、人文）方向竞争相对较弱</li>
+      </ul>
+    </div>
+    <div class="swot-cell t">
+      <h4>🚨 威胁 Threats</h4>
+      <ul>
+        <li>HYPSM五校录取几乎零增长，顶尖段竞争近乎零和</li>
+        <li>部分大学招生趋向"地区多元化"，单一来源国录取天花板显现</li>
+        <li>国际政治环境波动影响中美教育交流</li>
+        <li>留学中介市场虚假战报泛滥，数据注水影响决策</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- S09 数据可信度 -->
+<div class="section-card" id="s09">
+  <div class="section-header">
+    <span class="section-num">09</span>
+    <span class="section-title">数据可信度说明</span>
+  </div>
+  <p class="prose">本报告数据来源于多个公开渠道的汇整，各来源可信度存在差异，使用时请注意以下说明：</p>
+
+  <table class="reliability-table">
+    <thead>
+      <tr>
+        <th>数据来源</th>
+        <th>涵盖内容</th>
+        <th>可信度</th>
+        <th>备注</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>知乎专栏（多源汇整）</td>
+        <td>全国TOP30录取总量6073枚</td>
+        <td>✓ 高</td>
+        <td>多篇文章交叉验证，口径较一致</td>
+      </tr>
+      <tr>
+        <td>博明程教育官网</td>
+        <td>广深录取量翻倍、各校TOP30率</td>
+        <td>✓ 高</td>
+        <td>机构公开分析报告，数据来源可追溯</td>
+      </tr>
+      <tr>
+        <td>国际教育联盟（jingsailian）</td>
+        <td>上海各IB学校2025届录取详情</td>
+        <td>✓ 高</td>
+        <td>学校官方及机构综合口径</td>
+      </tr>
+      <tr>
+        <td>163教育频道</td>
+        <td>北京六大国际部汇总分析</td>
+        <td>△ 中</td>
+        <td>分析类文章，数据已计算，建议对照学校官方</td>
+      </tr>
+      <tr>
+        <td>托普仕留学（topsedu）</td>
+        <td>上海平和2025录取详情</td>
+        <td>✓ 高</td>
+        <td>具体数字146枚，梯队清晰</td>
+      </tr>
+      <tr>
+        <td>学校官网（上中、南外仙林等）</td>
+        <td>官方战报</td>
+        <td>✓ 高</td>
+        <td>最一手来源，但口径可能不统一</td>
+      </tr>
+      <tr>
+        <td>二手汇整/中介机构</td>
+        <td>各地外国语学校片段数据</td>
+        <td>△ 中~低</td>
+        <td>⚠ 部分机构数据可能存在夸大</td>
+      </tr>
+      <tr>
+        <td>武外、成外、浦东外语等</td>
+        <td>2025届整体TOP30统计</td>
+        <td>✗ 未找到</td>
+        <td>公开渠道暂无2025完整汇总，建议联系学校</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="warn-box" style="margin-top:16px;">
+    ⚠ <strong>重要提示：</strong>本报告为信息汇整，不构成升学建议。由于各学校统计口径不一（如是否含UC系、是否含英国G5等），<strong>不同学校间的offer数量不可直接横向比较</strong>。留学中介平台发布的"战报"存在挑选有利数据的现象，建议以学校官方发布为准。
+  </div>
+
+  <hr class="divider">
+  <p class="prose" style="font-size:13px;color:#888;">
+    <strong>主要参考来源：</strong>
+    知乎专栏「2025美本TOP30向中国学生发放6073份录取，增长3%」／博明程教育「2025美本录取数据解析：广深名校录取量飙升」／国际教育联盟「包玉刚/世外/平和/七德/交中/位育2025届升学成果」／163教育「北京六大国际部2025美本录取分析」／拓普仕留学「上海平和2025秋季美本录取结果」／上海中学国际部2025届录取结果分析（163）
+  </p>
+</div>
+
+</div><!-- end container -->
+
+<script>
+const COLORS = ['#1565c0','#0288d1','#2e7d32','#e65100','#6a1b9a','#c62828','#00838f','#f9a825'];
+
+// 图1：各梯队录取量
+const c1 = echarts.init(document.getElementById('c-trend'));
+c1.setOption({
+  grid:{top:20,right:20,bottom:40,left:65},
+  xAxis:{type:'category',data:['HYPSM','藤校(8)','TOP10','TOP20','TOP25','TOP30'],axisLabel:{color:'#555',fontSize:11}},
+  yAxis:{type:'value',name:'枚',nameTextStyle:{color:'#888',fontSize:11},axisLabel:{color:'#555'},splitLine:{lineStyle:{color:'#eee'}}},
+  series:[{type:'bar',data:[148,424,481,1937,3038,6073],barMaxWidth:44,
+    itemStyle:{color:function(p){return COLORS[p.dataIndex % COLORS.length];}},
+    label:{show:true,position:'top',color:'#555',fontSize:11}
+  }],
+  tooltip:{trigger:'axis',formatter:function(p){return p[0].name+'<br/>录取量：'+p[0].value+'枚';}},
+});
+
+// 图2：饼图
+const c2 = echarts.init(document.getElementById('c-pie1'));
+c2.setOption({
+  legend:{bottom:4,textStyle:{color:'#555',fontSize:11}},
+  series:[{type:'pie',radius:['35%','62%'],center:['50%','45%'],
+    label:{formatter:'{b}\n{d}%',color:'#444',fontSize:11},
+    data:[
+      {value:148,name:'HYPSM',itemStyle:{color:'#1565c0'}},
+      {value:276,name:'藤校其余',itemStyle:{color:'#0288d1'}},
+      {value:57,name:'TOP10非藤',itemStyle:{color:'#2e7d32'}},
+      {value:1456,name:'TOP11~20',itemStyle:{color:'#e65100'}},
+      {value:1101,name:'TOP21~25',itemStyle:{color:'#6a1b9a'}},
+      {value:3035,name:'TOP26~30',itemStyle:{color:'#00838f'}},
+    ]
+  }],
+  tooltip:{trigger:'item',formatter:'{b}: {c}枚 ({d}%)'}
+});
+
+// 图3：各梯队同比增幅柱状图
+const c3 = echarts.init(document.getElementById('c-bar1'));
+c3.setOption({
+  grid:{top:30,right:30,bottom:40,left:65},
+  xAxis:{type:'category',data:['藤校(8)','TOP10','TOP20','TOP25','TOP30合计'],axisLabel:{color:'#555'}},
+  yAxis:{type:'value',name:'同比增幅(%)',nameTextStyle:{color:'#888'},axisLabel:{color:'#555',formatter:'{value}%'},splitLine:{lineStyle:{color:'#eee'}}},
+  series:[{type:'bar',data:[6.53,3.66,7.67,8.31,3.07],barMaxWidth:40,
+    itemStyle:{color:function(p){
+      const v=p.value; return v>=7?'#2e7d32':v>=5?'#0288d1':'#1565c0';
+    }},
+    label:{show:true,position:'top',color:'#444',fontSize:12,formatter:'{c}%'}
+  }],
+  tooltip:{trigger:'axis',formatter:function(p){return p[0].name+'<br/>同比增幅：'+p[0].value+'%';}}
+});
+
+// 图4：北京六校各梯队
+const c4 = echarts.init(document.getElementById('c-bj1'));
+c4.setOption({
+  grid:{top:30,right:20,bottom:50,left:70},
+  legend:{top:5,textStyle:{color:'#555',fontSize:11}},
+  xAxis:{type:'category',data:['北师大实验','人大附ICC','北京十一','北京101','北京四中','北京80中'],
+    axisLabel:{color:'#555',fontSize:10,rotate:15}},
+  yAxis:{type:'value',name:'枚',nameTextStyle:{color:'#888'},splitLine:{lineStyle:{color:'#eee'}}},
+  series:[
+    {name:'TOP20',type:'bar',stack:'a',data:[104,null,null,null,7,null],itemStyle:{color:'#1565c0'},barMaxWidth:36},
+    {name:'TOP10',type:'bar',stack:'b',data:[28,24,null,null,2,null],itemStyle:{color:'#0288d1'},barMaxWidth:36},
+    {name:'藤校',type:'bar',stack:'c',data:[26,null,null,null,4,null],itemStyle:{color:'#e65100'},barMaxWidth:36},
+  ],
+  tooltip:{trigger:'axis'},
+});
+
+// 图5：雷达图
+const c5 = echarts.init(document.getElementById('c-bj2'));
+c5.setOption({
+  radar:{indicator:[
+    {name:'藤校实力',max:10},{name:'TOP10广度',max:10},{name:'TOP20体量',max:10},
+    {name:'录取率',max:10},{name:'特殊强项',max:10}
+  ],radius:'55%',axisName:{color:'#555',fontSize:11},splitLine:{lineStyle:{color:'#ddd'}}},
+  series:[{type:'radar',data:[
+    {name:'北师大实验',value:[9,9,10,9,8],lineStyle:{color:'#1565c0',width:2},areaStyle:{color:'rgba(21,101,192,0.12)'}},
+    {name:'人大附ICC',value:[7,8,6,7,9],lineStyle:{color:'#e65100',width:2},areaStyle:{color:'rgba(230,81,0,0.1)'}},
+    {name:'北京四中',value:[6,5,5,7,5],lineStyle:{color:'#2e7d32',width:1.5,type:'dashed'},areaStyle:{color:'rgba(46,125,50,0.08)'}},
+  ]}],
+  legend:{bottom:4,textStyle:{color:'#555',fontSize:10}}
+});
+
+// 图6：上海学校TOP30对比
+const c6 = echarts.init(document.getElementById('c-sh1'));
+c6.setOption({
+  grid:{top:20,right:20,bottom:60,left:70},
+  xAxis:{type:'category',
+    data:['上海中学\n国际部','包玉刚','平和学校','七德\n(含英国)','世外\n(早申)','华附HFI\n(广州)'],
+    axisLabel:{color:'#555',fontSize:10}},
+  yAxis:{type:'value',name:'offer枚数',nameTextStyle:{color:'#888'},splitLine:{lineStyle:{color:'#eee'}}},
+  series:[{type:'bar',
+    data:[163,145,146,192,36,61],
+    barMaxWidth:40,
+    itemStyle:{color:new echarts.graphic.LinearGradient(0,0,0,1,[
+      {offset:0,color:'#1565c0'},{offset:1,color:'rgba(255,255,255,0.2)'}])},
+    label:{show:true,position:'top',color:'#444',fontSize:12}
+  }],
+  tooltip:{trigger:'axis'}
+});
+
+// 图7：藤校对比
+const c7 = echarts.init(document.getElementById('c-sh2'));
+c7.setOption({
+  grid:{top:20,right:20,bottom:60,left:55},
+  xAxis:{type:'category',data:['上海中学','包玉刚','平和学校','华附HFI','深国交','深圳中学'],
+    axisLabel:{color:'#555',fontSize:10}},
+  yAxis:{type:'value',name:'藤校枚数',nameTextStyle:{color:'#888'},splitLine:{lineStyle:{color:'#eee'}}},
+  series:[{type:'bar',data:[7,5,11,6,2,3],barMaxWidth:40,
+    itemStyle:{color:function(p){return COLORS[p.dataIndex];}},
+    label:{show:true,position:'top',color:'#444'}
+  }],
+  tooltip:{trigger:'axis'}
+});
+
+// 图8：大湾区TOP30率
+const c8 = echarts.init(document.getElementById('c-gd1'));
+c8.setOption({
+  grid:{top:20,right:30,bottom:40,left:60},
+  xAxis:{type:'category',data:['华附HFI','深圳中学','深国交（纯美）'],axisLabel:{color:'#555'}},
+  yAxis:{type:'value',name:'TOP30率(%)',nameTextStyle:{color:'#888'},max:60,axisLabel:{color:'#555',formatter:'{value}%'},splitLine:{lineStyle:{color:'#eee'}}},
+  series:[{type:'bar',data:[48,42,35],barMaxWidth:50,
+    itemStyle:{color:function(p){return ['#1565c0','#0288d1','#e65100'][p.dataIndex];}},
+    label:{show:true,position:'top',color:'#444',formatter:'{c}%'}
+  }],
+  tooltip:{trigger:'axis'}
+});
+
+// 图9：大湾区各校代表院校
+const c9 = echarts.init(document.getElementById('c-gd2'));
+c9.setOption({
+  grid:{top:10,right:20,bottom:50,left:80},
+  legend:{bottom:4,textStyle:{color:'#555',fontSize:10}},
+  xAxis:{type:'value',splitLine:{lineStyle:{color:'#eee'}},axisLabel:{color:'#555'}},
+  yAxis:{type:'category',data:['NYU','UCLA','JHU','康奈尔','芝加哥','埃默里','斯坦福','宾大'],
+    axisLabel:{color:'#555',fontSize:11}},
+  series:[
+    {name:'华附HFI',type:'bar',stack:'g',data:[null,3,3,5,2,null,null,null],itemStyle:{color:'#1565c0'}},
+    {name:'深圳中学',type:'bar',stack:'g',data:[null,null,4,null,null,null,1,1],itemStyle:{color:'#0288d1'}},
+    {name:'深国交',type:'bar',stack:'g',data:[13,null,1,1,1,3,1,null],itemStyle:{color:'#e65100'}},
+  ],
+  tooltip:{trigger:'axis',axisPointer:{type:'shadow'}}
+});
+
+// 图10：横向对比
+const c10 = echarts.init(document.getElementById('c-compare'));
+const schools = ['上海中学国际部','包玉刚','平和学校','华附HFI','北京四中','七德(含英)','杭外剑高(估)','苏外(2023参考)','深国交','深圳中学'];
+const offers  = [163,145,146,61,55,192,44,45,0,0];
+const colors  = ['#0288d1','#1565c0','#1565c0','#2e7d32','#1565c0','#0288d1','#e65100','#e65100','#6a1b9a','#6a1b9a'];
+c10.setOption({
+  grid:{top:20,right:20,bottom:100,left:60},
+  xAxis:{type:'category',data:schools,axisLabel:{color:'#555',fontSize:10,rotate:30,interval:0}},
+  yAxis:{type:'value',name:'TOP30 offer枚数',nameTextStyle:{color:'#888'},splitLine:{lineStyle:{color:'#eee'}}},
+  series:[{type:'bar',data:offers.map((v,i)=>({value:v,itemStyle:{color:colors[i]}})),barMaxWidth:36,
+    label:{show:true,position:'top',color:'#444',fontSize:11,formatter:function(p){return p.value===0?'—':p.value;}}
+  }],
+  tooltip:{trigger:'axis',formatter:function(p){return p[0].name+'<br/>TOP30 offer：'+(p[0].value===0?'数据不足':p[0].value+'枚');}}
+});
+
+// 图11：近年趋势
+const c11 = echarts.init(document.getElementById('c-trend2'));
+c11.setOption({
+  grid:{top:20,right:30,bottom:40,left:65},
+  xAxis:{type:'category',data:['2021届','2022届','2023届','2024届','2025届'],axisLabel:{color:'#555'}},
+  yAxis:{type:'value',name:'TOP30录取（枚）',nameTextStyle:{color:'#888'},axisLabel:{color:'#555'},splitLine:{lineStyle:{color:'#eee'}}},
+  series:[{type:'line',data:[5200,5500,5700,5892,6073],smooth:true,
+    lineStyle:{color:'#1565c0',width:2.5},
+    symbol:'circle',symbolSize:7,itemStyle:{color:'#1565c0'},
+    areaStyle:{color:{type:'linear',x:0,y:0,x2:0,y2:1,
+      colorStops:[{offset:0,color:'rgba(21,101,192,.18)'},{offset:1,color:'rgba(21,101,192,.01)'}]}}
+  }],
+  tooltip:{trigger:'axis',formatter:function(p){return p[0].name+'<br/>TOP30录取约：'+p[0].value+'枚（部分为估算）';}},
+});
+
+// 图12：各区域综合实力雷达
+const c12 = echarts.init(document.getElementById('c-radar'));
+c12.setOption({
+  radar:{indicator:[
+    {name:'录取总量',max:10},{name:'顶尖大学率',max:10},{name:'数据透明度',max:10},
+    {name:'增长势头',max:10},{name:'录取多样性',max:10}
+  ],radius:'55%',axisName:{color:'#555',fontSize:10},splitLine:{lineStyle:{color:'#ddd'}}},
+  series:[{type:'radar',data:[
+    {name:'北京',value:[9,9,8,6,7],lineStyle:{color:'#1565c0',width:2},areaStyle:{color:'rgba(21,101,192,0.12)'}},
+    {name:'上海',value:[10,8,9,6,9],lineStyle:{color:'#e65100',width:2},areaStyle:{color:'rgba(230,81,0,0.10)'}},
+    {name:'广深',value:[6,7,6,10,7],lineStyle:{color:'#2e7d32',width:1.5},areaStyle:{color:'rgba(46,125,50,0.10)'}},
+    {name:'其他城市',value:[5,5,4,5,5],lineStyle:{color:'#888',width:1.5,type:'dashed'},areaStyle:{color:'rgba(100,100,100,0.06)'}},
+  ]}],
+  legend:{bottom:4,textStyle:{color:'#555',fontSize:10}}
+});
+
+// 响应式
+window.addEventListener('resize',function(){
+  [c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12].forEach(c=>c.resize());
+});
+</script>
+</body>
+</html>

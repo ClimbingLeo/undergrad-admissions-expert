@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ PRODUCT }}{% endblock %} · {{ PRODUCT }}</title>
+<meta name="csrf" content="{{ csrf }}">
+<link rel="stylesheet" href="/static/app.css">
+{% if user and user.brand_color %}<style>:root{--brand: {{ user.brand_color }};}</style>{% endif %}
+{% block head %}{% endblock %}
+</head>
+<body>
+{% set p = request.url.path %}
+<div class="shell">
+  <aside class="side no-print">
+    <div class="logo">
+      <div class="mark">思</div>
+      <div><div class="t1">{{ (user.brand_name if user and user.brand_name) or "思博杂学社" }}</div><div class="t2">申请策略系统 · Agent</div></div>
+    </div>
+    <nav>
+      <a href="/" class="{{ 'on' if p == '/' }}">🏠 工作台</a>
+      <div class="grp">学生服务</div>
+      <a href="/students" class="{{ 'on' if p.startswith('/students') }}">👤 学生档案</a>
+      <a href="/reports" class="{{ 'on' if p.startswith('/reports') }}">📄 报告中心</a>
+      <a href="/ee" class="{{ 'on' if p.startswith('/ee') }}">📐 IB 数学 EE 评审</a>
+      <div class="grp">知识库</div>
+      <a href="/library/schools" class="{{ 'on' if p.startswith('/library/schools') or p.startswith('/library/compare') }}">🏛 学校画像</a>
+      <a href="/library/applicants" class="{{ 'on' if p.startswith('/library/applicants') }}">🧭 申请者画像</a>
+      <a href="/library/essays" class="{{ 'on' if p.startswith('/library/essays') }}">✍️ 文书库</a>
+      <a href="/library/cases" class="{{ 'on' if p.startswith('/library/cases') }}">📚 深度案例</a>
+      <div class="grp">运营</div>
+      <a href="/marketing" class="{{ 'on' if p.startswith('/marketing') }}">📣 获客内容</a>
+      <a href="/data" class="{{ 'on' if p.startswith('/data') }}">🔎 数据来源说明</a>
+      {% if user and user.role == 'owner' %}<a href="/settings" class="{{ 'on' if p.startswith('/settings') }}">⚙️ 机构设置</a>{% endif %}
+    </nav>
+    {% if user %}
+    <div class="who">{{ user.name }} · {{ ROLES[user.role] }}<br><span style="opacity:.7">{{ user.org_name }}</span><br><a href="/account">我的账号</a> · <a href="/logout">退出登录</a></div>
+    {% endif %}
+  </aside>
+  <main class="main">
+    {% for kind, msg in pop_flash(request) %}<div class="notice {{ kind }}">{{ msg }}</div>{% endfor %}
+    {% block content %}{% endblock %}
+    <div class="disclaimer no-print">本系统输出仅供机构顾问内部参考，不构成录取承诺。知识库中的申请者画像与文书来自公开 / 第三方平台，学校数据请以各校官网与 Common Data Set 为准；标注「数据待核实」「示例画像」的内容不得作为事实对外引用。</div>
+  </main>
+</div>
+<script>
+// 防连点：POST 表单提交后禁用提交按钮（被 confirm 取消的提交不受影响）
+document.addEventListener('submit',e=>{const f=e.target;if((f.method||'').toLowerCase()!=='post')return;
+  setTimeout(()=>{if(e.defaultPrevented)return;const b=e.submitter||f.querySelector('button:not([type=button])');
+  if(b&&!b.dataset.keep){b.disabled=true;b.dataset.label=b.textContent;b.textContent='处理中…';}},0);});
+window.addEventListener('pageshow',()=>document.querySelectorAll('button[data-label]').forEach(b=>{b.disabled=false;b.textContent=b.dataset.label;}));
+</script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

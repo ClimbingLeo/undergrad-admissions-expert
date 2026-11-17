@@ -1,0 +1,34 @@
+{% extends "base.html" %}{% from "_macros.html" import status %}
+{% block title %}工作台{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>工作台</h1><div class="sub">你好，{{ user.name }}。今天要推进哪位学生？</div></div>
+  {% if user.role != 'viewer' %}<a class="btn primary" href="/students/new">＋ 新建学生档案</a>{% endif %}</div>
+{% if not ai_ready %}<div class="notice warn">AI 生成功能尚未启用：{% if user.role == 'owner' %}请到 <a href="/settings">机构设置</a> 填写 Anthropic API Key。{% else %}请联系机构管理员配置 API Key。{% endif %}知识库浏览、检索与已有报告不受影响。</div>{% endif %}
+<div class="grid g4">
+  <a class="card stat" href="/library/schools"><div class="n">{{ stats.get('schools_with_profile', 0) }}</div><div class="l">所学校深度画像</div></a>
+  <a class="card stat" href="/library/applicants"><div class="n">{{ stats.get('applicants', 0) }}</div><div class="l">份真实申请者画像（含录取 / 拒绝结果）</div></a>
+  <a class="card stat" href="/library/essays"><div class="n">{{ stats.get('common_app_essays', 0) + stats.get('supplement_essays', 0) }}</div><div class="l">篇真实文书（主文书 {{ stats.get('common_app_essays', 0) }} / 补充 {{ stats.get('supplement_essays', 0) }}）</div></a>
+  <a class="card stat" href="/library/cases"><div class="n">{{ stats.get('narrative_cases', 0) }}</div><div class="l">个深度拆解案例</div></a>
+</div>
+<div class="grid g2">
+  <div class="card">
+    <div class="row between"><h2>最近学生</h2><a href="/students" class="small">全部 →</a></div>
+    {% if students %}<table class="t"><tr><th>代号</th><th>姓名</th><th>意向专业</th><th>更新</th></tr>
+    {% for s in students %}<tr><td><code>{{ s.code }}</code></td><td><a href="/students/{{ s.id }}">{{ s.name }}</a></td><td>{{ s.intended_major or '—' }}</td><td class="muted small">{{ s.updated_at[:10] }}</td></tr>{% endfor %}</table>
+    {% else %}<div class="empty">还没有学生档案。<br><a href="/students/new">创建第一位学生 →</a></div>{% endif %}
+  </div>
+  <div class="card">
+    <div class="row between"><h2>最近报告</h2><a href="/reports" class="small">全部 →</a></div>
+    {% if reports %}<table class="t">{% for r in reports %}<tr><td><a href="/reports/{{ r.id }}">{{ r.title }}</a><div class="muted small">{{ REPORT_TYPES[r.type] }} · {{ r.author or '' }} · {{ r.created_at[:16] }}</div></td><td>{{ status(r.status) }}</td></tr>{% endfor %}</table>
+    {% else %}<div class="empty">暂无报告</div>{% endif %}
+  </div>
+</div>
+<div class="card">
+  <h2>这个系统能帮你做什么</h2>
+  <div class="grid g3">
+    <div><h3>🎯 学生诊断与规划</h3><p class="ink2">录入学生背景，自动对照相似真实申请者与目标校画像，输出定位、短板、选校分档和 90 天行动清单；再一键生成差异化活动 / Spike 路线。</p></div>
+    <div><h3>✍️ 文书策略与批改</h3><p class="ink2">按学校、题目检索录取与未录取的真实文书对照；生成选题角度与结构骨架，或对草稿做逐段诊断。</p></div>
+    <div><h3>📣 销售与培训弹药</h3><p class="ink2">学校画像、案例拆解直接用于新人培训和家长讲座；获客内容生成器把真实案例转成公众号长文或讲座提纲。</p></div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,10 @@
+{% extends "base.html" %}{% from "_macros.html" import trust %}
+{% block title %}深度案例{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>深度案例</h1><div class="sub">逐个拆解的录取 / 意外拒绝 / 典型失败案例，适合新人培训与家长讲座</div></div></div>
+<div class="tabs"><a href="/library/cases" class="{{ 'on' if not ftrust }}">全部</a>{% for t in ['official','verified_source','sponsored','unsourced','simulated'] %}<a href="?trust={{ t }}" class="{{ 'on' if ftrust==t }}">{{ TRUST_LABEL[t] }}</a>{% endfor %}</div>
+<div class="card"><table class="t"><tr><th>编号</th><th>案例</th><th>结果类型</th><th>来源</th></tr>
+{% for c in rows %}<tr><td><code>{{ c.case_code }}</code></td><td><a href="/library/cases/{{ c.case_code }}">{{ c.title }}</a><div class="muted small">{{ (c.source_type or '')[:70] }}</div></td>
+<td class="small">{{ {'strong_admit':'强录取','surprise_reject':'意外拒绝','typical_fail':'典型失败','borderline':'边缘','simulated':'模拟'}[c.outcome] }}</td><td>{{ trust(c.trust) }}</td></tr>{% endfor %}</table></div>
+<p class="muted small">「赞助内容」指 Harvard Crimson 商业 / 赞助专题，不代表哈佛招生办官方背书；「官方来源」指学校招生办公开发布的 Essays That Worked。</p>
+{% endblock %}

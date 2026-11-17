@@ -1,0 +1,23 @@
+{
+  "eval_id": 3,
+  "eval_name": "bayesian-covid-shallow",
+  "prompt": "我在考虑写关于贝叶斯统计在COVID-19检测中的应用，比较贝叶斯和频率论哪个更适用",
+  "assertions": [
+    {
+      "text": "识别RQ有问题——'哪个更适用'不是可量化的数学结论",
+      "type": "qualitative"
+    },
+    {
+      "text": "指出数学深度不足（贝叶斯定理是IB课程内容，套公式不够）",
+      "type": "qualitative"
+    },
+    {
+      "text": "给出具体加深数学深度的建议（如Beta分布先验、ROC分析、灵敏度分析等）",
+      "type": "qualitative"
+    },
+    {
+      "text": "指出当前结构是展示/比较而非真正的数学探究（Criterion C风险）",
+      "type": "qualitative"
+    }
+  ]
+}

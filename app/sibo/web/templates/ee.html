@@ -1,0 +1,26 @@
+{% extends "base.html" %}{% from "_macros.html" import status %}
+{% block title %}IB 数学 EE 评审{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>IB 数学 EE 评审</h1><div class="sub">对照真实 A / B / C 级 EE 与 IB 评分标准，诊断研究问题、数学深度与批判性分析</div></div></div>
+{% if not ai_ready %}<div class="notice warn">尚未配置 API Key，暂时无法提交评审。</div>{% endif %}
+<div class="split"><div>
+{% if user.role != 'viewer' %}
+<form class="card" method="post" action="/ee/review" enctype="multipart/form-data">
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <div class="grid g3">
+    <div class="field"><label>材料阶段</label><select name="stage"><option>研究问题 / 选题</option><option selected>提纲</option><option>初稿</option><option>终稿</option></select></div>
+    <div class="field"><label>关联学生 <span class="hint">可选</span></label><select name="student_id"><option value="">—</option>{% for s in students %}<option value="{{ s.id }}">{{ s.code }} {{ s.name }}</option>{% endfor %}</select></div>
+    <div class="field"><label>标题 <span class="hint">可选</span></label><input type="text" name="label" placeholder="如：Fourier 去噪 EE 提纲"></div>
+  </div>
+  <div class="field"><label>粘贴内容 <span class="hint">研究问题 + 提纲 / 正文；英文中文均可</span></label><textarea name="draft" rows="12" placeholder="Research Question: To what extent ...&#10;&#10;1. Introduction ...&#10;2. Background theory ..."></textarea></div>
+  <div class="field"><label>或上传文件 <span class="hint">PDF / DOCX / TXT，≤ 20MB。PDF 里的数学公式常常提取成乱码，公式多的话建议直接粘贴（LaTeX 亦可）；扫描件无法读取</span></label><input type="file" name="file" accept=".pdf,.docx,.txt,.md"></div>
+  <button class="btn primary" {{ 'disabled' if not ai_ready }}>提交评审</button>
+</form>{% endif %}
+<div class="card"><h2>最近评审</h2>
+{% if reports %}<table class="t">{% for r in reports %}<tr><td><a href="/reports/{{ r.id }}">{{ r.title }}</a><div class="muted small">{{ r.author or '' }} · {{ r.created_at[:16] }}</div></td><td>{{ status(r.status) }}</td></tr>{% endfor %}</table>{% else %}<div class="empty">暂无</div>{% endif %}</div>
+</div><div>
+<div class="card"><h3>样本库（{{ samples|length }} 篇）</h3>
+<div class="small stack" style="max-height:640px;overflow-y:auto">{% for s in samples %}<div><span class="b {{ 'ok' if s.grade=='A' else ('warn' if s.grade=='B' else 'bad') }}">{{ s.grade }}</span> <a href="/ee/samples/{{ s.id }}">{{ s.title[:90] }}</a> <span class="muted">{{ s.session or '' }}</span></div>{% endfor %}</div>
+<p class="muted small" style="margin-top:10px">样本为节选（引言 + 结论 / 参考文献），评审结论为非官方参考。</p></div>
+</div></div>
+{% endblock %}

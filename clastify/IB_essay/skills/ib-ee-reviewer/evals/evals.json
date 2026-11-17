@@ -1,0 +1,23 @@
+{
+  "skill_name": "ib-ee-reviewer",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "你看一下我的EE outline，这个选题和方向是不是有点过于简单了？\n\nTitle: Finite-State Difference Constraints and Smoothness in Discrete Time Functions\nResearch Question: How does restricting the first differences of a discrete time function to a finite set affect its smoothness and stability?\n\nOutline:\n1. Introduction: define discrete time functions y₁, y₂, ..., yₜ; explain smoothness; present RQ.\n2. Mathematical background: first difference Δyₜ = yₜ − yₜ₋₁; second difference Δ²yₜ = Δyₜ − Δyₜ₋₁.\n3. Finite-state constraint: S = {−a, 0, a}; penalty L_FS = Σ min[(Δyₜ − sᵢ)²].\n4. Smoothness measure: O = (1/(T−2)) Σ |Δ²yₜ|; compare constrained vs unconstrained.\n5. Boundary analysis of a: what happens when a=0, a too small, a too large.\n6. Numerical investigation: test a=3, a=6, a=12 on constructed sequences; may use gas turbine dataset as illustration.\n7. Conclusion: does restricting differences improve smoothness? Effectiveness depends on suitable a.\n\nLimitation: Only measures stability via smoothness; S={−a,0,a} is simplified; real dataset used only as illustration.\n\nReference: Bielski et al. (2024), ACM e-Energy.",
+      "expected_output": "A structured critique identifying that the math is too basic (only differences and absolute values, nothing beyond IB level), that the conclusion is somewhat tautological, that there's no method comparison, and that the real data is wasted. Should give specific suggestions to deepen the math (e.g., derive optimal a analytically, compare to HP filter) and concrete next steps.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "帮我看看这个EE方向能不能拿A？我想研究Lotka-Volterra方程来模拟狮子和角马在马赛马拉的种群动态，用实际的野生动物普查数据来验证模型。打算对比一下基本的Lotka-Volterra和加了环境承载力（logistic growth）的改进版本，用Jacobian矩阵分析平衡点稳定性，可能还会加Runge-Kutta数值方法来求解非线性部分。字数目标4000词，参考文献用Murray的Mathematical Biology教材。",
+      "expected_output": "Positive assessment recognizing this has A-grade potential: Lotka-Volterra + Jacobian stability + RK4 + real data comparison + two-model contrast. Should validate the strong elements while flagging things to watch (e.g., ensure data is actually available, make sure the personal motivation is clear, RQ needs sharper focus).",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "我在考虑写关于贝叶斯统计在医疗诊断中的应用，研究问题是：贝叶斯定理和频率论统计在COVID-19检测准确率分析中哪个更适用？主要内容包括介绍两种统计方法，然后用COVID PCR测试的灵敏度和特异性数据分别用两种方法计算，最后比较结果。感觉内容挺充实的，你觉得怎么样？",
+      "expected_output": "Mixed assessment: the comparison structure is good (Criterion C potential), but the math stays too basic (Bayes' theorem is IB-level), the RQ is ambiguous ('more suitable' is not a quantifiable answer), and 4000 words on just applying Bayes' theorem to one dataset will struggle for depth. Should suggest deepening the math (e.g., beta distributions as priors, updating posteriors sequentially, ROC curve analysis) and sharpening the RQ to something more specific and quantifiable.",
+      "files": []
+    }
+  ]
+}

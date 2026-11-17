@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}申请者画像{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>申请者画像</h1><div class="sub">真实申请者的标化、活动与多校录取 / 拒绝结果 · 当前 {{ rows|length }} 人</div></div></div>
+<div class="notice info small">样本以美国本土与其他国际生为主（中国大陆样本很少），适合作为「同专业录取者活动结构」的参照，不宜直接套用为中国学生的录取标准。</div>
+<form class="card filters" method="get">
+  <div class="field" style="flex:2;min-width:200px"><label>关键词 <span class="hint">专业 / 活动</span></label><input type="search" name="q" value="{{ f.q }}" placeholder="如：research / debate / startup"></div>
+  <div class="field"><label>专业大类</label><select name="mg"><option value="">全部</option>{% for k, v in MAJOR_GROUPS.items() %}<option value="{{ k }}" {{ 'selected' if f.mg==k }}>{{ v }}</option>{% endfor %}</select></div>
+  <div class="field"><label>学校</label><select name="school"><option value="">全部</option>{% for sc in schools %}<option value="{{ sc.slug }}" {{ 'selected' if f.school==sc.slug }}>{{ sc.name_zh }}</option>{% endfor %}</select></div>
+  <div class="field"><label>该校结果</label><select name="result"><option value="">任意</option><option value="accepted" {{ 'selected' if f.result=='accepted' }}>录取</option><option value="rejected" {{ 'selected' if f.result=='rejected' }}>拒绝</option><option value="waitlisted" {{ 'selected' if f.result=='waitlisted' }}>候补</option></select></div>
+  <div class="field"><label>生源</label><select name="intl"><option value="">全部</option><option value="1" {{ 'selected' if f.intl=='1' }}>国际生</option><option value="0" {{ 'selected' if f.intl=='0' }}>美国本土</option></select></div>
+  <div class="field" style="min-width:100px"><label>SAT ≥</label><input type="number" name="sat_min" value="{{ f.sat_min }}" step="10" min="0" max="1600"></div>
+  <button class="btn primary">筛选</button>
+</form>
+<div class="card">
+<table class="t"><tr><th>画像</th><th>国家 / 学校类型</th><th>专业</th><th>SAT / ACT</th><th>GPA</th><th>顶校录取</th><th>录 / 拒</th></tr>
+{% for a in rows %}<tr><td><a href="/library/applicants/{{ a.id }}"><code>{{ a.id[:8] }}</code></a><div class="muted small">{{ a.application_year or '' }}</div></td>
+<td>{{ a.country or '—' }}<div class="muted small">{{ a.high_school_type or '' }}</div></td>
+<td class="small">{{ a.major or '—' }}</td><td class="num">{{ a.sat_total or '' }}{% if a.act_composite %} ACT {{ a.act_composite }}{% endif %}</td><td class="num">{{ a.gpa_uw or '—' }}</td>
+<td class="small">{{ (tops.get(a.id) or [])[:3]|join('、') or '—' }}{% if (tops.get(a.id) or [])|length > 3 %} 等{% endif %}</td><td class="num">{{ a.n_accepted }} / {{ a.n_rejected }}</td></tr>
+{% else %}<tr><td colspan="7" class="empty">没有符合条件的画像</td></tr>{% endfor %}</table>
+</div>
+{% endblock %}

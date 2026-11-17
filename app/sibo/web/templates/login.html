@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>登录 · {{ PRODUCT }}</title><link rel="stylesheet" href="/static/app.css"></head>
+<body>
+<div class="auth-wrap">
+  <form class="auth-card" method="post" action="/login">
+    <div class="row" style="margin-bottom:18px"><div class="mark" style="width:40px;height:40px;border-radius:9px;background:var(--accent);color:#fff;display:grid;place-items:center;font-weight:800;font-size:19px">思</div>
+      <div><div style="font-weight:700;font-size:17px">{{ PRODUCT }}</div><div class="muted small">升学机构的申请策略系统</div></div></div>
+    {% if error %}<div class="notice bad">{{ error }}</div>{% endif %}
+    <input type="hidden" name="csrf" value="{{ csrf }}"><input type="hidden" name="next" value="{{ next }}">
+    <div class="field"><label>邮箱</label><input type="email" name="email" required autofocus></div>
+    <div class="field"><label>密码</label><input type="password" name="password" required></div>
+    <button class="btn primary" style="width:100%;padding:10px">登录</button>
+    <p class="muted small" style="margin-top:14px;text-align:center">账号由机构管理员邀请开通</p>
+  </form>
+</div>
+</body></html>

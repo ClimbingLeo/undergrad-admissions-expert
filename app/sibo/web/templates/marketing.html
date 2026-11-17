@@ -1,0 +1,25 @@
+{% extends "base.html" %}{% from "_macros.html" import trust, status %}
+{% block title %}获客内容{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>获客内容生成</h1><div class="sub">把真实案例转成家长讲座提纲、公众号长文、朋友圈文案。只使用你勾选的素材，不编造案例。</div></div></div>
+{% if not ai_ready %}<div class="notice warn">尚未配置 API Key，暂时无法生成。</div>{% endif %}
+<div class="split"><div>
+{% if user.role != 'viewer' %}
+<form class="card" method="post">
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <div class="field"><label>主题</label><input type="text" name="topic" required placeholder="如：同样 1550 分，为什么有人进藤校有人全拒？"></div>
+  <div class="grid g3">
+    <div class="field"><label>受众</label><select name="audience"><option>G9–G10 学生家长</option><option selected>G11 学生家长</option><option>G12 申请季家庭</option><option>机构新入职顾问</option></select></div>
+    <div class="field"><label>形式</label><select name="fmt"><option selected>公众号长文</option><option>家长讲座提纲（含 PPT 页标题）</option><option>朋友圈 / 小红书短文（3 条）</option><option>案例拆解海报文案</option></select></div>
+    <div class="field"><label>篇幅</label><select name="length"><option>800 字左右</option><option selected>2000 字左右</option><option>3500 字左右</option></select></div>
+  </div>
+  <div class="field"><label>选择案例 <span class="hint">至少 1 个；已自动排除模拟画像</span></label>
+    <div class="checks">{% for c in cases %}<label><input type="checkbox" name="case_codes" value="{{ c.case_code }}"><span>{{ c.title[:40] }} {{ trust(c.trust) }}</span></label>{% endfor %}</div></div>
+  <div class="field"><label>补充文书 ID <span class="hint">可选：从文书库复制网址或 ID，多个用空格分隔</span></label><input type="text" name="essay_ids" placeholder="66342a8300ae203db96d0638 ..."></div>
+  <button class="btn primary" {{ 'disabled' if not ai_ready }}>生成内容</button>
+</form>{% endif %}
+</div><div>
+<div class="card"><h3>最近生成</h3>{% if reports %}<div class="small stack">{% for r in reports %}<div class="row between"><a href="/reports/{{ r.id }}">{{ r.title }}</a>{{ status(r.status) }}</div>{% endfor %}</div>{% else %}<p class="muted small">暂无</p>{% endif %}</div>
+<div class="card small ink2"><b>合规提示</b><br>对外发布时：不承诺录取结果；引用文书原文单处不超过 15 个英文单词；不公开申请者可识别信息；「赞助内容」类案例请注明来源属性。</div>
+</div></div>
+{% endblock %}

@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}EE 样本{% endblock %}
+{% block content %}
+<div class="crumbs"><a href="/ee">IB 数学 EE</a> / 样本</div>
+<div class="topbar"><div><h1>{{ r.title }}</h1><div class="row"><span class="b {{ 'ok' if r.grade=='A' else ('warn' if r.grade=='B' else 'bad') }}">Grade {{ r.grade }}</span><span class="muted small">{{ r.session or '' }} · {{ r.total_pages or '?' }} 页{% if r.strong_aspects %} · 优势：{{ r.strong_aspects }}{% endif %}</span>
+{% if r.url %}<a class="small" href="{{ r.url }}" target="_blank" rel="noopener">Clastify ↗</a>{% endif %}</div></div></div>
+<div class="card"><div class="prose" style="white-space:pre-wrap;font-size:14px">{{ r.excerpt }}</div></div>
+{% endblock %}

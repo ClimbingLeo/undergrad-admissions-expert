@@ -1,0 +1,27 @@
+{
+  "eval_id": 1,
+  "eval_name": "finite-state-too-simple",
+  "prompt": "你看一下我的EE outline，这个选题和方向是不是有点过于简单了？（有限状态差分约束）",
+  "assertions": [
+    {
+      "text": "明确指出数学深度不足（差分和绝对值运算停留在IB课程以下）",
+      "type": "qualitative"
+    },
+    {
+      "text": "识别出结论有循环论证风险（约束差分当然使函数更平滑）",
+      "type": "qualitative"
+    },
+    {
+      "text": "指出缺乏方法比较（只测试a=3,6,12而非推导最优a）",
+      "type": "qualitative"
+    },
+    {
+      "text": "给出至少一个具体可执行的改进建议（不是泛泛说'加深数学'）",
+      "type": "qualitative"
+    },
+    {
+      "text": "提到真实数据被浪费/只作为illustration的问题",
+      "type": "qualitative"
+    }
+  ]
+}

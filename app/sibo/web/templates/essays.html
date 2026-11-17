@@ -1,0 +1,26 @@
+{% extends "base.html" %}{% from "_macros.html" import result %}
+{% block title %}文书库{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>文书库</h1><div class="sub">真实录取 / 未录取文书全文，可按学校、题目、结果筛选，支持中英文全文检索</div></div></div>
+<form class="card filters" method="get">
+  <div class="field" style="flex:2;min-width:220px"><label>全文检索</label><input type="search" name="q" value="{{ f.q }}" placeholder="如：grandmother / robotics / immigrant"></div>
+  <div class="field"><label>类型</label><select name="kind"><option value="">全部</option><option value="common_app" {{ 'selected' if f.kind=='common_app' }}>Common App 主文书</option><option value="supplement" {{ 'selected' if f.kind=='supplement' }}>补充文书</option></select></div>
+  <div class="field"><label>学校</label><select name="school"><option value="">全部</option>{% for sc in schools if sc.n_supp %}<option value="{{ sc.slug }}" {{ 'selected' if f.school==sc.slug }}>{{ sc.name_zh }}</option>{% endfor %}</select></div>
+  <div class="field"><label>结果</label><select name="result"><option value="">全部</option><option value="accepted" {{ 'selected' if f.result=='accepted' }}>录取</option><option value="rejected" {{ 'selected' if f.result=='rejected' }}>未录取</option></select></div>
+  {% if prompts %}<div class="field" style="flex:2"><label>题目</label><select name="prompt"><option value="">全部题目</option>{% for p in prompts %}<option value="{{ p.prompt_text }}" {{ 'selected' if f.prompt==p.prompt_text }}>{{ p.prompt_text[:60] }}…（{{ p.n }}）</option>{% endfor %}</select></div>{% endif %}
+  <button class="btn primary">筛选</button>{% if f.q or f.kind or f.school or f.result %}<a class="btn" href="/library/essays">清除</a>{% endif %}
+</form>
+<div class="card">
+<p class="muted small">共 {{ total }} 篇{% if f.q and total == 0 %}（检索词至少 3 个字符）{% endif %}</p>
+{% for e in rows %}
+<div style="padding:12px 0;border-bottom:1px solid var(--line)">
+  <div class="row"><a href="/library/essays/{{ e.id }}"><b>{{ e.title or (e.prompt_text or '')[:80] }}</b></a>{{ result(e.result) }}
+    <span class="b">{{ 'Common App' if e.kind == 'common_app' else (e.name_zh or e.school_slug) }}</span>{% if e.major %}<span class="muted small">{{ e.major }}</span>{% endif %}<span class="muted small">{{ e.word_count }} 词 · {{ e.year or '' }}</span></div>
+  <div class="preview" style="margin-top:4px">{{ e.preview }}</div>
+</div>{% else %}<div class="empty">没有符合条件的文书</div>{% endfor %}
+{% set pages = ((total + per - 1) // per) %}
+{% if pages > 1 %}<div class="pager">{% if page_no > 1 %}<a class="btn sm" href="?{{ base_qs }}&page_no={{ page_no - 1 }}">← 上一页</a>{% endif %}
+<span class="muted small" style="align-self:center">第 {{ page_no }} / {{ pages }} 页</span>
+{% if page_no < pages %}<a class="btn sm" href="?{{ base_qs }}&page_no={{ page_no + 1 }}">下一页 →</a>{% endif %}</div>{% endif %}
+</div>
+{% endblock %}

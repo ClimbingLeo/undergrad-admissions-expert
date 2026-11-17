@@ -1,0 +1,23 @@
+{
+  "eval_id": 2,
+  "eval_name": "lotka-volterra-a-potential",
+  "prompt": "帮我看看这个EE方向能不能拿A？（Lotka-Volterra + Jacobian + RK4 + 真实数据）",
+  "assertions": [
+    {
+      "text": "正确识别这是A级潜力选题（Lotka-Volterra + Jacobian + RK4 + 真实数据 + 模型对比）",
+      "type": "qualitative"
+    },
+    {
+      "text": "指出RQ需要更精确（不能只是'研究种群动态'，需要可量化结论）",
+      "type": "qualitative"
+    },
+    {
+      "text": "提醒数据可用性或实际验证方法需明确（RMSE或类似量化指标）",
+      "type": "qualitative"
+    },
+    {
+      "text": "没有夸大问题或给出过度负面评价（这是优秀outline，不应当作C级处理）",
+      "type": "qualitative"
+    }
+  ]
+}

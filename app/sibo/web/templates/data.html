@@ -1,0 +1,25 @@
+{% extends "base.html" %}{% from "_macros.html" import trust %}
+{% block title %}数据来源说明{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>数据来源与质量说明</h1><div class="sub">知识库更新于 {{ (ingested_at or '')[:16]|replace('T',' ') }}</div></div></div>
+<div class="grid g4">
+  <div class="card stat"><div class="n">{{ stats.get('applicants',0) }}</div><div class="l">申请者画像</div></div>
+  <div class="card stat"><div class="n">{{ stats.get('common_app_essays',0) }}</div><div class="l">Common App 主文书</div></div>
+  <div class="card stat"><div class="n">{{ stats.get('supplement_essays',0) }}</div><div class="l">补充文书（去重后）</div></div>
+  <div class="card stat"><div class="n">{{ stats.get('ee_samples.A',0) + stats.get('ee_samples.B',0) + stats.get('ee_samples.C',0) }}</div><div class="l">IB 数学 EE 样本</div></div>
+</div>
+<div class="grid g2">
+<div class="card"><h2>学校画像段落可信度</h2><table class="t">{% for t in trust_rows %}<tr><td>{{ trust(t.trust) }}</td><td class="num">{{ t.n }}</td></tr>{% endfor %}</table>
+<p class="small ink2" style="margin-top:10px">学校画像由人工 + AI 整理。只有附带公开链接的段落标为「已溯源」。画像中所有「案例」小节经抽查为综合或虚构人物，统一标为「示例画像」：保留作教学说明，但不进入 AI 检索、不得对外当作真实案例。</p></div>
+<div class="card"><h2>深度案例可信度</h2><table class="t">{% for t in ctrust %}<tr><td>{{ trust(t.trust) }}</td><td class="num">{{ t.n }}</td></tr>{% endfor %}</table></div>
+<div class="card"><h2>申请者画像构成</h2><p class="small muted">国家</p><table class="t">{% for c in countries %}<tr><td>{{ c.country or '未知' }}</td><td class="num">{{ c.n }}</td></tr>{% endfor %}</table>
+<p class="small muted" style="margin-top:10px">申请季</p><table class="t">{% for y in years %}<tr><td>{{ y.y or '未知' }}</td><td class="num">{{ y.n }}</td></tr>{% endfor %}</table></div>
+<div class="card"><h2>来源与使用边界</h2><ul class="small ink2">
+<li><b>申请者画像 / 文书全文</b>：Clastify.com 公开页面与付费账号可见内容，含录取结果；仅供机构内部研究，不得对外传播或用于代写。</li>
+<li><b>深度案例</b>：JHU Essays That Worked（官方）、Harvard Crimson 赞助专题、学生公开博客与新闻报道。</li>
+<li><b>IB EE</b>：Clastify 公开样本节选（前 5 页 + 后 3 页），等级为平台标注。</li>
+<li><b>学校数据</b>：以各校官网、Common Data Set 为准；系统中标注「数据待核实」的数字须核实后再对外使用。</li>
+<li>AI 输出不含录取概率；所有案例引用都可点击回溯。</li></ul>
+{% if warnings %}<p class="small muted">入库提示：{{ warnings|join('；') }}</p>{% endif %}</div>
+</div>
+{% endblock %}

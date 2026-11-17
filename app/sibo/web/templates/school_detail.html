@@ -1,0 +1,33 @@
+{% extends "base.html" %}{% from "_macros.html" import trust, result %}
+{% block title %}{{ s.name_zh or s.name_en }}{% endblock %}
+{% block content %}
+<div class="crumbs"><a href="/library/schools">学校画像</a> / {{ s.name_zh or s.name_en }}</div>
+<div class="topbar"><div><h1>{{ s.name_zh or s.name_en }}</h1><div class="sub">{{ s.name_en }}</div></div>
+<a class="btn" href="/library/compare?s={{ s.slug }}">⇄ 与其他学校对比</a></div>
+<div class="tabs"><a href="#profile" class="on">画像</a><a href="#prompts">补充文书（{{ prompts|length }} 题）</a><a href="#applicants">申请者结果（{{ decisions|length }}）</a></div>
+<div id="profile">
+{% if sections %}
+<div class="notice info small">可信度标签：{{ trust('verified_source') }} 段内有公开出处链接　{{ trust('unsourced') }} 未附出处，对外引用前需核实　{{ trust('composite') }} 为综合 / 虚构的示例人物，仅作教学说明，<b>不得当作真实案例对外引用</b>，AI 也不会引用。</div>
+{% for sec in sections %}
+<details class="card sec section-{{ sec.trust }}" id="sec-{{ sec.ord }}" {{ 'open' if sec.section_type in ('data','academic','hooks') and sec.trust != 'composite' }}>
+  <summary><h3>{{ sec.heading }}</h3>{{ trust(sec.trust) }}</summary>
+  {% if sec.trust == 'composite' %}<div class="notice bad small">以下为示例画像（非真实案例）：人物与细节经综合 / 虚构，仅用于说明申请逻辑。</div>{% endif %}
+  <div class="prose">{{ sec.body_md|md|safe }}</div>
+</details>{% endfor %}
+{% else %}<div class="card empty">该校深度画像建设中。可先参考下方的补充文书样本与申请者结果。</div>{% endif %}
+</div>
+<div class="card" id="prompts"><h2>补充文书题目与样本</h2>
+{% if prompts %}<table class="t"><tr><th>题目</th><th>字数</th><th>录取</th><th>未录取</th><th></th></tr>
+{% for p in prompts %}<tr><td class="small">{{ p.prompt_text[:180] }}{{ '…' if p.prompt_text|length > 180 }}</td><td class="num">{{ p.word_limit or '—' }}</td><td class="num">{{ p.n_acc }}</td><td class="num">{{ p.n_rej }}</td>
+<td><a class="btn sm" href="/library/essays?school={{ s.slug }}&prompt={{ p.prompt_text|urlencode }}">查看样本</a></td></tr>{% endfor %}</table>
+{% else %}<p class="muted">暂无该校补充文书样本。</p>{% endif %}
+{% if guides %}<details style="margin-top:12px"><summary class="btn sm">查看写作指南（{{ guides|length }} 节）</summary><div class="prose" style="margin-top:10px">{% for g in guides %}{{ g.body_md|md|safe }}{% endfor %}</div></details>{% endif %}
+{% if ca %}<h3 style="margin-top:16px">相关 Common App 主文书</h3><div class="small stack">{% for e in ca %}<div><a href="/library/essays/{{ e.id }}">{{ e.title }}</a> {{ result(e.result) }}</div>{% endfor %}</div>{% endif %}
+</div>
+<div class="card" id="applicants"><h2>申请者结果</h2>
+<p class="muted small">来自 Clastify 公开申请者画像（以美国本土与其他国际生为主），可作为能力结构参照。</p>
+{% if decisions %}<table class="t"><tr><th>结果</th><th>画像</th><th>国家</th><th>专业</th><th>SAT</th><th>GPA</th></tr>
+{% for d in decisions %}<tr><td>{{ result(d.result) }}</td><td><a href="/library/applicants/{{ d.id }}"><code>{{ d.id[:8] }}</code></a></td><td>{{ d.country or '—' }}</td><td class="small">{{ d.major or '—' }}</td><td class="num">{{ d.sat_total or '—' }}</td><td class="num">{{ d.gpa_uw or '—' }}</td></tr>{% endfor %}</table>
+{% else %}<p class="muted">暂无该校申请者结果。</p>{% endif %}
+</div>
+{% endblock %}

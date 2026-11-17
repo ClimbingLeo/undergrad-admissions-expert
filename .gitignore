@@ -1,0 +1,5 @@
+.DS_Store
+**/.DS_Store
+.env
+**/.env
+clastify/commonapp_applicant_persona/scrape_cache/

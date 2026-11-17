@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}学生档案{% endblock %}
+{% block content %}
+<div class="topbar"><div><h1>学生档案</h1><div class="sub">{% if user.role == 'consultant' %}仅显示你负责的学生{% else %}机构全部学生{% endif %} · 共 {{ students|length }} 位</div></div>
+{% if user.role != 'viewer' %}<a class="btn primary" href="/students/new">＋ 新建学生档案</a>{% endif %}</div>
+<div class="card">
+{% if students %}
+<table class="t"><tr><th>代号</th><th>姓名</th><th>年级 / 课程</th><th>意向专业</th><th>目标学校</th><th>报告数</th><th>更新时间</th></tr>
+{% for s in students %}<tr>
+  <td><code>{{ s.code }}</code></td><td><a href="/students/{{ s.id }}"><b>{{ s.name }}</b></a></td>
+  <td>{{ s.grade_level or '—' }}<div class="muted small">{{ s.curriculum or '' }}</div></td>
+  <td>{{ s.intended_major or '—' }}<div class="muted small">{{ MAJOR_GROUPS.get(s.major_group, '') }}</div></td>
+  <td class="small">{{ (s.target_schools|fromjson)|length }} 所</td>
+  <td class="num">{{ counts.get(s.id, 0) }}</td><td class="muted small">{{ s.updated_at[:16] }}</td></tr>{% endfor %}
+</table>
+{% else %}<div class="empty">还没有学生档案{% if user.role != 'viewer' %}，<a href="/students/new">现在创建</a>{% endif %}。</div>{% endif %}
+</div>
+<p class="muted small">提示：系统在调用 AI 时只使用学生代号（如 S001），真实姓名不会发送给模型服务商。</p>
+{% endblock %}

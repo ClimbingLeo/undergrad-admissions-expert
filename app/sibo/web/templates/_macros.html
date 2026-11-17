@@ -1,0 +1,13 @@
+{% macro trust(t) -%}<span class="b trust-{{ t }}">{{ TRUST_LABEL.get(t, t) }}</span>{%- endmacro %}
+{% macro result(r) -%}
+{%- if r == 'accepted' -%}<span class="b ok">录取</span>
+{%- elif r == 'rejected' -%}<span class="b bad">未录取</span>
+{%- elif r == 'waitlisted' -%}<span class="b warn">候补</span>
+{%- else -%}<span class="b">未知</span>{%- endif -%}
+{%- endmacro %}
+{% macro status(s) -%}
+{%- if s == 'done' -%}<span class="b ok">已完成</span>
+{%- elif s == 'pending' -%}<span class="b info"><span class="live-dot"></span> 生成中</span>
+{%- else -%}<span class="b bad">失败</span>{%- endif -%}
+{%- endmacro %}
+{% macro school_label(row) -%}{{ row.name_zh or row.name_en or row.slug }}{%- endmacro %}

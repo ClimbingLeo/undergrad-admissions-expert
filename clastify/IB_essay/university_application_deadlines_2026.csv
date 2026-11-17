@@ -1,0 +1,403 @@
+School_Name,Country_Region,Ranking_System,Ranking,Round_Type,Deadline,Binding,Notes
+University of Oxford,UK,QS,4,UCAS-Early,2025-10-15,No,Oxford/Cambridge early UCAS deadline 18:00 UK time; all courses
+University of Cambridge,UK,QS,6,UCAS-Early,2025-10-15,No,Oxford/Cambridge early UCAS deadline 18:00 UK time; all courses
+Imperial College London,UK,QS,2,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+UCL,UK,QS,9,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Edinburgh,UK,QS,34,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Manchester,UK,QS,35,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+King's College London,UK,QS,31,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+LSE,UK,QS,56,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Warwick,UK,QS,74,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Bristol,UK,QS,51,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Glasgow,UK,QS,79,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Birmingham,UK,QS,76,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Sheffield,UK,QS,92,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Exeter,UK,QS,155,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+Durham University,UK,QS,94,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of St Andrews,UK,QS,113,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Southampton,UK,QS,87,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Nottingham,UK,QS,97,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+University of Leeds,UK,QS,86,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+Queen Mary University of London,UK,QS,110,UCAS-Main,2026-01-14,No,Equal consideration deadline 18:00 UK time
+HKU (University of Hong Kong),Hong Kong,QS,11,Early Round,2026-01-02,No,Noon HKT; priority review; interviews Nov-Jan
+HKU (University of Hong Kong),Hong Kong,QS,11,Rolling,2026-05-27,No,Rolling basis after Jan 2 early round closes
+HKUST,Hong Kong,QS,44,Main Round,2026-01-08,No,Primary consideration round for international qualifications
+HKUST,Hong Kong,QS,44,Late Round,2026-06-30,No,Rolling basis after main round; subject to availability
+CUHK (Chinese University of Hong Kong),Hong Kong,QS,32,Advance Offer,2025-11-13,No,Applications open Oct 2 2025; priority review round
+CUHK (Chinese University of Hong Kong),Hong Kong,QS,32,Regular Round,2026-01-08,No,Equal consideration for international qualifications
+CUHK (Chinese University of Hong Kong),Hong Kong,QS,32,Extended,2026-05-29,No,Late applications considered subject to availability
+PolyU (Hong Kong Polytechnic University),Hong Kong,QS,54,Early Round,2025-11-19,No,Priority review for early applicants
+PolyU (Hong Kong Polytechnic University),Hong Kong,QS,54,Main Round,2026-02-05,No,Primary international qualifications deadline
+PolyU (Hong Kong Polytechnic University),Hong Kong,QS,54,Late Applications,2026-05-15,No,Subject to study places availability
+CityU (City University of Hong Kong),Hong Kong,QS,63,Rolling,2026-03-31,No,Applications processed rolling basis; apply as early as possible
+HKBU (Hong Kong Baptist University),Hong Kong,QS,244,Main Round,2026-01-04,No,Application period Oct 2 2025 - Jan 4 2026; early offers from Dec 2025
+Lingnan University,Hong Kong,QS,701+,Main Round,2026-02-28,No,Opens Oct 9 2025; rolling basis
+Lingnan University,Hong Kong,QS,701+,Final Round,2026-06-30,No,Last date for international qualifications
+EdUHK (Education University of Hong Kong),Hong Kong,QS,530,Rolling,2026-05-18,No,Rolling basis until May 18; offers through July 2026
+NUS (National University of Singapore),Singapore,QS,8,International Qualifications,2026-02-23,No,Application window opens Dec 3 2025; IB / A-levels / international diplomas
+NTU (Nanyang Technological University),Singapore,QS,12,International Qualifications,2026-02-23,No,Applies to IB and overseas diplomas; accept offers by May 25 2026
+NUS (National University of Singapore),Singapore,QS,8,Singapore A-Level,2026-03-19,No,Separate stream for Singapore-Cambridge A-level holders; portal opens Feb 27 2026
+NTU (Nanyang Technological University),Singapore,QS,12,Singapore A-Level,2026-03-19,No,Separate stream for Singapore-Cambridge A-level holders
+Harvard University,USA,US News,3,REA,2025-11-01,No,Restrictive Early Action; cannot apply EA/ED to other private schools
+Harvard University,USA,US News,3,RD,2026-01-01,NA,Regular Decision
+Princeton University,USA,US News,1,REA,2025-11-01,No,Restrictive Early Action; cannot apply EA/ED to other private schools
+Princeton University,USA,US News,1,RD,2026-01-01,NA,Regular Decision
+MIT,USA,US News,2,REA,2025-11-01,No,Restrictive Early Action; cannot apply EA/ED elsewhere
+MIT,USA,US News,2,RD,2026-01-01,NA,Regular Decision
+Yale University,USA,US News,5,REA,2025-11-01,No,Single-Choice Early Action (SCEA); cannot apply EA/ED elsewhere
+Yale University,USA,US News,5,RD,2026-01-02,NA,Regular Decision
+Stanford University,USA,US News,3,REA,2025-11-01,No,Restrictive Early Action; cannot apply EA/ED to other private schools
+Stanford University,USA,US News,3,RD,2026-01-05,NA,Regular Decision
+Columbia University,USA,US News,12,ED,2025-11-01,Yes,Early Decision I (binding)
+Columbia University,USA,US News,12,ED2,2026-01-01,Yes,Early Decision II (binding)
+Columbia University,USA,US News,12,RD,2026-01-01,NA,Regular Decision
+University of Pennsylvania,USA,US News,7,ED,2025-11-01,Yes,Early Decision (binding)
+University of Pennsylvania,USA,US News,7,RD,2026-01-05,NA,Regular Decision
+Brown University,USA,US News,9,ED,2025-11-01,Yes,Early Decision (binding)
+Brown University,USA,US News,9,RD,2026-01-05,NA,Regular Decision
+Dartmouth College,USA,US News,13,ED,2025-11-01,Yes,Early Decision (binding)
+Dartmouth College,USA,US News,13,RD,2026-01-01,NA,Regular Decision
+Cornell University,USA,US News,13,ED,2025-11-01,Yes,Early Decision (binding)
+Cornell University,USA,US News,13,RD,2026-01-02,NA,Regular Decision
+Duke University,USA,US News,7,ED,2025-11-01,Yes,Early Decision (binding)
+Duke University,USA,US News,7,RD,2026-01-05,NA,Regular Decision
+Northwestern University,USA,US News,9,ED,2025-11-01,Yes,Early Decision (binding)
+Northwestern University,USA,US News,9,RD,2026-01-02,NA,Regular Decision
+Johns Hopkins University,USA,US News,9,ED,2025-11-01,Yes,Early Decision (binding)
+Johns Hopkins University,USA,US News,9,RD,2026-01-02,NA,Regular Decision
+Notre Dame University,USA,US News,20,REA,2025-11-01,No,Restrictive Early Action; cannot apply EA/ED to other private schools
+Notre Dame University,USA,US News,20,RD,2026-01-02,NA,Regular Decision
+Vanderbilt University,USA,US News,17,ED,2025-11-01,Yes,Early Decision I (binding)
+Vanderbilt University,USA,US News,17,ED2,2026-01-01,Yes,Early Decision II (binding)
+Vanderbilt University,USA,US News,17,RD,2026-01-01,NA,Regular Decision
+Rice University,USA,US News,17,ED,2025-11-01,Yes,Early Decision (binding)
+Rice University,USA,US News,17,RD,2026-01-04,NA,Regular Decision
+Washington University in St. Louis,USA,US News,24,ED,2025-11-01,Yes,Early Decision I (binding)
+Washington University in St. Louis,USA,US News,24,ED2,2026-01-02,Yes,Early Decision II (binding)
+Washington University in St. Louis,USA,US News,24,RD,2026-01-02,NA,Regular Decision
+Emory University,USA,US News,24,ED,2025-11-01,Yes,Early Decision I (binding)
+Emory University,USA,US News,24,ED2,2026-01-01,Yes,Early Decision II (binding)
+Emory University,USA,US News,24,RD,2026-01-01,NA,Regular Decision
+Georgetown University,USA,US News,22,EA,2025-11-01,No,Early Action (non-binding)
+Georgetown University,USA,US News,22,RD,2026-01-10,NA,Regular Decision
+Carnegie Mellon University,USA,US News,22,ED,2025-11-03,Yes,Early Decision (binding); note Nov 3 not Nov 1
+Carnegie Mellon University,USA,US News,22,RD,2026-01-05,NA,Regular Decision
+Tufts University,USA,US News,29,ED,2025-11-03,Yes,Early Decision I (binding); note Nov 3 not Nov 1
+Tufts University,USA,US News,29,ED2,2026-01-05,Yes,Early Decision II (binding)
+Tufts University,USA,US News,29,RD,2026-01-05,NA,Regular Decision
+University of Michigan,USA,US News,27,EA,2025-11-01,No,Early Action (non-binding)
+University of Michigan,USA,US News,27,RD,2026-02-01,NA,Regular Decision
+University of Virginia,USA,US News,26,ED,2025-11-01,Yes,Early Decision (binding)
+University of Virginia,USA,US News,26,EA,2025-11-01,No,Early Action (non-binding); UVA offers both ED and EA
+University of Virginia,USA,US News,26,RD,2026-01-05,NA,Regular Decision
+UNC Chapel Hill,USA,US News,29,EA,2025-10-15,No,Early Action (non-binding); October 15 deadline
+UNC Chapel Hill,USA,US News,29,RD,2026-01-15,NA,Regular Decision
+Wake Forest University,USA,US News,35,ED,2025-11-15,Yes,Early Decision I (binding); note Nov 15 not Nov 1
+Wake Forest University,USA,US News,35,ED2,2026-01-01,Yes,Early Decision II (binding)
+Wake Forest University,USA,US News,35,RD,2026-01-01,NA,Regular Decision
+NYU,USA,US News,35,ED,2025-11-01,Yes,Early Decision I (binding)
+NYU,USA,US News,35,ED2,2026-01-15,Yes,Early Decision II (binding)
+NYU,USA,US News,35,RD,2026-05-01,NA,Regular Decision (rolling)
+Boston College,USA,US News,35,ED,2025-11-01,Yes,Early Decision I (binding)
+Boston College,USA,US News,35,ED2,2026-01-02,Yes,Early Decision II (binding)
+Boston College,USA,US News,35,RD,2026-01-02,NA,Regular Decision
+Boston University,USA,US News,41,ED,2025-11-01,Yes,Early Decision I (binding)
+Boston University,USA,US News,41,ED2,2026-01-02,Yes,Early Decision II (binding)
+Boston University,USA,US News,41,RD,2026-01-02,NA,Regular Decision
+Case Western Reserve University,USA,US News,42,ED,2025-11-01,Yes,Early Decision I (binding)
+Case Western Reserve University,USA,US News,42,EA,2025-11-01,No,Early Action (non-binding)
+Case Western Reserve University,USA,US News,42,ED2,2026-01-15,Yes,Early Decision II (binding)
+Case Western Reserve University,USA,US News,42,RD,2026-01-15,NA,Regular Decision
+Northeastern University,USA,US News,47,ED,2025-11-01,Yes,Early Decision I (binding)
+Northeastern University,USA,US News,47,EA,2025-11-01,No,Early Action (non-binding)
+Northeastern University,USA,US News,47,ED2,2026-01-01,Yes,Early Decision II (binding)
+Northeastern University,USA,US News,47,RD,2026-01-01,NA,Regular Decision
+Tulane University,USA,US News,44,ED,2025-11-01,Yes,Early Decision I (binding)
+Tulane University,USA,US News,44,EA,2025-11-10,No,Early Action (non-binding); note Nov 10 deadline
+Tulane University,USA,US News,44,ED2,2026-01-15,Yes,Early Decision II (binding)
+Tulane University,USA,US News,44,RD,2026-01-15,NA,Regular Decision
+University of Rochester,USA,US News,44,ED,2025-11-01,Yes,Early Decision I (binding)
+University of Rochester,USA,US News,44,ED2,2026-01-05,Yes,Early Decision II (binding)
+University of Rochester,USA,US News,44,RD,2026-01-05,NA,Regular Decision
+Brandeis University,USA,US News,60,ED,2025-11-03,Yes,Early Decision I (binding)
+Brandeis University,USA,US News,60,ED2,2026-01-15,Yes,Early Decision II (binding)
+Brandeis University,USA,US News,60,RD,2026-01-15,NA,Regular Decision
+Pepperdine University,USA,US News,53,EA,2025-11-01,No,Early Action (non-binding)
+Pepperdine University,USA,US News,53,RD,2026-01-15,NA,Regular Decision
+SMU (Southern Methodist University),USA,US News,66,ED,2025-11-01,Yes,Early Decision I (binding)
+SMU (Southern Methodist University),USA,US News,66,EA,2025-11-01,No,Early Action (non-binding)
+SMU (Southern Methodist University),USA,US News,66,ED2,2026-01-15,Yes,Early Decision II (binding)
+SMU (Southern Methodist University),USA,US News,66,RD,2026-01-15,NA,Regular Decision
+Fordham University,USA,US News,66,ED,2025-11-01,Yes,Early Decision (binding)
+Fordham University,USA,US News,66,EA,2025-11-01,No,Early Action (non-binding)
+Fordham University,USA,US News,66,RD,2026-01-03,NA,Regular Decision
+Villanova University,USA,US News,53,ED,2025-11-01,Yes,Early Decision (binding)
+Villanova University,USA,US News,53,EA,2025-11-01,No,Early Action (non-binding)
+Villanova University,USA,US News,53,RD,2026-01-15,NA,Regular Decision
+Lehigh University,USA,US News,53,ED,2025-11-01,Yes,Early Decision I (binding)
+Lehigh University,USA,US News,53,ED2,2026-01-01,Yes,Early Decision II (binding)
+Lehigh University,USA,US News,53,RD,2026-01-01,NA,Regular Decision
+Rensselaer Polytechnic Institute,USA,US News,53,ED,2025-11-01,Yes,Early Decision I (binding)
+Rensselaer Polytechnic Institute,USA,US News,53,ED2,2025-12-15,Yes,Early Decision II (binding)
+Rensselaer Polytechnic Institute,USA,US News,53,EA,2025-12-01,No,Early Action (non-binding; no application fee if by Dec 1)
+Rensselaer Polytechnic Institute,USA,US News,53,RD,2026-01-15,NA,Regular Decision (rolling)
+Stevens Institute of Technology,USA,US News,66,ED,2025-11-15,Yes,Early Decision I (binding)
+Stevens Institute of Technology,USA,US News,66,EA,2025-12-01,No,Early Action (non-binding)
+Stevens Institute of Technology,USA,US News,66,ED2,2026-01-15,Yes,Early Decision II (binding)
+Stevens Institute of Technology,USA,US News,66,RD,2026-02-01,NA,Regular Decision
+Syracuse University,USA,US News,66,ED,2025-11-15,Yes,Early Decision I (binding)
+Syracuse University,USA,US News,66,ED2,2025-12-15,Yes,Early Decision II (binding)
+Syracuse University,USA,US News,66,RD,2026-01-05,NA,Regular Decision
+UC Berkeley,USA,US News,30,RD,2025-11-30,NA,UC system fixed deadline; no EA/ED offered
+UCLA,USA,US News,20,RD,2025-11-30,NA,UC system fixed deadline; no EA/ED offered
+UC San Diego,USA,US News,34,RD,2025-11-30,NA,UC system fixed deadline; no EA/ED offered
+UC Davis,USA,US News,38,RD,2025-11-30,NA,UC system fixed deadline; no EA/ED offered
+UC Santa Barbara,USA,US News,34,RD,2025-11-30,NA,UC system fixed deadline; no EA/ED offered
+UC Irvine,USA,US News,34,RD,2025-11-30,NA,UC system fixed deadline; no EA/ED offered
+USC (University of Southern California),USA,US News,29,EA,2025-11-01,No,Early Action (non-binding)
+USC (University of Southern California),USA,US News,29,RD,2026-01-10,NA,Regular Decision; Dec 1 for select programs
+Georgia Tech,USA,US News,33,EA,2025-10-15,No,Early Action I for Georgia residents; October 15 deadline
+Georgia Tech,USA,US News,33,EA,2025-11-03,No,Early Action I for non-Georgia/international residents; Nov 3 deadline
+Georgia Tech,USA,US News,33,RD,2026-01-05,NA,Regular Decision
+University of Illinois Urbana-Champaign,USA,US News,47,EA,2025-11-01,No,Early Action (non-binding)
+University of Illinois Urbana-Champaign,USA,US News,47,RD,2026-01-05,NA,Regular Decision
+University of Wisconsin-Madison,USA,US News,43,EA,2025-11-01,No,Early Action (non-binding)
+University of Wisconsin-Madison,USA,US News,43,RD,2026-01-15,NA,Regular Decision
+Purdue University,USA,US News,53,EA,2025-11-01,No,Early Action (non-binding)
+Purdue University,USA,US News,53,RD,2026-01-15,NA,Regular Decision (rolling)
+Ohio State University,USA,US News,44,EA,2025-11-01,No,Early Action (non-binding)
+Ohio State University,USA,US News,44,RD,2026-01-15,NA,Regular Decision
+Penn State University,USA,US News,53,EA,2025-11-01,No,Early Action; rolling after deadline
+Penn State University,USA,US News,53,RD,2026-02-01,NA,Rolling admission after EA; no hard RD cutoff
+University of Florida,USA,US News,53,EA,2025-11-01,No,Early Action (non-binding)
+University of Florida,USA,US News,53,RD,2026-01-15,NA,Regular Decision
+University of Georgia,USA,US News,53,EA,2025-10-15,No,Early Action (non-binding); October 15 deadline
+University of Georgia,USA,US News,53,RD,2026-01-01,NA,Regular Decision
+University of Texas at Austin,USA,US News,38,EA,2025-11-01,No,Early Action (non-binding)
+University of Texas at Austin,USA,US News,38,RD,2025-12-01,NA,Regular Decision; UT Austin priority deadline is Dec 1 2025
+University of Maryland,USA,US News,53,EA,2025-11-01,No,Early Action (non-binding)
+University of Maryland,USA,US News,53,RD,2026-01-15,NA,Regular Decision
+University of Minnesota,USA,US News,66,EA,2025-11-30,No,Priority deadline (functions as EA)
+University of Minnesota,USA,US News,66,RD,2026-01-15,NA,Regular Decision (rolling)
+Indiana University Bloomington,USA,US News,66,EA,2025-11-01,No,Early Action (non-binding)
+Indiana University Bloomington,USA,US News,66,RD,2026-02-01,NA,Regular Decision (rolling)
+Rutgers University,USA,US News,66,EA,2025-11-01,No,Early Action (non-binding)
+Rutgers University,USA,US News,66,RD,2025-12-01,NA,Rolling admission; priority by Dec 1 2025
+University of Pittsburgh,USA,US News,66,RD,2025-12-01,NA,Rolling admissions; submit by Dec 1 for scholarship consideration
+Virginia Tech,USA,US News,53,EA,2025-11-01,No,Early Action (non-binding)
+Virginia Tech,USA,US News,53,RD,2026-01-15,NA,Regular Decision
+George Washington University,USA,US News,66,ED,2025-11-01,Yes,Early Decision I (binding)
+George Washington University,USA,US News,66,ED2,2026-01-05,Yes,Early Decision II (binding)
+George Washington University,USA,US News,66,RD,2026-01-05,NA,Regular Decision
+American University,USA,US News,79,ED,2025-11-01,Yes,Early Decision I (binding)
+American University,USA,US News,79,EA,2025-11-01,No,Early Action (non-binding)
+American University,USA,US News,79,ED2,2026-01-15,Yes,Early Decision II (binding)
+American University,USA,US News,79,RD,2026-01-15,NA,Regular Decision
+Clemson University,USA,US News,79,EA,2025-10-15,No,Early Action (non-binding); October 15 deadline
+Clemson University,USA,US News,79,RD,2026-01-01,NA,Regular Decision
+TCU (Texas Christian University),USA,US News,95,ED,2025-11-01,Yes,Early Decision I (binding)
+TCU (Texas Christian University),USA,US News,95,EA,2025-11-01,No,Early Action (non-binding)
+TCU (Texas Christian University),USA,US News,95,ED2,2026-02-01,Yes,Early Decision II (binding)
+TCU (Texas Christian University),USA,US News,95,RD,2026-02-01,NA,Regular Decision
+Baylor University,USA,US News,79,EA,2025-11-01,No,Early Action (non-binding)
+Baylor University,USA,US News,79,RD,2026-02-15,NA,Regular Decision
+Howard University,USA,US News,147,EA,2025-11-01,No,Early Action (non-binding)
+Howard University,USA,US News,147,RD,2026-02-01,NA,Regular Decision
+University of Miami,USA,US News,55,ED,2025-11-01,Yes,Early Decision (binding)
+University of Miami,USA,US News,55,EA,2025-11-01,No,Early Action (non-binding)
+University of Miami,USA,US News,55,ED2,2026-01-01,Yes,Early Decision II (binding)
+University of Miami,USA,US News,55,RD,2026-02-01,NA,Regular Decision
+William & Mary,USA,US News,38,ED,2025-11-01,Yes,Early Decision I (binding); no EA offered
+William & Mary,USA,US News,38,ED2,2026-01-05,Yes,Early Decision II (binding)
+William & Mary,USA,US News,38,RD,2026-01-05,NA,Regular Decision
+Gonzaga University,USA,US News,87,EA,2025-11-15,No,Early Action (non-binding)
+Gonzaga University,USA,US News,87,RD,2026-02-01,NA,Regular Decision
+Santa Clara University,USA,US News,53,ED,2025-11-01,Yes,Early Decision I (binding)
+Santa Clara University,USA,US News,53,EA,2025-11-01,No,Early Action (non-binding)
+Santa Clara University,USA,US News,53,ED2,2026-01-07,Yes,Early Decision II (binding)
+Santa Clara University,USA,US News,53,RD,2026-01-07,NA,Regular Decision
+Loyola Marymount University,USA,US News,66,ED,2025-11-01,Yes,Early Decision (binding)
+Loyola Marymount University,USA,US News,66,EA,2025-11-01,No,Early Action (non-binding)
+Loyola Marymount University,USA,US News,66,RD,2026-01-15,NA,Regular Decision
+Yeshiva University,USA,US News,~75,EA,2025-11-15,No,Early Action (non-binding)
+Yeshiva University,USA,US News,~75,RD,2026-02-02,NA,Rolling after deadline
+University of San Diego,USA,US News,~111,RD,2025-12-01,NA,Single deadline; rolling admissions
+Marquette University,USA,US News,~105,EA,2025-11-15,No,Early Action (non-binding)
+Marquette University,USA,US News,~105,RD,2026-02-01,NA,Rolling admissions
+Seton Hall University,USA,US News,~156,EA,2025-11-15,No,Early Action (non-binding)
+Seton Hall University,USA,US News,~156,RD,2026-02-15,NA,Regular Decision
+Drexel University,USA,US News,~103,ED,2025-11-01,Yes,Early Decision I (binding)
+Drexel University,USA,US News,~103,EA,2025-11-01,No,Early Action (non-binding)
+Drexel University,USA,US News,~103,RD,2026-01-15,NA,Regular Decision
+University of Denver,USA,US News,~100,ED,2025-11-01,Yes,Early Decision I (binding)
+University of Denver,USA,US News,~100,EA,2025-11-01,No,Early Action (non-binding)
+University of Denver,USA,US News,~100,ED2,2026-01-15,Yes,Early Decision II (binding)
+University of Denver,USA,US News,~100,RD,2026-01-15,NA,Regular Decision
+University of San Francisco,USA,US News,~106,ED,2025-11-01,Yes,Early Decision I (binding)
+University of San Francisco,USA,US News,~106,EA,2025-11-01,No,Early Action (non-binding)
+University of San Francisco,USA,US News,~106,RD,2026-01-15,NA,Regular Decision
+Clark University,USA,US News,~185,ED,2025-11-01,Yes,Early Decision I (binding)
+Clark University,USA,US News,~185,EA,2025-11-01,No,Early Action (non-binding)
+Clark University,USA,US News,~185,ED2,2026-01-15,Yes,Early Decision II (binding)
+Clark University,USA,US News,~185,RD,2026-01-15,NA,Regular Decision
+University of the Pacific,USA,US News,~130,EA,2025-11-15,No,Early Action (non-binding)
+University of the Pacific,USA,US News,~130,RD,2026-02-15,NA,Rolling after EA
+Duquesne University,USA,US News,~153,EA,2025-11-15,No,Early Action (non-binding)
+Duquesne University,USA,US News,~153,RD,2026-01-15,NA,Rolling after Jan 15
+Hofstra University,USA,US News,~152,EA,2025-11-15,No,Early Action I
+Hofstra University,USA,US News,~152,EA,2025-12-15,No,Early Action II
+Hofstra University,USA,US News,~152,RD,2026-02-01,NA,Rolling after
+University of New Hampshire,USA,US News,~176,EA,2025-11-15,No,Early Action (non-binding)
+University of New Hampshire,USA,US News,~176,RD,2026-02-01,NA,Regular Decision
+University of Vermont,USA,US News,~165,EA,2025-11-01,No,Early Action (non-binding); decision late Dec
+University of Vermont,USA,US News,~165,RD,2026-01-15,NA,Regular Decision
+University of Connecticut,USA,US News,~76,ED,2025-11-01,Yes,Binding ED
+University of Connecticut,USA,US News,~76,EA,2025-11-01,No,Non-binding EA; notification mid-Dec
+University of Connecticut,USA,US News,~76,RD,2026-01-15,NA,Regular Decision; notification end of March
+Stony Brook University (SUNY),USA,US News,~95,EA,2025-11-01,No,Early Action (non-binding)
+Stony Brook University (SUNY),USA,US News,~95,RD,2026-02-01,NA,Regular Decision
+University at Buffalo (SUNY),USA,US News,~96,EA,2025-11-01,No,Early Action; priority scholarship consideration
+University at Buffalo (SUNY),USA,US News,~96,RD,2026-02-01,NA,Rolling; priority by Dec 15
+University of Alabama,USA,US News,~148,EA,2025-11-01,No,Priority EA; scholarship consideration
+University of Alabama,USA,US News,~148,RD,2026-05-01,NA,Rolling admissions
+University of Iowa,USA,US News,~179,EA,2025-11-01,No,Priority EA deadline
+University of Iowa,USA,US News,~179,RD,2026-07-01,NA,Rolling admissions
+University of Kansas,USA,US News,~195,EA,2025-11-01,No,EA deadline; scholarship priority
+University of Kansas,USA,US News,~195,RD,2026-05-01,NA,Rolling admissions
+University of Nebraska-Lincoln,USA,US News,~172,EA,2025-11-01,No,Priority deadline
+University of Nebraska-Lincoln,USA,US News,~172,RD,2026-05-01,NA,Rolling; space available
+University of Missouri,USA,US News,~118,EA,2025-11-15,No,Recommended deadline; scholarship by Dec 1
+University of Missouri,USA,US News,~118,RD,2026-06-01,NA,Rolling admissions
+University of Colorado Boulder,USA,US News,~102,EA,2025-11-15,No,Early Action (non-binding)
+University of Colorado Boulder,USA,US News,~102,RD,2026-01-15,NA,Regular Decision
+University of Oregon,USA,US News,~175,EA,2025-11-01,No,Early Action (non-binding); decisions late Dec
+University of Oregon,USA,US News,~175,RD,2026-01-15,NA,Regular Decision; decisions April 1
+University of Arizona,USA,US News,~186,EA,2025-11-01,No,EA deadline; priority for merit aid & Honors
+University of Arizona,USA,US News,~186,RD,2026-05-01,NA,Rolling after EA
+Arizona State University,USA,US News,~216,RD,2026-01-15,NA,Rolling; priority deadline Jan 15; no ED/EA
+Michigan State University,USA,US News,~103,EA,2025-11-01,No,Priority EA; highest consideration
+Michigan State University,USA,US News,~103,RD,2026-04-01,NA,Final deadline; rolling
+University of Tennessee,USA,US News,~115,EA,2025-11-01,No,EA deadline Nov 1; decisions Dec 8
+University of Tennessee,USA,US News,~115,RD,2025-12-15,NA,Rolling admissions priority deadline
+University of South Carolina,USA,US News,~142,EA,2025-10-15,No,EA deadline Oct 15; decisions mid-Dec
+University of South Carolina,USA,US News,~142,RD,2026-05-01,NA,Rolling admissions
+Auburn University,USA,US News,~148,EA,2025-11-15,No,First EA deadline
+Auburn University,USA,US News,~148,EA,2025-12-01,No,Final EA deadline
+Auburn University,USA,US News,~148,RD,2026-02-01,NA,Regular Decision
+University of Kentucky,USA,US News,~148,EA,2025-12-01,No,EA/Priority deadline; scholarship + Honors
+University of Kentucky,USA,US News,~148,RD,2026-02-15,NA,Regular Decision
+Williams College,USA,US News LAC,1,ED,2025-11-15,Yes,Early Decision I only; no EA
+Williams College,USA,US News LAC,1,RD,2026-01-05,NA,Regular Decision
+Amherst College,USA,US News LAC,2,ED,2025-11-07,Yes,ED only; no EA; note Nov 7 deadline
+Amherst College,USA,US News LAC,2,RD,2026-01-05,NA,Regular Decision
+Swarthmore College,USA,US News LAC,3,ED,2025-11-15,Yes,Early Decision I (binding)
+Swarthmore College,USA,US News LAC,3,ED2,2026-01-04,Yes,Early Decision II (binding)
+Swarthmore College,USA,US News LAC,3,RD,2026-01-04,NA,Regular Decision
+Wellesley College,USA,US News LAC,4,ED,2025-11-01,Yes,Early Decision I (binding)
+Wellesley College,USA,US News LAC,4,ED2,2026-01-01,Yes,Early Decision II (binding)
+Wellesley College,USA,US News LAC,4,RD,2026-01-15,NA,Regular Decision
+Bowdoin College,USA,US News LAC,4,ED,2025-11-15,Yes,Early Decision I (binding)
+Bowdoin College,USA,US News LAC,4,ED2,2026-01-05,Yes,Early Decision II (binding)
+Bowdoin College,USA,US News LAC,4,RD,2026-01-05,NA,Regular Decision
+Pomona College,USA,US News LAC,5,ED,2025-11-15,Yes,Early Decision I (binding)
+Pomona College,USA,US News LAC,5,ED2,2026-01-08,Yes,Early Decision II (binding)
+Pomona College,USA,US News LAC,5,RD,2026-01-08,NA,Regular Decision
+Carleton College,USA,US News LAC,6,ED,2025-11-15,Yes,Early Decision I (binding)
+Carleton College,USA,US News LAC,6,ED2,2026-01-15,Yes,Early Decision II (binding)
+Carleton College,USA,US News LAC,6,RD,2026-03-31,NA,Regular Decision (rolling through spring)
+Middlebury College,USA,US News LAC,6,ED,2025-11-03,Yes,Early Decision I (binding); note Nov 3 deadline
+Middlebury College,USA,US News LAC,6,ED2,2026-01-05,Yes,Early Decision II (binding)
+Middlebury College,USA,US News LAC,6,RD,2026-01-05,NA,Regular Decision
+Claremont McKenna College,USA,US News LAC,9,ED,2025-11-01,Yes,Early Decision I (binding)
+Claremont McKenna College,USA,US News LAC,9,ED2,2026-01-10,Yes,Early Decision II (binding)
+Claremont McKenna College,USA,US News LAC,9,RD,2026-01-10,NA,Regular Decision
+Davidson College,USA,US News LAC,14,ED,2025-11-15,Yes,Early Decision I (binding)
+Davidson College,USA,US News LAC,14,ED2,2026-01-06,Yes,Early Decision II (binding)
+Davidson College,USA,US News LAC,14,RD,2026-01-13,NA,Regular Decision
+Harvey Mudd College,USA,US News LAC,6,ED,2025-11-15,Yes,Early Decision I (binding); decisions Dec 15
+Harvey Mudd College,USA,US News LAC,6,ED2,2026-01-05,Yes,Early Decision II (binding); decisions Feb 15
+Harvey Mudd College,USA,US News LAC,6,RD,2026-01-05,NA,Regular Decision
+Washington and Lee University,USA,US News LAC,11,ED,2025-11-01,Yes,Early Decision I (binding)
+Washington and Lee University,USA,US News LAC,11,ED2,2026-01-01,Yes,Early Decision II (binding)
+Washington and Lee University,USA,US News LAC,11,RD,2026-01-01,NA,Regular Decision
+Colgate University,USA,US News LAC,17,ED,2025-11-01,Yes,Early Decision I (binding)
+Colgate University,USA,US News LAC,17,ED2,2026-01-15,Yes,Early Decision II (binding)
+Colgate University,USA,US News LAC,17,RD,2026-01-15,NA,Regular Decision
+Colby College,USA,US News LAC,18,ED,2025-11-15,Yes,Early Decision I (binding)
+Colby College,USA,US News LAC,18,ED2,2026-01-02,Yes,Early Decision II (binding)
+Colby College,USA,US News LAC,18,RD,2026-01-15,NA,Regular Decision
+Hamilton College,USA,US News LAC,17,ED,2025-11-15,Yes,Early Decision I (binding)
+Hamilton College,USA,US News LAC,17,ED2,2026-01-05,Yes,Early Decision II (binding)
+Hamilton College,USA,US News LAC,17,RD,2026-01-05,NA,Regular Decision
+Wesleyan University,USA,US News LAC,18,ED,2025-11-15,Yes,Early Decision I (binding)
+Wesleyan University,USA,US News LAC,18,ED2,2026-01-01,Yes,Early Decision II (binding)
+Wesleyan University,USA,US News LAC,18,RD,2026-01-01,NA,Regular Decision
+Vassar College,USA,US News LAC,23,ED,2025-11-15,Yes,Early Decision I (binding)
+Vassar College,USA,US News LAC,23,ED2,2026-01-01,Yes,Early Decision II (binding)
+Vassar College,USA,US News LAC,23,RD,2026-01-01,NA,Regular Decision
+Grinnell College,USA,US News LAC,17,ED,2025-11-15,Yes,Early Decision I (binding)
+Grinnell College,USA,US News LAC,17,ED2,2026-01-05,Yes,Early Decision II (binding)
+Grinnell College,USA,US News LAC,17,RD,2026-01-15,NA,Regular Decision
+Smith College,USA,US News LAC,11,ED,2025-11-15,Yes,Early Decision I (binding)
+Smith College,USA,US News LAC,11,ED2,2026-01-15,Yes,Early Decision II (binding)
+Smith College,USA,US News LAC,11,RD,2026-01-15,NA,Regular Decision
+Mount Holyoke College,USA,US News LAC,35,ED,2025-11-15,Yes,Early Decision I (binding)
+Mount Holyoke College,USA,US News LAC,35,ED2,2026-01-15,Yes,Early Decision II (binding)
+Mount Holyoke College,USA,US News LAC,35,RD,2026-01-15,NA,Regular Decision
+Barnard College,USA,US News LAC,10,ED,2025-11-01,Yes,Early Decision I (binding); notification mid-Dec
+Barnard College,USA,US News LAC,10,RD,2026-01-11,NA,Regular Decision; notification late March
+Trinity College (Hartford CT),USA,US News LAC,44,ED,2025-11-15,Yes,Early Decision I (binding); decisions mid-Dec
+Trinity College (Hartford CT),USA,US News LAC,44,ED2,2026-01-15,Yes,Early Decision II (binding)
+Trinity College (Hartford CT),USA,US News LAC,44,RD,2026-01-15,NA,Regular Decision
+Lafayette College,USA,US News LAC,35,ED,2025-11-15,Yes,Early Decision I (binding)
+Lafayette College,USA,US News LAC,35,ED2,2026-01-15,Yes,Early Decision II (binding)
+Lafayette College,USA,US News LAC,35,RD,2026-01-15,NA,Regular Decision; decisions late March
+Bates College,USA,US News LAC,23,ED,2025-11-15,Yes,Early Decision I (binding)
+Bates College,USA,US News LAC,23,ED2,2026-01-10,Yes,Early Decision II (binding)
+Bates College,USA,US News LAC,23,RD,2026-01-10,NA,Regular Decision
+Haverford College,USA,US News LAC,11,ED,2025-11-15,Yes,Early Decision I (binding)
+Haverford College,USA,US News LAC,11,ED2,2026-01-05,Yes,Early Decision II (binding)
+Haverford College,USA,US News LAC,11,RD,2026-01-10,NA,Regular Decision
+Macalester College,USA,US News LAC,26,EA,2025-11-01,No,Early Action (non-binding); decisions in Dec
+Macalester College,USA,US News LAC,26,ED2,2026-01-01,Yes,Early Decision II (binding)
+Macalester College,USA,US News LAC,26,RD,2026-01-15,NA,Regular Decision
+Oberlin College,USA,US News LAC,26,ED,2025-11-01,Yes,Early Decision I (binding)
+Oberlin College,USA,US News LAC,26,ED2,2026-01-02,Yes,Early Decision II (binding)
+Oberlin College,USA,US News LAC,26,RD,2026-01-15,NA,Regular Decision
+Colorado College,USA,US News LAC,29,ED,2025-11-01,Yes,Early Decision I (binding)
+Colorado College,USA,US News LAC,29,ED2,2026-01-15,Yes,Early Decision II (for deferred ED1 applicants)
+Colorado College,USA,US News LAC,29,RD,2026-01-15,NA,Regular Decision
+Kenyon College,USA,US News LAC,32,ED,2025-11-15,Yes,Early Decision I (binding); decisions mid-Dec
+Kenyon College,USA,US News LAC,32,ED2,2026-01-15,Yes,Early Decision II (binding); decisions mid-Feb
+Kenyon College,USA,US News LAC,32,RD,2026-01-15,NA,Regular Decision; decisions late March
+Union College,USA,US News LAC,62,ED,2025-11-01,Yes,Early Decision I (binding)
+Union College,USA,US News LAC,62,ED2,2026-01-15,Yes,Early Decision II (binding)
+Union College,USA,US News LAC,62,RD,2026-01-15,NA,Regular Decision
+Connecticut College,USA,US News LAC,44,ED,2025-11-01,Yes,Early Decision I (binding)
+Connecticut College,USA,US News LAC,44,ED2,2026-01-15,Yes,Early Decision II (binding)
+Connecticut College,USA,US News LAC,44,RD,2026-01-15,NA,Regular Decision
+Skidmore College,USA,US News LAC,44,ED,2025-11-01,Yes,Early Decision I (binding)
+Skidmore College,USA,US News LAC,44,ED2,2026-01-08,Yes,Early Decision II (binding)
+Skidmore College,USA,US News LAC,44,RD,2026-01-08,NA,Regular Decision
+Dickinson College,USA,US News LAC,56,ED,2025-11-15,Yes,Early Decision I (binding)
+Dickinson College,USA,US News LAC,56,ED2,2026-01-15,Yes,Early Decision II (binding)
+Dickinson College,USA,US News LAC,56,RD,2026-01-15,NA,Regular Decision
+Gettysburg College,USA,US News LAC,78,ED,2025-11-15,Yes,Early Decision I (binding)
+Gettysburg College,USA,US News LAC,78,EA,2025-12-01,No,Early Action (non-binding)
+Gettysburg College,USA,US News LAC,78,ED2,2026-01-15,Yes,Early Decision II (binding)
+Gettysburg College,USA,US News LAC,78,RD,2026-01-15,NA,Regular Decision
+Denison University,USA,US News LAC,52,ED,2025-11-15,Yes,Early Decision I (binding)
+Denison University,USA,US News LAC,52,ED2,2026-01-15,Yes,Early Decision II (binding)
+Denison University,USA,US News LAC,52,RD,2026-02-01,NA,Regular Decision
+Furman University,USA,US News LAC,82,EA,2025-11-15,No,Early Action (non-binding); decisions Jan 15
+Furman University,USA,US News LAC,82,RD,2026-01-15,NA,Regular Decision
+Rhodes College,USA,US News LAC,52,ED,2025-11-01,Yes,Early Decision I (binding)
+Rhodes College,USA,US News LAC,52,EA,2025-11-15,No,Early Action (non-binding); decisions by Jan 15
+Rhodes College,USA,US News LAC,52,ED2,2026-01-15,Yes,Early Decision II (binding)
+Rhodes College,USA,US News LAC,52,RD,2026-01-15,NA,Regular Decision; decisions by Mar 15
+Scripps College,USA,US News LAC,26,ED,2025-11-15,Yes,Early Decision I (binding); decisions mid-Dec
+Scripps College,USA,US News LAC,26,ED2,2026-01-08,Yes,Early Decision II (binding); decisions mid-Feb
+Scripps College,USA,US News LAC,26,RD,2026-01-08,NA,Regular Decision; decisions Apr 1
+Pitzer College,USA,US News LAC,32,ED,2025-11-15,Yes,Early Decision I (binding)
+Pitzer College,USA,US News LAC,32,ED2,2026-01-12,Yes,Early Decision II (binding)
+Pitzer College,USA,US News LAC,32,RD,2026-01-12,NA,Regular Decision

@@ -1,0 +1,1280 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>思博杂学社 Agent Handbook</title>
+  <style>
+    :root {
+      --ink: #14213d;
+      --muted: #657186;
+      --line: #dce6f2;
+      --paper: #f8fbff;
+      --mint: #e9f2ff;
+      --teal: #2f80ed;
+      --teal-dark: #1657a8;
+      --coral: #2f80ed;
+      --gold: #2f80ed;
+      --blue: #0b2f6f;
+      --leaf: #6aa7d8;
+      --white: #ffffff;
+      --shadow: 0 18px 45px rgba(21, 71, 136, 0.11);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+        "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, rgba(233, 242, 255, 0.9), rgba(248, 251, 255, 0) 460px),
+        var(--paper);
+      line-height: 1.65;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .page {
+      min-height: 100vh;
+    }
+
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      border-bottom: 1px solid rgba(220, 230, 242, 0.82);
+      background: rgba(248, 251, 255, 0.88);
+      backdrop-filter: blur(16px);
+    }
+
+    .nav-inner {
+      width: min(1120px, calc(100% - 40px));
+      height: 64px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-weight: 760;
+      white-space: nowrap;
+    }
+
+    .brand-mark {
+      width: 34px;
+      height: 34px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      color: var(--white);
+      background: linear-gradient(135deg, #1c72d8, #0b2f6f);
+      font-size: 18px;
+      font-weight: 800;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .nav-links a:hover {
+      color: var(--teal-dark);
+    }
+
+    .hero {
+      width: min(1120px, calc(100% - 40px));
+      margin: 0 auto;
+      padding: 76px 0 54px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.08fr) minmax(360px, 0.92fr);
+      gap: 48px;
+      align-items: center;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--teal-dark);
+      font-weight: 720;
+      font-size: 14px;
+      margin-bottom: 18px;
+    }
+
+    .eyebrow::before {
+      content: "";
+      width: 34px;
+      height: 2px;
+      background: var(--coral);
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      margin: 0;
+    }
+
+    h1 {
+      font-size: clamp(42px, 6vw, 72px);
+      line-height: 1.05;
+      font-weight: 820;
+      max-width: 780px;
+    }
+
+    h1 span {
+      color: var(--teal-dark);
+    }
+
+    .hero-lede {
+      margin-top: 24px;
+      max-width: 710px;
+      font-size: 20px;
+      color: #44514e;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 30px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      padding: 0 18px;
+      border-radius: 8px;
+      font-size: 15px;
+      font-weight: 720;
+      border: 1px solid transparent;
+    }
+
+    .button.primary {
+      color: var(--white);
+      background: var(--teal-dark);
+      box-shadow: 0 10px 22px rgba(22, 87, 168, 0.22);
+    }
+
+    .button.secondary {
+      color: var(--teal-dark);
+      background: rgba(255, 255, 255, 0.7);
+      border-color: var(--line);
+    }
+
+    .system-visual {
+      position: relative;
+      min-height: 500px;
+      padding: 26px;
+      border: 1px solid rgba(220, 230, 242, 0.9);
+      border-radius: 8px;
+      background:
+        linear-gradient(145deg, rgba(255, 255, 255, 0.96), rgba(233, 242, 255, 0.76)),
+        repeating-linear-gradient(0deg, transparent 0 31px, rgba(47, 128, 237, 0.08) 32px),
+        repeating-linear-gradient(90deg, transparent 0 31px, rgba(47, 128, 237, 0.08) 32px);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .orbit {
+      position: absolute;
+      inset: 74px 52px 78px;
+      border: 1px dashed rgba(47, 128, 237, 0.3);
+      border-radius: 50%;
+    }
+
+    .core {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 170px;
+      height: 170px;
+      transform: translate(-50%, -50%);
+      display: grid;
+      place-items: center;
+      text-align: center;
+      border-radius: 50%;
+      color: var(--white);
+      background: radial-gradient(circle at 34% 28%, #57b2ff, var(--teal-dark));
+      box-shadow: 0 18px 36px rgba(22, 87, 168, 0.28);
+      font-weight: 800;
+      padding: 24px;
+      line-height: 1.3;
+    }
+
+    .node {
+      position: absolute;
+      width: 148px;
+      min-height: 76px;
+      padding: 14px 15px;
+      border: 1px solid rgba(220, 231, 226, 0.96);
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.88);
+      box-shadow: 0 12px 24px rgba(21, 71, 136, 0.08);
+      font-size: 14px;
+      font-weight: 720;
+      color: #31413d;
+    }
+
+    .node small {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 560;
+      line-height: 1.45;
+    }
+
+    .n1 { left: 22px; top: 48px; border-top: 4px solid var(--teal); }
+    .n2 { right: 24px; top: 74px; border-top: 4px solid var(--coral); }
+    .n3 { left: 12px; bottom: 86px; border-top: 4px solid var(--gold); }
+    .n4 { right: 36px; bottom: 56px; border-top: 4px solid var(--blue); }
+
+    .section {
+      padding: 72px 0;
+    }
+
+    .section.alt {
+      background: var(--white);
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .wrap {
+      width: min(1120px, calc(100% - 40px));
+      margin: 0 auto;
+    }
+
+    .section-head {
+      display: grid;
+      grid-template-columns: minmax(0, 0.85fr) minmax(260px, 0.45fr);
+      gap: 44px;
+      align-items: end;
+      margin-bottom: 34px;
+    }
+
+    .section-kicker {
+      color: var(--coral);
+      font-weight: 780;
+      font-size: 13px;
+      text-transform: uppercase;
+    }
+
+    h2 {
+      margin-top: 8px;
+      font-size: clamp(28px, 4vw, 46px);
+      line-height: 1.16;
+      font-weight: 820;
+    }
+
+    .section-note {
+      color: var(--muted);
+      font-size: 17px;
+    }
+
+    .pain-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+    }
+
+    .pain-card,
+    .value-card,
+    .scenario,
+    .metric,
+    .flow-step {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--white);
+      box-shadow: 0 8px 22px rgba(21, 71, 136, 0.06);
+    }
+
+    .pain-card {
+      min-height: 186px;
+      padding: 22px;
+    }
+
+    .num {
+      width: 32px;
+      height: 32px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      background: var(--mint);
+      color: var(--teal-dark);
+      font-weight: 820;
+      font-size: 13px;
+      margin-bottom: 18px;
+    }
+
+    .pain-card h3,
+    .value-card h3,
+    .scenario h3 {
+      font-size: 19px;
+      line-height: 1.28;
+      margin-bottom: 10px;
+    }
+
+    .pain-card p,
+    .value-card p,
+    .scenario p,
+    .flow-step p {
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: minmax(0, 0.9fr) minmax(360px, 1.1fr);
+      gap: 30px;
+      align-items: stretch;
+    }
+
+    .quote-panel {
+      padding: 34px;
+      border-radius: 8px;
+      color: var(--white);
+      background:
+        linear-gradient(135deg, rgba(22, 87, 168, 0.98), rgba(11, 47, 111, 0.94)),
+        var(--teal-dark);
+      box-shadow: var(--shadow);
+    }
+
+    .quote-panel p {
+      font-size: clamp(24px, 3vw, 36px);
+      line-height: 1.22;
+      font-weight: 800;
+    }
+
+    .quote-panel span {
+      display: block;
+      margin-top: 18px;
+      color: rgba(255, 255, 255, 0.76);
+      font-size: 15px;
+    }
+
+    .value-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+    }
+
+    .value-card {
+      padding: 24px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 26px;
+      padding: 0 9px;
+      margin-bottom: 16px;
+      border-radius: 8px;
+      background: #eaf3ff;
+      color: #1657a8;
+      font-size: 12px;
+      font-weight: 780;
+    }
+
+    .matrix {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+      background: var(--white);
+      box-shadow: var(--shadow);
+    }
+
+    .matrix-row {
+      display: grid;
+      grid-template-columns: 0.7fr 1fr 1fr;
+      border-top: 1px solid var(--line);
+    }
+
+    .matrix-row:first-child {
+      border-top: 0;
+      background: #eaf3ff;
+      color: var(--teal-dark);
+      font-weight: 800;
+    }
+
+    .matrix-cell {
+      padding: 18px 20px;
+      border-left: 1px solid var(--line);
+      font-size: 15px;
+    }
+
+    .matrix-cell:first-child {
+      border-left: 0;
+      font-weight: 760;
+    }
+
+    .scenario-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .strategy-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 0.95fr) minmax(320px, 1.05fr);
+      gap: 18px;
+      align-items: stretch;
+    }
+
+    .strategy-panel {
+      padding: 30px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(233, 242, 255, 0.78)),
+        var(--white);
+      box-shadow: var(--shadow);
+    }
+
+    .strategy-panel h3 {
+      margin: 0 0 14px;
+      font-size: 25px;
+      line-height: 1.2;
+    }
+
+    .strategy-panel p {
+      color: var(--muted);
+      font-size: 16px;
+    }
+
+    .strategy-list {
+      display: grid;
+      gap: 12px;
+    }
+
+    .strategy-item {
+      display: grid;
+      grid-template-columns: 34px minmax(0, 1fr);
+      gap: 14px;
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--white);
+      box-shadow: 0 8px 22px rgba(21, 71, 136, 0.05);
+    }
+
+    .strategy-item b {
+      width: 34px;
+      height: 34px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      background: var(--teal-dark);
+      color: var(--white);
+      font-size: 13px;
+    }
+
+    .strategy-item strong {
+      display: block;
+      margin-bottom: 4px;
+      font-size: 17px;
+    }
+
+    .strategy-item span {
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.55;
+    }
+
+    .scenario {
+      padding: 26px;
+      min-height: 260px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .scenario-mark {
+      width: 42px;
+      height: 42px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      color: var(--white);
+      background: var(--teal);
+      font-weight: 820;
+      margin-bottom: 22px;
+    }
+
+    .scenario:nth-child(2) .scenario-mark {
+      background: var(--coral);
+    }
+
+    .scenario:nth-child(3) .scenario-mark {
+      background: var(--blue);
+    }
+
+    .flow {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 12px;
+    }
+
+    .flow-step {
+      padding: 20px;
+      min-height: 178px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .flow-step::after {
+      content: "";
+      position: absolute;
+      right: 16px;
+      top: 18px;
+      width: 18px;
+      height: 18px;
+      border-top: 2px solid rgba(47, 128, 237, 0.36);
+      border-right: 2px solid rgba(47, 128, 237, 0.36);
+      transform: rotate(45deg);
+    }
+
+    .flow-step:last-child::after {
+      display: none;
+    }
+
+    .flow-step strong {
+      display: block;
+      margin-bottom: 12px;
+      font-size: 17px;
+    }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+    }
+
+    .metric {
+      padding: 24px;
+      background: linear-gradient(180deg, var(--white), #f3f8ff);
+    }
+
+    .metric b {
+      display: block;
+      color: var(--teal-dark);
+      font-size: 33px;
+      line-height: 1;
+      margin-bottom: 12px;
+    }
+
+    .metric span {
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    .cta {
+      padding: 70px 0 84px;
+      background:
+        linear-gradient(135deg, rgba(233, 242, 255, 0.94), rgba(255, 255, 255, 0.9));
+    }
+
+    .cta-box {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 28px;
+      align-items: center;
+      padding: 34px;
+      border: 1px solid rgba(220, 230, 242, 0.9);
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.78);
+      box-shadow: var(--shadow);
+    }
+
+    .cta-box h2 {
+      margin: 0;
+      max-width: 760px;
+    }
+
+    .cta-box p {
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 17px;
+      max-width: 800px;
+    }
+
+    @media (max-width: 980px) {
+      .hero,
+      .section-head,
+      .split,
+      .strategy-grid,
+      .cta-box {
+        grid-template-columns: 1fr;
+      }
+
+      .pain-grid,
+      .metrics {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .scenario-grid,
+      .flow {
+        grid-template-columns: 1fr;
+      }
+
+      .flow-step::after {
+        display: none;
+      }
+    }
+
+    @media (max-width: 680px) {
+      .nav-inner {
+        width: min(100% - 28px, 1120px);
+      }
+
+      .nav-links {
+        display: none;
+      }
+
+      .hero,
+      .wrap {
+        width: min(100% - 28px, 1120px);
+      }
+
+      .hero {
+        padding-top: 48px;
+      }
+
+      .hero-lede {
+        font-size: 17px;
+      }
+
+      .system-visual {
+        min-height: 420px;
+        padding: 18px;
+      }
+
+      .node {
+        width: 132px;
+        font-size: 13px;
+      }
+
+      .n1 { left: 14px; top: 32px; }
+      .n2 { right: 14px; top: 58px; }
+      .n3 { left: 12px; bottom: 52px; }
+      .n4 { right: 14px; bottom: 28px; }
+
+      .core {
+        width: 140px;
+        height: 140px;
+        font-size: 14px;
+      }
+
+      .pain-grid,
+      .value-grid,
+      .strategy-list,
+      .metrics {
+        grid-template-columns: 1fr;
+      }
+
+      .matrix {
+        border: 0;
+        box-shadow: none;
+        background: transparent;
+      }
+
+      .matrix-row {
+        grid-template-columns: 1fr;
+        margin-bottom: 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        overflow: hidden;
+        background: var(--white);
+      }
+
+      .matrix-row:first-child {
+        display: none;
+      }
+
+      .matrix-cell {
+        border-left: 0;
+        border-top: 1px solid var(--line);
+      }
+
+      .matrix-cell:first-child {
+        border-top: 0;
+        background: #eaf3ff;
+        color: var(--teal-dark);
+      }
+
+      .cta-box {
+        padding: 24px;
+      }
+    }
+
+    @page {
+      size: A4;
+      margin: 12mm;
+    }
+
+    @media print {
+      html {
+        scroll-behavior: auto;
+      }
+
+      body {
+        background: #ffffff;
+        color: var(--ink);
+        line-height: 1.55;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+
+      .nav,
+      .hero-actions,
+      .cta .button {
+        display: none;
+      }
+
+      .hero,
+      .wrap {
+        width: 100%;
+      }
+
+      .hero {
+        padding: 0 0 18mm;
+        grid-template-columns: 1fr;
+        gap: 10mm;
+        break-after: page;
+      }
+
+      .hero-lede {
+        max-width: 100%;
+        font-size: 14pt;
+      }
+
+      h1 {
+        font-size: 34pt;
+        max-width: 100%;
+      }
+
+      h2 {
+        font-size: 24pt;
+      }
+
+      .section,
+      .section.alt,
+      .cta {
+        padding: 10mm 0;
+        background: #ffffff;
+        border: 0;
+      }
+
+      .section-head,
+      .split,
+      .strategy-grid,
+      .cta-box {
+        grid-template-columns: 1fr;
+      }
+
+      #strategy,
+      #before-after,
+      #scenarios,
+      #workflow {
+        break-before: page;
+        page-break-before: always;
+      }
+
+      .section-head {
+        break-after: avoid;
+        page-break-after: avoid;
+      }
+
+      .pain-grid,
+      .value-grid,
+      .scenario-grid,
+      .metrics {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+      }
+
+      .flow {
+        grid-template-columns: 1fr;
+        gap: 7px;
+      }
+
+      .system-visual,
+      .pain-card,
+      .value-card,
+      .scenario,
+      .metric,
+      .flow-step,
+      .strategy-panel,
+      .strategy-item,
+      .matrix,
+      .cta-box {
+        box-shadow: none;
+        break-inside: avoid;
+      }
+
+      .system-visual,
+      .strategy-panel,
+      .metric,
+      .cta-box {
+        background: #ffffff;
+      }
+
+      .n1,
+      .n2,
+      .n3,
+      .n4 {
+        border-top-color: var(--teal);
+      }
+
+      .scenario:nth-child(2) .scenario-mark,
+      .scenario:nth-child(3) .scenario-mark {
+        background: var(--teal-dark);
+      }
+
+      .quote-panel {
+        box-shadow: none;
+        break-inside: avoid;
+      }
+
+      .matrix-row {
+        break-inside: avoid;
+      }
+
+      .quote-panel {
+        padding: 18px;
+        margin-bottom: 8px;
+      }
+
+      .quote-panel p {
+        font-size: 19pt;
+      }
+
+      .pain-card,
+      .value-card,
+      .scenario,
+      .metric,
+      .flow-step {
+        padding: 14px;
+      }
+
+      .pain-card,
+      .scenario {
+        min-height: 0;
+      }
+
+      .flow-step {
+        min-height: 0;
+      }
+
+      .strategy-grid {
+        display: block;
+      }
+
+      .strategy-panel {
+        padding: 16px;
+        margin-bottom: 8px;
+      }
+
+      .strategy-panel h3 {
+        font-size: 18pt;
+      }
+
+      .strategy-item {
+        padding: 11px 14px;
+        margin-bottom: 7px;
+        grid-template-columns: 30px minmax(0, 1fr);
+      }
+
+      .strategy-item b {
+        width: 30px;
+        height: 30px;
+      }
+
+      .flow-step::after {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <nav class="nav">
+      <div class="nav-inner">
+        <a class="brand" href="#top">
+          <span class="brand-mark">思</span>
+          <span>思博杂学社 Agent Handbook</span>
+        </a>
+        <div class="nav-links">
+          <a href="#pain">机构痛点</a>
+          <a href="#value">核心价值</a>
+          <a href="#strategy">活动设计</a>
+          <a href="#scenarios">应用场景</a>
+          <a href="#workflow">交付流程</a>
+        </div>
+      </div>
+    </nav>
+
+    <header class="hero" id="top">
+      <div>
+        <div class="eyebrow">For Education Agencies</div>
+        <h1>把资深顾问能力，变成机构可复制的 <span>申请策略系统</span></h1>
+        <p class="hero-lede">
+          面向升学咨询机构的顾问能力复制与客户运营工具。它帮助机构沉淀案例、设计更有差异度的学生活动路径、统一判断标准、降低培训成本，并持续生成可用于获客、转化与客户维系的专业内容。
+        </p>
+        <div class="hero-actions">
+          <a class="button primary" href="#value">查看核心卖点</a>
+          <a class="button secondary" href="#workflow">了解工作流</a>
+        </div>
+      </div>
+
+      <div class="system-visual" aria-label="Agent system diagram">
+        <div class="orbit"></div>
+        <div class="core">升学机构<br />AI Agent<br />能力中台</div>
+        <div class="node n1">案例库沉淀<small>强录取、失败、边缘案例</small></div>
+        <div class="node n2">活动设计<small>降低同质化，创造差异点</small></div>
+        <div class="node n3">获客内容<small>画像、讲座、诊断报告</small></div>
+        <div class="node n4">客户维系<small>定期触达、续费、转介绍</small></div>
+      </div>
+    </header>
+
+    <section class="section alt" id="pain">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="section-kicker">Agency Pain Points</div>
+            <h2>机构缺的不是顾问，而是可复制的申请策略系统</h2>
+          </div>
+          <p class="section-note">
+            大多数升学机构的核心经验仍然停留在个人顾问脑中。一旦团队扩张、顾问离职、客户需求变多，活动规划开始同质化，交付质量和利润空间都会被快速拉扯。
+          </p>
+        </div>
+
+        <div class="pain-grid">
+          <article class="pain-card">
+            <div class="num">01</div>
+            <h3>顾问流动性高</h3>
+            <p>资深顾问离开后，案例判断、客户话术和文书经验随人流失，机构很难沉淀长期资产。</p>
+          </article>
+          <article class="pain-card">
+            <div class="num">02</div>
+            <h3>培训成本高</h3>
+            <p>新人需要大量 shadow 和复盘才能理解顶校申请逻辑，资深顾问被反复占用，管理成本上升。</p>
+          </article>
+          <article class="pain-card">
+            <div class="num">03</div>
+            <h3>交付不稳定</h3>
+            <p>不同顾问对同一学生、同一学校的判断口径不一，客户体验取决于碰到哪位顾问。</p>
+          </article>
+          <article class="pain-card">
+            <div class="num">04</div>
+            <h3>活动方案同质化</h3>
+            <p>科研、竞赛、公益、夏校被反复套用，学生很难形成独特画像，机构也很难证明自己有真正的策略能力。</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="value">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="section-kicker">Core Proposition</div>
+            <h2>Agent 的价值，是把申请判断、活动设计和客户运营变得可训练、可复用、可规模化</h2>
+          </div>
+          <p class="section-note">
+            它不是替代机构品牌，而是把机构最难复制的专业能力变成内部基础设施，让每个顾问、销售和运营都能调用同一套方法论。
+          </p>
+        </div>
+
+        <div class="split">
+          <aside class="quote-panel">
+            <p>顾问可以流动，但机构的方法论不能流动。</p>
+            <span>这是机构愿意为 Agent 系统付费的核心原因。</span>
+          </aside>
+
+          <div class="value-grid">
+            <article class="value-card">
+              <span class="tag">降本</span>
+              <h3>减少对明星顾问的依赖</h3>
+              <p>把录取案例、学校画像、文书策略和活动判断沉淀进系统，降低机构对少数资深顾问的结构性依赖。</p>
+            </article>
+            <article class="value-card">
+              <span class="tag">提效</span>
+              <h3>缩短新人培训周期</h3>
+              <p>新人可以通过案例库和标准分析模板快速理解顶校申请逻辑，减少反复培训和低效试错。</p>
+            </article>
+            <article class="value-card">
+              <span class="tag">差异</span>
+              <h3>设计不千篇一律的活动路径</h3>
+              <p>从学生兴趣、资源、专业方向和目标学校出发，生成更有内在逻辑的活动组合，而不是复制“科研+公益+竞赛”的固定套餐。</p>
+            </article>
+            <article class="value-card">
+              <span class="tag">转化</span>
+              <h3>让销售拥有专业弹药</h3>
+              <p>学校 profile、同类学生案例、强录取与意外拒绝对比，都能转化成前端咨询、讲座和客户诊断素材。</p>
+            </article>
+            <article class="value-card">
+              <span class="tag">留存</span>
+              <h3>持续维系客户关系</h3>
+              <p>定期生成目标学校更新、申请策略提醒和阶段性规划建议，让客户感知服务持续发生。</p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt" id="strategy">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="section-kicker">Activity Strategy</div>
+            <h2>真正值钱的能力，是帮学生设计“不可替换”的成长路径</h2>
+          </div>
+          <p class="section-note">
+            项目中的案例反复说明：顶校不只是看学生做了多少活动，而是看活动、文书、专业方向和学校 fit 是否共同指向一个清晰、独特、可信的人物画像。
+          </p>
+        </div>
+
+        <div class="strategy-grid">
+          <article class="strategy-panel">
+            <h3>从活动清单，升级为人物画像设计</h3>
+            <p>
+              机构最容易被替代的服务，是给每个学生安排相似的项目；最难被替代的服务，是基于真实案例判断学生应该形成什么样的 spike、哪些活动能支撑这个 spike、哪些素材应该进入文书核心。
+            </p>
+            <p style="margin-top: 16px;">
+              Agent 可以把案例库中的成功与失败模式转化为活动规划建议：不是问“还缺一个什么活动”，而是判断“这个学生怎样才能被招生官记住”。
+            </p>
+          </article>
+
+          <div class="strategy-list">
+            <div class="strategy-item">
+              <b>01</b>
+              <div>
+                <strong>识别学生的独特起点</strong>
+                <span>从兴趣、家庭资源、学校环境、地域背景、专业方向中寻找可放大的差异点。</span>
+              </div>
+            </div>
+            <div class="strategy-item">
+              <b>02</b>
+              <div>
+                <strong>避免高频模板活动</strong>
+                <span>识别过度拥挤的活动组合，降低“看起来很努力但没有记忆点”的风险。</span>
+              </div>
+            </div>
+            <div class="strategy-item">
+              <b>03</b>
+              <div>
+                <strong>设计活动之间的叙事一致性</strong>
+                <span>让竞赛、研究、公益、产品、写作或工作经历共同服务于一个清晰人物形象。</span>
+              </div>
+            </div>
+            <div class="strategy-item">
+              <b>04</b>
+              <div>
+                <strong>把普通经历做出不普通角度</strong>
+                <span>案例库中大量成功样本并非传统大项目，而是把阅读、家庭工作、手工、地图、音乐剧等素材转化成独特视角。</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="before-after">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="section-kicker">Before And After</div>
+            <h2>从人力驱动，到系统驱动</h2>
+          </div>
+          <p class="section-note">
+            Agent 不只是一个写作工具，而是机构内部的标准化工作台。它让经验、活动设计逻辑和客户沟通方法不再只存在于个别顾问脑中。
+          </p>
+        </div>
+
+        <div class="matrix">
+          <div class="matrix-row">
+            <div class="matrix-cell">维度</div>
+            <div class="matrix-cell">传统机构模式</div>
+            <div class="matrix-cell">Agent 系统模式</div>
+          </div>
+          <div class="matrix-row">
+            <div class="matrix-cell">顾问能力</div>
+            <div class="matrix-cell">高度依赖个人经验，新人培养慢，资深顾问成为瓶颈。</div>
+            <div class="matrix-cell">案例、判断标准和话术被系统化，新人可快速调用成熟框架。</div>
+          </div>
+          <div class="matrix-row">
+            <div class="matrix-cell">客户交付</div>
+            <div class="matrix-cell">不同顾问输出风格差异大，服务质量难统一。</div>
+            <div class="matrix-cell">学校画像、学生诊断、活动规划、文书策略有统一模板，交付更稳定。</div>
+          </div>
+          <div class="matrix-row">
+            <div class="matrix-cell">活动规划</div>
+            <div class="matrix-cell">容易套用科研、竞赛、公益等通用项目，学生画像缺乏差异。</div>
+            <div class="matrix-cell">根据案例规律设计活动组合，形成更清晰的 spike、hooks 和叙事一致性。</div>
+          </div>
+          <div class="matrix-row">
+            <div class="matrix-cell">获客内容</div>
+            <div class="matrix-cell">临时写稿、临时做 PPT，内容产出依赖个人状态。</div>
+            <div class="matrix-cell">从知识库自动生成讲座、推文、案例拆解和家长沟通材料。</div>
+          </div>
+          <div class="matrix-row">
+            <div class="matrix-cell">机构资产</div>
+            <div class="matrix-cell">经验随顾问离职而流失，复盘难以持续积累。</div>
+            <div class="matrix-cell">每次服务和案例更新都沉淀为机构自己的方法论资产。</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt" id="scenarios">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="section-kicker">Use Cases</div>
+            <h2>一个 Agent，贯穿机构的获客、转化、活动规划、交付和续费</h2>
+          </div>
+          <p class="section-note">
+            最有商业价值的地方在于复用：同一套案例与学校画像，既能训练顾问，也能服务销售，还能成为客户运营内容。
+          </p>
+        </div>
+
+        <div class="scenario-grid">
+          <article class="scenario">
+            <div>
+              <div class="scenario-mark">A</div>
+              <h3>销售获客</h3>
+              <p>快速生成目标学校录取画像、家长讲座提纲、同类学生案例拆解，让销售不再只靠“我们很专业”来沟通。</p>
+            </div>
+            <p><strong>典型输出：</strong>Stanford 录取画像、CS 学生竞争力诊断、强录取案例海报。</p>
+          </article>
+
+          <article class="scenario">
+            <div>
+              <div class="scenario-mark">B</div>
+              <h3>活动与画像规划</h3>
+              <p>顾问输入学生背景后，Agent 输出学术画像、活动 spike、hooks、文书方向、目标学校 fit 和风险提醒。</p>
+            </div>
+            <p><strong>典型输出：</strong>学生 profile 分析、差异化活动路线、文书策略 brief。</p>
+          </article>
+
+          <article class="scenario">
+            <div>
+              <div class="scenario-mark">C</div>
+              <h3>客户维系</h3>
+              <p>围绕客户目标学校和申请阶段，持续生成更新、提醒和可解释的规划建议，增强服务存在感。</p>
+            </div>
+            <p><strong>典型输出：</strong>月度策略简报、目标学校更新、阶段性家长沟通材料。</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt" id="workflow">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="section-kicker">Workflow</div>
+            <h2>从客户问题，到可交付材料</h2>
+          </div>
+          <p class="section-note">
+            Agent 将机构日常服务中最耗时的分析、检索、总结和表达工作压缩成一条标准流程。
+          </p>
+        </div>
+
+        <div class="flow">
+          <article class="flow-step">
+            <strong>1. 输入需求</strong>
+            <p>目标学校、学生背景、申请方向或销售场景。</p>
+          </article>
+          <article class="flow-step">
+            <strong>2. 检索案例</strong>
+            <p>调用真实录取案例、失败案例、补充文书和学校数据。</p>
+          </article>
+          <article class="flow-step">
+            <strong>3. 设计策略</strong>
+            <p>拆解学术画像、EC 画像、活动路线、hooks、文书策略与 fit。</p>
+          </article>
+          <article class="flow-step">
+            <strong>4. 输出材料</strong>
+            <p>形成顾问 brief、客户报告、销售话术或内容稿件。</p>
+          </article>
+          <article class="flow-step">
+            <strong>5. 沉淀复用</strong>
+            <p>把新案例、新话术和服务复盘继续加入机构知识库。</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="section-kicker">Business Impact</div>
+            <h2>机构购买的不是工具，而是经营效率</h2>
+          </div>
+          <p class="section-note">
+            对机构老板而言，Agent 的价值最终会回到四件事：更低成本、更稳交付、更强策略能力、更可沉淀的品牌资产。
+          </p>
+        </div>
+
+        <div class="metrics">
+          <div class="metric">
+            <b>01</b>
+            <span>降低顾问培训与重复分析成本</span>
+          </div>
+          <div class="metric">
+            <b>02</b>
+            <span>提升团队平均交付质量</span>
+          </div>
+          <div class="metric">
+            <b>03</b>
+            <span>降低活动规划千篇一律的概率</span>
+          </div>
+          <div class="metric">
+            <b>04</b>
+            <span>把经验沉淀为机构长期资产</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta">
+      <div class="wrap">
+        <div class="cta-box">
+          <div>
+            <h2>最终目标：让机构不再被单个顾问能力绑定</h2>
+            <p>
+              思博杂学社 Agent 可以作为机构的内部能力中台：一端连接真实案例、学校画像和活动设计逻辑，另一端连接顾问培训、客户交付和市场获客。它让专业能力从“个人经验”升级为“组织资产”。
+            </p>
+          </div>
+          <a class="button primary" href="#top">回到开头</a>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>

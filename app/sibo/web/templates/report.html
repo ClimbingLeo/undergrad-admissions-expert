@@ -1,0 +1,52 @@
+{% extends "base.html" %}{% from "_macros.html" import status %}
+{% block title %}{{ r.title }}{% endblock %}
+{% block content %}
+<div class="crumbs no-print"><a href="/reports">报告中心</a>{% if r.student_id %} / <a href="/students/{{ r.student_id }}">{{ r.student_name }}</a>{% endif %}</div>
+<div class="topbar"><div><h1>{{ r.title }}</h1>
+  <div class="sub">{{ REPORT_TYPES[r.type] }} · {{ r.author or '' }} · {{ r.created_at[:16] }}{% if r.model %} · {{ '示例报告' if r.model == 'sample' else r.model }}{% endif %}</div></div>
+  <div class="row no-print">{{ status(r.status) }}
+    {% if r.status != 'pending' and r.output_md %}
+      {% if user.role != 'viewer' %}<a class="btn" href="/reports/{{ r.id }}/edit">✏️ 编辑</a>{% endif %}
+      <button class="btn" type="button" data-keep="1" onclick="copyMd(this)">复制 Markdown</button>
+      <a class="btn" href="/reports/{{ r.id }}?print=1" target="_blank">🖨 打印（内部版）</a>
+      <a class="btn" href="/reports/{{ r.id }}?print=1&clean=1" target="_blank" title="去掉知识库引用标签，适合发给家长">🖨 打印（交付版）</a>
+    {% endif %}
+    {% if user.role != 'viewer' %}<form method="post" action="/reports/{{ r.id }}/delete" onsubmit="return confirm('确认删除这份报告？此操作不可恢复。')"><input type="hidden" name="csrf" value="{{ csrf }}"><button class="btn danger sm">删除</button></form>{% endif %}
+  </div></div>
+<div class="split">
+<div>
+  {% if r.error and r.status == 'done' %}<div class="notice warn">{{ r.error|replace('\n', '<br>')|safe }}</div>{% endif %}
+  {% if r.status == 'error' %}<div class="notice bad">{{ r.error }}</div>{% endif %}
+  {% if r.edited_at %}<div class="notice info small">本报告已由顾问于 {{ r.edited_at[:16] }} 修改（AI 原稿已保留，可在编辑页恢复）。</div>{% endif %}
+  <div class="card"><div class="prose {{ 'cursor' if r.status == 'pending' }}" id="out">
+    {% if r.status != 'pending' and r.output_md %}{{ r.output_md|md_untrusted|safe }}{% elif r.status == 'pending' %}<p class="muted"><span class="live-dot"></span> 正在检索案例并生成，通常需要 1–3 分钟；可以离开此页，稍后在报告中心查看。</p>{% endif %}
+  </div></div>
+</div>
+<div class="no-print">
+  <div class="card"><h3>本报告引用的材料</h3>
+  {% if citations %}<div class="small stack">{% for c in citations %}<div><a href="{{ c.url }}">{{ c.kind }} · {{ c.ref }}</a></div>{% endfor %}</div>
+  {% elif r.status == 'done' %}<p class="muted small">无</p>{% else %}<p class="muted small">生成完成后显示</p>{% endif %}
+  </div>
+  {% set ip = snapshot.get('params', {}) %}
+  {% if ip.get('draft') or ip.get('prompt_text') or ip.get('topic') %}<div class="card"><h3>本次输入</h3>
+    {% if ip.get('prompt_text') %}<p class="small"><b>题目：</b>{{ ip.prompt_text }}</p>{% endif %}
+    {% if ip.get('topic') %}<p class="small"><b>主题：</b>{{ ip.topic }}</p>{% endif %}
+    {% if ip.get('draft') %}<details><summary class="small">查看提交的草稿 / 材料（{{ ip.draft|length }} 字符）</summary><pre class="small" style="white-space:pre-wrap;max-height:360px;overflow:auto">{{ ip.draft }}</pre></details>{% endif %}
+  </div>{% endif %}
+  <div class="card"><h3>检索上下文</h3>
+    <p class="small muted">送入模型的材料 {{ snapshot.get('context_ids', [])|length }} 条，约 {{ (snapshot.get('context_chars', 0) / 1000)|round(1) }}k 字符{% if r.input_tokens %}；消耗 {{ r.input_tokens }} 输入 / {{ r.output_tokens }} 输出 token{% endif %}。</p>
+    {% if snapshot.get('student_code') %}<p class="small muted">学生以代号 <code>{{ snapshot.student_code }}</code> 发送。</p>{% endif %}
+  </div>
+  <div class="card"><h3>使用须知</h3><p class="small ink2">报告中的蓝色标签是可点击的出处（系统只核验出处确实来自本次检索材料，不核验论断本身）。对外交付前请顾问复核：用「编辑」删除不适合家长看到的内部判断，核实所有学校数据，再用「交付版」打印。系统不提供录取概率。</p></div>
+</div>
+</div>
+<textarea id="raw-md" hidden>{{ r.output_md or '' }}</textarea>
+{% endblock %}
+{% block scripts %}<script>
+function copyMd(b){const t=document.getElementById('raw-md').value;navigator.clipboard.writeText(t).then(()=>{b.textContent='已复制';setTimeout(()=>b.textContent='复制 Markdown',1500)});}
+</script>{% if r.status == 'pending' %}<script>
+const out=document.getElementById('out');const es=new EventSource('/reports/{{ r.id }}/stream');
+es.onmessage=e=>{const d=JSON.parse(e.data);out.innerHTML=d.html;};
+es.addEventListener('done',()=>{es.close();setTimeout(()=>location.reload(),400)});
+es.onerror=()=>{es.close();setTimeout(()=>location.reload(),5000)};
+</script>{% endif %}{% endblock %}
