@@ -86,6 +86,14 @@ def test_trust_summary_sections_not_verified():
     assert _trust_for("关键录取数据", "见 https://example.edu/stats", "data") == "verified_source"
 
 
+def test_trust_composite_only_for_fictional_hypotheticals():
+    from sibo.ingest.parsers import _trust_for
+    # 普通用法的「假设」不是虚构案例
+    assert _trust_for("对中国学生的建议", "不要假设录取官知道 AMC 的价值", "insight") == "unsourced"
+    # 假设的学生 / 化名人物 → 示例画像
+    assert _trust_for("学生画像", "以下是一个假设的学生：北京国际学校，SAT 1550", "cases") == "composite"
+
+
 def test_stream_retries_only_before_any_text(monkeypatch):
     import pytest
     from sibo.ai import client as C

@@ -8,7 +8,7 @@
 | **活动 / Spike 规划** | 2–3 个差异化 Spike 假设 + 学期路线图，参考同专业录取者的真实活动结构 | 活动方案同质化 |
 | **文书策略 / 批改** | 按学校 + 题目调出录取与未录取的真实样本对照，生成选题角度、结构骨架或逐段批改 | 文书经验难沉淀 |
 | **IB 数学 EE 评审** | 对照真实 A / B / C 级 EE 与评分标准，诊断 RQ、数学深度与批判性分析 | 增值服务 |
-| **知识库** | 52 所学校画像、120 份申请者画像（多校录取 / 拒绝结果）、786 篇真实文书全文、30 个深度案例、42 篇 EE 样本 | 新人培训成本高 |
+| **知识库** | 60 所学校画像、120 份申请者画像（多校录取 / 拒绝结果）、786 篇真实文书全文、30 个深度案例、42 篇 EE 样本 | 新人培训成本高 |
 | **获客内容** | 把真实案例转成公众号长文 / 讲座提纲 / 朋友圈文案 | 销售缺专业弹药 |
 | **报告编辑与交付** | 顾问可直接改稿（AI 原稿保留、可恢复）；「内部版」带知识库出处，「交付版」把出处换成"案例 1/2/3"，机构品牌页眉，A4 打印 / 存为 PDF | 客户交付 |
 
@@ -109,7 +109,8 @@ cd app
 - **Harvard Crimson 文书**：属于赞助专题，非哈佛官方，系统已标注。
 - **学生数据**：会以代号形式发送给 Anthropic API 处理。请在机构服务协议中告知家长。
 - **藤校 + 顶尖私校画像（2026-11 新增）**：Harvard、Yale、Princeton、MIT、Columbia、Penn、Caltech、UChicago、Duke、Brown、Cornell、Dartmouth、Northwestern 共 13 所，由调研 agent 逐条对照官方来源（招生办新闻稿、Common Data Set、官方 class profile、2026–27 官方文书题目）编写，每个数字附原始链接，未编写任何学生案例；官方未公布的数据（如多数学校的国际生录取率、早申分轮次数据）明确写「官方未公布」。每年 9–11 月新数据发布后需要更新。
-- **仍未覆盖**：CMU、UC Berkeley、UCLA、Michigan、Rice、Vanderbilt、WashU、Notre Dame 这 8 所美国热门校目前没有学校画像（有文书样本和申请者结果）。诊断报告会提示"材料未覆盖，需顾问补充核实"。
+- **热门公立 / 私校画像（2026-11 第二批）**：CMU、UC Berkeley、UCLA、Michigan、Rice、Vanderbilt、WashU、Notre Dame 共 8 所，编写规则同上；UC 系列按 test-blind 和 PIQ 写，CMU / Berkeley / Michigan / UCLA 单列了学院或专业差异。Fable 独立抽查约 60 处，未发现编造的数字或人物；已改正 CMU「ED 只能报一个学院」、Michigan ED 录取率不可比等问题。至此 US News 全国大学排名前 30 都有画像；顶尖文理学院（Williams、Amherst、Pomona、Harvey Mudd 等）和其余学校仍未覆盖，诊断报告会提示"材料未覆盖，需顾问补充核实"。
+- **官方原件核对**：Princeton、Brown、Columbia 的 2025–26 CDS 和 Yale Class of 2030 官方 profile 已下载逐项比对，数字一致。部分官方页面（Tableau、Cloudflare 防护、403）无法自动读取，相关数字保留来源链接，待人工下载原件后复核。
 
 ## 开发
 
