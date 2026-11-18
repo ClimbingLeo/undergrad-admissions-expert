@@ -2,26 +2,32 @@
 
 ## 📊 关键录取数据（2024-2025）
 
+CDS 2024–25 的录取数字对应 2024 秋入学（Class of 2028），不是最新一届。
+
 | 指标 | 数值 |
 | --- | --- |
-| 申请总人数 | 40,000+ |
-| 整体录取率 | 16.81% |
-| 早申(ED)录取率 | 25.8% |
-| 早申(EA)录取率 | 16.1% |
-| 常规轮次(RD)录取率 | 9.7% |
-| 州内录取率 | 26% |
-| 州外录取率 | 14% |
-| 国际生录取率 | 10.4% |
-| Yield | ~50% |
-| 国际生比例 | 5% (约2,500人) |
+| 申请总人数 | 58,951（CDS C1）（2026-11 按官方 CDS 2024–25 原件更正） |
+| 录取 / 入学人数 | 9,909 / 3,961（CDS C1） |
+| 整体录取率 | 16.81%（9,909 / 58,951） |
+| 早申(ED)录取率 | 27.9%（1,245 / 4,461，CDS C21）（2026-11 按官方 CDS 2024–25 原件更正） |
+| 早申(EA)录取率 | 16.1%（CDS 不分 EA / RD 报数，此数未能用 CDS 核对） |
+| 常规轮次(RD)录取率 | 9.7%（同上，未能用 CDS 核对；按 CDS 可算的是 EA+RD 合计约 15.9%，即 8,664 / 54,490） |
+| 州内录取率 | 26%（4,269 / 16,464，CDS C1） |
+| 州外录取率 | 14%（4,912 / 35,526，CDS C1） |
+| 国际生录取率 | 约 10.5%（728 / 6,961，CDS C1）（2026-11 按官方 CDS 2024–25 原件更正） |
+| Yield | 约 40%（3,961 / 9,909）（2026-11 按官方 CDS 2024–25 原件更正） |
+| 国际生比例 | 新生 206 / 3,961 ≈ 5.2%；本科学位生 835 / 17,577 ≈ 4.8%（CDS B2）（2026-11 按官方 CDS 2024–25 原件更正） |
+| 候补：给出 / 接受 / 最终录取 | 10,470 / 6,759 / 242（CDS C2） |
+
+注：CDS C1 分居住地的「入学」一行，州内一格填的是 206，与州外 1,132、国际 206 相加远低于总数 3,961，疑为原件填错，本画像不引用分居住地的入学人数。
 
 **数据来源**: UVA官方Common Data Set 2024-2025, UVA官方招生统计页面
 
 **关键洞察**:
 - UVA的录取率在过去几年持续下降，已成为全美最具竞争力的公立大学之一
 - 州内学生相对优势明显(26% vs 14%)，但全校仍保持2/3州内、1/3州外的目标比例
-- 国际生录取率仅为10.4%，约为整体录取率的60%，竞争极其激烈
-- ED轮次录取率(25.8%)远高于RD(9.7%)，约为2.7倍，显著提示ED策略重要性
+- 国际生录取率仅约10.5%，约为整体录取率的62%，竞争极其激烈（2026-11 按官方 CDS 2024–25 原件更正）
+- ED轮次录取率(27.9%)远高于RD(9.7%，未经 CDS 核对)，约为2.9倍；只用 CDS 数字比较，是 ED 27.9% 对非 ED（EA+RD 合计）约 15.9%，约 1.75 倍（2026-11 按官方 CDS 2024–25 原件更正）
 
 ---
 
@@ -30,9 +36,9 @@
 ### GPA成绩
 
 **录取生GPA分布**
-- 整体中位数: 4.31 (加权5.0制)
-- 90.5%录取生GPA为4.0
-- 95%+ 录取生GPA高于3.75
+- 整体中位数: 4.31 (加权5.0制)（此数无 CDS 出处：CDS 2024–25 C12 平均 GPA 一栏空白）
+- 90.5% 入学新生（不是录取生）GPA 为 4.0（4.0 制，CDS C11；81.47% 的新生报了 GPA）（2026-11 按官方 CDS 2024–25 原件更正）
+- 97.3% 入学新生 GPA ≥ 3.75（C11：4.0 占 90.5% + 3.75–3.99 占 6.8%）（2026-11 按官方 CDS 2024–25 原件更正）
 - 3.75以下的GPA几乎无录取机会(除非有特殊Hook)
 
 **中国学生现状**
@@ -44,7 +50,8 @@
 
 **SAT成绩分布**
 - 中位区间(Middle 50%): 1410-1520
-- 75th percentile: 1540
+- 75th percentile: 1520（2026-11 按官方 CDS 2024–25 原件更正）
+- 50th percentile: 1470（CDS C9）
 - 25th percentile: 1410
 
 **ACT成绩分布**
@@ -52,7 +59,7 @@
 - 75th percentile: 35
 
 **Test-Optional政策**
-- UVA是Test-Optional，约60%的录取学生提交了SAT/ACT成绩
+- UVA是Test-Optional（CDS C8A：Fall 2026 为 not required but considered if submitted）；入学新生中 45.6%（1,805 人）交了 SAT、13.8%（547 人）交了 ACT（CDS C9，口径是入学新生而非录取生；两项可能有人重叠）（2026-11 按官方 CDS 2024–25 原件更正）
 - 不提交成绩不会被直接劣化，但提交1450+的SAT有助于竞争力
 - 国际生提交标化成绩的比例更高(建议提交)
 
@@ -235,14 +242,14 @@
 | Hook类型 | 影响程度 | 说明 | 对中国学生的相关性 |
 | --- | --- | --- | --- |
 | **招募运动员(Recruited Athlete)** | 极高(+++) | NCAA Division I运动队需要的选手显著提升录取概率，但必须达到大学竞技水平 | 低 - 国内高中普遍缺乏体育传统竞技培养 |
-| **早期决定承诺(ED Binding)** | 高(++) | ED申请者录取率为25.8%，约为RD(9.7%)的2.7倍 | 中等 - 需确保UVA为首选，财务可行 |
-| **州内身份(Virginia Resident)** | 中(+) | 州内学生录取率26%，州外14%，但UVA致力维持2/3州内目标 | 低 - 国内学生通常为国际/州外 |
-| **一代学生(First-Generation)** | 中(+) | UVA主动招募第一代学生，但需与其他因素结合 | 中等 - 中国许多学生家长教育程度高 |
+| **早期决定承诺(ED Binding)** | 高(++) | ED申请者录取率为27.9%（CDS C21），约为RD(9.7%，未经 CDS 核对)的2.9倍；对非 ED 合计 15.9% 约 1.75 倍（2026-11 按官方 CDS 2024–25 原件更正） | 中等 - 需确保UVA为首选，财务可行 |
+| **州内身份(Virginia Resident)** | 高(++) | CDS C7 中 State residency 为 Very Important；州内学生录取率26%，州外14%，UVA致力维持2/3州内目标（2026-11 按官方 CDS 2024–25 原件更正） | 低 - 国内学生通常为国际/州外 |
+| **一代学生(First-Generation)** | 中(+) | UVA主动招募第一代学生，但需与其他因素结合；CDS C7 中 First generation 为 Considered | 中等 - 中国许多学生家长教育程度高 |
 | **学术/科学竞赛顶级成就(USAMO/IOI/IPhO等)** | 高(++) | 国家级或国际级数学、物理、信息竞赛获奖者 | 高 - 中国学生竞赛传统强，但需国际认可竞赛 |
 | **机器人/工程竞赛全国级(FIRST/VEX等)** | 高(++) | 全国机器人竞赛决赛级参赛者，尤其是领导者 | 中等 - 国内STEM竞赛规模在扩大 |
 | **Science Olympiad/其他科学奥林匹克** | 高(++) | 州冠军、全国决赛者具有显著竞争力 | 低-中 - 中国高中较少参加此类美国本土竞赛 |
 | **管理人员的孩子(Child of Faculty/Staff)** | 中(+) | UVA教职工的子女有一定优势 | 极低 - 通常为美国本土学生 |
-| **遗产(Legacy)** | 低(±) | UVA逐步削减legacy优势；已改为需申请者主动说明连接 | 极低 - 中国学生通常无校友背景 |
+| **遗产(Legacy)** | 无 | CDS C7 中 Alumni/ae relation 为 Not Considered（2026-11 按官方 CDS 2024–25 原件更正） | 极低 - 中国学生通常无校友背景 |
 | **发表研究/论文(Published Research)** | 高(++) | 拥有已发表会议论文或期刊论文的申请者 | 中等 - 国内部分顶尖高中有科研项目 |
 | **国际竞赛获奖(International Awards)** | 高(++) | 国际级竞赛获奖(如IMO、IBO、IPhO等) | 中等-高 - 中国学生常参加国际奥林匹克竞赛 |
 | **创业/创新项目(Entrepreneurship)** | 中(+) | 创办企业、开发App、获得投融资的学生 | 中等 - 需展现实质性成果，非概念性 |
@@ -264,13 +271,13 @@
 
 | 轮次 | 截止日期 | 录取率 | 何时发榜 | 建议 |
 | --- | --- | --- | --- | --- |
-| **Early Decision (ED)** | 11月1日 | 25.8% | 12月中旬 | 如UVA是首选，强烈建议。ED相对宽松2.7倍 |
-| **Early Action (EA)** | 11月1日 | 16.1% | 1月底 | 非绑定，可同时申请多校。仍比RD容易 |
-| **Regular Decision (RD)** | 1月1日 | 9.7% | 3月-4月 | 竞争最激烈。需要充分时间打磨文书 |
-| **Transfer** | 4月1日 | ~10-15% | 6月 | 少数选项；需大学成绩 |
+| **Early Decision (ED)** | 11月1日 | 27.9%（CDS C21）（2026-11 按官方 CDS 2024–25 原件更正） | 12月中旬（CDS：12/15） | 如UVA是首选，强烈建议。ED录取率约为RD的2.9倍（RD 数未经 CDS 核对）（2026-11 按官方 CDS 2024–25 原件更正） |
+| **Early Action (EA)** | 11月1日 | 16.1%（未能用 CDS 核对） | 2月15日前（CDS C22）（2026-11 按官方 CDS 2024–25 原件更正） | 非绑定，可同时申请多校。仍比RD容易 |
+| **Regular Decision (RD)** | 1月1日 | 9.7%（未能用 CDS 核对） | 4月1日前（CDS C16） | 竞争最激烈。需要充分时间打磨文书 |
+| **Transfer** | 3月1日（CDS D9）（2026-11 按官方 CDS 2024–25 原件更正） | 约32%（1,357 / 4,245，CDS D2）（2026-11 按官方 CDS 2024–25 原件更正） | 5月1日前（CDS D9）（2026-11 按官方 CDS 2024–25 原件更正） | 少数选项；需大学成绩 |
 
 **申请策略建议**:
-1. **如果UVA为First Choice**: 选择ED轮次 - 录取概率是RD的2.7倍
+1. **如果UVA为First Choice**: 选择ED轮次 - 录取率约为RD的2.9倍（RD 数未经 CDS 核对）（2026-11 按官方 CDS 2024–25 原件更正）
 2. **如果在Top 2-3选项**: 选择EA轮次 - 保留灵活性同时获得早期决定优势
 3. **如有不确定因素**: 选择RD轮次 - 有更多时间思考和准备
 
@@ -558,8 +565,8 @@ to the University community."
 **体现在申请设计中**：
 
 - 2025–26 季已取消补充文书，只交 Common App 主文书（据 UVA Magazine 2026-02 报道）；2026–27 季因招生官网无法打开，未能核实。往年的「UVA 社区 / 背景」类短答题已取消。招生主任说的这些特质，现在只能从主文书和推荐信里体现。
-- 无面试（第三方转述招生办博客，官网未能核对）；ED / EA / RD 三轮；州内约占三分之二名额（Class of 2030 目标 3,988 人，"roughly two-thirds of whom will be from Virginia"）。
-- CDS C7：官方 CDS 页面本次被拦截，只能确认本画像所写课程难度为 Very Important，其他项未能核对。
+- 无面试（CDS 2024–25 C7 中 Interview 为 Not Considered）；ED / EA / RD 三轮；州内约占三分之二名额（Class of 2030 目标 3,988 人，"roughly two-thirds of whom will be from Virginia"）。
+- CDS 2024–25 C7（按 PDF 原件核对）：Very Important 为 Rigor、Class rank、Academic GPA、Character/personal qualities、State residency；Important 为文书、推荐信、课外活动、Talent/ability；Considered 为标化成绩、First generation、Geographical residence、志愿、工作经历；Interview、Alumni/ae relation、Religious affiliation、Level of applicant's interest 为 Not Considered。Character/personal qualities 列为 Very Important，与上面招生主任强调品格的说法一致（2026-11 按官方 CDS 2024–25 原件更正）。
 
 **流行说法核查**：
 
@@ -598,14 +605,14 @@ to the University community."
 ### 2. 充分利用Early Decision的优势
 
 **当前现实**:
-- ED录取率(25.8%) 是 RD(9.7%)的2.7倍
+- ED录取率(27.9%，CDS C21) 约是 RD(9.7%，未经 CDS 核对)的2.9倍（2026-11 按官方 CDS 2024–25 原件更正）
 - 对国际学生尤其如此，ED相对易于
 
 **建议**:
 - **若UVA is genuinely your first choice**:
   - 选择ED轮次，11月1日前提交
   - ED无条件承诺，所以需100%确定
-  - 有利于财务援助沟通(有commitment会更好协商)
+  - 有利于财务援助沟通(有commitment会更好协商)（仅对美国申请人有意义：CDS H6 写明国际本科生没有校方奖助学金）（2026-11 按官方 CDS 2024–25 原件更正）
 
 - **若UVA is top 2-3 choice**:
   - 考虑EA轮次，保留灵活性但仍获早期advantage
@@ -667,7 +674,7 @@ to the University community."
 ### 5. 国际生身份的策略性呈现
 
 **当前现实**:
-- 国际生录取率仅10.4%，比overall低40%
+- 国际生录取率仅约10.5%（728 / 6,961），比overall(16.81%)低约38%（2026-11 按官方 CDS 2024–25 原件更正）
 - 但作为minority perspective，国际生也可能是有价值的diversity
 
 **建议**:
@@ -691,7 +698,7 @@ to the University community."
 ### 6. 充分利用Demonstrated Interest
 
 **当前现实**:
-- UVA虽不official计入"demonstrated interest"，但Contact with admissions + 参加info sessions会帮助
+- CDS 2024–25 C7 中 Level of applicant's interest 为 Not Considered：联系招生办、参加 info session 不计入录取评估，下面的建议只用于了解学校、写好文书（2026-11 按官方 CDS 2024–25 原件更正）
 - 与其他顶级大学不同，UVA更看重genuine connection
 
 **建议**:
@@ -712,7 +719,7 @@ to the University community."
 ### 7. 财务援助沟通(国际生特别提醒)
 
 **当前现实**:
-- UVA 官网（sfs.virginia.edu、admission.virginia.edu）本次打不开，国际生资助政策待核（2026-11）。申请前请到 UVA Student Financial Services 官网确认国际生是否有资助（2026-11 更正）
+- CDS 2024–25 H6 勾选「Institutional scholarship or grant aid is not available」：UVA 不向国际本科学位生提供校方奖助学金（need-based 和 non-need-based 都没有）（2026-11 按官方 CDS 2024–25 原件更正）。官网（sfs.virginia.edu）本次打不开，2026–27 季政策申请前仍应到官网确认
 - 中国学生需要明确沟通财务expectations
 
 **建议**:
@@ -721,7 +728,7 @@ to the University community."
 - **若选ED，需确保财务可行**:
   - ED是binding，需确保财务援助package可接受
   - 可在ED前与admissions office沟通financial constraints
-  - 询问是否能获得merit aid(基于academic merit)
+  - 不要指望 merit aid：CDS H6 显示校方 non-need-based 奖助学金也不对国际生开放（2026-11 按官方 CDS 2024–25 原件更正）
 
 - **准备备选方案**:
   - 如果财务援助不足，可能需defer入学一年或选择其他大学
@@ -762,7 +769,7 @@ to the University community."
 ### Tier 2: 强烈有利(Highly Advantageous)
 5. **国际竞赛参与或成就** (IMO, IPhO等) - 对国际学生最有力
 6. **科研/论文发表** - 如有机会参加summer research程序
-7. **ED承诺** (若UVA is first choice) - 录取率提升2.7倍
+7. **ED承诺** (若UVA is first choice) - ED 录取率约为 RD 的2.9倍（RD 数未经 CDS 核对）（2026-11 按官方 CDS 2024–25 原件更正）
 8. **跨文化身份thoughtfully呈现** - 独特perspective如果genuine
 
 ### Tier 3: 加强申请(Nice to Have)
@@ -817,3 +824,18 @@ to the University community."
 
 - 国际生资助：「UVA 对国际生 need-aware」，没有可核对的官方出处
 - 实战建议：「在 FAFSA 和 CSS Profile 中诚实报告」（中国籍国际生不填 FAFSA）
+- 申请总人数：原写「40,000+」→ 按 CDS 原件改为 58,951（CDS 2024–25 C1）
+- ED 录取率：原写「25.8%」→ 按 CDS 原件改为 27.9%（1,245 / 4,461，C21）；随之「ED 是 RD 的 2.7 倍」→ 约 2.9 倍（RD 9.7% 仍未经 CDS 核对）
+- 国际生录取率：原写「10.4%」→ 按 CDS 原件改为约 10.5%（728 / 6,961，C1）；「比 overall 低 40%」→ 低约 38%；「约为整体录取率的 60%」→ 约 62%
+- Yield：原写「~50%」→ 按 CDS 原件改为约 40%（3,961 / 9,909，C1）
+- 国际生比例：原写「5%（约 2,500 人）」→ 按 CDS 原件改为新生 206 / 3,961 ≈ 5.2%、本科学位生 835 / 17,577 ≈ 4.8%（B2）
+- GPA：原写「90.5% 录取生 GPA 为 4.0」「95%+ 录取生 GPA 高于 3.75」→ 按 CDS 原件改为入学新生口径，90.5% 为 4.0、97.3% ≥ 3.75（C11）
+- SAT 75 分位：原写「1540」→ 按 CDS 原件改为 1520（C9）
+- 标化提交比例：原写「约 60% 的录取学生提交了 SAT/ACT」→ 按 CDS 原件改为入学新生 SAT 45.6%（1,805）、ACT 13.8%（547）（C9）
+- 州内身份 Hook：原写影响程度「中(+)」→ 按 CDS 原件改为「高(++)」，C7 State residency 为 Very Important
+- Legacy：原写「低(±)；UVA 逐步削减 legacy 优势；已改为需申请者主动说明连接」→ 按 CDS 原件改为 C7 Alumni/ae relation 为 Not Considered
+- EA 放榜：原写「1 月底」→ 按 CDS 原件改为 2 月 15 日前（C22）
+- 转学：原写截止「4 月 1 日」、录取率「~10-15%」、放榜「6 月」→ 按 CDS 原件改为 3 月 1 日截止、约 32%（1,357 / 4,245）、5 月 1 日前放榜（D2、D9）
+- Demonstrated interest：原写「UVA 虽不 official 计入，但 Contact with admissions + 参加 info sessions 会帮助」→ 按 CDS 原件改为 C7 Level of applicant's interest 为 Not Considered
+- 国际生资助：原写「国际生资助政策待核」「询问是否能获得 merit aid」→ 按 CDS 原件改为 H6「Institutional scholarship or grant aid is not available」
+- 学校看重的特质节 CDS C7 说明：原写「只能确认课程难度为 Very Important，其他项未能核对」→ 按 CDS 原件补全 C7 各项评级；「无面试」出处由「第三方转述招生办博客」改为 C7 Interview Not Considered

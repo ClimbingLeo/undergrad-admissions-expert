@@ -11,14 +11,16 @@ Rice 的 Class of 2030 只公布了总数和 ED I 录取人数；分轮次、分
 | 整体录取率 | 7.7% | 8.0% | 同上；[Rice Class Profile](https://admission.rice.edu/apply/class-profile) |
 | ED（ED I + ED II 合计）申请 / 录取 | ED I 录取 447 人（创纪录），另有 QuestBridge 匹配 128 人；ED 申请数和 ED II 数字官方未公布 | 5,748 申 / 647 录，录取率 11.3%（按 CDS 计算）；ED 录取者 629 人入学 | [Rice News, 2025-12-17](https://news.rice.edu/news/2025/joy-surprise-and-tears-rice-welcomes-record-early-decision-class-2030-0)；[CDS 2025–26 C21](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
 | ED 以外（RD）录取率 | 官方未公布 | 约 7.4%（2,301/31,043，按 CDS 计算；含 ED 被延期者） | [CDS 2025–26](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
-| **国际生申请 / 录取** | 官方未公布 | **8,791 申 / 332 录，录取率约 3.8%**；入学 164 人 | [CDS 2025–26 C1](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
-| 德州 / 外州录取率 | 官方未公布 | 德州 10,610 申 / 847 录（约 8.0%）；外州 17,390 申 / 1,769 录（约 10.2%） | 同上 |
+| **国际生申请 / 录取** | 官方未公布 | **8,793 申 / 334 录，录取率约 3.8%**；入学 166 人（C1 按申请时地址口径；按国籍口径的 B2 Nonresidents 新生为 164 人）（2026-11 按官方 CDS 2025–26 原件更正） | [CDS 2025–26 C1](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
+| 德州 / 外州录取率 | 官方未公布 | 德州 10,610 申 / 847 录（约 8.0%）；外州 17,388 申 / 1,767 录（约 10.2%）（2026-11 按官方 CDS 2025–26 原件更正） | 同上 |
 | 入学人数 | 新生 1,350 余人（史上最大），来自 46 个州、54 个国家 | 1,263 | [Rice News, 2026-08-17](https://news.rice.edu/news/2026/rice-welcomes-largest-ever-incoming-class-move-day-kicks-o-week)；[CDS 2025–26](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
 | 国际生在读比例 | 官方未公布 | 新生 13%（164/1,263），来自 56 个国家（含中国）；全体学位本科生 642/4,793 ≈ 13.4% | [Rice Class Profile](https://admission.rice.edu/apply/class-profile)；[CDS 2025–26 B2](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
 | Yield | 官方未公布 | 42.8%（1,263/2,948，按 CDS 计算） | [CDS 2025–26](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
 | 候补 | 官方未公布 | 发出 3,196 个，2,204 人接受，录取 66 人 | [CDS 2025–26 C2](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
 
 > 口径提示：Class of 2030 的 2,984 / 38,603 来自校报 Thresher 对 3 月 RD 放榜的报道（网页有人机验证，正文由第三方转引核对：[Ivy Coach](https://www.ivycoach.com/the-ivy-coach-blog/college-admissions/rice-admissions-statistics/)）。Class of 2029 在放榜时报的是 2,852 / 36,777（7.8%）（[Rice Thresher, 2025-03](https://www.ricethresher.org/article/2025/03/rice-welcomes-7-8-of-applicants-to-class-of-2029)），CDS 最终口径是 2,948 / 36,791（8.0%），差额应是候补录取等后续变动。Class of 2030 的最终口径要等 CDS 2026–27。
+>
+> 原件核对（2026-11）：上表「Class of 2029」一列以及下文学术画像、C7 两张表，已与官方 CDS 2025–26 原件（PDF，Updated 10-7-2026）逐项比对：C1 总数 36,791 / 2,948 / 1,263 与德州 10,610 / 847、C2 候补 3,196 / 2,204 / 66、C7 全部因素、C8A（Recommended）、C9 分位与提交比例、C10、C11/C12（N/A）、C21（5,748 / 647 / 629）一致；国际生与外州的分居住地数字已按原件更正。「Class of 2030」一列（38,603 / 2,984、ED I 447、QuestBridge 128、新生 1,350 余人）来自校报和 Rice News，属于 2025–26 季，CDS 2025–26 不覆盖，未核对。
 
 ## 学术硬件画像
 
@@ -175,10 +177,17 @@ CDS C7 非学业因素（2025–26，[来源](https://ideas.rice.edu/wp-content/
 
 ## 对中国学生的建议
 
-1. **国际生是最难的赛道**：Class of 2029 国际生 8,791 人申请、只录 332 人（约 3.8%），不到整体录取率 8.0% 的一半。选校定位时，Rice 对中国学生应按「冲刺」档看，不能按 8% 的总录取率估算。
+1. **国际生是最难的赛道**：Class of 2029 国际生 8,793 人申请、只录 334 人（约 3.8%）（2026-11 按官方 CDS 2025–26 原件更正），不到整体录取率 8.0% 的一半。选校定位时，Rice 对中国学生应按「冲刺」档看，不能按 8% 的总录取率估算。
 2. **申请资助会影响录取**：Rice 对国际生 need-aware，资助名额有限，而且首次没申请资助以后就不能再申。家庭要在申请前决定是否申请资助；不申请资助的，也必须交财力证明。
 3. **ED 有优势，而且有两轮**：ED（I+II）录取率 11.3%，高于 ED 以外的约 7.4%，ED 录取者约占新生的一半。ED II（1 月 4 日截止）适合 ED I 投了别的学校、被拒或延期后，把 Rice 作为第二个绑定选择。
 4. **有好分数就交**：Rice 官方「推荐提交」，CDS 把标化列为 Very important，交分新生 SAT 中位 1540。CDS 的 SAT 25 分位是 1510，达到 1510 以上（最好接近中位 1540）再提交；明显偏低的再权衡，同时用 AP、IB 成绩补强学术证据。
 5. **一定要申请面试**：官方推荐面试，CDS 把面试和表现兴趣都列为 Considered，评估中还单独看「对 Rice 的了解」。中国学生可以通过 portal 申请校友 / 学生面试，或者交 InitialView，同时用它证明英语能力。
 6. **理工科先补齐课程**：报工程或理学院必须修过 pre-calculus 或三角，以及化学和物理。报名时选的学院和方向会被检验「匹配度」，课程、活动、文书第 1 题要能对上。
 7. **150 词的 Why Rice 要写具体**：字数很短，要直接点名住宿学院制度、具体课程或研究资源，并说明它们和你的关系；The Box 不计分，但要选一张不需要解释也能看懂的图。
+
+## 更正记录（2026-11）
+
+> 以下是本画像旧版本中已作废的数字，仅供追溯，**不要引用**。现行数字见正文对应位置。
+
+- 国际生（Class of 2029，CDS 2025–26 C1 分居住地）：原写 8,791 申 / 332 录、入学 164 → 按原件改为 8,793 申 / 334 录、入学 166（164 是 B2 按国籍统计的新生 Nonresidents 数，口径不同）；录取率仍约 3.8%
+- 外州（Class of 2029，CDS 2025–26 C1 分居住地）：原写 17,390 申 / 1,769 录 → 按原件改为 17,388 申 / 1,767 录；录取率仍约 10.2%
