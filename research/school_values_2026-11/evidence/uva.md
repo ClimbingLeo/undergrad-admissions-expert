@@ -28,3 +28,7 @@ UVA, U.Va., University of Virginia, Virginia, Virginians, Commonwealth, Commonwe
   - 荣誉和学生自治确实是学校核心身份：使命把 honor 列为 "distinctive foundational values" 之首（quote 8），校长在开学典礼上要求新生 "seek honor"、签 Honor Pledge（quotes 9、10），2025 年开学典礼由学生会主席介绍学生自治、由 Honor Committee 主席带领新生签荣誉卷轴（UVA Today 2025-08-25，https://news.virginia.edu/content/new-hoos-welcomed-opening-convocation ）。
   - 但这些都发生在**入学之后**，是对新生的规范教育。本次找到的招生办表述（quotes 1–5）都没有提 honor 或 self-governance；申请材料里也没有相关题目（2026–27 无补充文书）。「招生官看重你和 Honor Code 的契合」这类说法只出现在咨询公司网站上，没有找到官方出处。
   - 限制：招生官网本次被拦截，无法排除官网介绍页提到荣誉制度（第三方搜索摘要显示招生宣传册把学生自治和荣誉制度作为校园特色介绍，未能打开核对）。即便如此，那是宣传校园文化，不等于评审标准。
+## 2026-11 补充（用户手动另存的招生官网页面，原件 PDF 在 CDS/ 目录）
+11. "…we ask you to sign an honor statement before submitting the Common Application because the UVA community is anchored by trust and integrity." — UVA 本科招生办，官网「Application Review Process」页，2026 存档，https://admission.virginia.edu/admission/application-review-process
+12. "…you are pledging that the application materials you submit to us are your original work, not primarily a product of AI." — 同上页面，2026
+- 对流行说法核查的影响：申请环节确实涉及 honor（提交前签原创承诺），所以「申请材料里没有任何 honor 相关内容」要收窄；但页面把它写成对材料真实性的承诺，没有列为评审维度，「不作为录取标准」的判断不变。同页称 "We do not use a formula, equation, or algorithm during our review."，未提面试、推荐信、兴趣度。

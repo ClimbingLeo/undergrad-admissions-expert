@@ -6,16 +6,16 @@ Cornell 的官方数据有两个来源。一是 IR&P 的 University Factbook，�
 
 | 指标 | Class of 2030（Fall 2026） | Class of 2029（Fall 2025，CDS 2025–26） |
 | --- | --- | --- |
-| 申请人数 | 65,514（ED 7,919 + RD 57,595）（[Cornell Factbook 一年级录取](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)；总数另见 Cornell IR&P 官方 Quick Facts「First-year admissions, Fall 2026」，ED/RD 拆分只见于 Factbook）（2026-11 按 Cornell 官方 Quick Facts 核对） | 72,523（[Cornell CDS 2025–26 C1](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
-| 录取人数 | 6,040（ED 1,653 + RD 4,387）（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)；总数与官方 Quick Facts Fall 2026 的 Acceptances 一致）（2026-11 按 Cornell 官方 Quick Facts 核对）；3 月放榜当天为 5,776（[Cornell Daily Sun, 2026-03](https://cornellsun.com/article/2026/03/cornell-accepts-5-776-students-to-class-of-2030)），两者差额应来自之后的候补录取等 | 6,077（[CDS C1](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
+| 申请人数 | 65,514（ED 7,919 + RD 57,595）（[Cornell Factbook 一年级录取](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)；总数另见 Cornell IR&P 官方 Quick Facts「First-year admissions, Fall 2026」，ED/RD 拆分只见于 Factbook）（2026-11 按 Cornell 官方 Quick Facts 核对）（2026-11 按 Factbook「Profile, Fall first-year」原件核对，Entering Fall 2026，2026-09-01 更新） | 72,523（[Cornell CDS 2025–26 C1](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
+| 录取人数 | 6,040（ED 1,653 + RD 4,387）（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)；总数与官方 Quick Facts Fall 2026 的 Acceptances 一致）（2026-11 按 Cornell 官方 Quick Facts 核对）（2026-11 按 Factbook「Profile, Fall first-year」原件核对，Entering Fall 2026，2026-09-01 更新）；3 月放榜当天为 5,776（[Cornell Daily Sun, 2026-03](https://cornellsun.com/article/2026/03/cornell-accepts-5-776-students-to-class-of-2030)），两者差额应来自之后的候补录取等 | 6,077（[CDS C1](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
 | 整体录取率 | 约 9.2%（6,040/65,514，按 Factbook 计算） | 约 8.4%（6,077/72,523，按 CDS 计算） |
 | ED 录取率 | 约 20.9%（1,653/7,919，按 Factbook 计算） | CDS 2025–26 的 C21 字段填写错位，不可靠，不引用 |
 | RD 录取率 | 约 7.6%（4,387/57,595，按 Factbook 计算） | — |
-| 预计入学人数 / Yield | 3,681 人（ED 1,608 + RD 2,073），yield 约 60.9%（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)；总数与官方 Quick Facts Fall 2026 的 Entering 一致，Quick Facts 注明 Entering 指 7 月中旬最终招生快照时预计入学的人数）（2026-11 按 Cornell 官方 Quick Facts 核对） | 3,827 人，yield 约 63.0%（[CDS C1](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
+| 预计入学人数 / Yield | 3,681 人（ED 1,608 + RD 2,073），yield 约 60.9%（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)；总数与官方 Quick Facts Fall 2026 的 Entering 一致，Quick Facts 注明 Entering 指 7 月中旬最终招生快照时预计入学的人数；Factbook 页面则写数字来自夏末快照）（2026-11 按 Cornell 官方 Quick Facts 核对）（2026-11 按 Factbook「Profile, Fall first-year」原件核对，Entering Fall 2026，2026-09-01 更新） | 3,827 人，yield 约 63.0%（[CDS C1](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
 | 国际生申请/录取 | 官方未公布 | **18,566 人申请，664 人录取，录取率约 3.6%**，389 人入学（[CDS C1 按居住地拆分，Nonresidents](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
 | 对照：州内 / 州外美国学生 | — | 纽约州内 12,978 申 / 1,720 录（约 13.3%）；州外 40,979 申 / 3,693 录（约 9.0%）（[CDS C1](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
-| 国际生在读比例 | 预计入学新生中国际生 374 人，占 10.2%（按国籍）；按高中所在地算，境外 422 人，占 11.5%；来自 61 国（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)） | — |
-| 候补 | 8,922 人获候补，6,849 人接受（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)） | 9,720 人获候补，6,598 人接受，最终录取 254 人（[CDS C2](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
+| 国际生在读比例 | 预计入学新生中国际生 374 人，占 10.2%（按国籍）；按高中所在地算，境外 422 人，占 11.5%；来自 61 国（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)）（2026-11 按 Factbook「Profile, Fall first-year」原件核对，Entering Fall 2026，2026-09-01 更新） | — |
+| 候补 | 8,922 人获候补，6,849 人接受（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)）（2026-11 按 Factbook「Profile, Fall first-year」原件核对，Entering Fall 2026，2026-09-01 更新）；Factbook 未给候补最终录取人数 | 9,720 人获候补，6,598 人接受，最终录取 254 人（[CDS C2](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
 
 说明：Class of 2030 申请量比上一届少了约 7,000，同时录取率从约 8.4% 升到约 9.2%。这一届也是 2020 年以来第一次要求所有申请人必交 SAT/ACT（[Cornell Daily Sun, 2026-03](https://cornellsun.com/article/2026/03/cornell-accepts-5-776-students-to-class-of-2030)）。
 
@@ -82,13 +82,13 @@ Cornell 的官方数据有两个来源。一是 IR&P 的 University Factbook，�
 | 因素 | 情况与出处 |
 | --- | --- |
 | Legacy | CDS C7「Alumni/ae relation」= Considered，即仍然考虑（[CDS 2025–26](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)）；招生官网没有公开 legacy 的具体规则，legacy 学生占比官方未公布 |
-| First-gen | C7 = Considered；Fall 2026 预计入学新生中第一代大学生占 12.8%，公立高中毕业生占 58.8%（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)） |
+| First-gen | C7 = Considered；Fall 2026 预计入学新生中第一代大学生占 12.8%，公立高中毕业生占 58.8%（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)）（2026-11 按 Factbook「Profile, Fall first-year」原件核对，Entering Fall 2026，2026-09-01 更新） |
 | 招募运动员 | 必须在申请阶段提交官方标化成绩（[标化政策页](https://admissions.cornell.edu/policies/standardized-testing-policy)）；人数官方未公布 |
 | 地域 / 州籍 | C7 Geographical residence 与 State residency 均为 Considered；Fall 2025 纽约州内申请人录取率约 13.3%，高于州外的约 9.0% 和国际的约 3.6%（[CDS C1](https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx)） |
 | 音乐特长 | 可以选交 Music supplement，由音乐系评审（[First-Year Applicants](https://admissions.cornell.edu/how-to-apply/first-year-applicants)） |
-| ED 优势 | Class of 2030：ED 约 20.9%，RD 约 7.6%，ED 约为 RD 的 2.7 倍；ED 录取的 1,653 人中有 1,608 人入学，占全部新生的 44%（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)） |
+| ED 优势 | Class of 2030：ED 约 20.9%，RD 约 7.6%，ED 约为 RD 的 2.7 倍；ED 录取的 1,653 人中有 1,608 人入学，占全部新生的 44%（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)）（2026-11 按 Factbook「Profile, Fall first-year」原件核对，Entering Fall 2026，2026-09-01 更新） |
 
-**分学院录取率（官方 Factbook 趋势数据，Fall 2025 = Class of 2029；Class of 2030 的分学院数据截至 2026-11 尚未更新）**
+**分学院录取率（官方 Factbook 趋势数据，Fall 2025 = Class of 2029；Class of 2030 的分学院申请 / 录取数据截至 2026-11 尚未更新：Factbook「Profile, Fall first-year」Fall 2026 版只给各学院预计入学人数，不分学院给申请和录取数，见表下注）**
 来源：[Cornell Factbook 本科录取趋势（按 College 筛选）](https://irp.cornell.edu/university-factbook/undergraduate-admissions)，Tableau 原表 [TrenddataFallfirst-year](https://tableau.cornell.edu/t/IRP/views/AdmissionsPublic/TrenddataFallfirst-year)。录取率是按申请数和录取数自行计算的；Brooks 一行用全校总数减去其他学院推算，没有单独的官方数字。
 
 | 学院 | 申请 | 录取 | 录取率 Fall 2025 | 录取率 Fall 2024 |
@@ -104,7 +104,7 @@ Cornell 的官方数据有两个来源。一是 IR&P 的 University Factbook，�
 | SC Johnson – Nolan（酒店管理） | 1,163 | 259 | 22.3% | 18.0% |
 | 全校 | 72,519 | 6,076 | 8.4% | 8.4% |
 
-注：趋势表的全校数字（72,519 / 6,076）和 CDS（72,523 / 6,077）有几人之差，原因是快照时间不同。Class of 2030 预计入学人数按学院分：A&S 1,182、Engineering 813、CALS 681、Human Ecology 263、ILR 169、Dyson 159、Nolan 157、AAP 145、Brooks 112（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)）。
+注：趋势表的全校数字（72,519 / 6,076）和 CDS（72,523 / 6,077）有几人之差，原因是快照时间不同。Class of 2030 预计入学人数按学院分：A&S 1,182、Engineering 813、CALS 681、Human Ecology 263、ILR 169、Dyson 159、Nolan 157、AAP 145、Brooks 112，九个学院合计 3,681，与全校总数一致（[Factbook](https://irp.cornell.edu/university-factbook/undergraduate-admissions/first-year-admissions)）（2026-11 按 Factbook「Profile, Fall first-year」原件核对，Entering Fall 2026，2026-09-01 更新）。上表 Fall 2025 的分学院申请 / 录取数来自趋势表，不在这份 Profile 原件里，本轮未核。
 
 **读这张表要注意**：录取率低不等于「更难进」。ILR、Nolan 的申请池小，而且申请人自选程度高；Dyson、Engineering、A&S 申请人多，竞争最激烈。录取率也不分国际生，国际生整体只有约 3.6%。
 

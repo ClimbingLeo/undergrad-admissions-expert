@@ -696,14 +696,16 @@ UC系统期望：
 ### 7. 国际生财务现实
 
 **现实：**
-- UC Davis 资助官网（financialaid.ucdavis.edu）本次打不开，国际生资助政策待核（2026-11）。无出处的旧说法已删除（2026-11 更正）
+- 持 F-1 / F-2 学生签证、G 系列、H 系列、J-1 / J-2 交流访问签证的学生，**拿不到大部分类型的资助**；但可以申请奖学金、私人贷款和短期贷款。官网原话："Most types of financial aid are not available for students with the following Visa types: F-1 or F-2 Student"；"International students may, however, be eligible for scholarships, private loans, and short-term loans."（2026-11 按官网 https://financialaid.ucdavis.edu/undergraduate/apply/international 更正）
+- 该页给出的渠道：本科奖学金和 Prestigious Scholarships 页面、面向国际生的校外奖学金、UC 国际生私人贷款机构名单、紧急 / 短期贷款（同上）。无出处的旧说法已删除（2026-11 更正）
 - UC 各分校资助政策不同，以 Davis 官网为准（2026-11 更正）
 
 **常见误解：**
 - 认为可以申报时候假装不需要钱（错：不真实，容易被发现）
 
 **建议：**
-- 国际生能否拿到 Davis 资助、申请资助是否影响录取，官网本次打不开（financialaid.ucdavis.edu 返回 403），待核（2026-11）；按全额自费准备预算更稳妥
+- 国际生拿不到大部分资助，只能争取奖学金和贷款（2026-11 按官网 https://financialaid.ucdavis.edu/undergraduate/apply/international 更正），按全额自费准备预算更稳妥
+- 申请资助是否影响录取：Davis 资助官网国际生页没有说明，待核（2026-11）
 - 不要因为财务担忧而放弃申报，但要有现实预期
 
 ### 8. 不需要写「为什么 UC Davis」
@@ -737,7 +739,7 @@ UC系统期望：
 | **课程难度** | 高度重视AP/IB/Honor | 对有竞争背景的中国学生有利 |
 | **EC风格** | 优先长期深度，反对广泛浅尝 | 中国学生需调整"竞赛list"心态 |
 | **文书风格** | 看重转变和反思，不只看成就 | 中国学生需从"我很伟大"转到"我如何改变" |
-| **国际生政策** | 资助政策待核（官网本次打不开，2026-11） | 国际生有入学率高的优势 |
+| **国际生政策** | F-1 等签证学生拿不到大部分资助，可申请奖学金、私人贷款、短期贷款（2026-11 按官网 https://financialaid.ucdavis.edu/undergraduate/apply/international 更正） | 国际生有入学率高的优势 |
 | **学校性质** | 公立研究大学，重视服务学习 | 适合有社区意识和研究兴趣的学生 |
 | **地理位置** | 加州（Davis小镇，距旧金山2小时）| 靠近硅谷但成本低于伯克利；小镇环境平静 |
 
@@ -793,3 +795,6 @@ UC Davis是一个**非常均衡且友好**的UC校园，特别是对国际学生
 - 国际生财务：「不对国际生 need-blind / 财务需求会影响录取」「国际生平均机构奖学金约 $10-14K/年」，无可核对的官方出处
 - 常见误解与建议：「越有钱 / 越穷越容易被录取」两条判断、「不申请资助可小幅提升录取概率」建议，无官方出处
 - 国际生财务：曾以 Berkeley 官网原话作 Davis 资助政策「参考」，已移除（各分校政策不同）
+- 〔7. 国际生财务现实〕原写「UC Davis 资助官网（financialaid.ucdavis.edu）本次打不开，国际生资助政策待核」→ 按官网改为「持 F-1 / F-2、G、H、J-1 / J-2 签证的学生拿不到大部分类型的资助，可申请奖学金、私人贷款和短期贷款」（https://financialaid.ucdavis.edu/undergraduate/apply/international ，2026-11-18 读取）
+- 〔7. 国际生财务现实 · 建议〕原写「国际生能否拿到 Davis 资助、申请资助是否影响录取，官网本次打不开（financialaid.ucdavis.edu 返回 403），待核」→ 按官网改为「国际生拿不到大部分资助，只能争取奖学金和贷款」；「申请资助是否影响录取」官网该页未说明，仍待核
+- 〔📊 总结对比表 · 国际生政策〕原写「资助政策待核（官网本次打不开，2026-11）」→ 按官网改为「F-1 等签证学生拿不到大部分资助，可申请奖学金、私人贷款、短期贷款」

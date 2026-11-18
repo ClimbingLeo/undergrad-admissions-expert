@@ -27,3 +27,7 @@ Illinois, University of Illinois, UIUC, U of I, University of Illinois Urbana-Ch
 - **偏好 2：明确排除推荐信和第三方背书（中）。** 支持：quote 7（"Counselor or teacher recommendations" 列为不考虑）。反面：Rutgers 也不看推荐信；这更像是公立校为「公平一致」做的流程选择，不是对某种人格的偏好。体现于 application_design：是。
 - （说明：活动部分官方列的品质 Curiosity、Leadership、Creativity、Motivation、Perseverance（quote 10）和 "leadership, or service"（quote 4）都是通用词，看不出特定偏好；校长、教务长的话（quotes 11、12）强调服务伊利诺伊州和机会公平，是公立旗舰校共性。）
 - **流行说法核查「UIUC 主要看成绩和专业匹配」：支持。** 官网原话 "Academics are central"（quote 8），评审第一项是课程难度和成绩趋势；按所报专业分池评审，不和全校申请人比较（quote 5）；评审因素明列「对所报专业的兴趣和申请人给出的理由」（quote 3）；补充文书两题都只考专业。需要补充两点：① 「成绩」指的是在校成绩和课程难度，并结合学校条件看（quote 6），标化可选；② 活动和服务也在评审因素里（quotes 2、4），但没有推荐信，非学术信息只来自活动表和文书，所以权重有限。C7 未能核对，这一判断主要基于官网文字。
+## 补充（2026-11-18，官方 CDS 2025–26 原件）
+- 来源：UIUC 官方 Common Data Set 2025–26（https://dair.illinois.edu/access-data/common-data-set/ ，xlsx 原件），C7 补充说明（条目 C.719）原文：
+  "We admit by major. Fit to major and competiveness of the applicant pool are factors. There are varied levels of importance placed on some of the above factors based on major."
+- C7 评级：Very Important＝课程难度、GPA、课外活动、才能、品格、第一代；Important＝文书；Considered＝标化、地理区域、州籍、志愿服务、工作经历；Not Considered＝班级排名、推荐信、面试、校友关系、宗教、兴趣度。

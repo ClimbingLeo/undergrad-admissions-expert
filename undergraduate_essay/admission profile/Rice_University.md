@@ -6,9 +6,9 @@ Rice 的 Class of 2030 只公布了总数和 ED I 录取人数；分轮次、分
 
 | 指标 | Class of 2030（2025–26 季） | Class of 2029（2024–25 季，CDS 口径） | 来源 |
 | --- | --- | --- | --- |
-| 申请人数 | 38,603（创纪录；校报口径，Rice News 2026-08-17 的报道称 "nearly 38,000"） | 36,791 | [Rice Thresher, 2026-04-08](https://ricethresher.org/article/rice-admits-7-7-of-applicants-to-the-class-of-2030-20260408)；[Rice CDS 2025–26 C1](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
-| 录取人数 | 2,984 | 2,948 | 同上 |
-| 整体录取率 | 7.7% | 8.0% | 同上；[Rice Class Profile](https://admission.rice.edu/apply/class-profile) |
+| 申请人数 | 38,603（创纪录；校报口径，截至 3 月 25 日 RD 放榜；「创纪录」不出自校报原文，校报只写高于上一年的 36,791；Rice News 2026-08-17 的报道称 "nearly 38,000"）（2026-11 按校报原文核对） | 36,791 | [Rice Thresher, 2026-04-08](https://ricethresher.org/article/rice-admits-7-7-of-applicants-to-the-class-of-2030-20260408)；[Rice CDS 2025–26 C1](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
+| 录取人数 | 2,984（2026-11 按校报原文核对） | 2,948（校报 2026-04-08 引用的上一年数字与 CDS 一致） | 同上 |
+| 整体录取率 | 7.7%（2026-11 按校报原文核对；2,984/38,603 ≈ 7.73%） | 8.0%（校报引用的上一年数字与 CDS 一致） | 同上；[Rice Class Profile](https://admission.rice.edu/apply/class-profile) |
 | ED（ED I + ED II 合计）申请 / 录取 | ED I 录取 447 人（创纪录），另有 QuestBridge 匹配 128 人；ED 申请数和 ED II 数字官方未公布 | 5,748 申 / 647 录，录取率 11.3%（按 CDS 计算）；ED 录取者 629 人入学 | [Rice News, 2025-12-17](https://news.rice.edu/news/2025/joy-surprise-and-tears-rice-welcomes-record-early-decision-class-2030-0)；[CDS 2025–26 C21](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
 | ED 以外（RD）录取率 | 官方未公布 | 约 7.4%（2,301/31,043，按 CDS 计算；含 ED 被延期者） | [CDS 2025–26](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
 | **国际生申请 / 录取** | 官方未公布 | **8,793 申 / 334 录，录取率约 3.8%**；入学 166 人（C1 按申请时地址口径；按国籍口径的 B2 Nonresidents 新生为 164 人）（2026-11 按官方 CDS 2025–26 原件更正） | [CDS 2025–26 C1](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
@@ -18,9 +18,9 @@ Rice 的 Class of 2030 只公布了总数和 ED I 录取人数；分轮次、分
 | Yield | 官方未公布 | 42.8%（1,263/2,948，按 CDS 计算） | [CDS 2025–26](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
 | 候补 | 官方未公布 | 发出 3,196 个，2,204 人接受，录取 66 人 | [CDS 2025–26 C2](https://ideas.rice.edu/wp-content/uploads/2026/10/CDS_2025-26_WEBSITE_Updated_10-7-2026.pdf) |
 
-> 口径提示：Class of 2030 的 2,984 / 38,603 来自校报 Thresher 对 3 月 RD 放榜的报道（网页有人机验证，正文由第三方转引核对：[Ivy Coach](https://www.ivycoach.com/the-ivy-coach-blog/college-admissions/rice-admissions-statistics/)）。Class of 2029 在放榜时报的是 2,852 / 36,777（7.8%）（[Rice Thresher, 2025-03](https://www.ricethresher.org/article/2025/03/rice-welcomes-7-8-of-applicants-to-class-of-2029)），CDS 最终口径是 2,948 / 36,791（8.0%），差额应是候补录取等后续变动。Class of 2030 的最终口径要等 CDS 2026–27。
+> 口径提示：Class of 2030 的 2,984 / 38,603 来自校报 Thresher 对 3 月 25 日 RD 放榜的报道，引述的是招生副校长 Yvonne Romero 给出的数字（2026-11 按校报原文核对：用户保存的原文 PDF，[Rice Thresher, 2026-04-08](https://ricethresher.org/article/rice-admits-7-7-of-applicants-to-the-class-of-2030-20260408)）。同一篇报道拿来对比的上一年数字是 2,948 / 36,791（8.0%），即 CDS 最终口径。Class of 2029 在放榜时报的是 2,852 / 36,777（7.8%）（[Rice Thresher, 2025-03](https://www.ricethresher.org/article/2025/03/rice-welcomes-7-8-of-applicants-to-class-of-2029)），CDS 最终口径是 2,948 / 36,791（8.0%），差额应是候补录取等后续变动。Class of 2030 的最终口径要等 CDS 2026–27。
 >
-> 原件核对（2026-11）：上表「Class of 2029」一列以及下文学术画像、C7 两张表，已与官方 CDS 2025–26 原件（PDF，Updated 10-7-2026）逐项比对：C1 总数 36,791 / 2,948 / 1,263 与德州 10,610 / 847、C2 候补 3,196 / 2,204 / 66、C7 全部因素、C8A（Recommended）、C9 分位与提交比例、C10、C11/C12（N/A）、C21（5,748 / 647 / 629）一致；国际生与外州的分居住地数字已按原件更正。「Class of 2030」一列（38,603 / 2,984、ED I 447、QuestBridge 128、新生 1,350 余人）来自校报和 Rice News，属于 2025–26 季，CDS 2025–26 不覆盖，未核对。
+> 原件核对（2026-11）：上表「Class of 2029」一列以及下文学术画像、C7 两张表，已与官方 CDS 2025–26 原件（PDF，Updated 10-7-2026）逐项比对：C1 总数 36,791 / 2,948 / 1,263 与德州 10,610 / 847、C2 候补 3,196 / 2,204 / 66、C7 全部因素、C8A（Recommended）、C9 分位与提交比例、C10、C11/C12（N/A）、C21（5,748 / 647 / 629）一致；国际生与外州的分居住地数字已按原件更正。「Class of 2030」一列中，38,603 / 2,984 / 7.7% 已按校报原文核对，一致（2026-11 按校报原文核对）；ED I 447、QuestBridge 128、新生 1,350 余人不在这篇校报里，出自 Rice News，CDS 2025–26 也不覆盖，仍未核对。
 
 ## 学术硬件画像
 

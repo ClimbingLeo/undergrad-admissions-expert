@@ -28,3 +28,13 @@ Michigan, University of Michigan, UMich, U-M, UM, Wolverines, Go Blue, Maize and
   - 领导力：文书题干确实用了 "leaders and citizens"，招生主任也把 leadership 列为评审信息之一（quote 6），但它和活动、奖项、服务并列，C7 中课外活动只是 Considered，学业两项才是 Very important。说「看重领导力」不算错，但不是区别于同档学校的重点。
   - 多元背景：密歇根自 2006 年州宪法修正案 Proposal 2 起不能在录取中考虑种族、性别、出身国（Michigan Daily 2019 访谈的编者陈述）。官方能考虑的「多元」只剩社会经济和教育环境：C7 中 First generation 为 Important（同档少见），Ishop 强调申请人的背景环境（quote 9）。所以「多元背景」只在第一代大学生、社会经济、学校环境这层意义上成立，不是种族意义上的多元。
 - 证据不足说明：官网全域被拦截，引语只来自 2019–2020 年的两家媒体（三个页面），没有近两年的官方原话。
+## 补充（2026-11-18，招生办官网）
+
+来源：UMich 招生办 Selection Process 页，https://admissions.umich.edu/apply/first-year-applicants/selection-process （2026-11-18 用户 Chrome 读取，以下为逐字原文）
+11. "We look at each student as a whole package, a combination of talents, interests, passions, and skills." — UMich 招生办官网，2026，https://admissions.umich.edu/apply/first-year-applicants/selection-process
+12. "the amount of intellectual challenge you've taken on based on what is offered in your educational environment will be highly important." — 同上
+13. "What you've done beyond simply taking AP courses is a very important consideration for admission." — 同上
+14. "We also look for students who will lend educational and cultural diversity to campus and who are curious about new ideas, people, and experiences." — 同上
+15. "the admissions process also gives consideration to applicants with particular indicators such as coming from a low socioeconomic status school or household by considering whether the applicant is from a geographic area, socio economic profile, neighborhood, or high school that is currently underrepresented in our student community." — 同上
+16. 关键学业标准之一："Your specific academic interests" — 同上
+17. "Legacy status is not considered as part of U-M's undergraduate admissions holistic review process." — 同上

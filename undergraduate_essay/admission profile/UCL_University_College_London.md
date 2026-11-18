@@ -47,11 +47,11 @@ UCL基于**3门A-Level科目**评估申请，不同专业的offer标准范围从
 
 | 专业 | A-Level要求 | 需要科目 | 附加要求 |
 |------|-----------|---------|---------|
-| **计算机科学** | A*AA | 数学（必需）、物理/进阶数学 | STEP/MAT考试（部分year）|
-| **经济学** | AAA | 数学（必需）、进阶数学（推荐） | MAT或其他数学能力测试 |
+| **计算机科学** | A*AA | 数学（必需）、物理/进阶数学 | **TARA**（2027 周期；不是 TMUA；2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/tests-tasks-and-interviews 更正）|
+| **经济学** | AAA | 数学（必需）、进阶数学（推荐） | **TMUA**（Economics BSc，2027 周期；2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/tests-tasks-and-interviews 更正） |
 | **法学** | AAA | 任意3门，无特定科目限制 | **LNAT（全国法律入学考试）** |
 | **医学** | A*AA | 化学+生物（必需）、数学/物理 | UCAT、面试 |
-| **工程学** | AAA | 数学+物理（必需） | STEP/MAT（部分分支） |
+| **工程学** | AAA | 数学+物理（必需） | 电子电气工程考 **ESAT**；机械工程考 **TARA**（2027 新要求）；其他工程分支不在官网考试名单内（2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/tests-tasks-and-interviews 更正） |
 | **心理学** | AAA | 生物（推荐）或化学 | 无 |
 | **化学** | AAA | 化学+数学（必需） | 无 |
 | **英文/人文** | AAA | 英文（推荐）或历史 | 写作样本/面试 |
@@ -249,15 +249,16 @@ PS强调了经济学作为"社会科学之王"的迷人之处。通过一个具�
 
 ### 关键时间节点（2026-27周期，2027入学）
 
-（2026-11 更正：原表为 2026 入学日期。以下 UCAS 截止按 UCAS 官网 https://www.ucas.com/advisers/help-and-training/toolkits/2027-cycle-toolkit 的通用规则；ucl.ac.uk 本轮返回 403，UCL 自己的截止日和出结果时间未能核对，待核）
+（2026-11 更正：原表为 2026 入学日期。以下 UCAS 截止按 UCAS 官网 https://www.ucas.com/advisers/help-and-training/toolkits/2027-cycle-toolkit 的通用规则；UCL 自己的截止日和出结果时间已按 UCL「UCAS explained」页核对，该页注明 "This guide is for September 2027 entry (and deferred 2028 entry) applications"（2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/ucas-explained 更正））
 
 | 阶段 | 时间 | 说明 |
 |------|------|------|
-| **UCAS开放提交** | 2026年9月 | |
-| **医学deadline** | 2026年10月15日18:00 | UCAS：多数医学、牙医、兽医课程的截止日（UCL 本科只有医学属此类） |
-| **大部分课程deadline** | 2027年1月13日18:00 | UCAS 2027 入学 "January equal consideration date"；建议至少提前1周提交 |
+| **UCAS开放提交** | 2026年9月1日 | UCL 官网：2027 年 9 月入学申请开始接收（2026-11 按官网更正） |
+| **医学deadline** | 2026年10月15日18:00（英国时间） | UCL 官网："Deadline for receipt of applications to Medicine (A100)"；"Applicants for MBBS Medicine must apply by the October deadline."（2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/ucas-explained 更正） |
+| **大部分课程deadline** | 2027年1月13日18:00（英国时间） | UCL 官网："Deadline for receipt of applications to guarantee full and equal consideration"；"It will not be possible to submit a UCAS application for some courses after the January UCAS equal consideration deadline."（2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/ucas-explained 更正）；建议至少提前1周提交 |
 | **UCAS Extra** | 2027年2月25日起 | 如果初始5个志愿都被拒，可通过Extra系统申请 |
-| **决定公布** | 待核 | 未能在 UCL 官网核对 |
+| **决定公布** | 最晚 2027年5月12日 | UCL 官网："Last date for decisions on applications submitted by 13 January 2027"（2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/ucas-explained 更正） |
+| **UCAS Late / Extra 截止** | 2027年6月30日18:00（英国时间） | 只限仍开放的课程（UCL 官网，2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/ucas-explained 补） |
 
 ### 申请材料清单
 
@@ -282,9 +283,11 @@ PS强调了经济学作为"社会科学之王"的迷人之处。通过一个具�
    - IELTS、TOEFL或其他认可的英语考试成绩
    - 需要在成绩公布后与UCAS一起提交
 
-5. **额外材料**（按专业而定；UCL 各专业要求待核，2026-11：ucl.ac.uk 本轮 403）
-   - **ESAT**：UAT-UK 官网列 UCL 为使用 ESAT 的大学之一（"Imperial College London, the University of Cambridge, the University of Oxford and UCL all use the ESAT"）；UCL「Tests, tasks and interviews」页（搜索摘录，直连 403）写 ESAT "will be required for the Electronic and Electrical Engineering BEng and … MEng"（https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/tests-tasks-and-interviews ）；其他专业是否要考待核（2026-11 更正）
-   - **TMUA**：Economics BSc 需考 TMUA（据 2026 周期课程页），2027 是否沿用待核（2026-11 补）
+5. **额外材料**（按专业而定；2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/tests-tasks-and-interviews 更正）
+   - **需要额外任务、考试或面试的专业（2027 周期官方清单）**：Architecture；Arts and Sciences BASc；Computer Science；Economics；Electronic and Electrical Engineering；Engineering Foundation Year；English；European Social and Political Studies、International Social and Political Studies；Fine Art；Language degrees；Law；Mechanical Engineering；Media；MBBS Medicine；Pharmacy。官网原话："This is subject to change in future admissions cycles."；清单外的专业没有额外任务、考试或面试
+   - **UAT-UK 考试（三项，2027 周期）**：ESAT → Electronic and Electrical Engineering BEng / MEng；TMUA → Economics BSc；TARA → Computer Science BSc、Computer Science MEng、Computer Science and Mathematics MEng、Robotics and Artificial Intelligence MEng，以及 Mechanical Engineering BEng / MEng。注意计算机考的是 TARA，不是 TMUA
+   - **考试形式和费用**：在 Pearson VUE 考点机考；英国和爱尔兰 £75，其他地区（含中国）£130（官网 "£130 for candidates elsewhere"）
+   - **2027 周期的变化**：Mechanical Engineering "will require the TARA in the 2027 cycle. This is a new requirement."；Sociology BSc、Social Sciences with Data Science BSc、Social Sciences BSc、Management Science BSc/MSci 2026 周期考 TARA，2027（及延期到 2028）入学不再要求任何考试；European / International Social and Political Studies 不再用 TARA，改考 UCL 内部的线上「UCL Thinking Skills Test」
    - **艺术/设计**：作品集（Portfolio），不超过10页A4
    - **英文/人文**：写作样本（2000-3000字）
    - **法律**：需参加LNAT（全国法律入学考试）
@@ -549,7 +552,7 @@ Since then, I've become fascinated by how law struggles with cases where the law
 
 #### 规律3：面试是"救命稻草"也是"压死骆驼的最后一根草"
 
-- UCL会根据PS初步筛选，邀请约50-60%的申请者参加面试
+- 2027 周期只有官方清单上的少数专业有额外任务、考试或面试（见「额外材料」），多数课程没有面试（2026-11 按官网 https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/tests-tasks-and-interviews 更正）
 - 面试表现优异可以弥补PS或成绩的小缺陷
 - 面试表现糟糕可能导致即使高分也被拒
 
@@ -689,7 +692,7 @@ Since then, I've become fascinated by how law struggles with cases where the law
 **体现在申请设计中**：
 
 - 只走 UCAS 三题个人陈述，同一份陈述发给 5 个志愿；UCL 说陈述用来评估动机和学术潜力，用于区分申请人、决定谁进入下一轮。不考虑 UCAS 之外寄来的简历、课外活动证书、额外陈述。
-- 只有少数课程有额外选拔（Bartlett 建筑学院、Fine Art、LLB Law、MBBS Medicine、MPharm Pharmacy、BA Media 等），其余多数课程没有面试；另有少数课程要求入学笔试（如 Economics BSc 需考 TMUA，据 2026 周期课程页，后续是否沿用以官网为准）。
+- 只有少数课程有额外选拔（Bartlett 建筑学院、Fine Art、LLB Law、MBBS Medicine、MPharm Pharmacy、BA Media 等），其余多数课程没有面试；另有少数课程要求入学笔试（2027 周期：Economics BSc 考 TMUA，Computer Science 等考 TARA，电子电气工程考 ESAT，见上文「额外材料」；2026-11 按官网更正）。
 
 **流行说法核查**：
 
@@ -860,7 +863,7 @@ Since then, I've become fascinated by how law struggles with cases where the law
 - [ ] 如被邀请，准备面试（医学、法律等有面试）
 - [ ] 继续学业，冲刺预期成绩
 
-**出结果时间待核（2026-11：未能在 UCL 官网核对）**
+**最晚 2027年5月12日 出结果（1 月 13 日前提交的申请；2026-11 按 UCL 官网 UCAS explained 页更正）**
 - [ ] 收到UCL录取决定
 - [ ] 根据offer结果选择final choice（五月中旬deadline）
 
@@ -1054,3 +1057,10 @@ Since then, I've become fascinated by how law struggles with cases where the law
 - 〔📞 中国学生常见问题解答〕「UCL 要求 2026年12月31日前 考完 LNAT（LNAT 官网："Sit…」处：原写「9月至1月」
 - 〔📞 中国学生常见问题解答〕「（2026 11 更正：…选择题只有 42 题，这些数字无出处且不可能）…」处：删除「成绩范围 0-130」「UCL 法律 LNAT 均分 108-115」「低于 100 分概率大降」
 - 〔📞 中国学生常见问题解答〕「你必须在 2027年1月13日 18:00 deadline前提交 （2026 …」处：原写「1月14日」
+- 〔📚 A-Level 热门专业具体要求〕原写计算机「STEP/MAT考试（部分year）」、经济学「MAT或其他数学能力测试」、工程学「STEP/MAT（部分分支）」→ 按官网（https://www.ucl.ac.uk/study/prospective-students/school-teachers-and-counsellors/tests-tasks-and-interviews，2026-11-18 读取）改为计算机 TARA、经济学 TMUA、电子电气工程 ESAT、机械工程 TARA（2027 新要求）
+- 〔✍️ 关键时间节点〕原写「ucl.ac.uk 本轮返回 403，UCL 自己的截止日和出结果时间未能核对，待核」→ 按官网 https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/ucas-explained 核对
+- 〔✍️ 关键时间节点 · 决定公布〕原写「待核 / 未能在 UCL 官网核对」→ 按官网改为「对 2027 年 1 月 13 日前提交的申请，最晚 2027 年 5 月 12 日给出决定」；另补 1 月 13 日为 full and equal consideration 截止、医学 10 月 15 日截止的 UCL 原话，以及 6 月 30 日 Late / Extra 截止
+- 〔✍️ 额外材料〕原写「UCL 各专业要求待核，ucl.ac.uk 本轮 403」、ESAT 引搜索摘录「其他专业是否要考待核」、TMUA「据 2026 周期课程页，2027 是否沿用待核」→ 按官网改为 15 类专业清单、三项 UAT-UK 考试对应专业、£75 / £130 考试费、2027 周期变化
+- 〔🔍 规律3〕原写「UCL会根据PS初步筛选，邀请约50-60%的申请者参加面试」（无出处）→ 按官网改为「只有官方清单上的少数专业有额外任务、考试或面试，多数课程没有面试」
+- 〔💡 时间管理〕原写「出结果时间待核（2026-11：未能在 UCL 官网核对）」→ 按官网改为「最晚 2027 年 5 月 12 日出结果」
+- 〔学校看重的特质 · 体现在申请设计中〕（非引语部分）原写「如 Economics BSc 需考 TMUA，据 2026 周期课程页，后续是否沿用以官网为准」→ 按官网改为 2027 周期 Economics 考 TMUA、Computer Science 等考 TARA、电子电气工程考 ESAT

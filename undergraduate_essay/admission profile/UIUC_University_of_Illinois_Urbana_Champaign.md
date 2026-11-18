@@ -1,22 +1,25 @@
 # 伊利诺伊大学厄巴纳-香槟分校 University of Illinois Urbana-Champaign (UIUC)
 
-## 📊 关键录取数据（2024-2025）
+## 📊 关键录取数据（Fall 2025 入学，官方 CDS 2025–26）
 
 ### 整体录取概览
 
 | 指标 | 数据 | 说明 |
 |------|------|------|
-| 申请总人数 | 73,742 | 2024-2025年申请量 |
-| 整体录取人数 | 31,247 | 整体录取 |
-| 整体录取率 | 42.37% | 一流公立大学，仍保持竞争力 |
+| 申请总人数 | 83,045 | Fall 2025 申请量（CDS C1；2026-11 按官方 CDS 2025–26 原件更正）；Fall 2024 为 73,742 |
+| 整体录取人数 | 30,384 | Fall 2025 录取（CDS C1；2026-11 按官方 CDS 2025–26 原件更正）；Fall 2024 为 31,247 |
+| 整体录取率 | 36.6% | 30,384 / 83,045（2026-11 按官方 CDS 2025–26 原件更正）；Fall 2024 为 42.4%，申请量涨 13% 而录取人数略减 |
+| 州内 / 州外录取率 | 州内 49.3%（14,509 / 29,419）；州外 29.0%（9,495 / 32,702） | CDS C1 按居住地拆分，Fall 2025；州外美国学生录取率与国际生接近 |
 | 工程学院（Grainger）录取率 | 20-30% | 大幅低于校平均 |
 | CS专业录取率 | **7.2%** | Fall 2022数据，极具竞争力 |
-| 国际生申请人数 | 18,437 | 中国学生占最大比例 |
-| 国际生录取人数 | 6,181 | 国际生 |
-| 国际生录取率 | 33.52% | 相对校平均更低 |
+| 国际生申请人数 | 20,924 | Fall 2025（CDS C1；2026-11 按官方 CDS 2025–26 原件更正）；Fall 2024 为 18,437。中国学生占最大比例 |
+| 国际生录取人数 | 6,380 | Fall 2025（CDS C1；2026-11 按官方 CDS 2025–26 原件更正）；Fall 2024 为 6,181；最终入学 1,410 |
+| 国际生录取率 | 30.5% | 6,380 / 20,924（2026-11 按官方 CDS 2025–26 原件更正）；Fall 2024 为 33.5%。低于校平均 36.6% |
 | 国际生在校比例 | 23-24% | 约13,350名国际生在校 |
+| 本科国际生（CDS B2） | 5,401 人，占学位本科生 14.4% | Fall 2025；其中新生 1,435 人。上一行的 23-24% 若含研究生，与本行口径不同 |
 | 中国学生在校人数 | ~3,500+ | 国际生最大来源国 |
-| Yield Rate（入学率） | 约35% | 中等水平 |
+| Yield Rate（入学率） | 30.3% | 9,207 / 30,384，Fall 2025（CDS C1；2026-11 按官方 CDS 2025–26 原件更正）；Fall 2024 为 28.8% |
+| 候补名单（CDS C2） | 6,826 人获候补，4,317 人接受，最终录取 **1 人** | Fall 2025；Fall 2024 为 2,794 / 1,874 / 1 人，Fall 2023 为 3,073 / 1,881 / 56 人。近两年候补几乎不转正 |
 
 **数据来源说明**：根据官方UIUC招生办数据，各专业录取率差异显著。计算机科学和电子工程为最具竞争力的两个专业，录取率仅为整体录取率的1/6。国际生总数相对稳定，但竞争强度持续上升。
 
@@ -25,6 +28,8 @@
 ## 📚 学术硬件画像
 
 ### GPA分布（Unweighted）
+
+> 注：UIUC 在 CDS 2025–26 的 C11（GPA 分布）和 C12（平均 GPA）都没有填报，下表 GPA 数字没有官方出处，仅作参考。官方能查到的是 C10 班级排名：Fall 2025 新生中提交排名的只有 21.7%，其中 61.6% 在年级前 10%、88.8% 在前 25%。（2026-11 按官方 CDS 2025–26 原件补注）
 
 | 区间 | 占比 | 说明 |
 |------|------|------|
@@ -40,26 +45,26 @@
 
 | 指标 | 分数 | 说明 |
 |------|------|------|
-| 中位数 | 1,440 | 2024-2025 |
-| EBRW中位数 | 700 | 阅读写作 |
-| Math中位数 | 740 | 数学 |
-| 中间50%范围 | 1,390-1,520 | 工程/CS更高 |
+| 中位数 | 1,442 | Fall 2025 入学新生（CDS C9；2026-11 按官方 CDS 2025–26 原件更正） |
+| EBRW中位数 | 720 | 阅读写作，中间 50% 为 690-750（2026-11 按官方 CDS 2025–26 原件更正） |
+| Math中位数 | 760 | 数学，中间 50% 为 700-790（2026-11 按官方 CDS 2025–26 原件更正） |
+| 中间50%范围 | 1,390-1,520 | 工程/CS更高；与 CDS 2025–26 一致 |
 | CS专业预期 | 1,480+ | 根据申请统计 |
 
 #### ACT成绩
 
 | 指标 | 分数 | 说明 |
 |------|------|------|
-| 中位数 | 32 | 全校 |
-| 25th percentile | 30 | 下限 |
+| 中位数 | 32 | 全校（CDS 2025–26 为 32.3） |
+| 25th percentile | 31 | 下限（2026-11 按官方 CDS 2025–26 原件更正） |
 | 75th percentile | 34 | 上限 |
-| 中间50%范围 | 30-34 | 仅14%学生提交ACT |
+| 中间50%范围 | 31-34 | 仅14%学生提交ACT（2026-11 按官方 CDS 2025–26 原件更正） |
 
 #### 考试提交率
 
-- **SAT提交率**：41%（有提交）
-- **ACT提交率**：14%（有提交）
-- **都未提交**：45%（UIUC为test-optional）
+- **SAT提交率**：42.6%（3,921 人，Fall 2025 入学新生；2026-11 按官方 CDS 2025–26 原件更正）
+- **ACT提交率**：14.1%（1,295 人）
+- **都未提交**：至少约 43%（两项相加后的余数；两种都交的学生会被重复计算，实际未交比例可能更高；2026-11 按官方 CDS 2025–26 原件更正）。UIUC为test-optional，CDS C8 写明 "Not required for admission, but considered if submitted"，C7 把标化列为 Considered（不是 Important）
 - **建议**：对于竞争CS专业，强烈建议提交优质SAT（1450+）
 
 ### 课程难度要求
@@ -326,11 +331,11 @@ UIUC招生办强调：**不看数量，看深度与影响力**。录取的学生
 | **科研论文发表** | 高 (+20-30%) | 在peer-reviewed期刊或会议发表论文（如IEEE、arXiv）或获Intel ISEF奖。中国学生可通过高校创新实验或大学暑期项目实现。 |
 | **顶级科技公司实习** | 中-高 (+15-25%) | Google、Microsoft、Meta、Apple等。中国学生如有硅谷或北京总部实习机会，特别加分。 |
 | **创业/开源项目** | 中 (+10-20%) | 创办有实际用户的APP或开源项目GitHub Star >500。对中国学生来说，技术出身较容易实现。 |
-| **第一代大学生** | 中 (+15-20%) | 父母无高等教育背景。在中国学生中较少（因为申请美国本科的家庭多为高学历），但如符合有加分。 |
+| **第一代大学生** | 高（CDS 2025–26 C7 列为 Very Important，2023–24、2024–25 为 Important；具体加分幅度无官方数据）（2026-11 按官方 CDS 2025–26 原件更正） | 父母无高等教育背景。在中国学生中较少（因为申请美国本科的家庭多为高学历），但如符合有加分。 |
 | **低收入背景** | 中 (+15-20%) | 家庭年收入<$65K（根据FAFSA）。中国学生中稀有。 |
 | **少数族裔** | 低 (平衡) | UIUC无官方AAO政策，但在追求campus diversity背景下，某些underrepresented group可能有微弱加分。中国学生属overrepresented，无此advantage。 |
 | **运动员招募** | 中-高 (+25-40%) | 学校运动队（NCAA Division I）的recruited athlete。UIUC无全额运动奖学金但有部分。中国学生中极少。 |
-| **校友子女** | 无 | 官网 Factors Not Considered 页列有 "Legacy or donor status"，不作加分；UIUC 的 CDS C7 本次未能核对（2026-11 更正） |
+| **校友子女** | 无 | 官网 Factors Not Considered 页列有 "Legacy or donor status"，不作加分；官方 CDS 2025–26 C7 也把 Alumni/ae relation 列为 Not Considered，近三年一致（2026-11 按官方 CDS 2025–26 原件更正） |
 
 ### 对中国申请者的战略建议
 
@@ -363,11 +368,11 @@ UIUC招生办强调：**不看数量，看深度与影响力**。录取的学生
 
 ### 申请轮次对比
 
-| 轮次 | 截止日期 | 2024-2025录取率 | 对中国学生的建议 |
+| 轮次 | 截止日期 | 录取率 | 对中国学生的建议 |
 |------|---------|--------|------|
-| **Early Action (EA)** | **11月1日** | ~50%* | 📌 **强烈推荐**：如成绩稳定且决心已定，EA提交显示择校意愿强，录取率显著高于RD。中国学生若准备充分，应优先EA。注意：EA非绑定，可同时申请RD。 |
-| **Regular Decision (RD)** | **1月15日** | ~36-42% | 默认选择。需与其他顶校（MIT、Stanford等）协调。中国学生中多数选RD以保留flexible选项。 |
-| **国际生截止** | **1月15日** | 33.52% | 与RD相同，略低于美国学生整体录取率。 |
+| **Early Action (EA)** | **11月1日**（1月30日前后出结果，非限制性 EA；CDS C22） | ~50%* | 📌 **强烈推荐**：如成绩稳定且决心已定，EA 能早出结果、不绑定。注意 CDS 2025–26 C7 把 Level of applicant's interest 列为 Not Considered，EA 不算表达择校意愿（2026-11 按官方 CDS 2025–26 原件更正）。EA 录取率是否高于 RD 没有官方数据。中国学生若准备充分，应优先EA。注意：EA非绑定，可同时申请RD。 |
+| **Regular Decision (RD)** | **1月5日**（CDS C14；3月6日前出结果，CDS C16）（2026-11 按官方 CDS 2025–26 原件更正） | 全校整体 36.6%（Fall 2025，含 EA） | 默认选择。需与其他顶校（MIT、Stanford等）协调。中国学生中多数选RD以保留flexible选项。 |
+| **国际生截止** | **1月5日**（2026-11 按官方 CDS 2025–26 原件更正） | 30.5%（Fall 2025，2026-11 按官方 CDS 2025–26 原件更正） | 与RD相同。低于美国学生整体（38.6%），与州外美国学生（29.0%）接近，远低于州内（49.3%）。 |
 
 *注：UIUC未官方发布EA vs RD分离数据，但基于论坛讨论和教育咨询业估计，EA率约为RD的1.4-1.5倍。
 
@@ -703,12 +708,19 @@ Your perspective as someone who grew up in a different education system or solve
 
 - 2026–27 补充文书 2–3 篇，每篇约 150 词，全部围绕专业：近 3–4 年与第一志愿专业相关的一段经历；毕业后的目标以及所选专业如何帮你实现；报了第二志愿再加一篇；Undeclared 改答职业 / 学术目标和考虑中的专业。另需 Common App 主文书。
 - 官网 Factors Not Considered 明列 "Demonstrated interest; Social media presence; Counselor or teacher recommendations"，以及校友 / 捐赠关系和经济需求：**不看推荐信，也不看 demonstrated interest**。标化可选；部分专业有先修课要求。
-- CDS C7：官方 CDS 2025–26 是 DAIR 网站上的 xlsx 文件，本次无法读取，**未能核对**；本画像也没有列 C7。
-- 与本画像其他章节的冲突：「申请时机」说 EA「显示择校意愿强」，官网明列不考虑 demonstrated interest，以本节为准；Hooks 表的校友子女一行已按官网更正（2026-11）。
+- CDS C7（官方 CDS 2025–26 原件，Fall 2025 招生；2026-11 按官方 CDS 2025–26 原件更正）：
+  - **Very Important**：课程难度（Rigor）、在校 GPA、课外活动、才能（Talent/ability）、品格 / 个人特质（Character/personal qualities）、第一代大学生
+  - **Important**：文书（Application Essay）
+  - **Considered**：标化成绩、地理区域、州籍（State residency）、志愿服务、工作经历
+  - **Not Considered**：班级排名、推荐信、面试、校友关系（Alumni/ae relation）、宗教、兴趣度（Level of applicant's interest）
+  - C7 补充说明原话："We admit by major. Fit to major and competiveness of the applicant pool are factors."
+  - 趋势：2023–24、2024–25 两版里课外活动、才能、品格、第一代都只是 Important，2025–26 升到 Very Important；其余各项三年未变。
+  - 与官网 Factors Not Considered 一致：推荐信、兴趣度、校友关系都不考虑。
+- 与本画像其他章节的冲突：「申请时机」旧版说 EA「显示择校意愿强」，官网和 CDS C7 都不考虑兴趣度，已改（2026-11）；Hooks 表的校友子女、第一代两行已按官网和 CDS C7 更正（2026-11）。
 
 **流行说法核查**：
 
-- 「UIUC 主要看成绩和专业匹配」→ **支持**。官网原话 "Academics are central"，按所报专业分池评审，评审因素明列 "Interest in the intended major or academic program and the rationale provided by the applicant"，补充文书只考专业。补充两点：「成绩」指在校成绩和课程难度，并结合学校条件看，标化可选；活动和服务也在评审因素里，但没有推荐信，非学术信息只来自活动表和文书。C7 未能核对，这一判断主要基于官网文字。
+- 「UIUC 主要看成绩和专业匹配」→ **部分支持**（2026-11 按官方 CDS 2025–26 原件更正）。支持的一面：官网原话 "Academics are central"，按所报专业分池评审，评审因素明列 "Interest in the intended major or academic program and the rationale provided by the applicant"，补充文书只考专业，CDS C7 补充说明也写 "Fit to major"。不完全对的一面：CDS 2025–26 C7 把课外活动、才能、品格、第一代和课程难度、GPA 并列为 Very Important，文书为 Important，「主要看成绩」低估了活动的分量。另外「成绩」指在校成绩和课程难度，并结合学校条件看；标化在 C7 只是 Considered。推荐信和面试在 C7 都是 Not Considered，非学术信息只来自活动表和文书。
 
 **对申请者的含义（归纳）**：
 
@@ -880,7 +892,7 @@ UIUC CS录取率仅7%，而中国申请者众多（占国际生的~30%）。实�
    - Example: "As a first-generation student from a rural province who taught myself to code on a 2004 laptop..."
    - Example: "Growing up in Shanghai with both Chinese and international education gives me a bicultural perspective..."
 2. **语言authenticity**：用你natural的英文voice写，不要让成年人或中介过度polish（authentic imperfection > polished perfection）
-3. **资助预期**：UIUC 不给国际本科生 need-based 资助，官网原话："Illinois does not provide need-based financial aid for international undergraduate students."；FAFSA 只适用于美国公民和永久居民（"If you are a U.S. citizen or permanent resident, you should apply."）（https://admissions.illinois.edu/Invest/financial-aid）。国际生可能被学院或系的奖学金考虑，一般不用另外申请（"You may be eligible for scholarships awarded by colleges or departments." https://www.osfa.illinois.edu/?p=588），但名额少，应按自费准备（2026-11 更正）
+3. **资助预期**：UIUC 不给国际本科生 need-based 资助，官网原话："Illinois does not provide need-based financial aid for international undergraduate students."；FAFSA 只适用于美国公民和永久居民（"If you are a U.S. citizen or permanent resident, you should apply."）（https://admissions.illinois.edu/Invest/financial-aid）。国际生可能被学院或系的奖学金考虑，一般不用另外申请（"You may be eligible for scholarships awarded by colleges or departments." https://www.osfa.illinois.edu/?p=588），但名额少，应按自费准备（2026-11 更正）。官方 CDS 2025–26 H6 一致：国际本科生只有 non-need-based 校内奖助；2024–25 学年共 45 名国际本科生获得，平均 $5,176，总额 $232,934（作为对照，Fall 2025 本科国际生 5,401 人，按 B2）
 
 ### 建议7：**对不同专业方向的targeting**
 
@@ -892,7 +904,7 @@ UIUC CS录取率仅7%，而中国申请者众多（占国际生的~30%）。实�
 - 不需要USACO Platinum，robotics state/national level就足够competitive
 
 **如果申文理/理学（应用数学、物理等）**：
-- 录取率接近整体40%+
+- 录取率接近全校整体水平（全校 Fall 2025 为 36.6%，2026-11 按官方 CDS 2025–26 原件更正）
 - 数学或物理竞赛、科研论文可作为strong EC
 - GPA and SAT要求相对低：3.75+ GPA, 1400+ SAT可有竞争力
 
@@ -943,7 +955,7 @@ UIUC CS录取率仅7%，而中国申请者众多（占国际生的~30%）。实�
 
 UIUC是一所excellent public university with world-class engineering and CS programs. 但录取highly competitive, 特别对CS方向。中国学生在数学和编程基础上通常有优势，但需要展现authentic passion, strong problem-solving narrative, 和多维度的leadership/impact。
 
-不要让数据（42%整体录取率）迷惑你——CS的7%录取率是更真实的竞争picture。同时，UIUC的整个engineering ecosystem（非仅CS）仍然是world-class，其他专业的录取机会也不错。
+不要让数据（全校 36.6% 整体录取率，Fall 2025，2026-11 按官方 CDS 2025–26 原件更正）迷惑你——CS的7%录取率是更真实的竞争picture。同时，UIUC的整个engineering ecosystem（非仅CS）仍然是world-class，其他专业的录取机会也不错。
 
 **最后的advice**：早规划, 深投入selected ECs, 诚实自省在文书中, 多校均衡申请。好运！
 
@@ -962,3 +974,18 @@ UIUC是一所excellent public university with world-class engineering and CS pro
 > 以下是本画像旧版本中已作废的说法，仅供追溯，**不要引用**。现行说法见正文对应位置。
 
 - 第二专业题：原写 "You have selected a second-choice major..."，是转学申请的题面
+- 关键数据标题：原写「关键录取数据（2024-2025）」→ 按 CDS 原件改为 Fall 2025 入学、CDS 2025–26 数据
+- 申请总人数（C1）：原写 73,742 → 按 CDS 原件改为 83,045（旧值是 Fall 2024 数字）
+- 录取人数（C1）：原写 31,247 → 按 CDS 原件改为 30,384（旧值是 Fall 2024 数字）
+- 整体录取率（C1）：原写 42.37% → 按 CDS 原件改为 36.6%；「申请时机」表 RD 行原写「~36-42%」、专业建议原写「录取率接近整体40%+」、结语原写「42%整体录取率」，一并改为 36.6%
+- 国际生申请 / 录取 / 录取率（C1）：原写 18,437 / 6,181 / 33.52% → 按 CDS 原件改为 20,924 / 6,380 / 30.5%（旧值是 Fall 2024 数字）；「申请时机」表国际生行同改
+- Yield（C1）：原写「约35%」→ 按 CDS 原件改为 30.3%
+- SAT 中位数 / EBRW 中位数 / Math 中位数（C9）：原写 1,440 / 700 / 740 → 按 CDS 原件改为 1,442 / 720 / 760
+- ACT 25 分位与中间 50%（C9）：原写 30、30-34 → 按 CDS 原件改为 31、31-34
+- 标化提交率（C9）：原写 SAT 41%、都未提交 45% → 按 CDS 原件改为 SAT 42.6%、都未提交至少约 43%
+- RD / 国际生截止日期（C14）：原写 1月15日 → 按 CDS 原件改为 1月5日
+- EA 行（C7 兴趣度）：原写「EA提交显示择校意愿强，录取率显著高于RD」→ 按 CDS 原件改为 C7 兴趣度 Not Considered，EA 不算表达意愿，EA 录取率优势无官方数据
+- Hooks 第一代大学生（C7）：原写「中 (+15-20%)」→ 按 CDS 原件改为「高」（C7 Very Important）
+- Hooks 校友子女：原写「UIUC 的 CDS C7 本次未能核对」→ 按 CDS 原件改为 C7 Alumni/ae relation 为 Not Considered
+- 特质节 CDS C7：原写「本次无法读取，未能核对；本画像也没有列 C7」→ 按 CDS 原件改为列出 C7 全部评级
+- 流行说法「主要看成绩和专业匹配」：原判「支持」，并写「C7 未能核对，这一判断主要基于官网文字」→ 按 CDS 原件改为「部分支持」（C7 把活动、才能、品格、第一代与成绩并列 Very Important）

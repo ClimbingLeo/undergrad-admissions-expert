@@ -322,7 +322,7 @@
 
 ### UCAS申请流程概览
 
-（本节 2026-11 部分更正：ESAT / TMUA 的考期、时长、费用、能否重考已按 UAT-UK 官网 https://esat-tmua.ac.uk/deadlines/ 和各考试页更正；PS 三题按 UCAS 官网更正。imperial.ac.uk 本轮返回 403，各专业要考哪项、面试与出结果时间未能核对，待核。申请截止日（2026-11 更正）：Imperial 帮助页（搜索引擎摘录，直连 403）"15 October 2026 at 18:00 (UK time) for medicine courses, and applications to University of Cambridge and University of Oxford; 13 January 2027 for all other Imperial courses."（https://www.imperial.ac.uk/study/help-centre/undergraduate-admissions/how-do-i-apply-for-undergraduate-study.php ）；Imperial 2026-27 本科校历 PDF 亦列 "Deadline for UG applications for Equal Consideration (13/01/2027)"）
+（本节 2026-11 部分更正：ESAT / TMUA 的考期、时长、费用、能否重考已按 UAT-UK 官网 https://esat-tmua.ac.uk/deadlines/ 和各考试页更正；PS 三题按 UCAS 官网更正。imperial.ac.uk 本轮返回 403，各专业要考哪项、出结果时间未能核对，待核；面试时间、形式、通知方式已按用户另存的官网 Interviews 页 https://www.imperial.ac.uk/study/apply/undergraduate/process/interviews/ 更正（2026-11），见下。申请截止日（2026-11 更正）：Imperial 帮助页（搜索引擎摘录，直连 403）"15 October 2026 at 18:00 (UK time) for medicine courses, and applications to University of Cambridge and University of Oxford; 13 January 2027 for all other Imperial courses."（https://www.imperial.ac.uk/study/help-centre/undergraduate-admissions/how-do-i-apply-for-undergraduate-study.php ）；Imperial 2026-27 本科校历 PDF 亦列 "Deadline for UG applications for Equal Consideration (13/01/2027)"）
 
 
 ```
@@ -334,11 +334,11 @@ Timeline事件                      日期/截止           相关方
 ├─ ESAT/TMUA考试（October sitting） 2026年10月12-16日   中国大陆/港澳：ESAT 12或13日，TMUA 15或16日
 │  └─ ESAT考试内容：Math 1, Math 2, Physics (通常)
 │  └─ TMUA考试内容：Paper 1 (Applications of Mathematical Knowledge), Paper 2 (Mathematical Reasoning)
-├─ 11月-12月                    继续面试邀请          Shortlisted者
+├─ 面试邀请                      发送时间官网未写（待核） Shortlisted者，由所申院系直接发邮件（2026-11 按官网 Interviews 页更正）
 ├─ ESAT/TMUA考试（January sitting）2027年1月4-8日     中国大陆/港澳：ESAT 1月6日，TMUA 1月8日
 │  └─ 牛剑申请人不适用；同一申请季只能考一次，不能重考（2026-11 按 UAT-UK 更正）
-├─ 面试进行                      1月-3月              通常在线或到访
-├─ 录取决定发布                  3月中旬-4月           Conditional offers发布
+├─ 面试进行                      通常11月-次年2月      线上或到校，视课程与个人情况（2026-11 按官网 Interviews 页更正）
+├─ 录取决定发布                  3月中旬-4月（待核）    Conditional offers发布
 ├─ A-level/IB成绩公布            5月/7月              确认offer条件
 └─ 入学确认                      7月-9月              行前准备
 ```
@@ -351,9 +351,9 @@ Timeline事件                      日期/截止           相关方
 | **ESAT注册** | 10月场 2026年9月28日截止 | 报名并付费（英国/爱尔兰 £78，其他地区 £133；2026-11 按 UAT-UK 更正） | 在 UAT-UK 官网开账户，选 Pearson 考点 |
 | **TMUA注册** | 10月场 2026年9月28日截止 | 报名参加测试（费用同 ESAT） | 同上 |
 | **补充表单（Supplementary Questionnaire）** | 根据各系要求 | 某些课程需额外填表 | Engineering/Computing通常有 |
-| **面试邀请发送** | 11月中旬-12月 | Shortlisted者收到通知 | 邀请会发至注册邮箱，需检查垃圾箱 |
-| **面试进行** | 1月-3月（待核） | 线上或来访面试 | 线上面试可在中国进行，需稳定网络 |
-| **录取决定** | 3月中旬-4月初（待核） | Offer或Reject发布 | 通过UCAS Hub查询 |
+| **面试邀请发送** | 官网未写具体发送时间（待核）；面试本身通常 11 月起 | 通过 UCAS 成绩 / 个人陈述和笔试（如有）入围者，由所申院系直接联系 | 邀请发到 UCAS 申请里填的邮箱，官网要求 "monitor your inbox and respond promptly"，需检查垃圾箱（2026-11 按官网 https://www.imperial.ac.uk/study/apply/undergraduate/process/interviews/ 更正） |
+| **面试进行** | 通常 11 月–次年 2 月："These usually take place between November and February."（2026-11 按官网 https://www.imperial.ac.uk/study/apply/undergraduate/process/interviews/ 更正） | 线上或到校，"depending on your circumstances and the course you're applying for"；院系发邀请时会说明能否线上参加 | 能否在中国线上面试取决于院系安排，不是默认可以；线上需稳定网络 |
+| **录取决定** | 3月中旬-4月初（待核：官网 Interviews 页未涉及出结果时间） | Offer或Reject发布 | 通过UCAS Hub查询 |
 | **A-level/IB成绩** | 5月中旬（A-level）或7月初（IB） | 查看成绩，确认条件 | 如未达要求可appeal或重考 |
 | **最终确认** | 7月（IB）/9月（A-level） | 通过UCAS Clearing/Confirmation | Insurance choice成为backup |
 
@@ -800,7 +800,7 @@ contribute to research in computational complexity and later apply these insight
 
 ### 不同系部的考试安排
 
-（各系考试、面试、补充表单安排待核，2026-11：imperial.ac.uk 本轮 403 未能核对）
+（各系考试、面试、补充表单安排待核，2026-11：imperial.ac.uk 本轮 403 未能核对。用户另存的官网 Interviews 页 https://www.imperial.ac.uk/study/apply/undergraduate/process/interviews/ 只给全校通则——"The majority of our departments interview applicants…"，具体哪个专业面试、面几场请看各课程页（"You can find more information about interviews for courses of interest on our course pages."）——所以下表「面试」「补充表单」两列逐系仍待核。官网点名的只有医学：MBBS/BSc Medicine 用 Multiple Mini Interviews（MMI），细节见医学院网站。）
 
 | 系部/项目 | 入学考试 | 面试 | 补充表单 | 特殊要求 |
 |---------|--------|------|--------|---------|
@@ -818,23 +818,24 @@ contribute to research in computational complexity and later apply these insight
 
 ### 面试流程与形式
 
-**面试邀请者的比例**
-- 通常只有30-40%的申请者被邀请面试
-- 面试是"make or break"环节——好的面试可以overturn边界申请，差的面试会导致拒绝
+**谁会被面试**（2026-11 按官网 https://www.imperial.ac.uk/study/apply/undergraduate/process/interviews/ 更正）
+- 官网："The majority of our departments interview applicants who demonstrate potential in their UCAS application and in an admissions test (where this applies)." 即多数院系面试，对象是 UCAS 材料和笔试（如有）显示出潜力的入围者
+- 被邀请面试的比例：官网未给（待核）
+- 面试是"make or break"环节——好的面试可以overturn边界申请，差的面试会导致拒绝（经验说法，官网未这样表述）
 
-**面试形式**
-- **线上面试**（更常见，尤其国际学生）：
-  - 使用Zoom或Microsoft Teams
-  - 中国学生可在国内进行，需要稳定网络环境
-  - 通常20-30分钟
+**时间与通知**（2026-11 按官网 Interviews 页更正）
+- 通常在 11 月到次年 2 月："These usually take place between November and February."
+- 由所申院系直接联系，邀请发到 UCAS 申请里填的邮箱，邀请里会说明能否线上参加；官网提醒保留邀请邮件，各院系面试安排不同
 
-- **现场面试**（某些情况）：
-  - 来访Imperial London校园
-  - 与2-3位教授/讲师进行一对一或group面试
-  - 全天活动，包括校园导览
+**面试形式**（2026-11 按官网 Interviews 页更正）
+- **线上或到校**：入围者 "may be offered a virtual interview or an in-person interview, depending on your circumstances and the course you're applying for"。官网没有说线上更常见，也没写用什么平台、面多久（平台和时长待核，以院系邀请为准）
+- **Panel 面试**：通常由院系的一到两人面试（"typically be with one or two people from the department"）
+- **Recruitment day**：部分院系改为招生日，可能包含小组任务、讨论或笔试
+- **医学 MBBS/BSc Medicine**：用 Multiple Mini Interviews（MMI），细节见医学院网站
+- 官网称没有正式着装要求（"There is no formal dress code for interviews"）
 
 **面试前准备**
-- 再次熟悉自己的PS（面试官会问follow-up questions）
+- 再次熟悉自己的PS（面试官会问follow-up questions）（与官网建议一致）
 - 准备discuss相关的竞赛project或阅读内容
 - 练习用英文thinking aloud解决新问题
 
@@ -1105,7 +1106,7 @@ but a way of seeing the world."
 ### 4. 利用线上面试的地理优势
 
 **中国学生的opportunity**
-- ✓ 不需要physically来UK，可以在更熟悉的环境（自家）参加
+- ✓ 不需要physically来UK，可以在更熟悉的环境（自家）参加（前提是院系允许线上：官网说线上还是到校 "depending on your circumstances and the course you're applying for"，由院系在邀请里说明，不是默认可选；2026-11 按官网 https://www.imperial.ac.uk/study/apply/undergraduate/process/interviews/ 更正）
 - ✓ 可以准备得更充分（网络稳定是关键）
 - ✓ 时区优势：早8am UK时间对应下午中国时间，相对清醒
 
@@ -1116,7 +1117,7 @@ but a way of seeing the world."
 - ✓ **思维准备**：练习thinking aloud用英文
 
 **practice interview资源**
-- Imperial官方可能提供mock interview opportunities
+- 官网建议先看自己就读的中学有没有 mock interview（"Research whether your school offers mock interviews"），没有说 Imperial 提供模拟面试（2026-11 按官网 Interviews 页更正）
 - 利用tutoring services进行practice（如Oxbridge Mentors等）
 - 与朋友进行peer practice interviews（相对informal但有帮助）
 
@@ -1319,3 +1320,11 @@ Imperial的录取官希望看到的是有potential的students——不一定是�
 - 〔✍️ 申请流程与时间线〕「费用：英国/爱尔兰 £78，其他地区 £133（UAT UK 官网；2026 1…」处：原写约£25-30
 - 〔✍️ 申请流程与时间线〕「总时长 ：2小时30分钟，不能用计算器和词典（2026 11 按 UAT UK …」处：原写「各50分钟、共100分钟」
 - 〔✍️ 申请流程与时间线〕「费用：英国/爱尔兰 £78，其他地区 £133（UAT UK 官网；2026 1…」处：原写约£100-130
+- 〔✍️ 申请流程与时间线〕时间轴「面试进行」：原写「1月-3月，通常在线或到访」→ 按官网 Interviews 页改为「通常 11 月–次年 2 月，线上或到校视课程与个人情况」
+- 〔✍️ 申请流程与时间线〕时间轴「继续面试邀请」：原写「11月-12月」→ 按官网改为「发送时间官网未写（待核），由所申院系直接发邮件」
+- 〔✍️ 申请流程与时间线〕表格「面试邀请发送」：原写「11月中旬-12月；邀请会发至注册邮箱」→ 按官网改为「发送时间待核；由所申院系直接联系，发到 UCAS 申请里填的邮箱」
+- 〔✍️ 申请流程与时间线〕表格「面试进行」：原写「1月-3月（待核）；线上或来访面试；线上面试可在中国进行」→ 按官网改为「通常 11 月–次年 2 月；线上或到校视课程与个人情况，由院系说明能否线上」
+- 〔🏫 各系入学考试与面试〕面试邀请比例：原写「通常只有30-40%的申请者被邀请面试」（无出处）→ 改为官网未给比例（待核）
+- 〔🏫 各系入学考试与面试〕线上面试：原写「更常见，尤其国际学生；使用Zoom或Microsoft Teams；通常20-30分钟」（无出处）→ 按官网改为「线上或到校，视个人情况与课程」，平台与时长待核
+- 〔🏫 各系入学考试与面试〕现场面试：原写「与2-3位教授/讲师进行一对一或group面试；全天活动，包括校园导览」→ 按官网改为 panel 面试通常为院系一到两人，或 recruitment day（可能含小组任务、讨论、笔试）；医学用 MMI
+- 〔💡 实战建议〕模拟面试：原写「Imperial官方可能提供mock interview opportunities」→ 按官网改为「官网建议看自己就读中学有无 mock interview，未提 Imperial 提供」

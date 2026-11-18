@@ -247,7 +247,7 @@
 
 ### 关键截止日期（2027年入学）
 
-（2026-11 更正：原表为 2026 入学日期，笔试表列了已停用的 MAT / PAT / TSA。UCAS 截止和笔试日期已按 UCAS / UAT-UK / LNAT 官网核对；牛津面试、出结果日期因 ox.ac.uk 返回 403 未能核对，待核）
+（2026-11 更正：原表为 2026 入学日期，笔试表列了已停用的 MAT / PAT / TSA。UCAS 截止和笔试日期已按 UCAS / UAT-UK / LNAT 官网核对；牛津面试、出结果日期已按牛津官网 Interviews 页核对（2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews 更正））
 
 | 事件 | 日期 | 说明 |
 |------|------|------|
@@ -257,8 +257,8 @@
 | **笔试考试** | 2026年10月12–16日 | 中国大陆/港澳：ESAT 12 或 13 日，TARA 14 日，TMUA 15 或 16 日 |
 | **🔴 UCAS截止日期** | **2026年10月15日 18:00（英国时间）** | **牛津必须在此日期前提交。** |
 | 笔试成绩发给考生 | 2026年11月16日 | UAT-UK 官网 |
-| 牛津面试邀请 / 面试 | 2026年12月，线上 | 牛津 Guide for applicants（搜索摘录，直连 403）："Applicants shortlisted for entry in 2027 will be interviewed online in December 2026."（https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants ，2026-11 更正） |
-| 牛津出结果 | 2027年1月12日（周二） | 同上页："Those applying for entry in 2027 will receive a decision on their application on Tuesday, 12 January 2027."（2026-11 更正） |
+| 牛津面试邀请 / 面试 | 2026年12月，线上（Microsoft Teams） | 牛津 Interviews 页："Shortlisted applicants will be invited to online interviews in December 2026."（2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews 更正） |
+| 牛津出结果 | 2027年1月12日（周二），经 UCAS 通知；学院当天稍后再直接联系 | 牛津 Interviews / Admissions tests 页："Shortlisted candidates for entry in 2027 will be informed of the outcome of their application on 12 January 2027 via UCAS."（2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews 更正）。这句只针对入围面试者，未入围者何时收到通知，官网摘录未写，待核 |
 
 ### 笔试日期表
 
@@ -266,18 +266,21 @@
 
 ### 面试邀请和进程
 
-（2027 入学面试为 2026 年 12 月线上进行（见上表，2026-11 更正）；场次、学院安排待核，2026-11：ox.ac.uk 返回 403 未能核对。注意牛津只能报一个课程、选一个学院或 open application，「申请同一专业的多个学院」的说法不准确）
+（2027 入学面试为 2026 年 12 月线上进行，用 Microsoft Teams；场次和学院安排见下（2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews 更正）。注意牛津只能报一个课程、选一个学院或 open application，「申请同一专业的多个学院」的说法不准确）
 
-**面试邀请率**：大约60-70%的申请者会被邀请参加面试
+**面试邀请率**：约 43%。官网："Oxford typically receives over 23,000 applications for around 3,300 places every year and shortlists approximately 10,000 candidates."（约 10,000 / 23,000，按官方数字计算；2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews 更正）
 
 **面试形式**（2027 入学）：
-- 线上面试（官方 "will be interviewed online in December 2026"；2026-11 更正；使用平台待核）
-- 持续时间：通常15-30分钟，有时需要参加多个面试（2-4场）
+- 线上面试，用 Microsoft Teams："Shortlisted applicants are interviewed online using Microsoft Teams."（2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews 更正）
+- 技术要求分三档："Most courses are in tier 1 where you will only need a computer for video conferencing using Microsoft Teams."；部分学科另用共享虚拟白板（Miro）；偏数学的学科还需要一台带触控笔的触屏设备，但官网说 "No candidate or their school will be expected to purchase a touchscreen device"（同上）
+- 场次：官网说约 10,000 名入围者共约 20,000 场面试，"You are quite likely to have more than one interview. You might also be interviewed by more than one college."（同上）
+- 面试讨论 "may draw on aspects of your application such as your UCAS personal statement or submitted written work."（同上）
+- 持续时间：通常15-30分钟（官网摘录未写，待核）
 
 **面试地点和安排**：
 - 牛津有39个学院，每个学院单独进行面试
-- 如你申请同一专业的多个学院，可能被邀请参加2场面试（一场在本科申请学院，一次在备选学院）
-- 面试通常在12月的前两周进行
+- 你可能被不止一个学院面试：部分学科先在第一个学院做 initial 面试，再到另一个学院做 additional 面试（2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews 更正）
+- 具体日期按牛津每年公布的分专业面试时间表（"A subject-specific timetable outlining when online interviews will take place."，同上）；「12 月前两周」官网摘录未写，待核
 
 **面试安排通知**：
 - 邀请通知通过UCAS门户发送
@@ -455,22 +458,23 @@
 
 ### 2027 入学（2026 年秋申请）适用的考试
 
-（本节 2026-11 更正。原文按 2025–26 周期写 MAT、PAT、TSA 仍在用，并给出「满分 100、录取生 65–85 分」等没有出处的分数。依据：牛津数学系 https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test 、物理系 https://www.physics.ox.ac.uk/study/undergraduates/how-apply/engineering-and-science-admissions-test-esat 、PPE https://www.ppe.ox.ac.uk/admissions-criteria 、UAT-UK https://esat-tmua.ac.uk/deadlines/ 、LNAT https://lnat.ac.uk/registration/dates-and-deadlines/ 。牛津招生主站 ox.ac.uk 本轮返回 403，各专业完整对照表未能在主站核对，题目原文待核。）
+（本节 2026-11 更正。原文按 2025–26 周期写 MAT、PAT、TSA 仍在用，并给出「满分 100、录取生 65–85 分」等没有出处的分数。依据：牛津数学系 https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test 、物理系 https://www.physics.ox.ac.uk/study/undergraduates/how-apply/engineering-and-science-admissions-test-esat 、PPE https://www.ppe.ox.ac.uk/admissions-criteria 、UAT-UK https://esat-tmua.ac.uk/deadlines/ 、LNAT https://lnat.ac.uk/registration/dates-and-deadlines/ 。各专业完整对照表已按牛津招生主站 Admissions tests 页核对（2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/admissions-tests 更正）。）
 
 **MAT、PAT、TSA 已停用**：
 - 数学系官网："The MAT will not take place, and all applicants for Mathematics or Computer Science (including joint honours courses) will take the TMUA instead." MAT 只用到 2025 年
 - 物理系官网：申请 Physics 或 Physics and Philosophy 的人 "without exception, must take the Engineering and Science Admissions Test"，考期 12–16 October 2026；工程系同样要求 ESAT
 - PPE 官网把面试前考试写为 TARA
+- 牛津招生主站：2026 年起使用 UAT-UK 的考试，"in addition to the existing LNAT and UCAT tests for Law and Medicine courses"；下表按该页 "Full list of courses requiring a 2026 UAT-UK admissions test" 整理，未列入的专业不考 UAT-UK 考试（是否另交书面作业，本次未核，待核）
 
-| 考试 | 适用专业（已在院系官网核对的） | 2027 入学考期 |
+| 考试 | 适用专业（按牛津 Admissions tests 页完整对照表，2026-11 更正） | 2027 入学考期 |
 |------|------|------|
-| **TMUA** | 数学、计算机及其联合专业 | 2026 年 10 月 12–16 日（中国大陆/港澳限 15 或 16 日） |
-| **ESAT** | 物理、物理与哲学、工程科学 | 2026 年 10 月 12–16 日（中国大陆/港澳限 12 或 13 日） |
-| **TARA** | PPE 等（其余专业待核） | 2026 年 10 月 12–16 日（中国大陆/港澳限 14 日） |
-| **LNAT** | 法律 | 9 月 15 日前报名，10 月 15 日前考完 |
-| **UCAT** | 医学 | 待核 |
+| **TMUA** | Mathematics / Mathematics and Statistics、Computer Science、Computer Science and Philosophy、Mathematics and Computer Science、Mathematics and Philosophy | 2026 年 10 月 12–16 日（中国大陆/港澳限 15 或 16 日） |
+| **ESAT** | Physics、Physics and Philosophy、Engineering Science、Biomedical Sciences | 2026 年 10 月 12–16 日（中国大陆/港澳限 12 或 13 日） |
+| **TARA** | Philosophy, Politics and Economics（PPE）、Economics and Management、History and Economics、History and Politics、Human Sciences、Psychology (Experimental)、Psychology, Philosophy and Linguistics | 2026 年 10 月 12–16 日（中国大陆/港澳限 14 日） |
+| **LNAT** | Law（法律） | 9 月 15 日前报名，10 月 15 日前考完 |
+| **UCAT** | Medicine（医学；牛津页 "Medicine -> UCAT"，2026-11 按官网更正） | 考期牛津页未写，以 UCAT 官网为准（待核） |
 
-- TMUA、ESAT、TARA 由 UAT-UK 组织，9 月 28 日报名截止，牛津申请人必须考 10 月场，成绩 11 月 16 日发给考生
+- TMUA、ESAT、TARA 由 UAT-UK 组织，牛津申请人报名截止为 2026 年 9 月 28 日（周一）18:00 英国时间（牛津页原话 "6pm (UK time) on Monday 28 September 2026"），考期 10 月 12–16 日，成绩 11 月 16 日发给考生
 - TMUA：两份 paper 各 20 道选择题、各 75 分钟，不能用计算器；ESAT：每个 40 分钟的选择题模块，物理申请者考 Mathematics 1、Mathematics 2 和 Physics；两者都按 1.0–9.0 报分、无及格线
 - 原文关于 MAT / PAT / TSA 的分数线（满分 100、录取生 65–90 分等）已删，不适用于新考试
 
@@ -502,19 +506,20 @@
 ### 牛津面试的独特特点
 
 **与其他大学不同**：
-- **不是"我们了解你"的面试**：不问你的个人历史、家庭背景或职业志向
+- **不是"我们了解你"的面试**：不问你的个人历史、家庭背景或职业志向（注意：官网说讨论可能涉及你的 UCAS 个人陈述或提交的书面作业，陈述里写的内容要准备好被追问；2026-11 按官网补）
+- 官网："Decisions are not based on your manners, appearance or background"，看的是独立思考和接触课程外新观点的能力（https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews，2026-11 补）
 - **是"我们看你如何思考"的面试**：提出陌生的学术问题，观察你的解题思路和推理过程
 - **导师会故意问你不知道答案的问题**：目的是观察你在陌生领域如何学习和思考
 
 ### 面试流程
 
 **邀请**：
-- 约60-70%的申请者被邀请参加面试
+- 约 43% 的申请者入围面试（约 10,000 / 23,000 多份申请，2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews 更正）
 - 通过UCAS门户通知
 - 通常收到邀请后2-4周内进行面试
 
-**形式**（2025-2026）：
-- **在线面试**：Zoom或MS Teams（大部分）
+**形式**（2027 入学）：
+- **在线面试**：全部用 Microsoft Teams，按学科分三档技术要求（见上节；2026-11 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews 更正）
 - **持续时间**：15-30分钟（通常20分钟左右）
 - **考官数量**：1-2名导师或讲师
 - **人数**：一对一或小组（某些学院可能有2-3个学生同时参加）
@@ -739,7 +744,7 @@
 **体现在申请设计中**：
 
 - 没有补充文书，一份 UCAS 三题陈述五个志愿共用。官方建议 "We typically suggest that you focus around 80% of your personal statement on your academic interests, abilities and achievements."；其余约 20% 可写无关活动，Christ Church 说这部分是给其他大学看的。
-- 部分专业要求笔试（官方原话 "For some courses"），部分专业交书面作业；入围者参加面试（时间和形式以官网为准，自动核对未能打开官方页面），面试官可能是未来导师。笔试体系 2026–27 有改版，以官网为准。
+- 部分专业要求笔试（官方原话 "For some courses"），部分专业交书面作业；入围者 2026 年 12 月用 Microsoft Teams 线上面试（2026-11 按[牛津 Interviews 页](https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews)更正），面试官可能是未来导师。笔试体系 2026–27 有改版，以官网为准。
 
 **流行说法核查**：
 
@@ -920,7 +925,7 @@
 - **A-Level要求**：通常A*AA至AAA
 - **IB要求**：39-42分，HL科目6-7分
 - **UCAS截止**：2026年10月15日 18:00 英国时间（2027 入学，2026-11 更正）
-- **面试邀请率**：约60-70%
+- **面试邀请率**：约 43%（约 10,000 / 23,000 多份申请，牛津官网 Interviews 页；2026-11 更正）
 
 ### 立即行动（如果现在是2026年4月，2027 入学；2026-11 更正年份）
 
@@ -962,7 +967,7 @@
 - [University of Oxford 官方申请页面](https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford)
 - [Oxford 录取统计数据](https://www.ox.ac.uk/about/facts-and-figures/admissions-statistics)
 - [UCAS官方网站](https://www.ucas.com)
-- [牛津官方面试指南](https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/interviews)
+- [牛津官方面试指南](https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews)（原链接 .../applying-to-oxford/guide/interviews 已跳转至此，2026-11 更正）
 
 ### 信息来源
 
@@ -1009,3 +1014,14 @@
 - 〔💡 对中国学生申请的实战建议〕「物理竞赛背景在ESAT上有优势…」处：原写PAT
 - 〔💡 对中国学生申请的实战建议〕「1. 时区问题 ：UCAS截止是英国时间（10 月为 BST，北京时间 16 日…」处：原写「UTC」
 - 〔💡 对中国学生申请的实战建议〕「3. 笔试地点 ：UAT UK（TMUA/ESAT/TARA）和 LNAT 都在…」处：原写「通常在国际学校」
+- 〔✍️ 关键截止日期〕原写「牛津面试、出结果日期因 ox.ac.uk 返回 403 未能核对，待核」→ 按官网改为已核对（https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews，2026-11-18 读取）
+- 〔✍️ 关键截止日期 · 面试〕原写搜索摘录 "Applicants shortlisted for entry in 2027 will be interviewed online in December 2026."（直连 403）→ 按官网改为 "Shortlisted applicants will be invited to online interviews in December 2026."，平台为 Microsoft Teams
+- 〔✍️ 关键截止日期 · 出结果〕原写搜索摘录 "Those applying for entry in 2027 will receive a decision on their application on Tuesday, 12 January 2027." → 按官网改为 "Shortlisted candidates for entry in 2027 will be informed of the outcome of their application on 12 January 2027 via UCAS."，学院当天稍后再联系
+- 〔面试邀请和进程 / 面试流程 / 关键数据回顾〕原写「面试邀请率约60-70%」（三处）→ 按官网改为约 43%（约 10,000 人入围 / 23,000 多份申请）
+- 〔面试邀请和进程〕原写「场次、学院安排待核，ox.ac.uk 返回 403」「使用平台待核」「有时需要参加多个面试（2-4场）」→ 按官网改为 Microsoft Teams、三档技术要求、约 10,000 人共约 20,000 场面试、很可能不止一场、可能被多个学院面试
+- 〔面试地点和安排〕原写「如你申请同一专业的多个学院，可能被邀请参加2场面试（一场在本科申请学院，一次在备选学院）」→ 按官网改为部分学科先在第一个学院 initial 面试、再到另一个学院 additional 面试；原写「面试通常在12月的前两周进行」→ 改为按分专业面试时间表，「前两周」待核
+- 〔🎤 面试流程 · 形式〕原写「（2025-2026）在线面试：Zoom或MS Teams（大部分）」→ 按官网改为 2027 入学全部用 Microsoft Teams
+- 〔🏫 笔试说明〕原写「牛津招生主站 ox.ac.uk 本轮返回 403，各专业完整对照表未能在主站核对，题目原文待核」→ 按官网 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/admissions-tests 核对完整对照表
+- 〔🏫 笔试表〕原写 TMUA「数学、计算机及其联合专业」、ESAT「物理、物理与哲学、工程科学」、TARA「PPE 等（其余专业待核）」、UCAT「医学 / 待核」→ 按官网改为完整对照表：ESAT 增 Biomedical Sciences，TARA 共 7 个专业，Medicine 考 UCAT（考期仍待核），Law 考 LNAT
+- 〔学校看重的特质 · 体现在申请设计中〕（非引语部分）原写「入围者参加面试（时间和形式以官网为准，自动核对未能打开官方页面）」→ 按官网改为「入围者 2026 年 12 月用 Microsoft Teams 线上面试」
+- 〔📚 官方资源〕原链接 https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/interviews → 改为跳转后的 https://www.ox.ac.uk/admissions/undergraduate/applying/guide-for-applicants/interviews
